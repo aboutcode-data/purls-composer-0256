@@ -1,0 +1,3 @@
+- pkg:composer/dimadin/purge-cache-for-cloudflare@1.0
+- pkg:composer/dimadin/purge-cache-for-cloudflare@1.1
+- pkg:composer/dimadin/purge-cache-for-cloudflare@1.2

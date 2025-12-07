@@ -1,0 +1,16 @@
+- pkg:composer/dotkernel/dot-cache@1.0.0
+- pkg:composer/dotkernel/dot-cache@1.0.1
+- pkg:composer/dotkernel/dot-cache@1.1.0
+- pkg:composer/dotkernel/dot-cache@3.0.0
+- pkg:composer/dotkernel/dot-cache@3.1.0
+- pkg:composer/dotkernel/dot-cache@3.1.1
+- pkg:composer/dotkernel/dot-cache@3.1.2
+- pkg:composer/dotkernel/dot-cache@3.1.3
+- pkg:composer/dotkernel/dot-cache@4.0.0
+- pkg:composer/dotkernel/dot-cache@4.1.0
+- pkg:composer/dotkernel/dot-cache@4.2.0
+- pkg:composer/dotkernel/dot-cache@4.2.1
+- pkg:composer/dotkernel/dot-cache@4.3.0
+- pkg:composer/dotkernel/dot-cache@4.4.0
+- pkg:composer/dotkernel/dot-cache@v1.1.1
+- pkg:composer/dotkernel/dot-cache@v2.0.0

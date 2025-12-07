@@ -1,0 +1,5 @@
+- pkg:composer/dixonscarphoneplc/ldap@2.0
+- pkg:composer/dixonscarphoneplc/ldap@2.1
+- pkg:composer/dixonscarphoneplc/ldap@v1.0
+- pkg:composer/dixonscarphoneplc/ldap@v1.1
+- pkg:composer/dixonscarphoneplc/ldap@v1.2

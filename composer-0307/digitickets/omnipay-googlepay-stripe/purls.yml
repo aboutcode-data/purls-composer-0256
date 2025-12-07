@@ -1,0 +1,4 @@
+- pkg:composer/digitickets/omnipay-googlepay-stripe@0.1
+- pkg:composer/digitickets/omnipay-googlepay-stripe@0.2
+- pkg:composer/digitickets/omnipay-googlepay-stripe@0.2.1
+- pkg:composer/digitickets/omnipay-googlepay-stripe@0.2.2

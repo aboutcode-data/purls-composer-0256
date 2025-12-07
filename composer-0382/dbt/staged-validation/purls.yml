@@ -1,0 +1,4 @@
+- pkg:composer/dbt/staged-validation@1.0.0
+- pkg:composer/dbt/staged-validation@2.0.0
+- pkg:composer/dbt/staged-validation@2.0.1
+- pkg:composer/dbt/staged-validation@3.0.0

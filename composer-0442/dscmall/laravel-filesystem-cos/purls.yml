@@ -1,0 +1,4 @@
+- pkg:composer/dscmall/laravel-filesystem-cos@v1.0.0
+- pkg:composer/dscmall/laravel-filesystem-cos@v3.0.0
+- pkg:composer/dscmall/laravel-filesystem-cos@v3.0.1
+- pkg:composer/dscmall/laravel-filesystem-cos@v3.0.2

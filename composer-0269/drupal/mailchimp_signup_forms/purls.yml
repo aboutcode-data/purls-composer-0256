@@ -1,0 +1,4 @@
+- pkg:composer/drupal/mailchimp_signup_forms@1.0-alpha1
+- pkg:composer/drupal/mailchimp_signup_forms@1.0.0
+- pkg:composer/drupal/mailchimp_signup_forms@1.0.0-beta1
+- pkg:composer/drupal/mailchimp_signup_forms@1.0.0-rc1

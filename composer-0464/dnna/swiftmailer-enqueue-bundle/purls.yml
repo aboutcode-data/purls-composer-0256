@@ -1,0 +1,10 @@
+- pkg:composer/dnna/swiftmailer-enqueue-bundle@0.5
+- pkg:composer/dnna/swiftmailer-enqueue-bundle@0.6
+- pkg:composer/dnna/swiftmailer-enqueue-bundle@0.6.1
+- pkg:composer/dnna/swiftmailer-enqueue-bundle@0.6.2
+- pkg:composer/dnna/swiftmailer-enqueue-bundle@0.6.3
+- pkg:composer/dnna/swiftmailer-enqueue-bundle@0.6.4
+- pkg:composer/dnna/swiftmailer-enqueue-bundle@0.7.0
+- pkg:composer/dnna/swiftmailer-enqueue-bundle@0.7.1
+- pkg:composer/dnna/swiftmailer-enqueue-bundle@1.0.0
+- pkg:composer/dnna/swiftmailer-enqueue-bundle@1.1.0

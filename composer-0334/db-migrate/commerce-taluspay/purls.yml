@@ -1,0 +1,2 @@
+- pkg:composer/db-migrate/commerce-taluspay@v1.0.12
+- pkg:composer/db-migrate/commerce-taluspay@v1.0.13

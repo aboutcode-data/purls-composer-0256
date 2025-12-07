@@ -1,0 +1,4 @@
+- pkg:composer/droptica/codeception-package@10.8.0
+- pkg:composer/droptica/codeception-package@10.8.1
+- pkg:composer/droptica/codeception-package@9.7.4
+- pkg:composer/droptica/codeception-package@9.8.0

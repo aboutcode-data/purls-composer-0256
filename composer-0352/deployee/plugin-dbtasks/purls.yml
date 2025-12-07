@@ -1,0 +1,4 @@
+- pkg:composer/deployee/plugin-dbtasks@v1.0.0
+- pkg:composer/deployee/plugin-dbtasks@v2.0.0
+- pkg:composer/deployee/plugin-dbtasks@v2.0.1
+- pkg:composer/deployee/plugin-dbtasks@v3.0.0

@@ -1,0 +1,6 @@
+- pkg:composer/doctrineencryptbundle/doctrine-encrypt-bundle@5.3.0
+- pkg:composer/doctrineencryptbundle/doctrine-encrypt-bundle@5.3.1
+- pkg:composer/doctrineencryptbundle/doctrine-encrypt-bundle@5.4.0
+- pkg:composer/doctrineencryptbundle/doctrine-encrypt-bundle@5.4.1
+- pkg:composer/doctrineencryptbundle/doctrine-encrypt-bundle@5.4.2
+- pkg:composer/doctrineencryptbundle/doctrine-encrypt-bundle@6.0.0

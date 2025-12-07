@@ -1,0 +1,4 @@
+- pkg:composer/drupal-membership/membership_provider_google@v0.1
+- pkg:composer/drupal-membership/membership_provider_google@v0.2
+- pkg:composer/drupal-membership/membership_provider_google@v0.3
+- pkg:composer/drupal-membership/membership_provider_google@v0.4

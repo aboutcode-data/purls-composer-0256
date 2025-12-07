@@ -1,0 +1,17 @@
+- pkg:composer/drupal/core-recipe-unpack@11.2.0
+- pkg:composer/drupal/core-recipe-unpack@11.2.0-alpha1
+- pkg:composer/drupal/core-recipe-unpack@11.2.0-beta1
+- pkg:composer/drupal/core-recipe-unpack@11.2.0-rc1
+- pkg:composer/drupal/core-recipe-unpack@11.2.0-rc2
+- pkg:composer/drupal/core-recipe-unpack@11.2.1
+- pkg:composer/drupal/core-recipe-unpack@11.2.2
+- pkg:composer/drupal/core-recipe-unpack@11.2.3
+- pkg:composer/drupal/core-recipe-unpack@11.2.4
+- pkg:composer/drupal/core-recipe-unpack@11.2.5
+- pkg:composer/drupal/core-recipe-unpack@11.2.6
+- pkg:composer/drupal/core-recipe-unpack@11.2.7
+- pkg:composer/drupal/core-recipe-unpack@11.2.8
+- pkg:composer/drupal/core-recipe-unpack@11.2.9
+- pkg:composer/drupal/core-recipe-unpack@11.3.0-alpha1
+- pkg:composer/drupal/core-recipe-unpack@11.3.0-beta1
+- pkg:composer/drupal/core-recipe-unpack@11.3.0-rc1

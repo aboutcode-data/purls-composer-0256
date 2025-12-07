@@ -1,0 +1,5 @@
+- pkg:composer/devture/silex-provider-doctrine-mongodb@1.0
+- pkg:composer/devture/silex-provider-doctrine-mongodb@1.0.1
+- pkg:composer/devture/silex-provider-doctrine-mongodb@1.0.2
+- pkg:composer/devture/silex-provider-doctrine-mongodb@1.0.3
+- pkg:composer/devture/silex-provider-doctrine-mongodb@2.0

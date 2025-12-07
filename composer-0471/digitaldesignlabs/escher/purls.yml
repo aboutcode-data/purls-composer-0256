@@ -1,0 +1,16 @@
+- pkg:composer/digitaldesignlabs/escher@v3.0.0
+- pkg:composer/digitaldesignlabs/escher@v3.0.0-alpha1
+- pkg:composer/digitaldesignlabs/escher@v3.0.0-alpha2
+- pkg:composer/digitaldesignlabs/escher@v3.0.0-alpha3
+- pkg:composer/digitaldesignlabs/escher@v3.0.0-alpha4
+- pkg:composer/digitaldesignlabs/escher@v3.0.1
+- pkg:composer/digitaldesignlabs/escher@v3.1.0
+- pkg:composer/digitaldesignlabs/escher@v3.2.0
+- pkg:composer/digitaldesignlabs/escher@v3.3.0
+- pkg:composer/digitaldesignlabs/escher@v3.4.0
+- pkg:composer/digitaldesignlabs/escher@v3.5.0
+- pkg:composer/digitaldesignlabs/escher@v3.5.1
+- pkg:composer/digitaldesignlabs/escher@v4.0.0
+- pkg:composer/digitaldesignlabs/escher@v4.1.0
+- pkg:composer/digitaldesignlabs/escher@v4.1.1
+- pkg:composer/digitaldesignlabs/escher@v4.1.2

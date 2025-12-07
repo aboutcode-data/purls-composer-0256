@@ -1,0 +1,6 @@
+- pkg:composer/db-migrate/omnipay-paytrace@v1.0
+- pkg:composer/db-migrate/omnipay-paytrace@v1.0.1
+- pkg:composer/db-migrate/omnipay-paytrace@v1.1
+- pkg:composer/db-migrate/omnipay-paytrace@v1.2
+- pkg:composer/db-migrate/omnipay-paytrace@v1.2.1
+- pkg:composer/db-migrate/omnipay-paytrace@v2.0.0

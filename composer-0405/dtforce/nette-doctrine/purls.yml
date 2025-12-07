@@ -1,0 +1,8 @@
+- pkg:composer/dtforce/nette-doctrine@v0.1.3-beta
+- pkg:composer/dtforce/nette-doctrine@v0.1.4-beta
+- pkg:composer/dtforce/nette-doctrine@v0.1.5-beta
+- pkg:composer/dtforce/nette-doctrine@v0.1.6-rc
+- pkg:composer/dtforce/nette-doctrine@v0.1.7-rc
+- pkg:composer/dtforce/nette-doctrine@v0.2.0
+- pkg:composer/dtforce/nette-doctrine@v0.2.1
+- pkg:composer/dtforce/nette-doctrine@v1.0.0

@@ -1,0 +1,11 @@
+- pkg:composer/df/php-coverfish@0.9.3-alpha
+- pkg:composer/df/php-coverfish@0.9.4-alpha
+- pkg:composer/df/php-coverfish@0.9.5-alpha
+- pkg:composer/df/php-coverfish@0.9.6-alpha
+- pkg:composer/df/php-coverfish@0.9.7-alpha
+- pkg:composer/df/php-coverfish@0.9.8-alpha
+- pkg:composer/df/php-coverfish@0.9.9-beta1
+- pkg:composer/df/php-coverfish@0.9.9-beta2
+- pkg:composer/df/php-coverfish@0.9.9-beta3
+- pkg:composer/df/php-coverfish@1.0.0
+- pkg:composer/df/php-coverfish@1.0.1

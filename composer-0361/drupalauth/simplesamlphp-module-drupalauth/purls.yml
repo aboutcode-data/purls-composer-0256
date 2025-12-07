@@ -1,0 +1,13 @@
+- pkg:composer/drupalauth/simplesamlphp-module-drupalauth@1.7.0
+- pkg:composer/drupalauth/simplesamlphp-module-drupalauth@1.8.0-alpha1
+- pkg:composer/drupalauth/simplesamlphp-module-drupalauth@1.8.0-alpha2
+- pkg:composer/drupalauth/simplesamlphp-module-drupalauth@1.8.0-alpha3
+- pkg:composer/drupalauth/simplesamlphp-module-drupalauth@1.8.0-beta1
+- pkg:composer/drupalauth/simplesamlphp-module-drupalauth@1.8.0-beta2
+- pkg:composer/drupalauth/simplesamlphp-module-drupalauth@1.8.1
+- pkg:composer/drupalauth/simplesamlphp-module-drupalauth@1.9.1
+- pkg:composer/drupalauth/simplesamlphp-module-drupalauth@1.9.2
+- pkg:composer/drupalauth/simplesamlphp-module-drupalauth@1.9.3
+- pkg:composer/drupalauth/simplesamlphp-module-drupalauth@2.10.0
+- pkg:composer/drupalauth/simplesamlphp-module-drupalauth@2.10.0-rc.1
+- pkg:composer/drupalauth/simplesamlphp-module-drupalauth@2.7.0

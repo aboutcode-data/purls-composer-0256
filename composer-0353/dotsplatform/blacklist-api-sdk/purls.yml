@@ -1,0 +1,13 @@
+- pkg:composer/dotsplatform/blacklist-api-sdk@v1.0.0
+- pkg:composer/dotsplatform/blacklist-api-sdk@v1.0.1
+- pkg:composer/dotsplatform/blacklist-api-sdk@v1.0.2
+- pkg:composer/dotsplatform/blacklist-api-sdk@v1.0.3
+- pkg:composer/dotsplatform/blacklist-api-sdk@v1.0.4
+- pkg:composer/dotsplatform/blacklist-api-sdk@v1.1
+- pkg:composer/dotsplatform/blacklist-api-sdk@v1.2
+- pkg:composer/dotsplatform/blacklist-api-sdk@v1.2.1
+- pkg:composer/dotsplatform/blacklist-api-sdk@v2.0.0
+- pkg:composer/dotsplatform/blacklist-api-sdk@v2.1.0
+- pkg:composer/dotsplatform/blacklist-api-sdk@v2.1.1
+- pkg:composer/dotsplatform/blacklist-api-sdk@v2.2.0
+- pkg:composer/dotsplatform/blacklist-api-sdk@v2.2.1

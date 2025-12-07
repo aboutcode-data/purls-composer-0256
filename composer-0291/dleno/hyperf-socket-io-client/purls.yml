@@ -1,0 +1,4 @@
+- pkg:composer/dleno/hyperf-socket-io-client@v1.0.0
+- pkg:composer/dleno/hyperf-socket-io-client@v1.0.1
+- pkg:composer/dleno/hyperf-socket-io-client@v1.0.2
+- pkg:composer/dleno/hyperf-socket-io-client@v2.1.0

@@ -1,0 +1,6 @@
+- pkg:composer/docusign/maestro-client@v1.0.0
+- pkg:composer/docusign/maestro-client@v1.0.0-rc1
+- pkg:composer/docusign/maestro-client@v2.0.0
+- pkg:composer/docusign/maestro-client@v2.0.0-rc1
+- pkg:composer/docusign/maestro-client@v3.0.0
+- pkg:composer/docusign/maestro-client@v3.0.1

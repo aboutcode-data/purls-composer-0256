@@ -1,0 +1,5 @@
+- pkg:composer/davidlowcj/laravel-huawei-push@2.0
+- pkg:composer/davidlowcj/laravel-huawei-push@2.1
+- pkg:composer/davidlowcj/laravel-huawei-push@2.2
+- pkg:composer/davidlowcj/laravel-huawei-push@v1.5.3-beta1
+- pkg:composer/davidlowcj/laravel-huawei-push@v1.5.3-beta2

@@ -1,0 +1,2 @@
+- pkg:composer/df/silex-doctrine-mongodb-odm-provider@0.9.9
+- pkg:composer/df/silex-doctrine-mongodb-odm-provider@1.0.0

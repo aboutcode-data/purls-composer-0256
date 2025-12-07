@@ -1,0 +1,9 @@
+- pkg:composer/docusign/rooms-client@v1.0.0
+- pkg:composer/docusign/rooms-client@v1.1.0-rc
+- pkg:composer/docusign/rooms-client@v2.0.0
+- pkg:composer/docusign/rooms-client@v2.0.0-rc
+- pkg:composer/docusign/rooms-client@v2.1.0
+- pkg:composer/docusign/rooms-client@v2.1.0-rc
+- pkg:composer/docusign/rooms-client@v2.1.1
+- pkg:composer/docusign/rooms-client@v2.1.1-rc1
+- pkg:composer/docusign/rooms-client@v2.1.2

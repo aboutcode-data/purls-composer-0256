@@ -1,0 +1,9 @@
+- pkg:composer/dimarick/net_smtp@1.6.3
+- pkg:composer/dimarick/net_smtp@1.7.0
+- pkg:composer/dimarick/net_smtp@1.7.1
+- pkg:composer/dimarick/net_smtp@1.7.2
+- pkg:composer/dimarick/net_smtp@1.7.3
+- pkg:composer/dimarick/net_smtp@v2.0.0beta1
+- pkg:composer/dimarick/net_smtp@v2.0.0beta2
+- pkg:composer/dimarick/net_smtp@v2.0.0beta3
+- pkg:composer/dimarick/net_smtp@v2.0.0beta4

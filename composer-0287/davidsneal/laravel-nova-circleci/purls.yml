@@ -1,0 +1,5 @@
+- pkg:composer/davidsneal/laravel-nova-circleci@1.0.0
+- pkg:composer/davidsneal/laravel-nova-circleci@1.1.0
+- pkg:composer/davidsneal/laravel-nova-circleci@1.1.1
+- pkg:composer/davidsneal/laravel-nova-circleci@1.1.2
+- pkg:composer/davidsneal/laravel-nova-circleci@1.2.0
