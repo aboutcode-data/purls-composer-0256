@@ -1,0 +1,3 @@
+- pkg:composer/dweik/laravel-guard-jwt-validator@1.0.0
+- pkg:composer/dweik/laravel-guard-jwt-validator@1.0.1
+- pkg:composer/dweik/laravel-guard-jwt-validator@1.0.2

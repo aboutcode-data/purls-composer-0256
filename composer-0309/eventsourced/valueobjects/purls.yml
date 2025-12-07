@@ -1,0 +1,15 @@
+- pkg:composer/eventsourced/valueobjects@1.0.0
+- pkg:composer/eventsourced/valueobjects@2.0.0
+- pkg:composer/eventsourced/valueobjects@2.1.0
+- pkg:composer/eventsourced/valueobjects@3.0.0
+- pkg:composer/eventsourced/valueobjects@3.0.1
+- pkg:composer/eventsourced/valueobjects@4.0.0
+- pkg:composer/eventsourced/valueobjects@4.1.0
+- pkg:composer/eventsourced/valueobjects@4.2.0
+- pkg:composer/eventsourced/valueobjects@4.3.0
+- pkg:composer/eventsourced/valueobjects@4.4.0
+- pkg:composer/eventsourced/valueobjects@4.5.0
+- pkg:composer/eventsourced/valueobjects@4.6.0
+- pkg:composer/eventsourced/valueobjects@4.6.1
+- pkg:composer/eventsourced/valueobjects@4.7.0
+- pkg:composer/eventsourced/valueobjects@4.7.1

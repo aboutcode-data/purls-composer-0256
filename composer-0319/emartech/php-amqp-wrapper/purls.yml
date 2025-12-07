@@ -1,0 +1,11 @@
+- pkg:composer/emartech/php-amqp-wrapper@0.0.1
+- pkg:composer/emartech/php-amqp-wrapper@0.0.2
+- pkg:composer/emartech/php-amqp-wrapper@1.0.0
+- pkg:composer/emartech/php-amqp-wrapper@1.1.0
+- pkg:composer/emartech/php-amqp-wrapper@1.1.1
+- pkg:composer/emartech/php-amqp-wrapper@1.1.2
+- pkg:composer/emartech/php-amqp-wrapper@1.1.3
+- pkg:composer/emartech/php-amqp-wrapper@1.1.4
+- pkg:composer/emartech/php-amqp-wrapper@2.0.0
+- pkg:composer/emartech/php-amqp-wrapper@2.0.1
+- pkg:composer/emartech/php-amqp-wrapper@2.0.2

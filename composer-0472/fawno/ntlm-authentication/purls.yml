@@ -1,0 +1,3 @@
+- pkg:composer/fawno/ntlm-authentication@0.0.1
+- pkg:composer/fawno/ntlm-authentication@1.0.0
+- pkg:composer/fawno/ntlm-authentication@2.0.0

@@ -1,0 +1,6 @@
+- pkg:composer/elkadrey/omnipay-stripe-checkout@3.1.3
+- pkg:composer/elkadrey/omnipay-stripe-checkout@3.1.4
+- pkg:composer/elkadrey/omnipay-stripe-checkout@v1.1.0
+- pkg:composer/elkadrey/omnipay-stripe-checkout@v3.1.0
+- pkg:composer/elkadrey/omnipay-stripe-checkout@v3.1.1
+- pkg:composer/elkadrey/omnipay-stripe-checkout@v3.1.2

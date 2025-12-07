@@ -1,0 +1,4 @@
+- pkg:composer/fastforex/fastforex-php-client@v1.0.0
+- pkg:composer/fastforex/fastforex-php-client@v1.1.0
+- pkg:composer/fastforex/fastforex-php-client@v1.2.0
+- pkg:composer/fastforex/fastforex-php-client@v1.3.0

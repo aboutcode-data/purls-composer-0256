@@ -1,0 +1,15 @@
+- pkg:composer/eljam/guzzle-jwt-middleware@v0.1.0
+- pkg:composer/eljam/guzzle-jwt-middleware@v0.2.0
+- pkg:composer/eljam/guzzle-jwt-middleware@v0.2.1
+- pkg:composer/eljam/guzzle-jwt-middleware@v0.3.0
+- pkg:composer/eljam/guzzle-jwt-middleware@v0.4.0
+- pkg:composer/eljam/guzzle-jwt-middleware@v0.4.1
+- pkg:composer/eljam/guzzle-jwt-middleware@v0.5.0
+- pkg:composer/eljam/guzzle-jwt-middleware@v0.6.0
+- pkg:composer/eljam/guzzle-jwt-middleware@v0.6.1
+- pkg:composer/eljam/guzzle-jwt-middleware@v0.7.0
+- pkg:composer/eljam/guzzle-jwt-middleware@v0.7.1
+- pkg:composer/eljam/guzzle-jwt-middleware@v1.0.0
+- pkg:composer/eljam/guzzle-jwt-middleware@v1.0.1
+- pkg:composer/eljam/guzzle-jwt-middleware@v1.0.2
+- pkg:composer/eljam/guzzle-jwt-middleware@v2.0.0

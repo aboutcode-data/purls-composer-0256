@@ -1,0 +1,3 @@
+- pkg:composer/ekstazi/websocket-stream-client@1.0
+- pkg:composer/ekstazi/websocket-stream-client@1.1
+- pkg:composer/ekstazi/websocket-stream-client@2.0

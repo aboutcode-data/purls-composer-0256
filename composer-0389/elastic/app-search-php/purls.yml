@@ -1,0 +1,15 @@
+- pkg:composer/elastic/app-search-php@1.0.0
+- pkg:composer/elastic/app-search-php@1.0.1
+- pkg:composer/elastic/app-search-php@1.0.2
+- pkg:composer/elastic/app-search-php@7.10.0
+- pkg:composer/elastic/app-search-php@7.11.1
+- pkg:composer/elastic/app-search-php@7.12.0
+- pkg:composer/elastic/app-search-php@7.13.0
+- pkg:composer/elastic/app-search-php@7.2.0
+- pkg:composer/elastic/app-search-php@7.3.0
+- pkg:composer/elastic/app-search-php@7.4.0
+- pkg:composer/elastic/app-search-php@7.5.0
+- pkg:composer/elastic/app-search-php@7.6.0
+- pkg:composer/elastic/app-search-php@7.7.0
+- pkg:composer/elastic/app-search-php@7.8.0
+- pkg:composer/elastic/app-search-php@7.9.0

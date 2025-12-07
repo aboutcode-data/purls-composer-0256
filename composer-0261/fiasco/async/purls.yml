@@ -1,0 +1,16 @@
+- pkg:composer/fiasco/async@1.0-beta1
+- pkg:composer/fiasco/async@1.0-beta2
+- pkg:composer/fiasco/async@1.0-beta3
+- pkg:composer/fiasco/async@1.0-beta4
+- pkg:composer/fiasco/async@1.0-beta5
+- pkg:composer/fiasco/async@2.0-alpha1
+- pkg:composer/fiasco/async@2.0-alpha2
+- pkg:composer/fiasco/async@2.0-alpha3
+- pkg:composer/fiasco/async@3.0
+- pkg:composer/fiasco/async@3.1
+- pkg:composer/fiasco/async@4.0-beta1
+- pkg:composer/fiasco/async@4.0-beta3
+- pkg:composer/fiasco/async@4.0-beta4
+- pkg:composer/fiasco/async@4.1-beta1
+- pkg:composer/fiasco/async@4.1-beta2
+- pkg:composer/fiasco/async@4.1-beta3

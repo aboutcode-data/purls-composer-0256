@@ -1,0 +1,14 @@
+- pkg:composer/fieldstone/laravel-couchbase@0.1.0
+- pkg:composer/fieldstone/laravel-couchbase@0.2.0
+- pkg:composer/fieldstone/laravel-couchbase@0.3.0
+- pkg:composer/fieldstone/laravel-couchbase@0.4.0
+- pkg:composer/fieldstone/laravel-couchbase@0.5.0
+- pkg:composer/fieldstone/laravel-couchbase@0.5.1
+- pkg:composer/fieldstone/laravel-couchbase@0.6.0
+- pkg:composer/fieldstone/laravel-couchbase@0.6.1
+- pkg:composer/fieldstone/laravel-couchbase@0.6.2
+- pkg:composer/fieldstone/laravel-couchbase@0.6.3
+- pkg:composer/fieldstone/laravel-couchbase@0.6.4
+- pkg:composer/fieldstone/laravel-couchbase@0.6.5
+- pkg:composer/fieldstone/laravel-couchbase@0.6.6
+- pkg:composer/fieldstone/laravel-couchbase@0.6.7

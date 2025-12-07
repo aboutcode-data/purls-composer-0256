@@ -1,0 +1,2 @@
+- pkg:composer/eventix/omnipay-paynl@v0.1-alpha
+- pkg:composer/eventix/omnipay-paynl@v0.2-beta

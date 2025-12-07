@@ -1,0 +1,5 @@
+- pkg:composer/duxet/laravel-rethinkdb@0.1
+- pkg:composer/duxet/laravel-rethinkdb@1.0
+- pkg:composer/duxet/laravel-rethinkdb@2.0
+- pkg:composer/duxet/laravel-rethinkdb@2.1
+- pkg:composer/duxet/laravel-rethinkdb@3.0

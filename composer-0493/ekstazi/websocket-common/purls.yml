@@ -1,0 +1,4 @@
+- pkg:composer/ekstazi/websocket-common@1.0
+- pkg:composer/ekstazi/websocket-common@2.0
+- pkg:composer/ekstazi/websocket-common@2.1
+- pkg:composer/ekstazi/websocket-common@2.1.1

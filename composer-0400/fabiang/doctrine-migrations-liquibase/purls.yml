@@ -1,0 +1,7 @@
+- pkg:composer/fabiang/doctrine-migrations-liquibase@v2.0.0
+- pkg:composer/fabiang/doctrine-migrations-liquibase@v2.1.0
+- pkg:composer/fabiang/doctrine-migrations-liquibase@v2.2.0
+- pkg:composer/fabiang/doctrine-migrations-liquibase@v2.3.0
+- pkg:composer/fabiang/doctrine-migrations-liquibase@v2.4.0
+- pkg:composer/fabiang/doctrine-migrations-liquibase@v3.0.0
+- pkg:composer/fabiang/doctrine-migrations-liquibase@v3.1.0

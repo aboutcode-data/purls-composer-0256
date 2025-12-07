@@ -1,0 +1,4 @@
+- pkg:composer/dvsa/mot-cpms-common@v1.0.0
+- pkg:composer/dvsa/mot-cpms-common@v1.1.0
+- pkg:composer/dvsa/mot-cpms-common@v2.0.0
+- pkg:composer/dvsa/mot-cpms-common@v3.0.0
