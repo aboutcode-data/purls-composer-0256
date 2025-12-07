@@ -1,0 +1,11 @@
+- pkg:composer/ayesh/wordpress-password-hash@1.4
+- pkg:composer/ayesh/wordpress-password-hash@1.5
+- pkg:composer/ayesh/wordpress-password-hash@1.5.1
+- pkg:composer/ayesh/wordpress-password-hash@1.5.2
+- pkg:composer/ayesh/wordpress-password-hash@v2.0.0
+- pkg:composer/ayesh/wordpress-password-hash@v2.0.1
+- pkg:composer/ayesh/wordpress-password-hash@v2.1.0
+- pkg:composer/ayesh/wordpress-password-hash@v2.1.1
+- pkg:composer/ayesh/wordpress-password-hash@v2.1.2
+- pkg:composer/ayesh/wordpress-password-hash@v3.0.0
+- pkg:composer/ayesh/wordpress-password-hash@v3.0.1

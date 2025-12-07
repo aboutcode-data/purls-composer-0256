@@ -1,0 +1,16 @@
+- pkg:composer/backplane/elastica@v0.19.0.0
+- pkg:composer/backplane/elastica@v0.19.3.0
+- pkg:composer/backplane/elastica@v0.19.8.0
+- pkg:composer/backplane/elastica@v0.20.5.0.RC1
+- pkg:composer/backplane/elastica@v0.90.1.0
+- pkg:composer/backplane/elastica@v0.90.10.0
+- pkg:composer/backplane/elastica@v0.90.10.1
+- pkg:composer/backplane/elastica@v0.90.2.0
+- pkg:composer/backplane/elastica@v0.90.5.0
+- pkg:composer/backplane/elastica@v0.90.7.0
+- pkg:composer/backplane/elastica@v1.0.0.0
+- pkg:composer/backplane/elastica@v1.0.1.0
+- pkg:composer/backplane/elastica@v1.0.1.1
+- pkg:composer/backplane/elastica@v1.0.1.2
+- pkg:composer/backplane/elastica@v1.1.1.0
+- pkg:composer/backplane/elastica@v1.1.1.1

@@ -1,0 +1,12 @@
+- pkg:composer/beecubu/php-foundation-mongodb@v1.0.0
+- pkg:composer/beecubu/php-foundation-mongodb@v1.1.0
+- pkg:composer/beecubu/php-foundation-mongodb@v1.1.1
+- pkg:composer/beecubu/php-foundation-mongodb@v1.2.0
+- pkg:composer/beecubu/php-foundation-mongodb@v1.3.0
+- pkg:composer/beecubu/php-foundation-mongodb@v1.4.0
+- pkg:composer/beecubu/php-foundation-mongodb@v1.5.0
+- pkg:composer/beecubu/php-foundation-mongodb@v1.5.0.1
+- pkg:composer/beecubu/php-foundation-mongodb@v1.5.0.2
+- pkg:composer/beecubu/php-foundation-mongodb@v1.6.0
+- pkg:composer/beecubu/php-foundation-mongodb@v1.6.1
+- pkg:composer/beecubu/php-foundation-mongodb@v1.6.2

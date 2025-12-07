@@ -1,0 +1,6 @@
+- pkg:composer/aytaceminoglu/bitcoind-rpc@0.1.0
+- pkg:composer/aytaceminoglu/bitcoind-rpc@0.1.1
+- pkg:composer/aytaceminoglu/bitcoind-rpc@0.16.1
+- pkg:composer/aytaceminoglu/bitcoind-rpc@0.16.2
+- pkg:composer/aytaceminoglu/bitcoind-rpc@0.20.1
+- pkg:composer/aytaceminoglu/bitcoind-rpc@0.20.2

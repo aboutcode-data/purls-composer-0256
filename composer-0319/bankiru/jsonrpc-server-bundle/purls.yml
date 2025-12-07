@@ -1,0 +1,5 @@
+- pkg:composer/bankiru/jsonrpc-server-bundle@1.0
+- pkg:composer/bankiru/jsonrpc-server-bundle@1.1
+- pkg:composer/bankiru/jsonrpc-server-bundle@1.1.1
+- pkg:composer/bankiru/jsonrpc-server-bundle@1.1.2
+- pkg:composer/bankiru/jsonrpc-server-bundle@1.1.3

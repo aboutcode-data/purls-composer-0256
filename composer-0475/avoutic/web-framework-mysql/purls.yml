@@ -1,0 +1,4 @@
+- pkg:composer/avoutic/web-framework-mysql@1.0.0
+- pkg:composer/avoutic/web-framework-mysql@1.0.1
+- pkg:composer/avoutic/web-framework-mysql@2.0.0
+- pkg:composer/avoutic/web-framework-mysql@3.0.0

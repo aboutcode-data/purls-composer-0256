@@ -1,0 +1,5 @@
+- pkg:composer/bartero/hello-world-lib-package@0.1
+- pkg:composer/bartero/hello-world-lib-package@0.2
+- pkg:composer/bartero/hello-world-lib-package@0.2.1
+- pkg:composer/bartero/hello-world-lib-package@0.3
+- pkg:composer/bartero/hello-world-lib-package@0.3.1

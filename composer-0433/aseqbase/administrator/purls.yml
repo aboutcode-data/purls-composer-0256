@@ -1,0 +1,16 @@
+- pkg:composer/aseqbase/administrator@v2.0.0-beta
+- pkg:composer/aseqbase/administrator@v2.0.1-beta
+- pkg:composer/aseqbase/administrator@v2.1.0-beta
+- pkg:composer/aseqbase/administrator@v3.0.0
+- pkg:composer/aseqbase/administrator@v3.0.0-beta
+- pkg:composer/aseqbase/administrator@v3.3.8
+- pkg:composer/aseqbase/administrator@v3.7.0
+- pkg:composer/aseqbase/administrator@v4.0.0
+- pkg:composer/aseqbase/administrator@v4.1.0
+- pkg:composer/aseqbase/administrator@v5.0.0
+- pkg:composer/aseqbase/administrator@v5.9.9
+- pkg:composer/aseqbase/administrator@v6.0.0
+- pkg:composer/aseqbase/administrator@v6.2.1
+- pkg:composer/aseqbase/administrator@v6.4.1
+- pkg:composer/aseqbase/administrator@v6.5.0
+- pkg:composer/aseqbase/administrator@v7.0.0
