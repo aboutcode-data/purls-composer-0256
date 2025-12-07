@@ -1,0 +1,4 @@
+- pkg:composer/biohzrdmx/amazon-s3-php@2.0
+- pkg:composer/biohzrdmx/amazon-s3-php@2.1
+- pkg:composer/biohzrdmx/amazon-s3-php@2.2
+- pkg:composer/biohzrdmx/amazon-s3-php@v1.0.0

@@ -1,0 +1,10 @@
+- pkg:composer/box/shmock@1.0.0
+- pkg:composer/box/shmock@2.0.0-alpha
+- pkg:composer/box/shmock@2.0.0-alpha2
+- pkg:composer/box/shmock@2.0.0-alpha3
+- pkg:composer/box/shmock@2.0.0-alpha4
+- pkg:composer/box/shmock@2.0.0-alpha5
+- pkg:composer/box/shmock@2.0.0-alpha6
+- pkg:composer/box/shmock@v2.0.0-alpha7
+- pkg:composer/box/shmock@v2.0.1-beta1
+- pkg:composer/box/shmock@v2.0.1-beta2

@@ -1,0 +1,4 @@
+- pkg:composer/chkt/lola_mongo@v0.6.0-alpha2
+- pkg:composer/chkt/lola_mongo@v0.6.1-alpha
+- pkg:composer/chkt/lola_mongo@v0.6.1-alpha2
+- pkg:composer/chkt/lola_mongo@v0.6.2-alpha

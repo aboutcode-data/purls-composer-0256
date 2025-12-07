@@ -1,0 +1,17 @@
+- pkg:composer/bitpay/module-bpcheckout@10.0.0
+- pkg:composer/bitpay/module-bpcheckout@10.1.0
+- pkg:composer/bitpay/module-bpcheckout@10.2.0
+- pkg:composer/bitpay/module-bpcheckout@7.0.0
+- pkg:composer/bitpay/module-bpcheckout@7.1.0
+- pkg:composer/bitpay/module-bpcheckout@7.2.0
+- pkg:composer/bitpay/module-bpcheckout@8.0.0
+- pkg:composer/bitpay/module-bpcheckout@8.0.4
+- pkg:composer/bitpay/module-bpcheckout@8.1.0
+- pkg:composer/bitpay/module-bpcheckout@9.0.0
+- pkg:composer/bitpay/module-bpcheckout@9.1.0
+- pkg:composer/bitpay/module-bpcheckout@9.2.0
+- pkg:composer/bitpay/module-bpcheckout@9.2.1
+- pkg:composer/bitpay/module-bpcheckout@9.2.2
+- pkg:composer/bitpay/module-bpcheckout@9.3.0
+- pkg:composer/bitpay/module-bpcheckout@9.3.1
+- pkg:composer/bitpay/module-bpcheckout@9.4.0

@@ -1,0 +1,3 @@
+- pkg:composer/carnegielearning/ldap-orm-bundle@2.0.0-rc
+- pkg:composer/carnegielearning/ldap-orm-bundle@2.0.0-rc2
+- pkg:composer/carnegielearning/ldap-orm-bundle@v1.0.0

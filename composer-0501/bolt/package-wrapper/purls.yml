@@ -1,0 +1,7 @@
+- pkg:composer/bolt/package-wrapper@v1.0.0
+- pkg:composer/bolt/package-wrapper@v2.0.0
+- pkg:composer/bolt/package-wrapper@v2.0.1
+- pkg:composer/bolt/package-wrapper@v3.0.0
+- pkg:composer/bolt/package-wrapper@v3.0.1
+- pkg:composer/bolt/package-wrapper@v4.0.0
+- pkg:composer/bolt/package-wrapper@v5.0.0

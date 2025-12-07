@@ -1,0 +1,9 @@
+- pkg:composer/brunosimsenhor/elastic-apm-php-agent@0.1.2
+- pkg:composer/brunosimsenhor/elastic-apm-php-agent@6.2.0
+- pkg:composer/brunosimsenhor/elastic-apm-php-agent@6.2.1
+- pkg:composer/brunosimsenhor/elastic-apm-php-agent@6.2.2
+- pkg:composer/brunosimsenhor/elastic-apm-php-agent@6.3.0
+- pkg:composer/brunosimsenhor/elastic-apm-php-agent@6.3.2
+- pkg:composer/brunosimsenhor/elastic-apm-php-agent@7
+- pkg:composer/brunosimsenhor/elastic-apm-php-agent@7.1
+- pkg:composer/brunosimsenhor/elastic-apm-php-agent@7.1.1

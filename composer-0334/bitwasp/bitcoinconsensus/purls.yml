@@ -1,0 +1,5 @@
+- pkg:composer/bitwasp/bitcoinconsensus@v1.0
+- pkg:composer/bitwasp/bitcoinconsensus@v2.0.0
+- pkg:composer/bitwasp/bitcoinconsensus@v2.0.1
+- pkg:composer/bitwasp/bitcoinconsensus@v3.0.0
+- pkg:composer/bitwasp/bitcoinconsensus@v3.0.1

@@ -1,0 +1,12 @@
+- pkg:composer/bolivir/laravel-doctrine-sanctum@1.0.0-alpha.1
+- pkg:composer/bolivir/laravel-doctrine-sanctum@5.0.0
+- pkg:composer/bolivir/laravel-doctrine-sanctum@v1.0.0
+- pkg:composer/bolivir/laravel-doctrine-sanctum@v1.0.0-alpha.2
+- pkg:composer/bolivir/laravel-doctrine-sanctum@v1.0.0-rc.1
+- pkg:composer/bolivir/laravel-doctrine-sanctum@v1.0.1
+- pkg:composer/bolivir/laravel-doctrine-sanctum@v1.1.1
+- pkg:composer/bolivir/laravel-doctrine-sanctum@v2.0.0
+- pkg:composer/bolivir/laravel-doctrine-sanctum@v2.0.0-rc.1
+- pkg:composer/bolivir/laravel-doctrine-sanctum@v2.1.0
+- pkg:composer/bolivir/laravel-doctrine-sanctum@v3.0.0
+- pkg:composer/bolivir/laravel-doctrine-sanctum@v4.0.0

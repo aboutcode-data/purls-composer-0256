@@ -1,0 +1,10 @@
+- pkg:composer/blackbit_digital_commerce/pimcore-import@2.6.0
+- pkg:composer/blackbit_digital_commerce/pimcore-import@2.8.0
+- pkg:composer/blackbit_digital_commerce/pimcore-import@3.0.0
+- pkg:composer/blackbit_digital_commerce/pimcore-import@3.3.0
+- pkg:composer/blackbit_digital_commerce/pimcore-import@3.4.0
+- pkg:composer/blackbit_digital_commerce/pimcore-import@3.5.0
+- pkg:composer/blackbit_digital_commerce/pimcore-import@3.6.0
+- pkg:composer/blackbit_digital_commerce/pimcore-import@3.7.0
+- pkg:composer/blackbit_digital_commerce/pimcore-import@3.8.0
+- pkg:composer/blackbit_digital_commerce/pimcore-import@3.9.0

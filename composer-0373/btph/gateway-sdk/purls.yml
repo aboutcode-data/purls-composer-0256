@@ -1,0 +1,6 @@
+- pkg:composer/btph/gateway-sdk@1.0
+- pkg:composer/btph/gateway-sdk@1.1
+- pkg:composer/btph/gateway-sdk@2.0
+- pkg:composer/btph/gateway-sdk@2.0a
+- pkg:composer/btph/gateway-sdk@2.0b
+- pkg:composer/btph/gateway-sdk@v3.0

@@ -1,0 +1,4 @@
+- pkg:composer/bowlofsoup/couchbase-access-layer-bundle@v1.0
+- pkg:composer/bowlofsoup/couchbase-access-layer-bundle@v1.1
+- pkg:composer/bowlofsoup/couchbase-access-layer-bundle@v2.0
+- pkg:composer/bowlofsoup/couchbase-access-layer-bundle@v2.1

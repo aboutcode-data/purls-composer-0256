@@ -1,0 +1,11 @@
+- pkg:composer/bookboon/oauth2-client-php@v1.0
+- pkg:composer/bookboon/oauth2-client-php@v2.0.0
+- pkg:composer/bookboon/oauth2-client-php@v2.0.1
+- pkg:composer/bookboon/oauth2-client-php@v2.0.2
+- pkg:composer/bookboon/oauth2-client-php@v2.1.0
+- pkg:composer/bookboon/oauth2-client-php@v2.2.0
+- pkg:composer/bookboon/oauth2-client-php@v3.0.0
+- pkg:composer/bookboon/oauth2-client-php@v4.0.0
+- pkg:composer/bookboon/oauth2-client-php@v4.1.0
+- pkg:composer/bookboon/oauth2-client-php@v4.1.1
+- pkg:composer/bookboon/oauth2-client-php@v4.2.0

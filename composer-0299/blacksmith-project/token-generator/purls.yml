@@ -1,0 +1,3 @@
+- pkg:composer/blacksmith-project/token-generator@v0.1.0
+- pkg:composer/blacksmith-project/token-generator@v0.1.1
+- pkg:composer/blacksmith-project/token-generator@v0.1.2

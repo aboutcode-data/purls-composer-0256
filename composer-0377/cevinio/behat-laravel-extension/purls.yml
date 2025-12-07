@@ -1,0 +1,7 @@
+- pkg:composer/cevinio/behat-laravel-extension@1.0
+- pkg:composer/cevinio/behat-laravel-extension@1.1.1
+- pkg:composer/cevinio/behat-laravel-extension@2.0.0
+- pkg:composer/cevinio/behat-laravel-extension@2.0.1
+- pkg:composer/cevinio/behat-laravel-extension@2.0.2
+- pkg:composer/cevinio/behat-laravel-extension@3.0.0
+- pkg:composer/cevinio/behat-laravel-extension@4.0.0

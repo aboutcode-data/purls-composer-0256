@@ -1,0 +1,13 @@
+- pkg:composer/blesta/proxmox@2.1.2
+- pkg:composer/blesta/proxmox@2.11.0
+- pkg:composer/blesta/proxmox@2.12.0
+- pkg:composer/blesta/proxmox@2.2.0
+- pkg:composer/blesta/proxmox@2.3.0
+- pkg:composer/blesta/proxmox@2.4.0
+- pkg:composer/blesta/proxmox@2.4.1
+- pkg:composer/blesta/proxmox@2.5.0
+- pkg:composer/blesta/proxmox@2.6.0
+- pkg:composer/blesta/proxmox@2.7.0
+- pkg:composer/blesta/proxmox@2.8.0
+- pkg:composer/blesta/proxmox@2.9.0
+- pkg:composer/blesta/proxmox@3.0.0

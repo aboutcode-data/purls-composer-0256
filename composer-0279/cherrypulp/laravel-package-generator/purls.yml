@@ -1,0 +1,3 @@
+- pkg:composer/cherrypulp/laravel-package-generator@1.0.0
+- pkg:composer/cherrypulp/laravel-package-generator@2.0.0
+- pkg:composer/cherrypulp/laravel-package-generator@2.1.0

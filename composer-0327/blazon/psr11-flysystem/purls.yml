@@ -1,0 +1,4 @@
+- pkg:composer/blazon/psr11-flysystem@3.0.0-rc
+- pkg:composer/blazon/psr11-flysystem@3.0.1
+- pkg:composer/blazon/psr11-flysystem@4.0.0
+- pkg:composer/blazon/psr11-flysystem@4.0.1

@@ -1,0 +1,14 @@
+- pkg:composer/chillerlan/php-googleauth@1.2.0
+- pkg:composer/chillerlan/php-googleauth@2.1.0
+- pkg:composer/chillerlan/php-googleauth@3.1.0
+- pkg:composer/chillerlan/php-googleauth@3.2.0
+- pkg:composer/chillerlan/php-googleauth@4.1.0
+- pkg:composer/chillerlan/php-googleauth@4.2.0
+- pkg:composer/chillerlan/php-googleauth@4.3.0
+- pkg:composer/chillerlan/php-googleauth@4.3.1
+- pkg:composer/chillerlan/php-googleauth@4.4.0
+- pkg:composer/chillerlan/php-googleauth@5.0.0
+- pkg:composer/chillerlan/php-googleauth@5.1.0
+- pkg:composer/chillerlan/php-googleauth@5.2.0
+- pkg:composer/chillerlan/php-googleauth@5.2.1
+- pkg:composer/chillerlan/php-googleauth@5.3.0

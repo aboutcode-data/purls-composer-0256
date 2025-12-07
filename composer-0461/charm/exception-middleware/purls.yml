@@ -1,0 +1,4 @@
+- pkg:composer/charm/exception-middleware@0.0.1
+- pkg:composer/charm/exception-middleware@0.0.2
+- pkg:composer/charm/exception-middleware@0.0.3
+- pkg:composer/charm/exception-middleware@1.0.0

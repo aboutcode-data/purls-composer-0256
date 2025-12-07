@@ -1,0 +1,4 @@
+- pkg:composer/bozerkins/php-message-queue@v0.0.1
+- pkg:composer/bozerkins/php-message-queue@v0.1.0
+- pkg:composer/bozerkins/php-message-queue@v0.1.1
+- pkg:composer/bozerkins/php-message-queue@v0.1.2

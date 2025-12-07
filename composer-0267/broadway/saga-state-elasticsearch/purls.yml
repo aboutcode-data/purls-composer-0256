@@ -1,0 +1,6 @@
+- pkg:composer/broadway/saga-state-elasticsearch@0.1.0
+- pkg:composer/broadway/saga-state-elasticsearch@0.1.1
+- pkg:composer/broadway/saga-state-elasticsearch@0.1.2
+- pkg:composer/broadway/saga-state-elasticsearch@0.2.0
+- pkg:composer/broadway/saga-state-elasticsearch@0.3.0
+- pkg:composer/broadway/saga-state-elasticsearch@0.4.0

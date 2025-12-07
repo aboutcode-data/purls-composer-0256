@@ -1,0 +1,4 @@
+- pkg:composer/berthott/laravel-locale-middleware@1.0.0
+- pkg:composer/berthott/laravel-locale-middleware@1.0.1
+- pkg:composer/berthott/laravel-locale-middleware@2.0.0
+- pkg:composer/berthott/laravel-locale-middleware@3.0.0

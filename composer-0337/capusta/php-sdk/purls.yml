@@ -1,0 +1,4 @@
+- pkg:composer/capusta/php-sdk@1.0.0
+- pkg:composer/capusta/php-sdk@1.0.3-stable
+- pkg:composer/capusta/php-sdk@v1.13.0
+- pkg:composer/capusta/php-sdk@v1.14.0

@@ -1,0 +1,2 @@
+- pkg:composer/bernardwiesner/laravel-gcp-pubsub@v0.1.0-beta
+- pkg:composer/bernardwiesner/laravel-gcp-pubsub@v1.0

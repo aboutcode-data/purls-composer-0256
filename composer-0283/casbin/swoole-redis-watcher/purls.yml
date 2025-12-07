@@ -1,0 +1,2 @@
+- pkg:composer/casbin/swoole-redis-watcher@v1.0.0
+- pkg:composer/casbin/swoole-redis-watcher@v2.0.0

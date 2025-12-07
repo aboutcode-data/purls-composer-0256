@@ -1,0 +1,2 @@
+- pkg:composer/cedriclange/ci-phpunit@v0.17.4
+- pkg:composer/cedriclange/ci-phpunit@v0.17.5
