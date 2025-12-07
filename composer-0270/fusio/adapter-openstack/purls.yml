@@ -1,0 +1,9 @@
+- pkg:composer/fusio/adapter-openstack@v0.1.0
+- pkg:composer/fusio/adapter-openstack@v0.2.0
+- pkg:composer/fusio/adapter-openstack@v1.0.0
+- pkg:composer/fusio/adapter-openstack@v1.1.0
+- pkg:composer/fusio/adapter-openstack@v4.0.0
+- pkg:composer/fusio/adapter-openstack@v5.0.0
+- pkg:composer/fusio/adapter-openstack@v6.0.0
+- pkg:composer/fusio/adapter-openstack@v6.0.1
+- pkg:composer/fusio/adapter-openstack@v6.0.2

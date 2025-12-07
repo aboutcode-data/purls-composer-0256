@@ -1,0 +1,17 @@
+- pkg:composer/glavweb/security-bundle@v0.1
+- pkg:composer/glavweb/security-bundle@v0.2
+- pkg:composer/glavweb/security-bundle@v0.2.1
+- pkg:composer/glavweb/security-bundle@v0.3
+- pkg:composer/glavweb/security-bundle@v0.3.1
+- pkg:composer/glavweb/security-bundle@v0.4.0
+- pkg:composer/glavweb/security-bundle@v5.0
+- pkg:composer/glavweb/security-bundle@v5.0.1
+- pkg:composer/glavweb/security-bundle@v5.1.0
+- pkg:composer/glavweb/security-bundle@v5.1.1
+- pkg:composer/glavweb/security-bundle@v5.2.0
+- pkg:composer/glavweb/security-bundle@v5.3.0
+- pkg:composer/glavweb/security-bundle@v6.0.0
+- pkg:composer/glavweb/security-bundle@v6.1.0
+- pkg:composer/glavweb/security-bundle@v6.2.0
+- pkg:composer/glavweb/security-bundle@v6.3.0
+- pkg:composer/glavweb/security-bundle@v6.3.1

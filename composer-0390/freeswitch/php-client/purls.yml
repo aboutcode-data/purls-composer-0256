@@ -1,0 +1,9 @@
+- pkg:composer/freeswitch/php-client@v1.0.0
+- pkg:composer/freeswitch/php-client@v1.0.1
+- pkg:composer/freeswitch/php-client@v1.0.2
+- pkg:composer/freeswitch/php-client@v1.0.3
+- pkg:composer/freeswitch/php-client@v1.0.31
+- pkg:composer/freeswitch/php-client@v1.0.4
+- pkg:composer/freeswitch/php-client@v1.0.41
+- pkg:composer/freeswitch/php-client@v1.0.42
+- pkg:composer/freeswitch/php-client@v1.1.0

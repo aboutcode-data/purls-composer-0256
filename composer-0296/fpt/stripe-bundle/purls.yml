@@ -1,0 +1,14 @@
+- pkg:composer/fpt/stripe-bundle@0.1
+- pkg:composer/fpt/stripe-bundle@0.10
+- pkg:composer/fpt/stripe-bundle@0.11
+- pkg:composer/fpt/stripe-bundle@0.12
+- pkg:composer/fpt/stripe-bundle@0.13
+- pkg:composer/fpt/stripe-bundle@0.2
+- pkg:composer/fpt/stripe-bundle@0.3
+- pkg:composer/fpt/stripe-bundle@0.4
+- pkg:composer/fpt/stripe-bundle@0.5
+- pkg:composer/fpt/stripe-bundle@0.6
+- pkg:composer/fpt/stripe-bundle@0.8
+- pkg:composer/fpt/stripe-bundle@0.8.1
+- pkg:composer/fpt/stripe-bundle@0.9
+- pkg:composer/fpt/stripe-bundle@v0.7

@@ -1,0 +1,4 @@
+- pkg:composer/googletran/translate@5.7
+- pkg:composer/googletran/translate@5.8
+- pkg:composer/googletran/translate@7.0
+- pkg:composer/googletran/translate@8.0

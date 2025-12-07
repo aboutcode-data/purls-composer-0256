@@ -1,0 +1,4 @@
+- pkg:composer/frankbv/phpstan-enum@1.0.0
+- pkg:composer/frankbv/phpstan-enum@1.0.1
+- pkg:composer/frankbv/phpstan-enum@2.0.0
+- pkg:composer/frankbv/phpstan-enum@2.0.1

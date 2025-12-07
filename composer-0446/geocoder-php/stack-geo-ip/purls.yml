@@ -1,0 +1,5 @@
+- pkg:composer/geocoder-php/stack-geo-ip@0.0.1
+- pkg:composer/geocoder-php/stack-geo-ip@1.0.0
+- pkg:composer/geocoder-php/stack-geo-ip@1.0.1
+- pkg:composer/geocoder-php/stack-geo-ip@1.0.2
+- pkg:composer/geocoder-php/stack-geo-ip@1.0.3

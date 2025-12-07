@@ -1,0 +1,3 @@
+- pkg:composer/geminilabs/wp-password-bcrypt@0.1.0
+- pkg:composer/geminilabs/wp-password-bcrypt@1.0.0
+- pkg:composer/geminilabs/wp-password-bcrypt@1.0.1

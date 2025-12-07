@@ -1,0 +1,10 @@
+- pkg:composer/freshmail/rest-api@v1.0
+- pkg:composer/freshmail/rest-api@v2.0
+- pkg:composer/freshmail/rest-api@v2.0.1
+- pkg:composer/freshmail/rest-api@v2.0.2
+- pkg:composer/freshmail/rest-api@v3.0.0
+- pkg:composer/freshmail/rest-api@v3.1.0
+- pkg:composer/freshmail/rest-api@v3.2.0
+- pkg:composer/freshmail/rest-api@v3.2.1
+- pkg:composer/freshmail/rest-api@v3.2.2
+- pkg:composer/freshmail/rest-api@v4.0.0

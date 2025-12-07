@@ -1,0 +1,2 @@
+- pkg:composer/gaufrette/azure-blob-storage-adapter@v0.4.0
+- pkg:composer/gaufrette/azure-blob-storage-adapter@v0.6.0

@@ -1,0 +1,4 @@
+- pkg:composer/gitee-php/gitee-sdk@v5.4.72
+- pkg:composer/gitee-php/gitee-sdk@v5.4.73
+- pkg:composer/gitee-php/gitee-sdk@v5.5.0
+- pkg:composer/gitee-php/gitee-sdk@v5.6.0

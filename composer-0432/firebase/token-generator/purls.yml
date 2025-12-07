@@ -1,0 +1,5 @@
+- pkg:composer/firebase/token-generator@1.0.0
+- pkg:composer/firebase/token-generator@2.0.0
+- pkg:composer/firebase/token-generator@2.0.1
+- pkg:composer/firebase/token-generator@v2.1.0
+- pkg:composer/firebase/token-generator@v3.0.0

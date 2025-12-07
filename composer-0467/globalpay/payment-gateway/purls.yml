@@ -1,0 +1,7 @@
+- pkg:composer/globalpay/payment-gateway@2.2.0
+- pkg:composer/globalpay/payment-gateway@2.2.1
+- pkg:composer/globalpay/payment-gateway@2.2.2
+- pkg:composer/globalpay/payment-gateway@2.2.3
+- pkg:composer/globalpay/payment-gateway@2.3.0
+- pkg:composer/globalpay/payment-gateway@2.3.1
+- pkg:composer/globalpay/payment-gateway@2.4.0

@@ -1,0 +1,6 @@
+- pkg:composer/gk-qcloudapi-sdk-php/cospackage@1.2.4
+- pkg:composer/gk-qcloudapi-sdk-php/cospackage@2.0
+- pkg:composer/gk-qcloudapi-sdk-php/cospackage@2.1
+- pkg:composer/gk-qcloudapi-sdk-php/cospackage@2.2
+- pkg:composer/gk-qcloudapi-sdk-php/cospackage@v1.0
+- pkg:composer/gk-qcloudapi-sdk-php/cospackage@v1.2.3

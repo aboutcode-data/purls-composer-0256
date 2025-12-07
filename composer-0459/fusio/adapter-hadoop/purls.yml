@@ -1,0 +1,6 @@
+- pkg:composer/fusio/adapter-hadoop@v0.1.0
+- pkg:composer/fusio/adapter-hadoop@v4.0.0
+- pkg:composer/fusio/adapter-hadoop@v5.0.0
+- pkg:composer/fusio/adapter-hadoop@v6.0.0
+- pkg:composer/fusio/adapter-hadoop@v6.0.1
+- pkg:composer/fusio/adapter-hadoop@v6.0.2

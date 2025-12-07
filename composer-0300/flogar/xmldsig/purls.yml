@@ -1,0 +1,4 @@
+- pkg:composer/flogar/xmldsig@v1.0.1
+- pkg:composer/flogar/xmldsig@v2.0.1
+- pkg:composer/flogar/xmldsig@v3.0
+- pkg:composer/flogar/xmldsig@v5.0

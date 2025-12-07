@@ -1,0 +1,5 @@
+- pkg:composer/frank-houweling/zend-airbrake@0.3-beta
+- pkg:composer/frank-houweling/zend-airbrake@1.0.0
+- pkg:composer/frank-houweling/zend-airbrake@1.0.1
+- pkg:composer/frank-houweling/zend-airbrake@v0.1-alpha
+- pkg:composer/frank-houweling/zend-airbrake@v0.2-alpha

@@ -1,0 +1,5 @@
+- pkg:composer/friendsofouro/http-batch-guzzle@v1.0.0
+- pkg:composer/friendsofouro/http-batch-guzzle@v2.0.0
+- pkg:composer/friendsofouro/http-batch-guzzle@v2.0.1
+- pkg:composer/friendsofouro/http-batch-guzzle@v3.0.0
+- pkg:composer/friendsofouro/http-batch-guzzle@v3.1.0

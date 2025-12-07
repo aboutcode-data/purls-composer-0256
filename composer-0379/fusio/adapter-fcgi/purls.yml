@@ -1,0 +1,13 @@
+- pkg:composer/fusio/adapter-fcgi@v0.1.0
+- pkg:composer/fusio/adapter-fcgi@v0.2.0
+- pkg:composer/fusio/adapter-fcgi@v1.0.0
+- pkg:composer/fusio/adapter-fcgi@v1.1.0
+- pkg:composer/fusio/adapter-fcgi@v4.0.0
+- pkg:composer/fusio/adapter-fcgi@v5.0.0
+- pkg:composer/fusio/adapter-fcgi@v6.0.0
+- pkg:composer/fusio/adapter-fcgi@v6.0.1
+- pkg:composer/fusio/adapter-fcgi@v6.0.2
+- pkg:composer/fusio/adapter-fcgi@v6.0.3
+- pkg:composer/fusio/adapter-fcgi@v6.0.4
+- pkg:composer/fusio/adapter-fcgi@v6.0.5
+- pkg:composer/fusio/adapter-fcgi@v6.1.0

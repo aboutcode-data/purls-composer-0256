@@ -1,0 +1,10 @@
+- pkg:composer/gossi/php-code-generator@v0.1
+- pkg:composer/gossi/php-code-generator@v0.2
+- pkg:composer/gossi/php-code-generator@v0.3
+- pkg:composer/gossi/php-code-generator@v0.3.1
+- pkg:composer/gossi/php-code-generator@v0.3.2
+- pkg:composer/gossi/php-code-generator@v0.4
+- pkg:composer/gossi/php-code-generator@v0.4.1
+- pkg:composer/gossi/php-code-generator@v0.4.2
+- pkg:composer/gossi/php-code-generator@v0.5
+- pkg:composer/gossi/php-code-generator@v0.6-beta.1

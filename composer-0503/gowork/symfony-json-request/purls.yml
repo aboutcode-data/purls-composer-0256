@@ -1,0 +1,4 @@
+- pkg:composer/gowork/symfony-json-request@v0.1
+- pkg:composer/gowork/symfony-json-request@v0.2
+- pkg:composer/gowork/symfony-json-request@v0.2.1
+- pkg:composer/gowork/symfony-json-request@v0.3.0
