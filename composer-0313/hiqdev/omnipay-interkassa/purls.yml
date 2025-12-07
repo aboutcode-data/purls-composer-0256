@@ -1,0 +1,4 @@
+- pkg:composer/hiqdev/omnipay-interkassa@0.1.0
+- pkg:composer/hiqdev/omnipay-interkassa@0.1.1
+- pkg:composer/hiqdev/omnipay-interkassa@2.0
+- pkg:composer/hiqdev/omnipay-interkassa@3.0

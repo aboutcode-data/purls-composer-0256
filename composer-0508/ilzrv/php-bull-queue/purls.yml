@@ -1,0 +1,5 @@
+- pkg:composer/ilzrv/php-bull-queue@v1.0.0-beta.1
+- pkg:composer/ilzrv/php-bull-queue@v1.0.0-beta.2
+- pkg:composer/ilzrv/php-bull-queue@v1.0.0-beta.3
+- pkg:composer/ilzrv/php-bull-queue@v1.0.0-rc.1
+- pkg:composer/ilzrv/php-bull-queue@v1.0.0-rc.2

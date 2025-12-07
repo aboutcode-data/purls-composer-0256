@@ -1,0 +1,8 @@
+- pkg:composer/identity-layer/jose@1.0.0
+- pkg:composer/identity-layer/jose@1.1.0
+- pkg:composer/identity-layer/jose@1.1.1
+- pkg:composer/identity-layer/jose@1.1.2
+- pkg:composer/identity-layer/jose@1.2.0
+- pkg:composer/identity-layer/jose@2.0.0
+- pkg:composer/identity-layer/jose@2.1.0
+- pkg:composer/identity-layer/jose@2.1.1

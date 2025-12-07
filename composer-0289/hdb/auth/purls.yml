@@ -1,0 +1,4 @@
+- pkg:composer/hdb/auth@v0.1
+- pkg:composer/hdb/auth@v0.2
+- pkg:composer/hdb/auth@v1.0
+- pkg:composer/hdb/auth@v1.1

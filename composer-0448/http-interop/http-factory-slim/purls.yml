@@ -1,0 +1,6 @@
+- pkg:composer/http-interop/http-factory-slim@0.1.0
+- pkg:composer/http-interop/http-factory-slim@0.1.1
+- pkg:composer/http-interop/http-factory-slim@0.2.0
+- pkg:composer/http-interop/http-factory-slim@0.3.0
+- pkg:composer/http-interop/http-factory-slim@1.0.0
+- pkg:composer/http-interop/http-factory-slim@2.0.0

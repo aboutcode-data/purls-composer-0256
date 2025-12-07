@@ -1,0 +1,5 @@
+- pkg:composer/hyperf/mqtt-server-incubator@v0.1.0
+- pkg:composer/hyperf/mqtt-server-incubator@v0.2.0
+- pkg:composer/hyperf/mqtt-server-incubator@v0.3.0
+- pkg:composer/hyperf/mqtt-server-incubator@v0.3.1
+- pkg:composer/hyperf/mqtt-server-incubator@v0.3.2

@@ -1,0 +1,4 @@
+- pkg:composer/groovy/src@1.4
+- pkg:composer/groovy/src@1.5
+- pkg:composer/groovy/src@v1.2
+- pkg:composer/groovy/src@v1.3

@@ -1,0 +1,4 @@
+- pkg:composer/humanmade/wp-redis-predis-client@0.1.0
+- pkg:composer/humanmade/wp-redis-predis-client@0.1.1
+- pkg:composer/humanmade/wp-redis-predis-client@0.1.2
+- pkg:composer/humanmade/wp-redis-predis-client@0.2.0

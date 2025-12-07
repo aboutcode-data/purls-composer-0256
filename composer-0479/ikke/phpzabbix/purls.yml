@@ -1,0 +1,4 @@
+- pkg:composer/ikke/phpzabbix@0.1
+- pkg:composer/ikke/phpzabbix@v0.2.1
+- pkg:composer/ikke/phpzabbix@v0.3
+- pkg:composer/ikke/phpzabbix@v0.4

@@ -1,0 +1,5 @@
+- pkg:composer/halloverden/symfony-azure-service-bus-messenger-bundle@1.0.0
+- pkg:composer/halloverden/symfony-azure-service-bus-messenger-bundle@1.1.0
+- pkg:composer/halloverden/symfony-azure-service-bus-messenger-bundle@1.1.1
+- pkg:composer/halloverden/symfony-azure-service-bus-messenger-bundle@1.2.0
+- pkg:composer/halloverden/symfony-azure-service-bus-messenger-bundle@1.3.0

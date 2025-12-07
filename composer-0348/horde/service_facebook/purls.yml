@@ -1,0 +1,5 @@
+- pkg:composer/horde/service_facebook@2.0.10
+- pkg:composer/horde/service_facebook@2.0.7
+- pkg:composer/horde/service_facebook@2.0.8
+- pkg:composer/horde/service_facebook@2.0.9
+- pkg:composer/horde/service_facebook@v3.0.0alpha1

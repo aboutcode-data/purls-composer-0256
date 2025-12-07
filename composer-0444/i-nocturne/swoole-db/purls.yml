@@ -1,0 +1,4 @@
+- pkg:composer/i-nocturne/swoole-db@0.1
+- pkg:composer/i-nocturne/swoole-db@0.2
+- pkg:composer/i-nocturne/swoole-db@0.3
+- pkg:composer/i-nocturne/swoole-db@0.4

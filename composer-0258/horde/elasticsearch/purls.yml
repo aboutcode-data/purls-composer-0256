@@ -1,0 +1,5 @@
+- pkg:composer/horde/elasticsearch@1.0.3
+- pkg:composer/horde/elasticsearch@1.0.4
+- pkg:composer/horde/elasticsearch@2.0.0alpha1
+- pkg:composer/horde/elasticsearch@2.0.0alpha2
+- pkg:composer/horde/elasticsearch@v2.0.0alpha3

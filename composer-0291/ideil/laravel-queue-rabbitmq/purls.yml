@@ -1,0 +1,6 @@
+- pkg:composer/ideil/laravel-queue-rabbitmq@4.0
+- pkg:composer/ideil/laravel-queue-rabbitmq@4.1
+- pkg:composer/ideil/laravel-queue-rabbitmq@4.2
+- pkg:composer/ideil/laravel-queue-rabbitmq@5.0
+- pkg:composer/ideil/laravel-queue-rabbitmq@5.1
+- pkg:composer/ideil/laravel-queue-rabbitmq@5.2

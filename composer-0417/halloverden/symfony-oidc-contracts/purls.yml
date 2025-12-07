@@ -1,0 +1,6 @@
+- pkg:composer/halloverden/symfony-oidc-contracts@1.0.0
+- pkg:composer/halloverden/symfony-oidc-contracts@1.0.1
+- pkg:composer/halloverden/symfony-oidc-contracts@1.1.0
+- pkg:composer/halloverden/symfony-oidc-contracts@1.2.0
+- pkg:composer/halloverden/symfony-oidc-contracts@2.0.0
+- pkg:composer/halloverden/symfony-oidc-contracts@2.1.0

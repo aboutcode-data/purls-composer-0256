@@ -1,0 +1,4 @@
+- pkg:composer/hhvm/systemlib-extractor@v0.1
+- pkg:composer/hhvm/systemlib-extractor@v1.0
+- pkg:composer/hhvm/systemlib-extractor@v1.1
+- pkg:composer/hhvm/systemlib-extractor@v1.2

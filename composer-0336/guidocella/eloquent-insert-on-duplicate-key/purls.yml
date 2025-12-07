@@ -1,0 +1,13 @@
+- pkg:composer/guidocella/eloquent-insert-on-duplicate-key@v0.0.0
+- pkg:composer/guidocella/eloquent-insert-on-duplicate-key@v1.0.0
+- pkg:composer/guidocella/eloquent-insert-on-duplicate-key@v1.0.1
+- pkg:composer/guidocella/eloquent-insert-on-duplicate-key@v1.0.2
+- pkg:composer/guidocella/eloquent-insert-on-duplicate-key@v2.0
+- pkg:composer/guidocella/eloquent-insert-on-duplicate-key@v2.1
+- pkg:composer/guidocella/eloquent-insert-on-duplicate-key@v2.1.1
+- pkg:composer/guidocella/eloquent-insert-on-duplicate-key@v2.2
+- pkg:composer/guidocella/eloquent-insert-on-duplicate-key@v2.2.1
+- pkg:composer/guidocella/eloquent-insert-on-duplicate-key@v2.2.2
+- pkg:composer/guidocella/eloquent-insert-on-duplicate-key@v2.2.3
+- pkg:composer/guidocella/eloquent-insert-on-duplicate-key@v2.2.4
+- pkg:composer/guidocella/eloquent-insert-on-duplicate-key@v2.2.5

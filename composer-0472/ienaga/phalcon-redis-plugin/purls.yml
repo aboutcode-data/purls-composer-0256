@@ -1,0 +1,3 @@
+- pkg:composer/ienaga/phalcon-redis-plugin@1.0.0
+- pkg:composer/ienaga/phalcon-redis-plugin@2.0.0
+- pkg:composer/ienaga/phalcon-redis-plugin@3.0.0
