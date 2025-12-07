@@ -1,0 +1,7 @@
+- pkg:composer/codeception/module-soap@1.0.0
+- pkg:composer/codeception/module-soap@1.0.1
+- pkg:composer/codeception/module-soap@2.0.0
+- pkg:composer/codeception/module-soap@2.0.1
+- pkg:composer/codeception/module-soap@2.0.2
+- pkg:composer/codeception/module-soap@3.0.0
+- pkg:composer/codeception/module-soap@3.0.1

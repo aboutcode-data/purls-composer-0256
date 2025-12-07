@@ -1,0 +1,2 @@
+- pkg:composer/cognizo/redis-mutex@v0.0.1
+- pkg:composer/cognizo/redis-mutex@v0.0.2

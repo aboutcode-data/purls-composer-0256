@@ -1,0 +1,7 @@
+- pkg:composer/codeception/module-lumen@1.0.0
+- pkg:composer/codeception/module-lumen@1.0.1
+- pkg:composer/codeception/module-lumen@2.0.0
+- pkg:composer/codeception/module-lumen@2.0.1
+- pkg:composer/codeception/module-lumen@2.1.0
+- pkg:composer/codeception/module-lumen@3.0.0
+- pkg:composer/codeception/module-lumen@3.0.1

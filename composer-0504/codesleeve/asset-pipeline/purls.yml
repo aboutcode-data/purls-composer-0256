@@ -1,0 +1,15 @@
+- pkg:composer/codesleeve/asset-pipeline@v1.0
+- pkg:composer/codesleeve/asset-pipeline@v1.1
+- pkg:composer/codesleeve/asset-pipeline@v1.2
+- pkg:composer/codesleeve/asset-pipeline@v1.3
+- pkg:composer/codesleeve/asset-pipeline@v1.4
+- pkg:composer/codesleeve/asset-pipeline@v1.4.1
+- pkg:composer/codesleeve/asset-pipeline@v1.4.2
+- pkg:composer/codesleeve/asset-pipeline@v1.4.3
+- pkg:composer/codesleeve/asset-pipeline@v1.4.4
+- pkg:composer/codesleeve/asset-pipeline@v1.5
+- pkg:composer/codesleeve/asset-pipeline@v2.0.0
+- pkg:composer/codesleeve/asset-pipeline@v2.0.1
+- pkg:composer/codesleeve/asset-pipeline@v2.0.2
+- pkg:composer/codesleeve/asset-pipeline@v2.0.3
+- pkg:composer/codesleeve/asset-pipeline@v2.1.0

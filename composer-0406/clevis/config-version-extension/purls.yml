@@ -1,0 +1,3 @@
+- pkg:composer/clevis/config-version-extension@v1.0.0
+- pkg:composer/clevis/config-version-extension@v1.1.0
+- pkg:composer/clevis/config-version-extension@v1.1.1-beta

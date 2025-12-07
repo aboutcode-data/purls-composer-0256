@@ -1,0 +1,4 @@
+- pkg:composer/cirrusidentity/simplesamlphp-test-utils@1.16.0
+- pkg:composer/cirrusidentity/simplesamlphp-test-utils@v1.17
+- pkg:composer/cirrusidentity/simplesamlphp-test-utils@v1.18
+- pkg:composer/cirrusidentity/simplesamlphp-test-utils@v1.18.1

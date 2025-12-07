@@ -1,0 +1,4 @@
+- pkg:composer/cooperaj/laravel-redis-sentinel@v0.1
+- pkg:composer/cooperaj/laravel-redis-sentinel@v0.2
+- pkg:composer/cooperaj/laravel-redis-sentinel@v0.3
+- pkg:composer/cooperaj/laravel-redis-sentinel@v1.0

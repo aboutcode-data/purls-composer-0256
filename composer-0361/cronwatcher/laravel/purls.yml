@@ -1,0 +1,8 @@
+- pkg:composer/cronwatcher/laravel@2.0.0
+- pkg:composer/cronwatcher/laravel@2.0.2
+- pkg:composer/cronwatcher/laravel@3.0.0
+- pkg:composer/cronwatcher/laravel@3.0.1
+- pkg:composer/cronwatcher/laravel@4.0.0
+- pkg:composer/cronwatcher/laravel@4.0.1
+- pkg:composer/cronwatcher/laravel@4.0.3
+- pkg:composer/cronwatcher/laravel@4.0.4

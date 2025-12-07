@@ -1,0 +1,5 @@
+- pkg:composer/cirkut/ldap-connector@1.0.0
+- pkg:composer/cirkut/ldap-connector@2.0.0
+- pkg:composer/cirkut/ldap-connector@3.0.0
+- pkg:composer/cirkut/ldap-connector@3.0.1
+- pkg:composer/cirkut/ldap-connector@3.0.2

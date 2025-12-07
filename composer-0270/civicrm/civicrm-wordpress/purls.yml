@@ -1,0 +1,11 @@
+- pkg:composer/civicrm/civicrm-wordpress@6.5.0
+- pkg:composer/civicrm/civicrm-wordpress@6.5.1
+- pkg:composer/civicrm/civicrm-wordpress@6.6.0
+- pkg:composer/civicrm/civicrm-wordpress@6.6.1
+- pkg:composer/civicrm/civicrm-wordpress@6.6.2
+- pkg:composer/civicrm/civicrm-wordpress@6.6.3
+- pkg:composer/civicrm/civicrm-wordpress@6.7.0
+- pkg:composer/civicrm/civicrm-wordpress@6.7.1
+- pkg:composer/civicrm/civicrm-wordpress@6.7.2
+- pkg:composer/civicrm/civicrm-wordpress@6.8.0
+- pkg:composer/civicrm/civicrm-wordpress@6.9.0

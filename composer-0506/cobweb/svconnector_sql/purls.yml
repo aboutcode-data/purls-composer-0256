@@ -1,0 +1,11 @@
+- pkg:composer/cobweb/svconnector_sql@2.0.0
+- pkg:composer/cobweb/svconnector_sql@2.1.0
+- pkg:composer/cobweb/svconnector_sql@2.2.0
+- pkg:composer/cobweb/svconnector_sql@2.3.0
+- pkg:composer/cobweb/svconnector_sql@2.3.1
+- pkg:composer/cobweb/svconnector_sql@3.0.0
+- pkg:composer/cobweb/svconnector_sql@3.1.0
+- pkg:composer/cobweb/svconnector_sql@4.0.0
+- pkg:composer/cobweb/svconnector_sql@4.0.1
+- pkg:composer/cobweb/svconnector_sql@4.1.0
+- pkg:composer/cobweb/svconnector_sql@5.0.0

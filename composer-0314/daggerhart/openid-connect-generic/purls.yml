@@ -1,0 +1,15 @@
+- pkg:composer/daggerhart/openid-connect-generic@3.10.0
+- pkg:composer/daggerhart/openid-connect-generic@3.4.0
+- pkg:composer/daggerhart/openid-connect-generic@3.4.1
+- pkg:composer/daggerhart/openid-connect-generic@3.5.0
+- pkg:composer/daggerhart/openid-connect-generic@3.6.0
+- pkg:composer/daggerhart/openid-connect-generic@3.7.0
+- pkg:composer/daggerhart/openid-connect-generic@3.7.1
+- pkg:composer/daggerhart/openid-connect-generic@3.8.0
+- pkg:composer/daggerhart/openid-connect-generic@3.8.1
+- pkg:composer/daggerhart/openid-connect-generic@3.8.2
+- pkg:composer/daggerhart/openid-connect-generic@3.8.3
+- pkg:composer/daggerhart/openid-connect-generic@3.8.4
+- pkg:composer/daggerhart/openid-connect-generic@3.8.5
+- pkg:composer/daggerhart/openid-connect-generic@3.9.0
+- pkg:composer/daggerhart/openid-connect-generic@3.9.1

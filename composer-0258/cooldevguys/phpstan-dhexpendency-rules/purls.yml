@@ -1,0 +1,4 @@
+- pkg:composer/cooldevguys/phpstan-dhexpendency-rules@1.0.0
+- pkg:composer/cooldevguys/phpstan-dhexpendency-rules@1.0.1
+- pkg:composer/cooldevguys/phpstan-dhexpendency-rules@1.0.2
+- pkg:composer/cooldevguys/phpstan-dhexpendency-rules@1.0.3

@@ -1,0 +1,9 @@
+- pkg:composer/cloud_resource_manager/crm@1.0
+- pkg:composer/cloud_resource_manager/crm@2.0
+- pkg:composer/cloud_resource_manager/crm@3.0
+- pkg:composer/cloud_resource_manager/crm@4.0
+- pkg:composer/cloud_resource_manager/crm@5.0
+- pkg:composer/cloud_resource_manager/crm@5.1
+- pkg:composer/cloud_resource_manager/crm@5.2
+- pkg:composer/cloud_resource_manager/crm@5.3
+- pkg:composer/cloud_resource_manager/crm@5.4

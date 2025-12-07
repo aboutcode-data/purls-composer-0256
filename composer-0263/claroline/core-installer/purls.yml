@@ -1,0 +1,4 @@
+- pkg:composer/claroline/core-installer@1.0.0
+- pkg:composer/claroline/core-installer@1.0.1
+- pkg:composer/claroline/core-installer@1.0.2
+- pkg:composer/claroline/core-installer@2.0.0

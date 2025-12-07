@@ -1,0 +1,3 @@
+- pkg:composer/computablefacts/behat-contexts@v0.1.0
+- pkg:composer/computablefacts/behat-contexts@v0.2
+- pkg:composer/computablefacts/behat-contexts@v0.3

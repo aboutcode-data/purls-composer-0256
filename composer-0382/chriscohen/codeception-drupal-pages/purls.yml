@@ -1,0 +1,3 @@
+- pkg:composer/chriscohen/codeception-drupal-pages@v0.1
+- pkg:composer/chriscohen/codeception-drupal-pages@v0.2.0
+- pkg:composer/chriscohen/codeception-drupal-pages@v0.2.1

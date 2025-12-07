@@ -1,0 +1,3 @@
+- pkg:composer/church/neo4j@1.0
+- pkg:composer/church/neo4j@1.1
+- pkg:composer/church/neo4j@1.2

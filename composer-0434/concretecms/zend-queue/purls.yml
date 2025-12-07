@@ -1,0 +1,4 @@
+- pkg:composer/concretecms/zend-queue@0.9.0
+- pkg:composer/concretecms/zend-queue@2.0.0rc3
+- pkg:composer/concretecms/zend-queue@2.0.0rc4
+- pkg:composer/concretecms/zend-queue@2.0.0rc5

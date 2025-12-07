@@ -1,0 +1,4 @@
+- pkg:composer/daedalus-web/authentication@2.1.1
+- pkg:composer/daedalus-web/authentication@v1.0.0
+- pkg:composer/daedalus-web/authentication@v2.0.0
+- pkg:composer/daedalus-web/authentication@v2.1.0

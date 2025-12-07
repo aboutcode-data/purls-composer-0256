@@ -1,0 +1,13 @@
+- pkg:composer/codefyphp/domain-driven-core@v0.1.0
+- pkg:composer/codefyphp/domain-driven-core@v0.1.1
+- pkg:composer/codefyphp/domain-driven-core@v0.2.0
+- pkg:composer/codefyphp/domain-driven-core@v0.2.1
+- pkg:composer/codefyphp/domain-driven-core@v1.0.0
+- pkg:composer/codefyphp/domain-driven-core@v1.0.1
+- pkg:composer/codefyphp/domain-driven-core@v1.0.2
+- pkg:composer/codefyphp/domain-driven-core@v1.0.3
+- pkg:composer/codefyphp/domain-driven-core@v2.0.0
+- pkg:composer/codefyphp/domain-driven-core@v3.0.0
+- pkg:composer/codefyphp/domain-driven-core@v3.0.0-beta.1
+- pkg:composer/codefyphp/domain-driven-core@v3.0.0-beta.2
+- pkg:composer/codefyphp/domain-driven-core@v3.0.0-beta.3

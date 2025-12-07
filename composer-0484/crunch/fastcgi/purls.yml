@@ -1,0 +1,4 @@
+- pkg:composer/crunch/fastcgi@v0.1
+- pkg:composer/crunch/fastcgi@v1.0
+- pkg:composer/crunch/fastcgi@v1.0.1
+- pkg:composer/crunch/fastcgi@v2.0.0

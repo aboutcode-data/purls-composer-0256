@@ -1,0 +1,3 @@
+- pkg:composer/cisco-systems/directory-bundle@2.8
+- pkg:composer/cisco-systems/directory-bundle@3.0
+- pkg:composer/cisco-systems/directory-bundle@v1.0

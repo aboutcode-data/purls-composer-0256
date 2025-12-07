@@ -1,0 +1,12 @@
+- pkg:composer/coffeedesk/allegro-api-client-php@2.0.0
+- pkg:composer/coffeedesk/allegro-api-client-php@3.0.0
+- pkg:composer/coffeedesk/allegro-api-client-php@3.0.1
+- pkg:composer/coffeedesk/allegro-api-client-php@3.1.0
+- pkg:composer/coffeedesk/allegro-api-client-php@3.1.1
+- pkg:composer/coffeedesk/allegro-api-client-php@v0.9
+- pkg:composer/coffeedesk/allegro-api-client-php@v1.0
+- pkg:composer/coffeedesk/allegro-api-client-php@v1.1
+- pkg:composer/coffeedesk/allegro-api-client-php@v1.2
+- pkg:composer/coffeedesk/allegro-api-client-php@v1.2.1
+- pkg:composer/coffeedesk/allegro-api-client-php@v1.2.2
+- pkg:composer/coffeedesk/allegro-api-client-php@v1.3.0

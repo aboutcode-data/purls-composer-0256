@@ -1,0 +1,4 @@
+- pkg:composer/congraph/core@0.1.0-alpha
+- pkg:composer/congraph/core@v1.0.0
+- pkg:composer/congraph/core@v1.0beta
+- pkg:composer/congraph/core@v1.1.0

@@ -1,0 +1,12 @@
+- pkg:composer/claylo/selenium-server-standalone@2.22.0
+- pkg:composer/claylo/selenium-server-standalone@2.23.0
+- pkg:composer/claylo/selenium-server-standalone@2.23.1
+- pkg:composer/claylo/selenium-server-standalone@2.24.1
+- pkg:composer/claylo/selenium-server-standalone@2.25.0
+- pkg:composer/claylo/selenium-server-standalone@2.26.0
+- pkg:composer/claylo/selenium-server-standalone@2.27.0
+- pkg:composer/claylo/selenium-server-standalone@2.28.0
+- pkg:composer/claylo/selenium-server-standalone@2.29.0
+- pkg:composer/claylo/selenium-server-standalone@2.30.0
+- pkg:composer/claylo/selenium-server-standalone@2.31.0
+- pkg:composer/claylo/selenium-server-standalone@2.32.0

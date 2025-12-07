@@ -1,0 +1,4 @@
+- pkg:composer/concrete5/oauth-user-data@v1.0.0
+- pkg:composer/concrete5/oauth-user-data@v1.0.0-alpha
+- pkg:composer/concrete5/oauth-user-data@v1.0.0-beta
+- pkg:composer/concrete5/oauth-user-data@v1.0.1

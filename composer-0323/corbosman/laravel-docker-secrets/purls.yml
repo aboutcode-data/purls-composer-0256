@@ -1,0 +1,8 @@
+- pkg:composer/corbosman/laravel-docker-secrets@0.1
+- pkg:composer/corbosman/laravel-docker-secrets@0.1.1
+- pkg:composer/corbosman/laravel-docker-secrets@0.1.2
+- pkg:composer/corbosman/laravel-docker-secrets@0.1.3
+- pkg:composer/corbosman/laravel-docker-secrets@1.0.0
+- pkg:composer/corbosman/laravel-docker-secrets@1.1.0
+- pkg:composer/corbosman/laravel-docker-secrets@2.0.0
+- pkg:composer/corbosman/laravel-docker-secrets@3.0.0

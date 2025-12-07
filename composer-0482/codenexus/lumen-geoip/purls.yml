@@ -1,0 +1,5 @@
+- pkg:composer/codenexus/lumen-geoip@v1.0.0
+- pkg:composer/codenexus/lumen-geoip@v2.0.0
+- pkg:composer/codenexus/lumen-geoip@v2.0.0-RC
+- pkg:composer/codenexus/lumen-geoip@v2.0.1
+- pkg:composer/codenexus/lumen-geoip@v2.0.2

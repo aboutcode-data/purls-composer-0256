@@ -1,0 +1,4 @@
+- pkg:composer/crowphp/badger@0.1-beta
+- pkg:composer/crowphp/badger@0.2
+- pkg:composer/crowphp/badger@0.2-beta
+- pkg:composer/crowphp/badger@0.3

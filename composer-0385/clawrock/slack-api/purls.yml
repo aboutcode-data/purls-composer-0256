@@ -1,0 +1,4 @@
+- pkg:composer/clawrock/slack-api@1.0.0
+- pkg:composer/clawrock/slack-api@1.5.2
+- pkg:composer/clawrock/slack-api@1.5.4
+- pkg:composer/clawrock/slack-api@1.6.0

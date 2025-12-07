@@ -1,0 +1,5 @@
+- pkg:composer/code-tool/jaeger-mongodb-collector@v1.0.0
+- pkg:composer/code-tool/jaeger-mongodb-collector@v1.1.0
+- pkg:composer/code-tool/jaeger-mongodb-collector@v1.2.0
+- pkg:composer/code-tool/jaeger-mongodb-collector@v1.2.1
+- pkg:composer/code-tool/jaeger-mongodb-collector@v1.3.0

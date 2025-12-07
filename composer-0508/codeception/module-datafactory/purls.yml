@@ -1,0 +1,5 @@
+- pkg:composer/codeception/module-datafactory@1.0.0
+- pkg:composer/codeception/module-datafactory@1.0.1
+- pkg:composer/codeception/module-datafactory@1.1.0
+- pkg:composer/codeception/module-datafactory@2.0.0
+- pkg:composer/codeception/module-datafactory@3.0.0
