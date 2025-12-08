@@ -1,0 +1,4 @@
+- pkg:composer/kurollo/saml-bundle@1.0
+- pkg:composer/kurollo/saml-bundle@2.0
+- pkg:composer/kurollo/saml-bundle@3.0
+- pkg:composer/kurollo/saml-bundle@5.4

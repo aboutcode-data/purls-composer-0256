@@ -1,0 +1,4 @@
+- pkg:composer/klimesf/nette-jwt-user-storage@v0.1.0
+- pkg:composer/klimesf/nette-jwt-user-storage@v0.1.1
+- pkg:composer/klimesf/nette-jwt-user-storage@v0.2.0
+- pkg:composer/klimesf/nette-jwt-user-storage@v1.0.0

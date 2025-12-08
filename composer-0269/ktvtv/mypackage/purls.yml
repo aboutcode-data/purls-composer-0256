@@ -1,0 +1,5 @@
+- pkg:composer/ktvtv/mypackage@1.0
+- pkg:composer/ktvtv/mypackage@1.1.0
+- pkg:composer/ktvtv/mypackage@10.5.9
+- pkg:composer/ktvtv/mypackage@11.5.9
+- pkg:composer/ktvtv/mypackage@3.0.0

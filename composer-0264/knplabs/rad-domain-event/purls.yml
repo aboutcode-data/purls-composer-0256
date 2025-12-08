@@ -1,0 +1,6 @@
+- pkg:composer/knplabs/rad-domain-event@0.1.0
+- pkg:composer/knplabs/rad-domain-event@1.0.0
+- pkg:composer/knplabs/rad-domain-event@2.0.1
+- pkg:composer/knplabs/rad-domain-event@v2.0.0
+- pkg:composer/knplabs/rad-domain-event@v2.1.0
+- pkg:composer/knplabs/rad-domain-event@v2.1.1

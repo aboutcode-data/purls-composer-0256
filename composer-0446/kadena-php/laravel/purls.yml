@@ -1,0 +1,4 @@
+- pkg:composer/kadena-php/laravel@v0.0.1
+- pkg:composer/kadena-php/laravel@v0.0.2
+- pkg:composer/kadena-php/laravel@v0.0.3
+- pkg:composer/kadena-php/laravel@v0.1.0

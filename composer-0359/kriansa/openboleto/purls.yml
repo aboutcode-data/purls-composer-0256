@@ -1,0 +1,4 @@
+- pkg:composer/kriansa/openboleto@v0.1
+- pkg:composer/kriansa/openboleto@v1.0
+- pkg:composer/kriansa/openboleto@v2.0.0
+- pkg:composer/kriansa/openboleto@v2.0.1

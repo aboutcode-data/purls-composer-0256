@@ -1,0 +1,16 @@
+- pkg:composer/kitar/laravel-dynamodb@v0.1.0
+- pkg:composer/kitar/laravel-dynamodb@v0.2.0
+- pkg:composer/kitar/laravel-dynamodb@v0.3.0
+- pkg:composer/kitar/laravel-dynamodb@v0.4.0
+- pkg:composer/kitar/laravel-dynamodb@v0.5.0
+- pkg:composer/kitar/laravel-dynamodb@v0.5.1
+- pkg:composer/kitar/laravel-dynamodb@v0.6.0
+- pkg:composer/kitar/laravel-dynamodb@v1.0.0
+- pkg:composer/kitar/laravel-dynamodb@v1.0.1
+- pkg:composer/kitar/laravel-dynamodb@v1.0.2
+- pkg:composer/kitar/laravel-dynamodb@v1.1.0
+- pkg:composer/kitar/laravel-dynamodb@v1.1.1
+- pkg:composer/kitar/laravel-dynamodb@v1.1.2
+- pkg:composer/kitar/laravel-dynamodb@v1.2.0
+- pkg:composer/kitar/laravel-dynamodb@v1.3.0
+- pkg:composer/kitar/laravel-dynamodb@v1.4.0

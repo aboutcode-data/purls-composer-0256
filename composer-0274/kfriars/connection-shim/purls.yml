@@ -1,0 +1,4 @@
+- pkg:composer/kfriars/connection-shim@v10.0.0
+- pkg:composer/kfriars/connection-shim@v10.0.1
+- pkg:composer/kfriars/connection-shim@v10.0.2
+- pkg:composer/kfriars/connection-shim@v11.0.0

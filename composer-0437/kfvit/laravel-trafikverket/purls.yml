@@ -1,0 +1,5 @@
+- pkg:composer/kfvit/laravel-trafikverket@0.5
+- pkg:composer/kfvit/laravel-trafikverket@0.6-beta
+- pkg:composer/kfvit/laravel-trafikverket@0.7
+- pkg:composer/kfvit/laravel-trafikverket@0.8
+- pkg:composer/kfvit/laravel-trafikverket@v0.5-beta.2

@@ -1,0 +1,4 @@
+- pkg:composer/keboola/looker-api@0.0.1
+- pkg:composer/keboola/looker-api@6.20.10
+- pkg:composer/keboola/looker-api@6.20.11
+- pkg:composer/keboola/looker-api@7.0.0

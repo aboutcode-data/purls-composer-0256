@@ -1,0 +1,5 @@
+- pkg:composer/joschaefer/flysystem-sciebo@v0.1-alpha
+- pkg:composer/joschaefer/flysystem-sciebo@v0.2-alpha
+- pkg:composer/joschaefer/flysystem-sciebo@v1.0
+- pkg:composer/joschaefer/flysystem-sciebo@v1.3
+- pkg:composer/joschaefer/flysystem-sciebo@v1.3.1

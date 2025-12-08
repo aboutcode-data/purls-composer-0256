@@ -1,0 +1,4 @@
+- pkg:composer/ksrnnb/my-package@1.0.0-stable
+- pkg:composer/ksrnnb/my-package@2.0.0
+- pkg:composer/ksrnnb/my-package@v2.1.0
+- pkg:composer/ksrnnb/my-package@v2.2.0

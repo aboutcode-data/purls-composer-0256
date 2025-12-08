@@ -1,0 +1,4 @@
+- pkg:composer/kagency/http-replay@0.1
+- pkg:composer/kagency/http-replay@0.1-alpha
+- pkg:composer/kagency/http-replay@0.2
+- pkg:composer/kagency/http-replay@0.3

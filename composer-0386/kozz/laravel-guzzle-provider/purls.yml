@@ -1,0 +1,13 @@
+- pkg:composer/kozz/laravel-guzzle-provider@1.0.1
+- pkg:composer/kozz/laravel-guzzle-provider@5.0
+- pkg:composer/kozz/laravel-guzzle-provider@6.0
+- pkg:composer/kozz/laravel-guzzle-provider@6.1.0
+- pkg:composer/kozz/laravel-guzzle-provider@6.1.1
+- pkg:composer/kozz/laravel-guzzle-provider@6.1.2
+- pkg:composer/kozz/laravel-guzzle-provider@6.1.3
+- pkg:composer/kozz/laravel-guzzle-provider@6.1.4
+- pkg:composer/kozz/laravel-guzzle-provider@7.0.0
+- pkg:composer/kozz/laravel-guzzle-provider@7.1.0
+- pkg:composer/kozz/laravel-guzzle-provider@7.2.0
+- pkg:composer/kozz/laravel-guzzle-provider@7.3.0
+- pkg:composer/kozz/laravel-guzzle-provider@v0.0.1

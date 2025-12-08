@@ -1,0 +1,4 @@
+- pkg:composer/lanfix/yii2-redis-pub-sub@0.1.0
+- pkg:composer/lanfix/yii2-redis-pub-sub@0.1.1
+- pkg:composer/lanfix/yii2-redis-pub-sub@0.1.2
+- pkg:composer/lanfix/yii2-redis-pub-sub@0.1.3

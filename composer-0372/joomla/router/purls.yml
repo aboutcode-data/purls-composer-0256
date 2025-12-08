@@ -1,0 +1,17 @@
+- pkg:composer/joomla/router@1.0
+- pkg:composer/joomla/router@1.0-alpha
+- pkg:composer/joomla/router@1.0-beta
+- pkg:composer/joomla/router@1.0-beta2
+- pkg:composer/joomla/router@1.0-beta3
+- pkg:composer/joomla/router@1.1.0
+- pkg:composer/joomla/router@1.1.1
+- pkg:composer/joomla/router@1.1.2
+- pkg:composer/joomla/router@1.2.0
+- pkg:composer/joomla/router@2.0.0
+- pkg:composer/joomla/router@2.0.0-beta
+- pkg:composer/joomla/router@2.0.0-rc
+- pkg:composer/joomla/router@2.0.1
+- pkg:composer/joomla/router@3.0.0
+- pkg:composer/joomla/router@3.0.1
+- pkg:composer/joomla/router@3.0.2
+- pkg:composer/joomla/router@4.0.0

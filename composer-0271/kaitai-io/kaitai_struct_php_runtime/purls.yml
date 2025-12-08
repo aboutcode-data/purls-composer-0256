@@ -1,0 +1,5 @@
+- pkg:composer/kaitai-io/kaitai_struct_php_runtime@0.10
+- pkg:composer/kaitai-io/kaitai_struct_php_runtime@0.11
+- pkg:composer/kaitai-io/kaitai_struct_php_runtime@0.5
+- pkg:composer/kaitai-io/kaitai_struct_php_runtime@0.7
+- pkg:composer/kaitai-io/kaitai_struct_php_runtime@0.9

@@ -1,0 +1,17 @@
+- pkg:composer/jsor/doctrine-postgis@v1.0.0
+- pkg:composer/jsor/doctrine-postgis@v1.1.0
+- pkg:composer/jsor/doctrine-postgis@v1.1.1
+- pkg:composer/jsor/doctrine-postgis@v1.1.2
+- pkg:composer/jsor/doctrine-postgis@v1.2.0
+- pkg:composer/jsor/doctrine-postgis@v1.3.0
+- pkg:composer/jsor/doctrine-postgis@v1.4.0
+- pkg:composer/jsor/doctrine-postgis@v1.4.1
+- pkg:composer/jsor/doctrine-postgis@v1.5.0
+- pkg:composer/jsor/doctrine-postgis@v1.6.0
+- pkg:composer/jsor/doctrine-postgis@v1.7.0
+- pkg:composer/jsor/doctrine-postgis@v1.8.0
+- pkg:composer/jsor/doctrine-postgis@v2.0.0
+- pkg:composer/jsor/doctrine-postgis@v2.1.0
+- pkg:composer/jsor/doctrine-postgis@v2.2.0
+- pkg:composer/jsor/doctrine-postgis@v2.3.0
+- pkg:composer/jsor/doctrine-postgis@v2.4.0

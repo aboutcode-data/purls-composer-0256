@@ -1,0 +1,14 @@
+- pkg:composer/kocal/symfony-mailer-testing@1.0.0
+- pkg:composer/kocal/symfony-mailer-testing@1.0.1
+- pkg:composer/kocal/symfony-mailer-testing@1.1.0
+- pkg:composer/kocal/symfony-mailer-testing@v1.0.0-ALPHA
+- pkg:composer/kocal/symfony-mailer-testing@v1.0.0-ALPHA2
+- pkg:composer/kocal/symfony-mailer-testing@v1.0.0-ALPHA3
+- pkg:composer/kocal/symfony-mailer-testing@v1.0.0-BETA
+- pkg:composer/kocal/symfony-mailer-testing@v1.0.0-BETA1
+- pkg:composer/kocal/symfony-mailer-testing@v1.0.0-BETA2
+- pkg:composer/kocal/symfony-mailer-testing@v1.0.0-RC1
+- pkg:composer/kocal/symfony-mailer-testing@v1.0.0-RC2
+- pkg:composer/kocal/symfony-mailer-testing@v1.2.0
+- pkg:composer/kocal/symfony-mailer-testing@v1.3.0
+- pkg:composer/kocal/symfony-mailer-testing@v1.4.0

@@ -1,0 +1,13 @@
+- pkg:composer/jyggen/curl@1.0
+- pkg:composer/jyggen/curl@1.0.1
+- pkg:composer/jyggen/curl@1.0.2
+- pkg:composer/jyggen/curl@v2.0.0
+- pkg:composer/jyggen/curl@v2.0.0-BETA1
+- pkg:composer/jyggen/curl@v2.0.0-BETA2
+- pkg:composer/jyggen/curl@v2.0.0-RC1
+- pkg:composer/jyggen/curl@v2.0.1
+- pkg:composer/jyggen/curl@v2.0.2
+- pkg:composer/jyggen/curl@v3.0.0
+- pkg:composer/jyggen/curl@v3.0.1
+- pkg:composer/jyggen/curl@v4.0.0
+- pkg:composer/jyggen/curl@v4.0.0-RC1

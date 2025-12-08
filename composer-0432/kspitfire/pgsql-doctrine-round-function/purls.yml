@@ -1,0 +1,4 @@
+- pkg:composer/kspitfire/pgsql-doctrine-round-function@1.1
+- pkg:composer/kspitfire/pgsql-doctrine-round-function@1.2
+- pkg:composer/kspitfire/pgsql-doctrine-round-function@1.3
+- pkg:composer/kspitfire/pgsql-doctrine-round-function@v1.0

@@ -1,0 +1,6 @@
+- pkg:composer/kitpages/simple-cache-bundle@v1.0.0
+- pkg:composer/kitpages/simple-cache-bundle@v2.1.0BETA1
+- pkg:composer/kitpages/simple-cache-bundle@v2.1.0BETA2
+- pkg:composer/kitpages/simple-cache-bundle@v2.1.0BETA3
+- pkg:composer/kitpages/simple-cache-bundle@v2.1.0RC1
+- pkg:composer/kitpages/simple-cache-bundle@v3.0.0
