@@ -1,0 +1,8 @@
+- pkg:composer/ramilexe/laravel-queue-rabbitmq@4.0
+- pkg:composer/ramilexe/laravel-queue-rabbitmq@4.1
+- pkg:composer/ramilexe/laravel-queue-rabbitmq@4.2
+- pkg:composer/ramilexe/laravel-queue-rabbitmq@5.0
+- pkg:composer/ramilexe/laravel-queue-rabbitmq@5.1
+- pkg:composer/ramilexe/laravel-queue-rabbitmq@5.6
+- pkg:composer/ramilexe/laravel-queue-rabbitmq@5.7
+- pkg:composer/ramilexe/laravel-queue-rabbitmq@5.8

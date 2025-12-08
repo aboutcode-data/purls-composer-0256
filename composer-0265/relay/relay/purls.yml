@@ -1,0 +1,12 @@
+- pkg:composer/relay/relay@0.0.1
+- pkg:composer/relay/relay@0.1.0
+- pkg:composer/relay/relay@0.2.0
+- pkg:composer/relay/relay@1.0.0
+- pkg:composer/relay/relay@1.1.0
+- pkg:composer/relay/relay@2.0.0
+- pkg:composer/relay/relay@2.0.0-alpha1
+- pkg:composer/relay/relay@2.0.0-rc.1
+- pkg:composer/relay/relay@2.1.0
+- pkg:composer/relay/relay@2.1.1
+- pkg:composer/relay/relay@2.1.2
+- pkg:composer/relay/relay@3.0.0

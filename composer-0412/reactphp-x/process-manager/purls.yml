@@ -1,0 +1,4 @@
+- pkg:composer/reactphp-x/process-manager@v0.0.5
+- pkg:composer/reactphp-x/process-manager@v0.0.6
+- pkg:composer/reactphp-x/process-manager@v0.0.7
+- pkg:composer/reactphp-x/process-manager@v1.0.0

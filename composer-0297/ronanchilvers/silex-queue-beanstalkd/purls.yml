@@ -1,0 +1,3 @@
+- pkg:composer/ronanchilvers/silex-queue-beanstalkd@1.0
+- pkg:composer/ronanchilvers/silex-queue-beanstalkd@1.1
+- pkg:composer/ronanchilvers/silex-queue-beanstalkd@1.1.1

@@ -1,0 +1,5 @@
+- pkg:composer/samplecms/framework@5.0
+- pkg:composer/samplecms/framework@5.0-rc1
+- pkg:composer/samplecms/framework@5.0-rc2
+- pkg:composer/samplecms/framework@5.0-rc3
+- pkg:composer/samplecms/framework@5.0-rc4

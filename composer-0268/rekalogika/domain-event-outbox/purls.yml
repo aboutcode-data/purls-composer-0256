@@ -1,0 +1,13 @@
+- pkg:composer/rekalogika/domain-event-outbox@2.1.0
+- pkg:composer/rekalogika/domain-event-outbox@2.2.0
+- pkg:composer/rekalogika/domain-event-outbox@2.2.1
+- pkg:composer/rekalogika/domain-event-outbox@2.2.2
+- pkg:composer/rekalogika/domain-event-outbox@2.2.3
+- pkg:composer/rekalogika/domain-event-outbox@2.3.0
+- pkg:composer/rekalogika/domain-event-outbox@2.3.1
+- pkg:composer/rekalogika/domain-event-outbox@2.3.3
+- pkg:composer/rekalogika/domain-event-outbox@2.3.4
+- pkg:composer/rekalogika/domain-event-outbox@2.4.0
+- pkg:composer/rekalogika/domain-event-outbox@2.5.0
+- pkg:composer/rekalogika/domain-event-outbox@2.5.1
+- pkg:composer/rekalogika/domain-event-outbox@2.5.2

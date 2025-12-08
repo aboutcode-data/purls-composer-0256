@@ -1,0 +1,4 @@
+- pkg:composer/retailcrm/symfony-beanstalkd-messenger@v1.0.0
+- pkg:composer/retailcrm/symfony-beanstalkd-messenger@v1.0.1
+- pkg:composer/retailcrm/symfony-beanstalkd-messenger@v1.0.2
+- pkg:composer/retailcrm/symfony-beanstalkd-messenger@v2.0.0

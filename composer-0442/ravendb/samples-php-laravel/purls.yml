@@ -1,0 +1,4 @@
+- pkg:composer/ravendb/samples-php-laravel@1.0
+- pkg:composer/ravendb/samples-php-laravel@1.1
+- pkg:composer/ravendb/samples-php-laravel@1.1.2
+- pkg:composer/ravendb/samples-php-laravel@1.1.3

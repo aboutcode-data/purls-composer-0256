@@ -1,0 +1,6 @@
+- pkg:composer/s2k/project-installer@0.1-stable
+- pkg:composer/s2k/project-installer@0.2-stable
+- pkg:composer/s2k/project-installer@0.3-stable
+- pkg:composer/s2k/project-installer@0.4-stable
+- pkg:composer/s2k/project-installer@0.5-stable
+- pkg:composer/s2k/project-installer@0.6

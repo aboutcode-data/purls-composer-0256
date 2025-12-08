@@ -1,0 +1,4 @@
+- pkg:composer/rosamarsky/laravel-command-bus@1.0
+- pkg:composer/rosamarsky/laravel-command-bus@1.0.2
+- pkg:composer/rosamarsky/laravel-command-bus@2.0
+- pkg:composer/rosamarsky/laravel-command-bus@2.0.1

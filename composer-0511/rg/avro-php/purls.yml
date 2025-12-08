@@ -1,0 +1,6 @@
+- pkg:composer/rg/avro-php@1.7.5
+- pkg:composer/rg/avro-php@1.7.7
+- pkg:composer/rg/avro-php@1.8.0
+- pkg:composer/rg/avro-php@2.0.0
+- pkg:composer/rg/avro-php@2.0.1
+- pkg:composer/rg/avro-php@3.0.0

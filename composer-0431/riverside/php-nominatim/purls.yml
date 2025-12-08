@@ -1,0 +1,5 @@
+- pkg:composer/riverside/php-nominatim@1.0.0
+- pkg:composer/riverside/php-nominatim@1.0.1
+- pkg:composer/riverside/php-nominatim@1.1.0
+- pkg:composer/riverside/php-nominatim@1.2.0
+- pkg:composer/riverside/php-nominatim@2.0.0
