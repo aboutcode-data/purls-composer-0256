@@ -1,0 +1,4 @@
+- pkg:composer/php-contrib/response-filter@0.0.1
+- pkg:composer/php-contrib/response-filter@1.0.0
+- pkg:composer/php-contrib/response-filter@2.0.0
+- pkg:composer/php-contrib/response-filter@2.0.1

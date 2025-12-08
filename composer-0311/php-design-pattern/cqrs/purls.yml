@@ -1,0 +1,4 @@
+- pkg:composer/php-design-pattern/cqrs@1.0.0
+- pkg:composer/php-design-pattern/cqrs@8.0.0
+- pkg:composer/php-design-pattern/cqrs@8.1.0
+- pkg:composer/php-design-pattern/cqrs@8.1.1

@@ -1,0 +1,5 @@
+- pkg:composer/php-stubs/wordpress-seo-stubs@v12.9.1
+- pkg:composer/php-stubs/wordpress-seo-stubs@v17.2
+- pkg:composer/php-stubs/wordpress-seo-stubs@v19.4
+- pkg:composer/php-stubs/wordpress-seo-stubs@v20.5
+- pkg:composer/php-stubs/wordpress-seo-stubs@v20.5.1

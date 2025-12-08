@@ -1,0 +1,15 @@
+- pkg:composer/phpixie/project@3.0
+- pkg:composer/phpixie/project@3.1
+- pkg:composer/phpixie/project@3.2
+- pkg:composer/phpixie/project@3.2.1
+- pkg:composer/phpixie/project@3.3.1
+- pkg:composer/phpixie/project@3.3.2
+- pkg:composer/phpixie/project@3.3.3
+- pkg:composer/phpixie/project@3.3.4
+- pkg:composer/phpixie/project@3.4
+- pkg:composer/phpixie/project@3.5
+- pkg:composer/phpixie/project@3.6
+- pkg:composer/phpixie/project@3.6.1
+- pkg:composer/phpixie/project@3.6.2
+- pkg:composer/phpixie/project@3.7
+- pkg:composer/phpixie/project@3.7.1

@@ -1,0 +1,4 @@
+- pkg:composer/phpuef/country@v1.0.0
+- pkg:composer/phpuef/country@v1.0.1
+- pkg:composer/phpuef/country@v1.0.1-beta1
+- pkg:composer/phpuef/country@v1.0.1-rc1

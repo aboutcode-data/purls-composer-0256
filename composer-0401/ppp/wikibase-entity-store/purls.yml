@@ -1,0 +1,4 @@
+- pkg:composer/ppp/wikibase-entity-store@0.1
+- pkg:composer/ppp/wikibase-entity-store@0.2
+- pkg:composer/ppp/wikibase-entity-store@0.3
+- pkg:composer/ppp/wikibase-entity-store@0.3.1

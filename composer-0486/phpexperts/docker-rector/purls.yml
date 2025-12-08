@@ -1,0 +1,3 @@
+- pkg:composer/phpexperts/docker-rector@v1.0.0
+- pkg:composer/phpexperts/docker-rector@v1.0.1
+- pkg:composer/phpexperts/docker-rector@v1.0.2

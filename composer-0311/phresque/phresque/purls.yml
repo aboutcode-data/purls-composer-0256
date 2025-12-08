@@ -1,0 +1,9 @@
+- pkg:composer/phresque/phresque@v1.0
+- pkg:composer/phresque/phresque@v2.0
+- pkg:composer/phresque/phresque@v2.1
+- pkg:composer/phresque/phresque@v3.0.0
+- pkg:composer/phresque/phresque@v3.1.0
+- pkg:composer/phresque/phresque@v3.1.1
+- pkg:composer/phresque/phresque@v3.2.1
+- pkg:composer/phresque/phresque@v3.3.1
+- pkg:composer/phresque/phresque@v4.0

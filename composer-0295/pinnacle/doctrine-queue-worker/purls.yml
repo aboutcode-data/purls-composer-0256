@@ -1,0 +1,7 @@
+- pkg:composer/pinnacle/doctrine-queue-worker@v1.0.0
+- pkg:composer/pinnacle/doctrine-queue-worker@v1.0.0-beta.1
+- pkg:composer/pinnacle/doctrine-queue-worker@v1.0.0-beta.2
+- pkg:composer/pinnacle/doctrine-queue-worker@v2.0.0
+- pkg:composer/pinnacle/doctrine-queue-worker@v3.0.0
+- pkg:composer/pinnacle/doctrine-queue-worker@v3.0.0-beta.1
+- pkg:composer/pinnacle/doctrine-queue-worker@v4.0.0-beta.1

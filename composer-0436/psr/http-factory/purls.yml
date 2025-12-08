@@ -1,0 +1,4 @@
+- pkg:composer/psr/http-factory@1.0.0
+- pkg:composer/psr/http-factory@1.0.1
+- pkg:composer/psr/http-factory@1.0.2
+- pkg:composer/psr/http-factory@1.1.0

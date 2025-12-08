@@ -1,0 +1,4 @@
+- pkg:composer/polevaultweb/s3-filesystem@1.0
+- pkg:composer/polevaultweb/s3-filesystem@1.1
+- pkg:composer/polevaultweb/s3-filesystem@1.2
+- pkg:composer/polevaultweb/s3-filesystem@2.0

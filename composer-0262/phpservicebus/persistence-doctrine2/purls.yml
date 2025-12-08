@@ -1,0 +1,4 @@
+- pkg:composer/phpservicebus/persistence-doctrine2@1.0.0
+- pkg:composer/phpservicebus/persistence-doctrine2@2.0.0
+- pkg:composer/phpservicebus/persistence-doctrine2@2.1.0
+- pkg:composer/phpservicebus/persistence-doctrine2@2.1.1

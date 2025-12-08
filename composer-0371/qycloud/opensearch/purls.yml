@@ -1,0 +1,4 @@
+- pkg:composer/qycloud/opensearch@v1.0
+- pkg:composer/qycloud/opensearch@v2.0
+- pkg:composer/qycloud/opensearch@v3.0
+- pkg:composer/qycloud/opensearch@v3.1

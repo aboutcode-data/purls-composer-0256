@@ -1,0 +1,17 @@
+- pkg:composer/php-xapi/model@v0.1.0
+- pkg:composer/php-xapi/model@v0.2.0
+- pkg:composer/php-xapi/model@v0.3.0
+- pkg:composer/php-xapi/model@v0.4.0
+- pkg:composer/php-xapi/model@v0.4.1
+- pkg:composer/php-xapi/model@v0.5.0
+- pkg:composer/php-xapi/model@v0.5.1
+- pkg:composer/php-xapi/model@v1.0.0
+- pkg:composer/php-xapi/model@v1.0.1
+- pkg:composer/php-xapi/model@v1.1.0
+- pkg:composer/php-xapi/model@v1.2.0
+- pkg:composer/php-xapi/model@v2.0.0
+- pkg:composer/php-xapi/model@v2.1.0
+- pkg:composer/php-xapi/model@v2.2.0
+- pkg:composer/php-xapi/model@v3.0.0
+- pkg:composer/php-xapi/model@v3.1.0
+- pkg:composer/php-xapi/model@v3.2.0

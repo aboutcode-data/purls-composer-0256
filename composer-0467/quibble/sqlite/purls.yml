@@ -1,0 +1,5 @@
+- pkg:composer/quibble/sqlite@1.6.2
+- pkg:composer/quibble/sqlite@1.6.3
+- pkg:composer/quibble/sqlite@2.0.0
+- pkg:composer/quibble/sqlite@2.0.1
+- pkg:composer/quibble/sqlite@2.1.0

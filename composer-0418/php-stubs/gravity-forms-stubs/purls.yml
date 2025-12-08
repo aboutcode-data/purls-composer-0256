@@ -1,0 +1,4 @@
+- pkg:composer/php-stubs/gravity-forms-stubs@v2.6.7
+- pkg:composer/php-stubs/gravity-forms-stubs@v2.7.10
+- pkg:composer/php-stubs/gravity-forms-stubs@v2.8.3
+- pkg:composer/php-stubs/gravity-forms-stubs@v2.9.3

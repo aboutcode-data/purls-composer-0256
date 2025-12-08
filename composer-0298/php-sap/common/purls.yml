@@ -1,0 +1,14 @@
+- pkg:composer/php-sap/common@6.1.1
+- pkg:composer/php-sap/common@v1.0.0
+- pkg:composer/php-sap/common@v1.1.0
+- pkg:composer/php-sap/common@v1.1.1
+- pkg:composer/php-sap/common@v2.0.0
+- pkg:composer/php-sap/common@v2.1.0
+- pkg:composer/php-sap/common@v3.0.0
+- pkg:composer/php-sap/common@v3.1.0
+- pkg:composer/php-sap/common@v3.2.0
+- pkg:composer/php-sap/common@v4.0.0
+- pkg:composer/php-sap/common@v5.0.0
+- pkg:composer/php-sap/common@v6.0.0
+- pkg:composer/php-sap/common@v6.1.0
+- pkg:composer/php-sap/common@v6.1.2

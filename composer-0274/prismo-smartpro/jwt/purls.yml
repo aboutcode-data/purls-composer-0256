@@ -1,0 +1,4 @@
+- pkg:composer/prismo-smartpro/jwt@2.1
+- pkg:composer/prismo-smartpro/jwt@2.2
+- pkg:composer/prismo-smartpro/jwt@2.3
+- pkg:composer/prismo-smartpro/jwt@v1.0

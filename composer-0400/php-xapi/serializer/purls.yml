@@ -1,0 +1,10 @@
+- pkg:composer/php-xapi/serializer@v0.1.0
+- pkg:composer/php-xapi/serializer@v0.2.0
+- pkg:composer/php-xapi/serializer@v0.2.1
+- pkg:composer/php-xapi/serializer@v0.2.2
+- pkg:composer/php-xapi/serializer@v0.3.0
+- pkg:composer/php-xapi/serializer@v0.4.0
+- pkg:composer/php-xapi/serializer@v1.0.0
+- pkg:composer/php-xapi/serializer@v2.0.0
+- pkg:composer/php-xapi/serializer@v2.1.0
+- pkg:composer/php-xapi/serializer@v2.2.0

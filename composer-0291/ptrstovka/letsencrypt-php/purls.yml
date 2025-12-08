@@ -1,0 +1,3 @@
+- pkg:composer/ptrstovka/letsencrypt-php@1.1
+- pkg:composer/ptrstovka/letsencrypt-php@2.0
+- pkg:composer/ptrstovka/letsencrypt-php@2.0.1

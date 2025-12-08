@@ -1,0 +1,8 @@
+- pkg:composer/prooph/psr7-middleware@v0.1
+- pkg:composer/prooph/psr7-middleware@v0.2
+- pkg:composer/prooph/psr7-middleware@v0.3
+- pkg:composer/prooph/psr7-middleware@v0.4
+- pkg:composer/prooph/psr7-middleware@v0.5
+- pkg:composer/prooph/psr7-middleware@v0.6
+- pkg:composer/prooph/psr7-middleware@v0.7
+- pkg:composer/prooph/psr7-middleware@v0.8

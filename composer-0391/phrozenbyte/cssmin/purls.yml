@@ -1,0 +1,4 @@
+- pkg:composer/phrozenbyte/cssmin@v3.0.1%2Bcomposer
+- pkg:composer/phrozenbyte/cssmin@v3.0.2
+- pkg:composer/phrozenbyte/cssmin@v3.0.3
+- pkg:composer/phrozenbyte/cssmin@v3.0.4

@@ -1,0 +1,10 @@
+- pkg:composer/pixline/php_codesniffer_wp_standard@1.4.2
+- pkg:composer/pixline/php_codesniffer_wp_standard@1.4.3
+- pkg:composer/pixline/php_codesniffer_wp_standard@1.4.4
+- pkg:composer/pixline/php_codesniffer_wp_standard@1.4.5
+- pkg:composer/pixline/php_codesniffer_wp_standard@1.4.6
+- pkg:composer/pixline/php_codesniffer_wp_standard@1.4.7
+- pkg:composer/pixline/php_codesniffer_wp_standard@1.5.0RC1
+- pkg:composer/pixline/php_codesniffer_wp_standard@1.5.0RC2
+- pkg:composer/pixline/php_codesniffer_wp_standard@1.5.0RC3
+- pkg:composer/pixline/php_codesniffer_wp_standard@1.5.0RC4

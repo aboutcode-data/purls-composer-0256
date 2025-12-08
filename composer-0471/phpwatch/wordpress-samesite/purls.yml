@@ -1,0 +1,5 @@
+- pkg:composer/phpwatch/wordpress-samesite@v1.2
+- pkg:composer/phpwatch/wordpress-samesite@v1.4
+- pkg:composer/phpwatch/wordpress-samesite@v1.5
+- pkg:composer/phpwatch/wordpress-samesite@v2.0
+- pkg:composer/phpwatch/wordpress-samesite@v2.1

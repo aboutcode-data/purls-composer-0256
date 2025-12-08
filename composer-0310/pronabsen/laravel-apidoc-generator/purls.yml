@@ -1,0 +1,4 @@
+- pkg:composer/pronabsen/laravel-apidoc-generator@4.0.1
+- pkg:composer/pronabsen/laravel-apidoc-generator@4.0.3
+- pkg:composer/pronabsen/laravel-apidoc-generator@v3
+- pkg:composer/pronabsen/laravel-apidoc-generator@v4

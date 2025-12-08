@@ -1,0 +1,4 @@
+- pkg:composer/phpro/mage2-module-logger-handler@2.0.0
+- pkg:composer/phpro/mage2-module-logger-handler@3.0.0
+- pkg:composer/phpro/mage2-module-logger-handler@4.0.0
+- pkg:composer/phpro/mage2-module-logger-handler@5.0.0

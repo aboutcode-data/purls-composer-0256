@@ -1,0 +1,6 @@
+- pkg:composer/pureclarity/php-sdk@1.0.0
+- pkg:composer/pureclarity/php-sdk@2.0.0
+- pkg:composer/pureclarity/php-sdk@2.1.0
+- pkg:composer/pureclarity/php-sdk@2.1.1
+- pkg:composer/pureclarity/php-sdk@2.1.2
+- pkg:composer/pureclarity/php-sdk@3.0.0

@@ -1,0 +1,12 @@
+- pkg:composer/pipeline/pipeline@0.0.1
+- pkg:composer/pipeline/pipeline@0.1.0
+- pkg:composer/pipeline/pipeline@0.2.0
+- pkg:composer/pipeline/pipeline@1.0.0
+- pkg:composer/pipeline/pipeline@1.1.0
+- pkg:composer/pipeline/pipeline@2.0.0
+- pkg:composer/pipeline/pipeline@2.0.0-alpha1
+- pkg:composer/pipeline/pipeline@2.0.0-rc.1
+- pkg:composer/pipeline/pipeline@2.1.0
+- pkg:composer/pipeline/pipeline@2.1.1
+- pkg:composer/pipeline/pipeline@2.1.2
+- pkg:composer/pipeline/pipeline@3.0.0

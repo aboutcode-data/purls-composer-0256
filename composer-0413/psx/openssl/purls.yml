@@ -1,0 +1,7 @@
+- pkg:composer/psx/openssl@v0.1.0
+- pkg:composer/psx/openssl@v1.0.0
+- pkg:composer/psx/openssl@v1.0.1
+- pkg:composer/psx/openssl@v2.0.0
+- pkg:composer/psx/openssl@v2.0.1
+- pkg:composer/psx/openssl@v2.0.2
+- pkg:composer/psx/openssl@v2.0.3

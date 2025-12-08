@@ -1,0 +1,11 @@
+- pkg:composer/pimcore/system-info-bundle@v1.0.0
+- pkg:composer/pimcore/system-info-bundle@v1.0.0-BETA1
+- pkg:composer/pimcore/system-info-bundle@v1.0.0-RC1
+- pkg:composer/pimcore/system-info-bundle@v1.0.1
+- pkg:composer/pimcore/system-info-bundle@v1.0.2
+- pkg:composer/pimcore/system-info-bundle@v1.0.3
+- pkg:composer/pimcore/system-info-bundle@v2.0.0
+- pkg:composer/pimcore/system-info-bundle@v2.0.0-RC1
+- pkg:composer/pimcore/system-info-bundle@v2.1.0
+- pkg:composer/pimcore/system-info-bundle@v2.1.1
+- pkg:composer/pimcore/system-info-bundle@v2.2.0

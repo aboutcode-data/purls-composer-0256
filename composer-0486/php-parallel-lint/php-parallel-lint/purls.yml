@@ -1,0 +1,17 @@
+- pkg:composer/php-parallel-lint/php-parallel-lint@0.4
+- pkg:composer/php-parallel-lint/php-parallel-lint@0.5
+- pkg:composer/php-parallel-lint/php-parallel-lint@v0.3
+- pkg:composer/php-parallel-lint/php-parallel-lint@v0.6
+- pkg:composer/php-parallel-lint/php-parallel-lint@v0.7
+- pkg:composer/php-parallel-lint/php-parallel-lint@v0.7.1
+- pkg:composer/php-parallel-lint/php-parallel-lint@v0.8
+- pkg:composer/php-parallel-lint/php-parallel-lint@v0.9
+- pkg:composer/php-parallel-lint/php-parallel-lint@v0.9.1
+- pkg:composer/php-parallel-lint/php-parallel-lint@v0.9.2
+- pkg:composer/php-parallel-lint/php-parallel-lint@v1.0.0
+- pkg:composer/php-parallel-lint/php-parallel-lint@v1.1.0
+- pkg:composer/php-parallel-lint/php-parallel-lint@v1.2.0
+- pkg:composer/php-parallel-lint/php-parallel-lint@v1.3.0
+- pkg:composer/php-parallel-lint/php-parallel-lint@v1.3.1
+- pkg:composer/php-parallel-lint/php-parallel-lint@v1.3.2
+- pkg:composer/php-parallel-lint/php-parallel-lint@v1.4.0

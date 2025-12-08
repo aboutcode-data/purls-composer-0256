@@ -1,0 +1,4 @@
+- pkg:composer/phpro/soap-client-sf2-bridge@0.3.1
+- pkg:composer/phpro/soap-client-sf2-bridge@v0.1.0
+- pkg:composer/phpro/soap-client-sf2-bridge@v0.2.0
+- pkg:composer/phpro/soap-client-sf2-bridge@v0.3.0

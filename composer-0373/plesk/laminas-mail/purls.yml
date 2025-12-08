@@ -1,0 +1,4 @@
+- pkg:composer/plesk/laminas-mail@2.26.0-patch1
+- pkg:composer/plesk/laminas-mail@2.26.0-patch2
+- pkg:composer/plesk/laminas-mail@2.26.0-patch3
+- pkg:composer/plesk/laminas-mail@2.26.0-patch4

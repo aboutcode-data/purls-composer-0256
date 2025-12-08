@@ -1,0 +1,11 @@
+- pkg:composer/philippe-vandermoere/docker-php-sdk@0.10.0
+- pkg:composer/philippe-vandermoere/docker-php-sdk@0.10.1
+- pkg:composer/philippe-vandermoere/docker-php-sdk@0.20.0
+- pkg:composer/philippe-vandermoere/docker-php-sdk@0.20.1
+- pkg:composer/philippe-vandermoere/docker-php-sdk@0.30.0
+- pkg:composer/philippe-vandermoere/docker-php-sdk@0.30.1
+- pkg:composer/philippe-vandermoere/docker-php-sdk@1.0.0
+- pkg:composer/philippe-vandermoere/docker-php-sdk@1.1.0
+- pkg:composer/philippe-vandermoere/docker-php-sdk@1.2.0
+- pkg:composer/philippe-vandermoere/docker-php-sdk@1.2.1
+- pkg:composer/philippe-vandermoere/docker-php-sdk@1.3.0

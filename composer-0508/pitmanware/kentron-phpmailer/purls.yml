@@ -1,0 +1,6 @@
+- pkg:composer/pitmanware/kentron-phpmailer@3.0.0
+- pkg:composer/pitmanware/kentron-phpmailer@4.0.0
+- pkg:composer/pitmanware/kentron-phpmailer@v1.0.0
+- pkg:composer/pitmanware/kentron-phpmailer@v1.0.1
+- pkg:composer/pitmanware/kentron-phpmailer@v2.0
+- pkg:composer/pitmanware/kentron-phpmailer@v2.0.1

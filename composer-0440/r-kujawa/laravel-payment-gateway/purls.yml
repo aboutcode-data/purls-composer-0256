@@ -1,0 +1,16 @@
+- pkg:composer/r-kujawa/laravel-payment-gateway@1.0.0
+- pkg:composer/r-kujawa/laravel-payment-gateway@v1.0.1
+- pkg:composer/r-kujawa/laravel-payment-gateway@v1.1.0
+- pkg:composer/r-kujawa/laravel-payment-gateway@v1.1.1
+- pkg:composer/r-kujawa/laravel-payment-gateway@v1.2.0
+- pkg:composer/r-kujawa/laravel-payment-gateway@v2.0.0-alpha
+- pkg:composer/r-kujawa/laravel-payment-gateway@v2.0.0-alpha.1
+- pkg:composer/r-kujawa/laravel-payment-gateway@v2.0.0-alpha.2
+- pkg:composer/r-kujawa/laravel-payment-gateway@v2.0.0-beta.1
+- pkg:composer/r-kujawa/laravel-payment-gateway@v2.0.0-beta.2
+- pkg:composer/r-kujawa/laravel-payment-gateway@v2.1.0
+- pkg:composer/r-kujawa/laravel-payment-gateway@v2.1.0-beta.1
+- pkg:composer/r-kujawa/laravel-payment-gateway@v2.1.0-beta.2
+- pkg:composer/r-kujawa/laravel-payment-gateway@v2.2.0
+- pkg:composer/r-kujawa/laravel-payment-gateway@v2.2.1
+- pkg:composer/r-kujawa/laravel-payment-gateway@v3.0.0

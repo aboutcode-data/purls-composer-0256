@@ -1,0 +1,5 @@
+- pkg:composer/prooph/laravel-package@v0.1
+- pkg:composer/prooph/laravel-package@v0.2
+- pkg:composer/prooph/laravel-package@v0.3
+- pkg:composer/prooph/laravel-package@v0.4
+- pkg:composer/prooph/laravel-package@v0.5

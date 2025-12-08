@@ -1,0 +1,3 @@
+- pkg:composer/phpqueuemanager/php-queue-manager@0.0.1
+- pkg:composer/phpqueuemanager/php-queue-manager@0.0.2
+- pkg:composer/phpqueuemanager/php-queue-manager@0.0.3

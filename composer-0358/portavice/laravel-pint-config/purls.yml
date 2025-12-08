@@ -1,0 +1,3 @@
+- pkg:composer/portavice/laravel-pint-config@v1.0.0
+- pkg:composer/portavice/laravel-pint-config@v2.0.0
+- pkg:composer/portavice/laravel-pint-config@v3.0.0

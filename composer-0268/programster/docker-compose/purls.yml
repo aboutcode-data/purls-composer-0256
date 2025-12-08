@@ -1,0 +1,12 @@
+- pkg:composer/programster/docker-compose@0.0.1
+- pkg:composer/programster/docker-compose@0.1.0
+- pkg:composer/programster/docker-compose@0.1.1
+- pkg:composer/programster/docker-compose@0.2.0
+- pkg:composer/programster/docker-compose@0.2.1
+- pkg:composer/programster/docker-compose@0.2.2
+- pkg:composer/programster/docker-compose@0.2.3
+- pkg:composer/programster/docker-compose@0.3.0
+- pkg:composer/programster/docker-compose@0.4.0
+- pkg:composer/programster/docker-compose@0.5.0
+- pkg:composer/programster/docker-compose@0.5.1
+- pkg:composer/programster/docker-compose@0.5.2

@@ -1,0 +1,16 @@
+- pkg:composer/php-tuf/composer-integration@0.0.1
+- pkg:composer/php-tuf/composer-integration@0.0.2
+- pkg:composer/php-tuf/composer-integration@0.0.3
+- pkg:composer/php-tuf/composer-integration@1.0.0-alpha1
+- pkg:composer/php-tuf/composer-integration@1.0.0-alpha10
+- pkg:composer/php-tuf/composer-integration@1.0.0-alpha11
+- pkg:composer/php-tuf/composer-integration@1.0.0-alpha12
+- pkg:composer/php-tuf/composer-integration@1.0.0-alpha13
+- pkg:composer/php-tuf/composer-integration@1.0.0-alpha2
+- pkg:composer/php-tuf/composer-integration@1.0.0-alpha3
+- pkg:composer/php-tuf/composer-integration@1.0.0-alpha4
+- pkg:composer/php-tuf/composer-integration@1.0.0-alpha5
+- pkg:composer/php-tuf/composer-integration@1.0.0-alpha6
+- pkg:composer/php-tuf/composer-integration@1.0.0-alpha7
+- pkg:composer/php-tuf/composer-integration@1.0.0-alpha8
+- pkg:composer/php-tuf/composer-integration@1.0.0-alpha9

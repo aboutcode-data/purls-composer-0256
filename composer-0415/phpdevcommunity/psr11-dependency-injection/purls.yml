@@ -1,0 +1,3 @@
+- pkg:composer/phpdevcommunity/psr11-dependency-injection@1.0.0
+- pkg:composer/phpdevcommunity/psr11-dependency-injection@1.0.1
+- pkg:composer/phpdevcommunity/psr11-dependency-injection@1.1.0

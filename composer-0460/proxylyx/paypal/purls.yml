@@ -1,0 +1,5 @@
+- pkg:composer/proxylyx/paypal@v1
+- pkg:composer/proxylyx/paypal@v2.0
+- pkg:composer/proxylyx/paypal@v2.1
+- pkg:composer/proxylyx/paypal@v3.0.0
+- pkg:composer/proxylyx/paypal@v4.0.0

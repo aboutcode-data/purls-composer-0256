@@ -1,0 +1,2 @@
+- pkg:composer/prooph/event-store-http-middleware@v0.1
+- pkg:composer/prooph/event-store-http-middleware@v0.2.0

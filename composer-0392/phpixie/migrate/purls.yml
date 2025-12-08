@@ -1,0 +1,15 @@
+- pkg:composer/phpixie/migrate@3.0
+- pkg:composer/phpixie/migrate@3.1
+- pkg:composer/phpixie/migrate@3.2
+- pkg:composer/phpixie/migrate@3.2.1
+- pkg:composer/phpixie/migrate@3.2.2
+- pkg:composer/phpixie/migrate@3.2.3
+- pkg:composer/phpixie/migrate@3.2.4
+- pkg:composer/phpixie/migrate@3.2.5
+- pkg:composer/phpixie/migrate@3.3
+- pkg:composer/phpixie/migrate@3.4
+- pkg:composer/phpixie/migrate@3.4.1
+- pkg:composer/phpixie/migrate@3.5
+- pkg:composer/phpixie/migrate@3.6
+- pkg:composer/phpixie/migrate@3.7
+- pkg:composer/phpixie/migrate@3.7.2

@@ -1,0 +1,6 @@
+- pkg:composer/protobuf-php/protobuf-plugin@v0.1-beta
+- pkg:composer/protobuf-php/protobuf-plugin@v0.1-beta2
+- pkg:composer/protobuf-php/protobuf-plugin@v0.1.0
+- pkg:composer/protobuf-php/protobuf-plugin@v0.1.1
+- pkg:composer/protobuf-php/protobuf-plugin@v0.1.2
+- pkg:composer/protobuf-php/protobuf-plugin@v0.1.3

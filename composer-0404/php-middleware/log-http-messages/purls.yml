@@ -1,0 +1,8 @@
+- pkg:composer/php-middleware/log-http-messages@1.0.0
+- pkg:composer/php-middleware/log-http-messages@2.0.0
+- pkg:composer/php-middleware/log-http-messages@2.1.0
+- pkg:composer/php-middleware/log-http-messages@3.0
+- pkg:composer/php-middleware/log-http-messages@3.0.1
+- pkg:composer/php-middleware/log-http-messages@3.0.2
+- pkg:composer/php-middleware/log-http-messages@3.0.3
+- pkg:composer/php-middleware/log-http-messages@4.0.0

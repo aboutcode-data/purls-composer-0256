@@ -1,0 +1,4 @@
+- pkg:composer/procurios/middleware-dispatcher@0.1
+- pkg:composer/procurios/middleware-dispatcher@1.0.0
+- pkg:composer/procurios/middleware-dispatcher@1.0.1
+- pkg:composer/procurios/middleware-dispatcher@2.0.0

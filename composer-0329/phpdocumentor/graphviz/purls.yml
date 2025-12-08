@@ -1,0 +1,13 @@
+- pkg:composer/phpdocumentor/graphviz@1.0.0
+- pkg:composer/phpdocumentor/graphviz@1.0.0-beta1
+- pkg:composer/phpdocumentor/graphviz@1.0.0-beta2
+- pkg:composer/phpdocumentor/graphviz@1.0.0-beta3
+- pkg:composer/phpdocumentor/graphviz@1.0.1
+- pkg:composer/phpdocumentor/graphviz@1.0.2
+- pkg:composer/phpdocumentor/graphviz@1.0.3
+- pkg:composer/phpdocumentor/graphviz@1.0.4
+- pkg:composer/phpdocumentor/graphviz@2.0.0
+- pkg:composer/phpdocumentor/graphviz@2.0.0-alpha1
+- pkg:composer/phpdocumentor/graphviz@2.0.0-beta1
+- pkg:composer/phpdocumentor/graphviz@2.0.0-beta2
+- pkg:composer/phpdocumentor/graphviz@2.1.0
