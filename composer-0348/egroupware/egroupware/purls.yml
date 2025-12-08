@@ -178,3 +178,4 @@
 - pkg:composer/egroupware/egroupware@23.1.20250902
 - pkg:composer/egroupware/egroupware@23.1.20251021
 - pkg:composer/egroupware/egroupware@23.1.20251119
+- pkg:composer/egroupware/egroupware@26.0.20251208
