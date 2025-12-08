@@ -1,0 +1,6 @@
+- pkg:composer/nathanjosiah/dep-conf-test-package-a@1.0.0
+- pkg:composer/nathanjosiah/dep-conf-test-package-a@1.0.11-beta1
+- pkg:composer/nathanjosiah/dep-conf-test-package-a@1.0.12-beta1
+- pkg:composer/nathanjosiah/dep-conf-test-package-a@1.0.3
+- pkg:composer/nathanjosiah/dep-conf-test-package-a@1.0.6
+- pkg:composer/nathanjosiah/dep-conf-test-package-a@1.0.8

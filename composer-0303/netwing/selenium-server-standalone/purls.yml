@@ -1,0 +1,8 @@
+- pkg:composer/netwing/selenium-server-standalone@2.35.0
+- pkg:composer/netwing/selenium-server-standalone@2.37.0
+- pkg:composer/netwing/selenium-server-standalone@2.38.0
+- pkg:composer/netwing/selenium-server-standalone@2.39.0
+- pkg:composer/netwing/selenium-server-standalone@2.42.2
+- pkg:composer/netwing/selenium-server-standalone@2.43.0
+- pkg:composer/netwing/selenium-server-standalone@2.44.0
+- pkg:composer/netwing/selenium-server-standalone@2.46.0

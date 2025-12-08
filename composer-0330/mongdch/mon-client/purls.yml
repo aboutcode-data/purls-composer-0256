@@ -1,0 +1,5 @@
+- pkg:composer/mongdch/mon-client@1.0.0
+- pkg:composer/mongdch/mon-client@2.0.0
+- pkg:composer/mongdch/mon-client@3.0.0
+- pkg:composer/mongdch/mon-client@3.0.1
+- pkg:composer/mongdch/mon-client@3.0.2

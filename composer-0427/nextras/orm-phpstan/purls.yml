@@ -1,0 +1,14 @@
+- pkg:composer/nextras/orm-phpstan@v0.1
+- pkg:composer/nextras/orm-phpstan@v0.2
+- pkg:composer/nextras/orm-phpstan@v0.2.1
+- pkg:composer/nextras/orm-phpstan@v0.3
+- pkg:composer/nextras/orm-phpstan@v0.4
+- pkg:composer/nextras/orm-phpstan@v0.5
+- pkg:composer/nextras/orm-phpstan@v0.6
+- pkg:composer/nextras/orm-phpstan@v0.6.1
+- pkg:composer/nextras/orm-phpstan@v0.6.2
+- pkg:composer/nextras/orm-phpstan@v0.6.3
+- pkg:composer/nextras/orm-phpstan@v1.0.0
+- pkg:composer/nextras/orm-phpstan@v1.0.1
+- pkg:composer/nextras/orm-phpstan@v1.1.0
+- pkg:composer/nextras/orm-phpstan@v2.0.0

@@ -1,0 +1,12 @@
+- pkg:composer/mortola/behat-seo-contexts@0.1
+- pkg:composer/mortola/behat-seo-contexts@0.2
+- pkg:composer/mortola/behat-seo-contexts@0.2.1
+- pkg:composer/mortola/behat-seo-contexts@0.3
+- pkg:composer/mortola/behat-seo-contexts@1.0.0
+- pkg:composer/mortola/behat-seo-contexts@1.1.0
+- pkg:composer/mortola/behat-seo-contexts@2.0.0
+- pkg:composer/mortola/behat-seo-contexts@2.1.0
+- pkg:composer/mortola/behat-seo-contexts@3.0.0
+- pkg:composer/mortola/behat-seo-contexts@3.1.0
+- pkg:composer/mortola/behat-seo-contexts@3.1.1
+- pkg:composer/mortola/behat-seo-contexts@4.0.0

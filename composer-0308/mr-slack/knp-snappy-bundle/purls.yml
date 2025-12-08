@@ -1,0 +1,12 @@
+- pkg:composer/mr-slack/knp-snappy-bundle@v1.0
+- pkg:composer/mr-slack/knp-snappy-bundle@v1.1
+- pkg:composer/mr-slack/knp-snappy-bundle@v1.2
+- pkg:composer/mr-slack/knp-snappy-bundle@v1.3
+- pkg:composer/mr-slack/knp-snappy-bundle@v1.4
+- pkg:composer/mr-slack/knp-snappy-bundle@v1.5
+- pkg:composer/mr-slack/knp-snappy-bundle@v1.5.1
+- pkg:composer/mr-slack/knp-snappy-bundle@v1.5.2
+- pkg:composer/mr-slack/knp-snappy-bundle@v1.6.0
+- pkg:composer/mr-slack/knp-snappy-bundle@v1.7.0
+- pkg:composer/mr-slack/knp-snappy-bundle@v1.7.1
+- pkg:composer/mr-slack/knp-snappy-bundle@v1.8.0

@@ -1,0 +1,3 @@
+- pkg:composer/noresources/log@v1.0.0
+- pkg:composer/noresources/log@v2.0.0
+- pkg:composer/noresources/log@v3.0.0

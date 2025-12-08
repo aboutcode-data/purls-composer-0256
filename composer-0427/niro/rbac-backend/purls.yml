@@ -1,0 +1,17 @@
+- pkg:composer/niro/rbac-backend@0.1
+- pkg:composer/niro/rbac-backend@0.5
+- pkg:composer/niro/rbac-backend@0.9
+- pkg:composer/niro/rbac-backend@1.0
+- pkg:composer/niro/rbac-backend@1.1
+- pkg:composer/niro/rbac-backend@1.2
+- pkg:composer/niro/rbac-backend@1.3
+- pkg:composer/niro/rbac-backend@1.4
+- pkg:composer/niro/rbac-backend@1.5
+- pkg:composer/niro/rbac-backend@1.6
+- pkg:composer/niro/rbac-backend@1.7
+- pkg:composer/niro/rbac-backend@1.8
+- pkg:composer/niro/rbac-backend@1.9
+- pkg:composer/niro/rbac-backend@1.91
+- pkg:composer/niro/rbac-backend@1.92
+- pkg:composer/niro/rbac-backend@1.93
+- pkg:composer/niro/rbac-backend@1.94

@@ -1,0 +1,3 @@
+- pkg:composer/newscoop/plugins-installer@v0.1
+- pkg:composer/newscoop/plugins-installer@v0.2
+- pkg:composer/newscoop/plugins-installer@v0.2.1

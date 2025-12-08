@@ -1,0 +1,11 @@
+- pkg:composer/mysql-workbench-schema-exporter/propel-exporter@3.0.0
+- pkg:composer/mysql-workbench-schema-exporter/propel-exporter@3.0.1
+- pkg:composer/mysql-workbench-schema-exporter/propel-exporter@v3.0.2
+- pkg:composer/mysql-workbench-schema-exporter/propel-exporter@v3.1.0
+- pkg:composer/mysql-workbench-schema-exporter/propel-exporter@v3.1.1
+- pkg:composer/mysql-workbench-schema-exporter/propel-exporter@v3.1.2
+- pkg:composer/mysql-workbench-schema-exporter/propel-exporter@v3.2.0
+- pkg:composer/mysql-workbench-schema-exporter/propel-exporter@v4.0.0
+- pkg:composer/mysql-workbench-schema-exporter/propel-exporter@v4.0.1
+- pkg:composer/mysql-workbench-schema-exporter/propel-exporter@v4.1.0
+- pkg:composer/mysql-workbench-schema-exporter/propel-exporter@v4.2.0

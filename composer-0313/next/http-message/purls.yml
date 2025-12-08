@@ -1,0 +1,4 @@
+- pkg:composer/next/http-message@0.1
+- pkg:composer/next/http-message@0.1.1
+- pkg:composer/next/http-message@0.2.0
+- pkg:composer/next/http-message@0.2.1

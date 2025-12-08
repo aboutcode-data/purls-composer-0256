@@ -1,0 +1,3 @@
+- pkg:composer/morysky/hbase-thrift-driver@0.0.1
+- pkg:composer/morysky/hbase-thrift-driver@0.0.2
+- pkg:composer/morysky/hbase-thrift-driver@0.0.3

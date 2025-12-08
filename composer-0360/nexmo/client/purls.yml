@@ -1,0 +1,6 @@
+- pkg:composer/nexmo/client@1.9.0
+- pkg:composer/nexmo/client@1.9.1
+- pkg:composer/nexmo/client@2.0.0
+- pkg:composer/nexmo/client@2.4.0
+- pkg:composer/nexmo/client@v2.2.0-RC1
+- pkg:composer/nexmo/client@v2.2.0-RC2

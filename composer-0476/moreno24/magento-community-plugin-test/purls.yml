@@ -1,0 +1,12 @@
+- pkg:composer/moreno24/magento-community-plugin-test@2.6.25
+- pkg:composer/moreno24/magento-community-plugin-test@2.6.5
+- pkg:composer/moreno24/magento-community-plugin-test@2.6.6
+- pkg:composer/moreno24/magento-community-plugin-test@2.6.7
+- pkg:composer/moreno24/magento-community-plugin-test@2.7.0
+- pkg:composer/moreno24/magento-community-plugin-test@2.8.5
+- pkg:composer/moreno24/magento-community-plugin-test@2.8.8
+- pkg:composer/moreno24/magento-community-plugin-test@2.9.2
+- pkg:composer/moreno24/magento-community-plugin-test@2.9.5
+- pkg:composer/moreno24/magento-community-plugin-test@2.9.6
+- pkg:composer/moreno24/magento-community-plugin-test@2.9.7
+- pkg:composer/moreno24/magento-community-plugin-test@2.9.7.2

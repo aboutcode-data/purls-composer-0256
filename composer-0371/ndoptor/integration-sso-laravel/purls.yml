@@ -1,0 +1,13 @@
+- pkg:composer/ndoptor/integration-sso-laravel@v1.0.1
+- pkg:composer/ndoptor/integration-sso-laravel@v1.0.beta
+- pkg:composer/ndoptor/integration-sso-laravel@v1.1.0
+- pkg:composer/ndoptor/integration-sso-laravel@v1.1.1
+- pkg:composer/ndoptor/integration-sso-laravel@v2.0.0
+- pkg:composer/ndoptor/integration-sso-laravel@v2.0.1
+- pkg:composer/ndoptor/integration-sso-laravel@v2.0.2
+- pkg:composer/ndoptor/integration-sso-laravel@v2.1.0
+- pkg:composer/ndoptor/integration-sso-laravel@v3.1.0
+- pkg:composer/ndoptor/integration-sso-laravel@v3.1.1
+- pkg:composer/ndoptor/integration-sso-laravel@v3.2.0
+- pkg:composer/ndoptor/integration-sso-laravel@v3.2.1
+- pkg:composer/ndoptor/integration-sso-laravel@v3.2.2

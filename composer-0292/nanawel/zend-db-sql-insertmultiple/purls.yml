@@ -1,0 +1,4 @@
+- pkg:composer/nanawel/zend-db-sql-insertmultiple@1.0
+- pkg:composer/nanawel/zend-db-sql-insertmultiple@2.0
+- pkg:composer/nanawel/zend-db-sql-insertmultiple@2.1
+- pkg:composer/nanawel/zend-db-sql-insertmultiple@2.2

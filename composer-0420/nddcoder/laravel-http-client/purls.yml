@@ -1,0 +1,4 @@
+- pkg:composer/nddcoder/laravel-http-client@v0.1.0
+- pkg:composer/nddcoder/laravel-http-client@v1.0.0
+- pkg:composer/nddcoder/laravel-http-client@v1.1.0
+- pkg:composer/nddcoder/laravel-http-client@v1.2.0
