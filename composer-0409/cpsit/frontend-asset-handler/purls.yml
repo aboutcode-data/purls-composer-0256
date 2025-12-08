@@ -30,3 +30,4 @@
 - pkg:composer/cpsit/frontend-asset-handler@4.0.9
 - pkg:composer/cpsit/frontend-asset-handler@5.0.0
 - pkg:composer/cpsit/frontend-asset-handler@5.0.1
+- pkg:composer/cpsit/frontend-asset-handler@5.1.0

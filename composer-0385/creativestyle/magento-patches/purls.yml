@@ -179,6 +179,7 @@
 - pkg:composer/creativestyle/magento-patches@v1.6.62
 - pkg:composer/creativestyle/magento-patches@v1.7.0
 - pkg:composer/creativestyle/magento-patches@v1.7.1
+- pkg:composer/creativestyle/magento-patches@v1.7.10
 - pkg:composer/creativestyle/magento-patches@v1.7.2
 - pkg:composer/creativestyle/magento-patches@v1.7.3
 - pkg:composer/creativestyle/magento-patches@v1.7.4

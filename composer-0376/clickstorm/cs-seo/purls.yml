@@ -70,9 +70,11 @@
 - pkg:composer/clickstorm/cs-seo@8.3.0
 - pkg:composer/clickstorm/cs-seo@8.4.0
 - pkg:composer/clickstorm/cs-seo@8.4.1
+- pkg:composer/clickstorm/cs-seo@8.4.2
 - pkg:composer/clickstorm/cs-seo@9.0.0
 - pkg:composer/clickstorm/cs-seo@9.0.1
 - pkg:composer/clickstorm/cs-seo@9.1.0
 - pkg:composer/clickstorm/cs-seo@9.2.0
 - pkg:composer/clickstorm/cs-seo@9.3.0
 - pkg:composer/clickstorm/cs-seo@9.3.1
+- pkg:composer/clickstorm/cs-seo@9.4.0
