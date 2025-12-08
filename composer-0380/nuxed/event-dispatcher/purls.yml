@@ -1,0 +1,4 @@
+- pkg:composer/nuxed/event-dispatcher@v1.0.0
+- pkg:composer/nuxed/event-dispatcher@v1.1.0
+- pkg:composer/nuxed/event-dispatcher@v2.0.0
+- pkg:composer/nuxed/event-dispatcher@v2.1.0

@@ -1,0 +1,4 @@
+- pkg:composer/orchestra/dusk-updater-api@v1.0.0
+- pkg:composer/orchestra/dusk-updater-api@v1.0.1
+- pkg:composer/orchestra/dusk-updater-api@v1.0.2
+- pkg:composer/orchestra/dusk-updater-api@v1.0.3

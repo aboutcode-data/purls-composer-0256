@@ -1,0 +1,3 @@
+- pkg:composer/payin-payout/payout-api@2.0
+- pkg:composer/payin-payout/payout-api@2.1
+- pkg:composer/payin-payout/payout-api@2.2

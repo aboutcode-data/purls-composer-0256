@@ -1,0 +1,6 @@
+- pkg:composer/pallant/laravel-aws-cognito-auth@v1.0.0
+- pkg:composer/pallant/laravel-aws-cognito-auth@v1.1.0
+- pkg:composer/pallant/laravel-aws-cognito-auth@v1.1.1
+- pkg:composer/pallant/laravel-aws-cognito-auth@v1.1.2
+- pkg:composer/pallant/laravel-aws-cognito-auth@v1.1.3
+- pkg:composer/pallant/laravel-aws-cognito-auth@v1.2.0

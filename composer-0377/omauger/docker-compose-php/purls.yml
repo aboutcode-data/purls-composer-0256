@@ -1,0 +1,6 @@
+- pkg:composer/omauger/docker-compose-php@0.1.0
+- pkg:composer/omauger/docker-compose-php@0.1.1
+- pkg:composer/omauger/docker-compose-php@0.1.2
+- pkg:composer/omauger/docker-compose-php@1.0
+- pkg:composer/omauger/docker-compose-php@2.0
+- pkg:composer/omauger/docker-compose-php@2.1

@@ -1,0 +1,4 @@
+- pkg:composer/oliver-schoendorn/dependency-injector@v0.2-alpha
+- pkg:composer/oliver-schoendorn/dependency-injector@v1.0.0
+- pkg:composer/oliver-schoendorn/dependency-injector@v1.0.1
+- pkg:composer/oliver-schoendorn/dependency-injector@v1.1.0

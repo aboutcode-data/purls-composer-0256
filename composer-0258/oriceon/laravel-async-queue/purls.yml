@@ -1,0 +1,4 @@
+- pkg:composer/oriceon/laravel-async-queue@1.0
+- pkg:composer/oriceon/laravel-async-queue@1.1
+- pkg:composer/oriceon/laravel-async-queue@2.0.0
+- pkg:composer/oriceon/laravel-async-queue@2.0.1

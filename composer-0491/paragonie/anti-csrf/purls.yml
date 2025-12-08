@@ -1,0 +1,13 @@
+- pkg:composer/paragonie/anti-csrf@0.9.0
+- pkg:composer/paragonie/anti-csrf@0.9.2
+- pkg:composer/paragonie/anti-csrf@0.9.3
+- pkg:composer/paragonie/anti-csrf@v1.0.0
+- pkg:composer/paragonie/anti-csrf@v1.0.1
+- pkg:composer/paragonie/anti-csrf@v2.0.0
+- pkg:composer/paragonie/anti-csrf@v2.0.1
+- pkg:composer/paragonie/anti-csrf@v2.0.2
+- pkg:composer/paragonie/anti-csrf@v2.1.0
+- pkg:composer/paragonie/anti-csrf@v2.2.0
+- pkg:composer/paragonie/anti-csrf@v2.2.1
+- pkg:composer/paragonie/anti-csrf@v2.3.0
+- pkg:composer/paragonie/anti-csrf@v2.4.0

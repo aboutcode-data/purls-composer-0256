@@ -1,0 +1,2 @@
+- pkg:composer/phapi/middleware-content-negotiation@1.0.0
+- pkg:composer/phapi/middleware-content-negotiation@1.0.1

@@ -1,0 +1,15 @@
+- pkg:composer/pact-im/sdk-php@v0.2-alpha
+- pkg:composer/pact-im/sdk-php@v0.3-alpha
+- pkg:composer/pact-im/sdk-php@v0.4-alpha
+- pkg:composer/pact-im/sdk-php@v0.4.1-alpha
+- pkg:composer/pact-im/sdk-php@v0.4.2-alpha
+- pkg:composer/pact-im/sdk-php@v0.4.3-beta
+- pkg:composer/pact-im/sdk-php@v1.0.0
+- pkg:composer/pact-im/sdk-php@v1.0.1
+- pkg:composer/pact-im/sdk-php@v1.0.2
+- pkg:composer/pact-im/sdk-php@v1.0.3
+- pkg:composer/pact-im/sdk-php@v1.0.4
+- pkg:composer/pact-im/sdk-php@v2.0.0
+- pkg:composer/pact-im/sdk-php@v3.0.0
+- pkg:composer/pact-im/sdk-php@v3.0.1
+- pkg:composer/pact-im/sdk-php@v3.1.0

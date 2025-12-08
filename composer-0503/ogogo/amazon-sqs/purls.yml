@@ -1,0 +1,4 @@
+- pkg:composer/ogogo/amazon-sqs@1.0
+- pkg:composer/ogogo/amazon-sqs@1.1
+- pkg:composer/ogogo/amazon-sqs@1.2
+- pkg:composer/ogogo/amazon-sqs@1.3

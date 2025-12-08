@@ -1,0 +1,2 @@
+- pkg:composer/open-telemetry/exporter-jaeger@0.0.16
+- pkg:composer/open-telemetry/exporter-jaeger@0.0.17

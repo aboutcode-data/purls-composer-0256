@@ -1,0 +1,6 @@
+- pkg:composer/open-telemetry/detector-container@0.0.1
+- pkg:composer/open-telemetry/detector-container@0.0.2
+- pkg:composer/open-telemetry/detector-container@0.0.3
+- pkg:composer/open-telemetry/detector-container@1.0.0
+- pkg:composer/open-telemetry/detector-container@1.0.0beta1
+- pkg:composer/open-telemetry/detector-container@1.1.0

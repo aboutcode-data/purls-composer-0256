@@ -1,0 +1,4 @@
+- pkg:composer/paysera/lib-checkout-client@1.0.0
+- pkg:composer/paysera/lib-checkout-client@2.0.0
+- pkg:composer/paysera/lib-checkout-client@2.1.0
+- pkg:composer/paysera/lib-checkout-client@2.2.0

@@ -1,0 +1,3 @@
+- pkg:composer/openpmc/microservice@v1.0
+- pkg:composer/openpmc/microservice@v1.1
+- pkg:composer/openpmc/microservice@v2.0

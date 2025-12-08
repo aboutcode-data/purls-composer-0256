@@ -1,0 +1,4 @@
+- pkg:composer/pbxapi/php-http-fixture-client@1.0.0
+- pkg:composer/pbxapi/php-http-fixture-client@2.0.0
+- pkg:composer/pbxapi/php-http-fixture-client@2.1.0
+- pkg:composer/pbxapi/php-http-fixture-client@2.2.0

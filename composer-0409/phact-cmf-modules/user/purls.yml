@@ -1,0 +1,5 @@
+- pkg:composer/phact-cmf-modules/user@v1.0.0
+- pkg:composer/phact-cmf-modules/user@v2.0.0
+- pkg:composer/phact-cmf-modules/user@v3.0.0
+- pkg:composer/phact-cmf-modules/user@v4.0.0
+- pkg:composer/phact-cmf-modules/user@v4.0.1

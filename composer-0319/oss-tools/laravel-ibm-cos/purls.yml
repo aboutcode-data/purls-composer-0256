@@ -1,0 +1,6 @@
+- pkg:composer/oss-tools/laravel-ibm-cos@1.0.0
+- pkg:composer/oss-tools/laravel-ibm-cos@1.0.1
+- pkg:composer/oss-tools/laravel-ibm-cos@2.0.0
+- pkg:composer/oss-tools/laravel-ibm-cos@2.0.1
+- pkg:composer/oss-tools/laravel-ibm-cos@v2.1.0
+- pkg:composer/oss-tools/laravel-ibm-cos@v2.1.1

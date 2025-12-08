@@ -1,0 +1,16 @@
+- pkg:composer/openai-php/symfony@v0.10.0
+- pkg:composer/openai-php/symfony@v0.10.2
+- pkg:composer/openai-php/symfony@v0.12.0
+- pkg:composer/openai-php/symfony@v0.13.0
+- pkg:composer/openai-php/symfony@v0.15.0
+- pkg:composer/openai-php/symfony@v0.16.0
+- pkg:composer/openai-php/symfony@v0.17.0
+- pkg:composer/openai-php/symfony@v0.17.1
+- pkg:composer/openai-php/symfony@v0.18.0
+- pkg:composer/openai-php/symfony@v0.3.5
+- pkg:composer/openai-php/symfony@v0.4.0
+- pkg:composer/openai-php/symfony@v0.4.1
+- pkg:composer/openai-php/symfony@v0.7.10
+- pkg:composer/openai-php/symfony@v0.8.0
+- pkg:composer/openai-php/symfony@v0.8.1
+- pkg:composer/openai-php/symfony@v0.8.2
