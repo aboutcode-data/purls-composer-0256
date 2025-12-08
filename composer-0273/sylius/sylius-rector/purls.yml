@@ -1,0 +1,10 @@
+- pkg:composer/sylius/sylius-rector@v1.0
+- pkg:composer/sylius/sylius-rector@v2.0
+- pkg:composer/sylius/sylius-rector@v3.0.0
+- pkg:composer/sylius/sylius-rector@v3.1.0
+- pkg:composer/sylius/sylius-rector@v3.2.0
+- pkg:composer/sylius/sylius-rector@v3.3.0
+- pkg:composer/sylius/sylius-rector@v3.4.0
+- pkg:composer/sylius/sylius-rector@v3.5.0
+- pkg:composer/sylius/sylius-rector@v3.6.0
+- pkg:composer/sylius/sylius-rector@v3.7.0

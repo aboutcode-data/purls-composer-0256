@@ -1,0 +1,4 @@
+- pkg:composer/syntro/silverstripe-phpstan@0.0.0
+- pkg:composer/syntro/silverstripe-phpstan@1.0.0
+- pkg:composer/syntro/silverstripe-phpstan@5.0.0
+- pkg:composer/syntro/silverstripe-phpstan@5.0.1

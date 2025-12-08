@@ -1,0 +1,10 @@
+- pkg:composer/swow-cloud/nsq@v0.1
+- pkg:composer/swow-cloud/nsq@v0.2
+- pkg:composer/swow-cloud/nsq@v0.3
+- pkg:composer/swow-cloud/nsq@v0.4
+- pkg:composer/swow-cloud/nsq@v0.5
+- pkg:composer/swow-cloud/nsq@v0.6
+- pkg:composer/swow-cloud/nsq@v0.7
+- pkg:composer/swow-cloud/nsq@v0.8
+- pkg:composer/swow-cloud/nsq@v0.9
+- pkg:composer/swow-cloud/nsq@v1.0

@@ -1,0 +1,4 @@
+- pkg:composer/takatost/php-pubsub-kafka@1.0.0
+- pkg:composer/takatost/php-pubsub-kafka@1.0.1
+- pkg:composer/takatost/php-pubsub-kafka@1.0.2
+- pkg:composer/takatost/php-pubsub-kafka@1.0.4

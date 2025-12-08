@@ -1,0 +1,10 @@
+- pkg:composer/spryker/sequence-number@0.20.0
+- pkg:composer/spryker/sequence-number@1.0.0
+- pkg:composer/spryker/sequence-number@2.0.0
+- pkg:composer/spryker/sequence-number@2.0.0-RC1
+- pkg:composer/spryker/sequence-number@2.0.0-RC2
+- pkg:composer/spryker/sequence-number@3.0.0
+- pkg:composer/spryker/sequence-number@3.0.1
+- pkg:composer/spryker/sequence-number@3.1.0
+- pkg:composer/spryker/sequence-number@3.1.1
+- pkg:composer/spryker/sequence-number@3.2.0

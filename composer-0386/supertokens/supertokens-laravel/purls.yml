@@ -1,0 +1,14 @@
+- pkg:composer/supertokens/supertokens-laravel@0.0.1
+- pkg:composer/supertokens/supertokens-laravel@0.1.0
+- pkg:composer/supertokens/supertokens-laravel@0.1.1
+- pkg:composer/supertokens/supertokens-laravel@1.0.0
+- pkg:composer/supertokens/supertokens-laravel@1.0.1
+- pkg:composer/supertokens/supertokens-laravel@1.0.2
+- pkg:composer/supertokens/supertokens-laravel@1.0.3
+- pkg:composer/supertokens/supertokens-laravel@1.1.0
+- pkg:composer/supertokens/supertokens-laravel@1.1.1
+- pkg:composer/supertokens/supertokens-laravel@1.2.0
+- pkg:composer/supertokens/supertokens-laravel@1.3.0
+- pkg:composer/supertokens/supertokens-laravel@1.4.0
+- pkg:composer/supertokens/supertokens-laravel@1.5.0
+- pkg:composer/supertokens/supertokens-laravel@1.5.1

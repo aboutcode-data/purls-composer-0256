@@ -1,0 +1,14 @@
+- pkg:composer/symfony/standard-profile@v3.3.99
+- pkg:composer/symfony/standard-profile@v3.4.99
+- pkg:composer/symfony/standard-profile@v4.0.99
+- pkg:composer/symfony/standard-profile@v4.1.99
+- pkg:composer/symfony/standard-profile@v4.2.99
+- pkg:composer/symfony/standard-profile@v4.3.99
+- pkg:composer/symfony/standard-profile@v4.4.99
+- pkg:composer/symfony/standard-profile@v5.0.99
+- pkg:composer/symfony/standard-profile@v5.1.99
+- pkg:composer/symfony/standard-profile@v5.2.99
+- pkg:composer/symfony/standard-profile@v5.3.99
+- pkg:composer/symfony/standard-profile@v5.4.99
+- pkg:composer/symfony/standard-profile@v6.0.99
+- pkg:composer/symfony/standard-profile@v6.1.99

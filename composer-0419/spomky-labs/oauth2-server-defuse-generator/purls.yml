@@ -1,0 +1,8 @@
+- pkg:composer/spomky-labs/oauth2-server-defuse-generator@v1.0.0-alpha1
+- pkg:composer/spomky-labs/oauth2-server-defuse-generator@v1.0.0-stable
+- pkg:composer/spomky-labs/oauth2-server-defuse-generator@v1.0.1
+- pkg:composer/spomky-labs/oauth2-server-defuse-generator@v2.0.0
+- pkg:composer/spomky-labs/oauth2-server-defuse-generator@v2.1.0
+- pkg:composer/spomky-labs/oauth2-server-defuse-generator@v3.0.0
+- pkg:composer/spomky-labs/oauth2-server-defuse-generator@v3.0.1
+- pkg:composer/spomky-labs/oauth2-server-defuse-generator@v4.0.0

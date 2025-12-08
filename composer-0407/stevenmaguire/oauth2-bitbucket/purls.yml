@@ -1,0 +1,5 @@
+- pkg:composer/stevenmaguire/oauth2-bitbucket@0.1.0
+- pkg:composer/stevenmaguire/oauth2-bitbucket@0.1.1
+- pkg:composer/stevenmaguire/oauth2-bitbucket@0.1.2
+- pkg:composer/stevenmaguire/oauth2-bitbucket@2.0.0
+- pkg:composer/stevenmaguire/oauth2-bitbucket@3.0.0

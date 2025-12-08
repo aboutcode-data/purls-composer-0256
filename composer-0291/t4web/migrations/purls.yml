@@ -1,0 +1,6 @@
+- pkg:composer/t4web/migrations@1
+- pkg:composer/t4web/migrations@1.0.1
+- pkg:composer/t4web/migrations@2.0.0
+- pkg:composer/t4web/migrations@2.0.1
+- pkg:composer/t4web/migrations@2.0.2
+- pkg:composer/t4web/migrations@2.0.3

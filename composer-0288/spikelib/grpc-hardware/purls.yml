@@ -1,0 +1,4 @@
+- pkg:composer/spikelib/grpc-hardware@1.0.2
+- pkg:composer/spikelib/grpc-hardware@1.1.0
+- pkg:composer/spikelib/grpc-hardware@1.1.1
+- pkg:composer/spikelib/grpc-hardware@1.1.2

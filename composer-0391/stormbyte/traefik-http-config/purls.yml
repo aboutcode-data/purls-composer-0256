@@ -1,0 +1,5 @@
+- pkg:composer/stormbyte/traefik-http-config@V0.1.0
+- pkg:composer/stormbyte/traefik-http-config@V0.1.1
+- pkg:composer/stormbyte/traefik-http-config@v0.2.0
+- pkg:composer/stormbyte/traefik-http-config@v0.2.1
+- pkg:composer/stormbyte/traefik-http-config@v0.2.2

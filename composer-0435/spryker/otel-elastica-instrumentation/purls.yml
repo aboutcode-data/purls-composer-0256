@@ -1,0 +1,2 @@
+- pkg:composer/spryker/otel-elastica-instrumentation@0.1.0
+- pkg:composer/spryker/otel-elastica-instrumentation@1.0.0

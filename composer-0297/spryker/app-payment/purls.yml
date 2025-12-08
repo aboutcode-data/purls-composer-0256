@@ -1,0 +1,16 @@
+- pkg:composer/spryker/app-payment@1.0.0
+- pkg:composer/spryker/app-payment@1.1.0
+- pkg:composer/spryker/app-payment@1.1.1
+- pkg:composer/spryker/app-payment@2.0.0
+- pkg:composer/spryker/app-payment@2.1.0
+- pkg:composer/spryker/app-payment@2.2.0
+- pkg:composer/spryker/app-payment@2.2.1
+- pkg:composer/spryker/app-payment@2.2.2
+- pkg:composer/spryker/app-payment@3.0.0
+- pkg:composer/spryker/app-payment@3.0.1
+- pkg:composer/spryker/app-payment@3.1.0
+- pkg:composer/spryker/app-payment@3.2.0
+- pkg:composer/spryker/app-payment@3.3.0
+- pkg:composer/spryker/app-payment@3.4.0
+- pkg:composer/spryker/app-payment@3.4.1
+- pkg:composer/spryker/app-payment@3.5.0

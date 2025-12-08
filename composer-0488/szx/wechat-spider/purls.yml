@@ -1,0 +1,5 @@
+- pkg:composer/szx/wechat-spider@v1.0
+- pkg:composer/szx/wechat-spider@v2.0
+- pkg:composer/szx/wechat-spider@v3.0
+- pkg:composer/szx/wechat-spider@v4.0.0-beta
+- pkg:composer/szx/wechat-spider@v4.0.0-rc

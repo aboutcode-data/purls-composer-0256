@@ -1,0 +1,14 @@
+- pkg:composer/stormpath/laravel@0.1.0
+- pkg:composer/stormpath/laravel@0.1.0.RC1
+- pkg:composer/stormpath/laravel@0.1.0.RC2
+- pkg:composer/stormpath/laravel@0.1.0.RC3
+- pkg:composer/stormpath/laravel@0.1.0.alpha1
+- pkg:composer/stormpath/laravel@0.1.0.alpha2
+- pkg:composer/stormpath/laravel@0.2.0
+- pkg:composer/stormpath/laravel@0.3.0
+- pkg:composer/stormpath/laravel@0.3.1
+- pkg:composer/stormpath/laravel@0.4.0
+- pkg:composer/stormpath/laravel@0.4.1
+- pkg:composer/stormpath/laravel@0.4.2
+- pkg:composer/stormpath/laravel@0.5.0
+- pkg:composer/stormpath/laravel@0.5.1

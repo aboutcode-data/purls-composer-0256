@@ -1,0 +1,4 @@
+- pkg:composer/sovich/simple-server-sent-event@1.0.0
+- pkg:composer/sovich/simple-server-sent-event@2.0.0
+- pkg:composer/sovich/simple-server-sent-event@2.2.0
+- pkg:composer/sovich/simple-server-sent-event@2.2.1

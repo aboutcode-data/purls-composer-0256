@@ -1,0 +1,4 @@
+- pkg:composer/sourcebroker/deployer-extended-symfony4@1.0.0
+- pkg:composer/sourcebroker/deployer-extended-symfony4@1.0.1
+- pkg:composer/sourcebroker/deployer-extended-symfony4@1.0.2
+- pkg:composer/sourcebroker/deployer-extended-symfony4@2.0.0

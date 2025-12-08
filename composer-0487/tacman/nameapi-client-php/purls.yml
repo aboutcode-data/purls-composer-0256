@@ -1,0 +1,8 @@
+- pkg:composer/tacman/nameapi-client-php@5.0.0
+- pkg:composer/tacman/nameapi-client-php@5.0.0-rc2
+- pkg:composer/tacman/nameapi-client-php@5.0.0-rc3
+- pkg:composer/tacman/nameapi-client-php@5.3.0-rc1
+- pkg:composer/tacman/nameapi-client-php@5.3.0-rc2
+- pkg:composer/tacman/nameapi-client-php@5.3.0-rc3
+- pkg:composer/tacman/nameapi-client-php@5.3.0-rc4
+- pkg:composer/tacman/nameapi-client-php@6.0

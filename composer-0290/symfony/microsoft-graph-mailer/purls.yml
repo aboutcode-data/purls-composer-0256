@@ -1,0 +1,8 @@
+- pkg:composer/symfony/microsoft-graph-mailer@v7.4.0
+- pkg:composer/symfony/microsoft-graph-mailer@v7.4.0-BETA1
+- pkg:composer/symfony/microsoft-graph-mailer@v7.4.0-BETA2
+- pkg:composer/symfony/microsoft-graph-mailer@v7.4.0-RC1
+- pkg:composer/symfony/microsoft-graph-mailer@v8.0.0
+- pkg:composer/symfony/microsoft-graph-mailer@v8.0.0-BETA1
+- pkg:composer/symfony/microsoft-graph-mailer@v8.0.0-BETA2
+- pkg:composer/symfony/microsoft-graph-mailer@v8.0.0-RC1
