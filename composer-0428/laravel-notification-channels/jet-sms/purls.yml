@@ -1,0 +1,8 @@
+- pkg:composer/laravel-notification-channels/jet-sms@2.0.0
+- pkg:composer/laravel-notification-channels/jet-sms@2.0.0-beta
+- pkg:composer/laravel-notification-channels/jet-sms@2.0.1
+- pkg:composer/laravel-notification-channels/jet-sms@2.0.2
+- pkg:composer/laravel-notification-channels/jet-sms@3.0.0
+- pkg:composer/laravel-notification-channels/jet-sms@4.0.0
+- pkg:composer/laravel-notification-channels/jet-sms@v1.0.0
+- pkg:composer/laravel-notification-channels/jet-sms@v1.0.1

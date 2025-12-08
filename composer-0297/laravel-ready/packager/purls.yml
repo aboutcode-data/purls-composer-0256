@@ -1,0 +1,4 @@
+- pkg:composer/laravel-ready/packager@1.0.0
+- pkg:composer/laravel-ready/packager@1.2.0
+- pkg:composer/laravel-ready/packager@v1.3.0
+- pkg:composer/laravel-ready/packager@v1.4.0

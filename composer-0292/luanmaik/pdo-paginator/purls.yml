@@ -1,0 +1,3 @@
+- pkg:composer/luanmaik/pdo-paginator@0.5
+- pkg:composer/luanmaik/pdo-paginator@0.9
+- pkg:composer/luanmaik/pdo-paginator@1.0

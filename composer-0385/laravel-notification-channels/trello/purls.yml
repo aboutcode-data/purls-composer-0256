@@ -1,0 +1,5 @@
+- pkg:composer/laravel-notification-channels/trello@0.0.1
+- pkg:composer/laravel-notification-channels/trello@1.0.0
+- pkg:composer/laravel-notification-channels/trello@1.1.0
+- pkg:composer/laravel-notification-channels/trello@1.2.0
+- pkg:composer/laravel-notification-channels/trello@1.3.0

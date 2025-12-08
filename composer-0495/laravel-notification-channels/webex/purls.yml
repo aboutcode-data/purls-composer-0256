@@ -1,0 +1,4 @@
+- pkg:composer/laravel-notification-channels/webex@v0.1.0
+- pkg:composer/laravel-notification-channels/webex@v1.0.0
+- pkg:composer/laravel-notification-channels/webex@v1.0.1
+- pkg:composer/laravel-notification-channels/webex@v2.0.0

@@ -1,0 +1,5 @@
+- pkg:composer/lindelea/laravel-aws-elb-support@v1.0
+- pkg:composer/lindelea/laravel-aws-elb-support@v1.1
+- pkg:composer/lindelea/laravel-aws-elb-support@v1.2
+- pkg:composer/lindelea/laravel-aws-elb-support@v1.3
+- pkg:composer/lindelea/laravel-aws-elb-support@v1.4

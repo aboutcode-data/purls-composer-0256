@@ -1,0 +1,15 @@
+- pkg:composer/magenxcommerce/module-url-rewrite@100.1.8
+- pkg:composer/magenxcommerce/module-url-rewrite@101.0.10
+- pkg:composer/magenxcommerce/module-url-rewrite@101.0.7
+- pkg:composer/magenxcommerce/module-url-rewrite@101.0.9
+- pkg:composer/magenxcommerce/module-url-rewrite@101.1.0
+- pkg:composer/magenxcommerce/module-url-rewrite@101.1.1
+- pkg:composer/magenxcommerce/module-url-rewrite@101.1.2
+- pkg:composer/magenxcommerce/module-url-rewrite@101.1.3
+- pkg:composer/magenxcommerce/module-url-rewrite@101.1.4
+- pkg:composer/magenxcommerce/module-url-rewrite@101.1.4-p2
+- pkg:composer/magenxcommerce/module-url-rewrite@101.1.5
+- pkg:composer/magenxcommerce/module-url-rewrite@101.1.6
+- pkg:composer/magenxcommerce/module-url-rewrite@102.0.0
+- pkg:composer/magenxcommerce/module-url-rewrite@102.0.1
+- pkg:composer/magenxcommerce/module-url-rewrite@102.0.2

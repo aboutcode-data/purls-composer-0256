@@ -1,0 +1,5 @@
+- pkg:composer/leodoc/symfony-client-bundle@v1.0.0
+- pkg:composer/leodoc/symfony-client-bundle@v1.0.1
+- pkg:composer/leodoc/symfony-client-bundle@v1.0.2
+- pkg:composer/leodoc/symfony-client-bundle@v1.1.0
+- pkg:composer/leodoc/symfony-client-bundle@v2.0.0

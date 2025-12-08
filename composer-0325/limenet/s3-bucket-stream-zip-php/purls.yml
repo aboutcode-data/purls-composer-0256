@@ -1,0 +1,7 @@
+- pkg:composer/limenet/s3-bucket-stream-zip-php@1.0.0
+- pkg:composer/limenet/s3-bucket-stream-zip-php@1.0.1
+- pkg:composer/limenet/s3-bucket-stream-zip-php@v2.0.0
+- pkg:composer/limenet/s3-bucket-stream-zip-php@v2.0.1
+- pkg:composer/limenet/s3-bucket-stream-zip-php@v3.0.0
+- pkg:composer/limenet/s3-bucket-stream-zip-php@v3.0.1
+- pkg:composer/limenet/s3-bucket-stream-zip-php@v3.0.2

@@ -1,0 +1,5 @@
+- pkg:composer/laravel-frontend-presets/bootstrap-4@0.9
+- pkg:composer/laravel-frontend-presets/bootstrap-4@0.9.1
+- pkg:composer/laravel-frontend-presets/bootstrap-4@0.9.2
+- pkg:composer/laravel-frontend-presets/bootstrap-4@0.9.3
+- pkg:composer/laravel-frontend-presets/bootstrap-4@0.9.4

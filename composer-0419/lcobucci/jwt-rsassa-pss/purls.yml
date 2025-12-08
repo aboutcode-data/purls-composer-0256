@@ -1,0 +1,2 @@
+- pkg:composer/lcobucci/jwt-rsassa-pss@1.0.0
+- pkg:composer/lcobucci/jwt-rsassa-pss@1.1.0

@@ -1,0 +1,13 @@
+- pkg:composer/lindelius/php-jwt@0.1
+- pkg:composer/lindelius/php-jwt@0.2
+- pkg:composer/lindelius/php-jwt@0.2.1
+- pkg:composer/lindelius/php-jwt@0.2.2
+- pkg:composer/lindelius/php-jwt@0.3
+- pkg:composer/lindelius/php-jwt@0.4
+- pkg:composer/lindelius/php-jwt@0.5
+- pkg:composer/lindelius/php-jwt@0.6
+- pkg:composer/lindelius/php-jwt@0.7
+- pkg:composer/lindelius/php-jwt@0.8
+- pkg:composer/lindelius/php-jwt@0.8.1
+- pkg:composer/lindelius/php-jwt@0.9
+- pkg:composer/lindelius/php-jwt@0.9.1

@@ -1,0 +1,14 @@
+- pkg:composer/magetest/magento-phpspec-extension@0.0.1
+- pkg:composer/magetest/magento-phpspec-extension@2.1.0
+- pkg:composer/magetest/magento-phpspec-extension@2.1.1
+- pkg:composer/magetest/magento-phpspec-extension@2.2.0
+- pkg:composer/magetest/magento-phpspec-extension@2.2.0-BETA1
+- pkg:composer/magetest/magento-phpspec-extension@2.2.0-BETA2
+- pkg:composer/magetest/magento-phpspec-extension@2.2.1
+- pkg:composer/magetest/magento-phpspec-extension@3.0.0
+- pkg:composer/magetest/magento-phpspec-extension@3.0.0_BETA1
+- pkg:composer/magetest/magento-phpspec-extension@3.0.0_BETA2
+- pkg:composer/magetest/magento-phpspec-extension@4.0.0
+- pkg:composer/magetest/magento-phpspec-extension@4.0.1
+- pkg:composer/magetest/magento-phpspec-extension@5.0.0
+- pkg:composer/magetest/magento-phpspec-extension@v2.0.0

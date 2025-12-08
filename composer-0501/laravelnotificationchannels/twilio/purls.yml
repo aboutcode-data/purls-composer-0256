@@ -1,0 +1,12 @@
+- pkg:composer/laravelnotificationchannels/twilio@1.0.2
+- pkg:composer/laravelnotificationchannels/twilio@2.0.0
+- pkg:composer/laravelnotificationchannels/twilio@2.0.1
+- pkg:composer/laravelnotificationchannels/twilio@2.0.2
+- pkg:composer/laravelnotificationchannels/twilio@2.0.3
+- pkg:composer/laravelnotificationchannels/twilio@2.0.4
+- pkg:composer/laravelnotificationchannels/twilio@2.0.5
+- pkg:composer/laravelnotificationchannels/twilio@2.0.6
+- pkg:composer/laravelnotificationchannels/twilio@v0.0.1
+- pkg:composer/laravelnotificationchannels/twilio@v0.0.2
+- pkg:composer/laravelnotificationchannels/twilio@v1.0.0
+- pkg:composer/laravelnotificationchannels/twilio@v1.0.1

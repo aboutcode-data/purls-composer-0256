@@ -1,0 +1,17 @@
+- pkg:composer/lp-digital/github-event-parser@v0.5
+- pkg:composer/lp-digital/github-event-parser@v0.6
+- pkg:composer/lp-digital/github-event-parser@v0.7
+- pkg:composer/lp-digital/github-event-parser@v0.7.1
+- pkg:composer/lp-digital/github-event-parser@v0.7.2
+- pkg:composer/lp-digital/github-event-parser@v0.7.3
+- pkg:composer/lp-digital/github-event-parser@v0.7.4
+- pkg:composer/lp-digital/github-event-parser@v0.7.5
+- pkg:composer/lp-digital/github-event-parser@v0.7.6
+- pkg:composer/lp-digital/github-event-parser@v0.7.6.1
+- pkg:composer/lp-digital/github-event-parser@v0.7.7
+- pkg:composer/lp-digital/github-event-parser@v0.7.8
+- pkg:composer/lp-digital/github-event-parser@v0.7.8.1
+- pkg:composer/lp-digital/github-event-parser@v0.8
+- pkg:composer/lp-digital/github-event-parser@v0.8.1
+- pkg:composer/lp-digital/github-event-parser@v0.8.2
+- pkg:composer/lp-digital/github-event-parser@v0.8.3

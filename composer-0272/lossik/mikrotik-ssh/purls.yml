@@ -1,0 +1,5 @@
+- pkg:composer/lossik/mikrotik-ssh@1.0.0
+- pkg:composer/lossik/mikrotik-ssh@1.0.1
+- pkg:composer/lossik/mikrotik-ssh@2.0.0
+- pkg:composer/lossik/mikrotik-ssh@2.0.1
+- pkg:composer/lossik/mikrotik-ssh@2.0.2

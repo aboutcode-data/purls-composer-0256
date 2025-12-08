@@ -1,0 +1,9 @@
+- pkg:composer/laravel-validation-rules/country-codes@2.2.0
+- pkg:composer/laravel-validation-rules/country-codes@4.0.0
+- pkg:composer/laravel-validation-rules/country-codes@4.1.0
+- pkg:composer/laravel-validation-rules/country-codes@4.2.0
+- pkg:composer/laravel-validation-rules/country-codes@V1.1.0
+- pkg:composer/laravel-validation-rules/country-codes@v1.0.0
+- pkg:composer/laravel-validation-rules/country-codes@v2.0.0
+- pkg:composer/laravel-validation-rules/country-codes@v2.1.0
+- pkg:composer/laravel-validation-rules/country-codes@v3.0.0

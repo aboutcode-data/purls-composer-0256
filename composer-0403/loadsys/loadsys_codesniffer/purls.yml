@@ -1,0 +1,14 @@
+- pkg:composer/loadsys/loadsys_codesniffer@0.2.0
+- pkg:composer/loadsys/loadsys_codesniffer@0.2.2
+- pkg:composer/loadsys/loadsys_codesniffer@1.0.0
+- pkg:composer/loadsys/loadsys_codesniffer@1.0.1
+- pkg:composer/loadsys/loadsys_codesniffer@2.0.0
+- pkg:composer/loadsys/loadsys_codesniffer@3.0.0
+- pkg:composer/loadsys/loadsys_codesniffer@3.0.1
+- pkg:composer/loadsys/loadsys_codesniffer@3.0.2
+- pkg:composer/loadsys/loadsys_codesniffer@3.0.3
+- pkg:composer/loadsys/loadsys_codesniffer@3.0.4
+- pkg:composer/loadsys/loadsys_codesniffer@3.0.5
+- pkg:composer/loadsys/loadsys_codesniffer@3.0.6
+- pkg:composer/loadsys/loadsys_codesniffer@3.0.7
+- pkg:composer/loadsys/loadsys_codesniffer@3.0.8

@@ -1,0 +1,4 @@
+- pkg:composer/lukewaite/laravel-aws-cache-adapter@v1.0.0
+- pkg:composer/lukewaite/laravel-aws-cache-adapter@v1.0.1
+- pkg:composer/lukewaite/laravel-aws-cache-adapter@v1.1.0
+- pkg:composer/lukewaite/laravel-aws-cache-adapter@v1.1.1

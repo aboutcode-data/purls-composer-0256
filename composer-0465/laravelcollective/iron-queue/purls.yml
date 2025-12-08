@@ -1,0 +1,14 @@
+- pkg:composer/laravelcollective/iron-queue@5.6
+- pkg:composer/laravelcollective/iron-queue@v5.2
+- pkg:composer/laravelcollective/iron-queue@v5.2.1
+- pkg:composer/laravelcollective/iron-queue@v5.2.2
+- pkg:composer/laravelcollective/iron-queue@v5.2.3
+- pkg:composer/laravelcollective/iron-queue@v5.2.4
+- pkg:composer/laravelcollective/iron-queue@v5.2.5
+- pkg:composer/laravelcollective/iron-queue@v5.3.0
+- pkg:composer/laravelcollective/iron-queue@v5.4.0
+- pkg:composer/laravelcollective/iron-queue@v5.5
+- pkg:composer/laravelcollective/iron-queue@v5.5.1
+- pkg:composer/laravelcollective/iron-queue@v5.6.1
+- pkg:composer/laravelcollective/iron-queue@v5.7.0
+- pkg:composer/laravelcollective/iron-queue@v5.7.1

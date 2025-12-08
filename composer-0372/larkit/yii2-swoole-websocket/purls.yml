@@ -1,0 +1,4 @@
+- pkg:composer/larkit/yii2-swoole-websocket@v1.0
+- pkg:composer/larkit/yii2-swoole-websocket@v1.1
+- pkg:composer/larkit/yii2-swoole-websocket@v1.11
+- pkg:composer/larkit/yii2-swoole-websocket@v2.0
