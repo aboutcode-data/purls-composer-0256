@@ -1,4 +1,5 @@
 - pkg:composer/fubber/mini@v0.1.0
+- pkg:composer/fubber/mini@v0.1.12
 - pkg:composer/fubber/mini@v0.10.0
 - pkg:composer/fubber/mini@v0.11.0
 - pkg:composer/fubber/mini@v0.12.0
