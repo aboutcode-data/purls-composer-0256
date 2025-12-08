@@ -1,0 +1,6 @@
+- pkg:composer/scf/simple-command-framework@0.2.2
+- pkg:composer/scf/simple-command-framework@1.0
+- pkg:composer/scf/simple-command-framework@1.0.1
+- pkg:composer/scf/simple-command-framework@v0.1.0
+- pkg:composer/scf/simple-command-framework@v0.2.0
+- pkg:composer/scf/simple-command-framework@v0.2.1

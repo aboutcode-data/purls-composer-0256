@@ -1,0 +1,8 @@
+- pkg:composer/silverstripe/event-dispatcher@0.1.0
+- pkg:composer/silverstripe/event-dispatcher@0.1.1
+- pkg:composer/silverstripe/event-dispatcher@0.1.2
+- pkg:composer/silverstripe/event-dispatcher@0.1.3
+- pkg:composer/silverstripe/event-dispatcher@1.0.0
+- pkg:composer/silverstripe/event-dispatcher@1.0.0-alpha1
+- pkg:composer/silverstripe/event-dispatcher@1.0.1
+- pkg:composer/silverstripe/event-dispatcher@2.0.0

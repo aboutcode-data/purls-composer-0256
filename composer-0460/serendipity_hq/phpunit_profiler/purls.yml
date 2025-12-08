@@ -1,0 +1,14 @@
+- pkg:composer/serendipity_hq/phpunit_profiler@0.0.2
+- pkg:composer/serendipity_hq/phpunit_profiler@0.0.3
+- pkg:composer/serendipity_hq/phpunit_profiler@0.0.4
+- pkg:composer/serendipity_hq/phpunit_profiler@0.0.5
+- pkg:composer/serendipity_hq/phpunit_profiler@1.0.0
+- pkg:composer/serendipity_hq/phpunit_profiler@1.1
+- pkg:composer/serendipity_hq/phpunit_profiler@1.2
+- pkg:composer/serendipity_hq/phpunit_profiler@1.2.1
+- pkg:composer/serendipity_hq/phpunit_profiler@1.2.2
+- pkg:composer/serendipity_hq/phpunit_profiler@1.2.3
+- pkg:composer/serendipity_hq/phpunit_profiler@2.0.0
+- pkg:composer/serendipity_hq/phpunit_profiler@2.0.1
+- pkg:composer/serendipity_hq/phpunit_profiler@3.0.0
+- pkg:composer/serendipity_hq/phpunit_profiler@3.0.1

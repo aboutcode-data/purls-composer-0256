@@ -1,0 +1,3 @@
+- pkg:composer/socialiteproviders/facebook@4.0.0
+- pkg:composer/socialiteproviders/facebook@4.1.0
+- pkg:composer/socialiteproviders/facebook@v1.0

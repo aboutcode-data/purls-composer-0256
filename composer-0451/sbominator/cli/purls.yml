@@ -1,0 +1,3 @@
+- pkg:composer/sbominator/cli@v0.0.1
+- pkg:composer/sbominator/cli@v0.1.0
+- pkg:composer/sbominator/cli@v0.2.0

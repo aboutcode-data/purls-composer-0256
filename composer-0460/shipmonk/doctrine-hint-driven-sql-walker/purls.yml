@@ -1,0 +1,4 @@
+- pkg:composer/shipmonk/doctrine-hint-driven-sql-walker@1.0.0
+- pkg:composer/shipmonk/doctrine-hint-driven-sql-walker@2.0.0
+- pkg:composer/shipmonk/doctrine-hint-driven-sql-walker@2.0.1
+- pkg:composer/shipmonk/doctrine-hint-driven-sql-walker@2.0.2

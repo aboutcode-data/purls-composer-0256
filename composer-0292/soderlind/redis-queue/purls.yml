@@ -1,0 +1,4 @@
+- pkg:composer/soderlind/redis-queue@1.0.2
+- pkg:composer/soderlind/redis-queue@1.2.0
+- pkg:composer/soderlind/redis-queue@2.0.0
+- pkg:composer/soderlind/redis-queue@2.0.1

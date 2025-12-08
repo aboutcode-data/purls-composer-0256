@@ -1,0 +1,3 @@
+- pkg:composer/scandipwa/stripe-graphql@1.0.0
+- pkg:composer/scandipwa/stripe-graphql@2.0.0
+- pkg:composer/scandipwa/stripe-graphql@3.0.0

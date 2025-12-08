@@ -1,0 +1,4 @@
+- pkg:composer/silinternational/smartsheet-php-client@0.1.0
+- pkg:composer/silinternational/smartsheet-php-client@2.0.0
+- pkg:composer/silinternational/smartsheet-php-client@3.0.0
+- pkg:composer/silinternational/smartsheet-php-client@3.0.1

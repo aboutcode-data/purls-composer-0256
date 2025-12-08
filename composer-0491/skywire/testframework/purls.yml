@@ -1,0 +1,8 @@
+- pkg:composer/skywire/testframework@1
+- pkg:composer/skywire/testframework@2.0.0
+- pkg:composer/skywire/testframework@2.0.1
+- pkg:composer/skywire/testframework@2.1.0
+- pkg:composer/skywire/testframework@2.1.1
+- pkg:composer/skywire/testframework@2.2.0
+- pkg:composer/skywire/testframework@2.3.0
+- pkg:composer/skywire/testframework@2.4.0

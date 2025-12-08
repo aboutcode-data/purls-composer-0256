@@ -1,0 +1,5 @@
+- pkg:composer/sometestvendor/sometestpackage-55@1.0.0
+- pkg:composer/sometestvendor/sometestpackage-55@1.1.2
+- pkg:composer/sometestvendor/sometestpackage-55@2.0.0
+- pkg:composer/sometestvendor/sometestpackage-55@2.0.1
+- pkg:composer/sometestvendor/sometestpackage-55@2.2.1

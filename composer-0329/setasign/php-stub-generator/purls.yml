@@ -1,0 +1,10 @@
+- pkg:composer/setasign/php-stub-generator@v0.1-alpha
+- pkg:composer/setasign/php-stub-generator@v0.1.1-alpha
+- pkg:composer/setasign/php-stub-generator@v0.2.0-alpha
+- pkg:composer/setasign/php-stub-generator@v0.2.1-alpha
+- pkg:composer/setasign/php-stub-generator@v0.3.0-alpha
+- pkg:composer/setasign/php-stub-generator@v0.4.0-alpha
+- pkg:composer/setasign/php-stub-generator@v1.0.0
+- pkg:composer/setasign/php-stub-generator@v1.0.1
+- pkg:composer/setasign/php-stub-generator@v2.0.0
+- pkg:composer/setasign/php-stub-generator@v2.1.0

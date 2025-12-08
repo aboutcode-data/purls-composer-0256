@@ -1,0 +1,11 @@
+- pkg:composer/solaris/php-moon-phase@v1.0.0
+- pkg:composer/solaris/php-moon-phase@v1.1.0
+- pkg:composer/solaris/php-moon-phase@v1.1.1
+- pkg:composer/solaris/php-moon-phase@v1.2
+- pkg:composer/solaris/php-moon-phase@v1.3
+- pkg:composer/solaris/php-moon-phase@v2.0.0
+- pkg:composer/solaris/php-moon-phase@v2.1.0
+- pkg:composer/solaris/php-moon-phase@v3.0.0
+- pkg:composer/solaris/php-moon-phase@v3.1.0
+- pkg:composer/solaris/php-moon-phase@v3.1.1
+- pkg:composer/solaris/php-moon-phase@v3.2.0

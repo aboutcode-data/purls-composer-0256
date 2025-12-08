@@ -1,0 +1,4 @@
+- pkg:composer/solidcode-kch/laravel-in-docker@4.0.1
+- pkg:composer/solidcode-kch/laravel-in-docker@v4.1.0
+- pkg:composer/solidcode-kch/laravel-in-docker@v4.1.1
+- pkg:composer/solidcode-kch/laravel-in-docker@v4.1.2

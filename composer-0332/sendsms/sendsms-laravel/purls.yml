@@ -1,0 +1,7 @@
+- pkg:composer/sendsms/sendsms-laravel@0.1.0
+- pkg:composer/sendsms/sendsms-laravel@0.2
+- pkg:composer/sendsms/sendsms-laravel@0.3
+- pkg:composer/sendsms/sendsms-laravel@0.6
+- pkg:composer/sendsms/sendsms-laravel@0.7
+- pkg:composer/sendsms/sendsms-laravel@v0.8.0
+- pkg:composer/sendsms/sendsms-laravel@v0.8.1

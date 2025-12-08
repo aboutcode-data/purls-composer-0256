@@ -1,0 +1,12 @@
+- pkg:composer/schema31/php-ci-restserver@2.7.3
+- pkg:composer/schema31/php-ci-restserver@2.7.4
+- pkg:composer/schema31/php-ci-restserver@2.8.0
+- pkg:composer/schema31/php-ci-restserver@3.0.0
+- pkg:composer/schema31/php-ci-restserver@3.0.1
+- pkg:composer/schema31/php-ci-restserver@3.0.2
+- pkg:composer/schema31/php-ci-restserver@3.0.3
+- pkg:composer/schema31/php-ci-restserver@3.0.4
+- pkg:composer/schema31/php-ci-restserver@3.1.0
+- pkg:composer/schema31/php-ci-restserver@3.1.1
+- pkg:composer/schema31/php-ci-restserver@3.1.2
+- pkg:composer/schema31/php-ci-restserver@3.1.3
