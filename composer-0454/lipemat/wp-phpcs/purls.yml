@@ -46,4 +46,5 @@
 - pkg:composer/lipemat/wp-phpcs@4.4.2
 - pkg:composer/lipemat/wp-phpcs@4.5.0
 - pkg:composer/lipemat/wp-phpcs@4.5.1
+- pkg:composer/lipemat/wp-phpcs@4.5.2
 - pkg:composer/lipemat/wp-phpcs@v2.2.0
