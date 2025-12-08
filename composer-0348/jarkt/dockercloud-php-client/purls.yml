@@ -1,0 +1,3 @@
+- pkg:composer/jarkt/dockercloud-php-client@0.9.0
+- pkg:composer/jarkt/dockercloud-php-client@0.9.1
+- pkg:composer/jarkt/dockercloud-php-client@0.9.3

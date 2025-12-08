@@ -1,0 +1,4 @@
+- pkg:composer/jaeger/http@1.0
+- pkg:composer/jaeger/http@1.1
+- pkg:composer/jaeger/http@1.2
+- pkg:composer/jaeger/http@1.3

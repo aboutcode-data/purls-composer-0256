@@ -1,0 +1,2 @@
+- pkg:composer/jenner/redis_retry@v0.1.0
+- pkg:composer/jenner/redis_retry@v0.2.0

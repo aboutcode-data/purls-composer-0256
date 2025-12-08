@@ -1,0 +1,11 @@
+- pkg:composer/jaeger/google-auth@v0.1-alpha
+- pkg:composer/jaeger/google-auth@v0.10
+- pkg:composer/jaeger/google-auth@v0.11
+- pkg:composer/jaeger/google-auth@v0.2-alpha
+- pkg:composer/jaeger/google-auth@v0.3
+- pkg:composer/jaeger/google-auth@v0.4
+- pkg:composer/jaeger/google-auth@v0.5
+- pkg:composer/jaeger/google-auth@v0.6
+- pkg:composer/jaeger/google-auth@v0.7
+- pkg:composer/jaeger/google-auth@v0.8
+- pkg:composer/jaeger/google-auth@v0.9

@@ -1,0 +1,15 @@
+- pkg:composer/ipaas/gapp-laravel@v1.1.0
+- pkg:composer/ipaas/gapp-laravel@v1.1.1
+- pkg:composer/ipaas/gapp-laravel@v1.1.2
+- pkg:composer/ipaas/gapp-laravel@v1.1.3
+- pkg:composer/ipaas/gapp-laravel@v1.1.4
+- pkg:composer/ipaas/gapp-laravel@v1.1.5
+- pkg:composer/ipaas/gapp-laravel@v1.2.0
+- pkg:composer/ipaas/gapp-laravel@v2.0.0
+- pkg:composer/ipaas/gapp-laravel@v3.0.0
+- pkg:composer/ipaas/gapp-laravel@v4.0.0
+- pkg:composer/ipaas/gapp-laravel@v4.0.1
+- pkg:composer/ipaas/gapp-laravel@v4.0.2
+- pkg:composer/ipaas/gapp-laravel@v4.0.3
+- pkg:composer/ipaas/gapp-laravel@v4.0.4
+- pkg:composer/ipaas/gapp-laravel@v4.1.0

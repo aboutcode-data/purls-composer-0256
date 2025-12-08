@@ -1,0 +1,5 @@
+- pkg:composer/itx/importer@0.10
+- pkg:composer/itx/importer@0.9
+- pkg:composer/itx/importer@1.0.0
+- pkg:composer/itx/importer@1.1.0
+- pkg:composer/itx/importer@2.0.0

@@ -1,0 +1,4 @@
+- pkg:composer/isislabs/php_codesniffer_codeigniter@1.4.2
+- pkg:composer/isislabs/php_codesniffer_codeigniter@1.4.3
+- pkg:composer/isislabs/php_codesniffer_codeigniter@1.4.4
+- pkg:composer/isislabs/php_codesniffer_codeigniter@1.5.0RC1

@@ -1,0 +1,4 @@
+- pkg:composer/islandora/carapace@1.0.0
+- pkg:composer/islandora/carapace@3.0.0
+- pkg:composer/islandora/carapace@4.0.0
+- pkg:composer/islandora/carapace@4.0.1

@@ -1,0 +1,5 @@
+- pkg:composer/infyomlabs/swagger-generator@v1.0.0
+- pkg:composer/infyomlabs/swagger-generator@v2.0.0
+- pkg:composer/infyomlabs/swagger-generator@v3.0.0
+- pkg:composer/infyomlabs/swagger-generator@v3.1.0
+- pkg:composer/infyomlabs/swagger-generator@v3.2.0

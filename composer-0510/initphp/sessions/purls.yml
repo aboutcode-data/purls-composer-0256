@@ -1,0 +1,4 @@
+- pkg:composer/initphp/sessions@1.0
+- pkg:composer/initphp/sessions@2.0
+- pkg:composer/initphp/sessions@2.0.1
+- pkg:composer/initphp/sessions@3.0

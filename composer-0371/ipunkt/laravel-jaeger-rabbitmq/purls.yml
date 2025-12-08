@@ -1,0 +1,5 @@
+- pkg:composer/ipunkt/laravel-jaeger-rabbitmq@1.0.0
+- pkg:composer/ipunkt/laravel-jaeger-rabbitmq@1.0.1
+- pkg:composer/ipunkt/laravel-jaeger-rabbitmq@1.1.0
+- pkg:composer/ipunkt/laravel-jaeger-rabbitmq@1.1.1
+- pkg:composer/ipunkt/laravel-jaeger-rabbitmq@1.1.2

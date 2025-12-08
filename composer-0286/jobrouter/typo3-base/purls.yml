@@ -1,0 +1,10 @@
+- pkg:composer/jobrouter/typo3-base@v0.1.0
+- pkg:composer/jobrouter/typo3-base@v0.1.1
+- pkg:composer/jobrouter/typo3-base@v0.1.2
+- pkg:composer/jobrouter/typo3-base@v1.0.0
+- pkg:composer/jobrouter/typo3-base@v1.1.0
+- pkg:composer/jobrouter/typo3-base@v1.2.0
+- pkg:composer/jobrouter/typo3-base@v1.3.0
+- pkg:composer/jobrouter/typo3-base@v2.0.0
+- pkg:composer/jobrouter/typo3-base@v3.0.0
+- pkg:composer/jobrouter/typo3-base@v4.0.0

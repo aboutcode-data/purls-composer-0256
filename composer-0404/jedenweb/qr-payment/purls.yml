@@ -1,0 +1,4 @@
+- pkg:composer/jedenweb/qr-payment@v1.0
+- pkg:composer/jedenweb/qr-payment@v1.1
+- pkg:composer/jedenweb/qr-payment@v2.0
+- pkg:composer/jedenweb/qr-payment@v3.0

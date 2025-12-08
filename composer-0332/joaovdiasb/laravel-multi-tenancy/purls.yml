@@ -1,0 +1,3 @@
+- pkg:composer/joaovdiasb/laravel-multi-tenancy@0.0.1-beta
+- pkg:composer/joaovdiasb/laravel-multi-tenancy@0.1
+- pkg:composer/joaovdiasb/laravel-multi-tenancy@0.2

@@ -1,0 +1,11 @@
+- pkg:composer/jakub-onderka/php-parallel-lint@0.4
+- pkg:composer/jakub-onderka/php-parallel-lint@0.5
+- pkg:composer/jakub-onderka/php-parallel-lint@v0.3
+- pkg:composer/jakub-onderka/php-parallel-lint@v0.6
+- pkg:composer/jakub-onderka/php-parallel-lint@v0.7
+- pkg:composer/jakub-onderka/php-parallel-lint@v0.7.1
+- pkg:composer/jakub-onderka/php-parallel-lint@v0.8
+- pkg:composer/jakub-onderka/php-parallel-lint@v0.9
+- pkg:composer/jakub-onderka/php-parallel-lint@v0.9.1
+- pkg:composer/jakub-onderka/php-parallel-lint@v0.9.2
+- pkg:composer/jakub-onderka/php-parallel-lint@v1.0.0

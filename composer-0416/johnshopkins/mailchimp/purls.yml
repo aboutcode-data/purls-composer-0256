@@ -1,0 +1,13 @@
+- pkg:composer/johnshopkins/mailchimp@v2.0
+- pkg:composer/johnshopkins/mailchimp@v3.0
+- pkg:composer/johnshopkins/mailchimp@v3.0.1
+- pkg:composer/johnshopkins/mailchimp@v3.1
+- pkg:composer/johnshopkins/mailchimp@v3.1.1
+- pkg:composer/johnshopkins/mailchimp@v3.2
+- pkg:composer/johnshopkins/mailchimp@v3.2.1
+- pkg:composer/johnshopkins/mailchimp@v3.2.2
+- pkg:composer/johnshopkins/mailchimp@v3.2.3
+- pkg:composer/johnshopkins/mailchimp@v3.3
+- pkg:composer/johnshopkins/mailchimp@v3.3.1
+- pkg:composer/johnshopkins/mailchimp@v3.3.2
+- pkg:composer/johnshopkins/mailchimp@v3.4.0

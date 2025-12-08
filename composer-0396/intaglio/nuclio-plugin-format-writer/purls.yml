@@ -1,0 +1,3 @@
+- pkg:composer/intaglio/nuclio-plugin-format-writer@1.0.0
+- pkg:composer/intaglio/nuclio-plugin-format-writer@2.0.0
+- pkg:composer/intaglio/nuclio-plugin-format-writer@2.0.1

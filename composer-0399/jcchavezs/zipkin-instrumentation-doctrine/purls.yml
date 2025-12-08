@@ -1,0 +1,4 @@
+- pkg:composer/jcchavezs/zipkin-instrumentation-doctrine@1.0.0
+- pkg:composer/jcchavezs/zipkin-instrumentation-doctrine@1.0.0-beta1
+- pkg:composer/jcchavezs/zipkin-instrumentation-doctrine@1.0.0-beta2
+- pkg:composer/jcchavezs/zipkin-instrumentation-doctrine@1.1.0

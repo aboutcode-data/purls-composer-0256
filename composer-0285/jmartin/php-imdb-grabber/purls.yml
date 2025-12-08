@@ -1,0 +1,4 @@
+- pkg:composer/jmartin/php-imdb-grabber@5.5.20
+- pkg:composer/jmartin/php-imdb-grabber@5.5.21
+- pkg:composer/jmartin/php-imdb-grabber@v6.0.0
+- pkg:composer/jmartin/php-imdb-grabber@v6.0.1

@@ -1,0 +1,4 @@
+- pkg:composer/jazzman/autoload-interface@0.1
+- pkg:composer/jazzman/autoload-interface@0.2
+- pkg:composer/jazzman/autoload-interface@0.3
+- pkg:composer/jazzman/autoload-interface@0.3.1

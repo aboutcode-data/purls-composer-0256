@@ -1,0 +1,3 @@
+- pkg:composer/includable-deps/picofeed@1.0.0
+- pkg:composer/includable-deps/picofeed@1.0.1
+- pkg:composer/includable-deps/picofeed@v0.1.37

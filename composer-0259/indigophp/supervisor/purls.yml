@@ -1,0 +1,13 @@
+- pkg:composer/indigophp/supervisor@v1.0-alpha
+- pkg:composer/indigophp/supervisor@v1.0.0
+- pkg:composer/indigophp/supervisor@v1.1.0
+- pkg:composer/indigophp/supervisor@v1.1.1
+- pkg:composer/indigophp/supervisor@v1.2.0
+- pkg:composer/indigophp/supervisor@v1.2.1
+- pkg:composer/indigophp/supervisor@v2.0.0
+- pkg:composer/indigophp/supervisor@v2.0.1
+- pkg:composer/indigophp/supervisor@v2.0.2
+- pkg:composer/indigophp/supervisor@v3.0.0
+- pkg:composer/indigophp/supervisor@v3.0.0-alpha
+- pkg:composer/indigophp/supervisor@v3.0.0-beta
+- pkg:composer/indigophp/supervisor@v3.0.0-beta2

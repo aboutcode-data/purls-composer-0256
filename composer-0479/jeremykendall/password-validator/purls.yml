@@ -1,0 +1,13 @@
+- pkg:composer/jeremykendall/password-validator@1.0.0
+- pkg:composer/jeremykendall/password-validator@1.0.0-beta
+- pkg:composer/jeremykendall/password-validator@1.1.0-beta
+- pkg:composer/jeremykendall/password-validator@2.0.0-beta
+- pkg:composer/jeremykendall/password-validator@2.0.1-beta
+- pkg:composer/jeremykendall/password-validator@2.0.2-beta
+- pkg:composer/jeremykendall/password-validator@2.0.3
+- pkg:composer/jeremykendall/password-validator@2.0.3-beta
+- pkg:composer/jeremykendall/password-validator@3.0.0
+- pkg:composer/jeremykendall/password-validator@3.0.1
+- pkg:composer/jeremykendall/password-validator@3.0.2
+- pkg:composer/jeremykendall/password-validator@3.0.3
+- pkg:composer/jeremykendall/password-validator@3.0.4

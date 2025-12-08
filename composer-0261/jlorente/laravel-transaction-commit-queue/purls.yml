@@ -1,0 +1,2 @@
+- pkg:composer/jlorente/laravel-transaction-commit-queue@1.0.0
+- pkg:composer/jlorente/laravel-transaction-commit-queue@1.0.4

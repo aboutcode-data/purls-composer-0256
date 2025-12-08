@@ -1,0 +1,4 @@
+- pkg:composer/indigophp/queue@v1.0
+- pkg:composer/indigophp/queue@v2.0.0-alpha
+- pkg:composer/indigophp/queue@v2.0.0-beta
+- pkg:composer/indigophp/queue@v2.0.0-rc1

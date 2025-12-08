@@ -1,0 +1,2 @@
+- pkg:composer/iris/nsq_to_swoole@1.0.0
+- pkg:composer/iris/nsq_to_swoole@1.2.2

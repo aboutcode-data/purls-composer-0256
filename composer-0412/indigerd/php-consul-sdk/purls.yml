@@ -1,0 +1,5 @@
+- pkg:composer/indigerd/php-consul-sdk@v1.0
+- pkg:composer/indigerd/php-consul-sdk@v1.1
+- pkg:composer/indigerd/php-consul-sdk@v1.2
+- pkg:composer/indigerd/php-consul-sdk@v1.2.1
+- pkg:composer/indigerd/php-consul-sdk@v1.2.2

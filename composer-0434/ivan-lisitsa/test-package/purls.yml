@@ -1,0 +1,6 @@
+- pkg:composer/ivan-lisitsa/test-package@v1.0.0
+- pkg:composer/ivan-lisitsa/test-package@v2.0.0
+- pkg:composer/ivan-lisitsa/test-package@v2.1.0
+- pkg:composer/ivan-lisitsa/test-package@v3.0.0
+- pkg:composer/ivan-lisitsa/test-package@v3.0.1
+- pkg:composer/ivan-lisitsa/test-package@v3.2
