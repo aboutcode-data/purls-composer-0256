@@ -1,0 +1,6 @@
+- pkg:composer/maleficarum/redis@1.0.0
+- pkg:composer/maleficarum/redis@2.0.0
+- pkg:composer/maleficarum/redis@2.1.0
+- pkg:composer/maleficarum/redis@3.0.0
+- pkg:composer/maleficarum/redis@4.0.0
+- pkg:composer/maleficarum/redis@5.0.0

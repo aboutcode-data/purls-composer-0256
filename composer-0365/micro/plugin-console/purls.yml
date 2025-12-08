@@ -1,0 +1,6 @@
+- pkg:composer/micro/plugin-console@1.0
+- pkg:composer/micro/plugin-console@1.1
+- pkg:composer/micro/plugin-console@2.0.0-alpha
+- pkg:composer/micro/plugin-console@v1.6.0
+- pkg:composer/micro/plugin-console@v1.6.1
+- pkg:composer/micro/plugin-console@v1.6.2

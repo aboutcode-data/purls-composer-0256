@@ -1,0 +1,6 @@
+- pkg:composer/mf/symfony-console-subscriber@0.1.0
+- pkg:composer/mf/symfony-console-subscriber@0.2.0
+- pkg:composer/mf/symfony-console-subscriber@1.0.0
+- pkg:composer/mf/symfony-console-subscriber@2.0.0
+- pkg:composer/mf/symfony-console-subscriber@2.1.0
+- pkg:composer/mf/symfony-console-subscriber@3.0.0

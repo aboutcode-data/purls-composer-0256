@@ -1,0 +1,4 @@
+- pkg:composer/mcustiel/codeception-http-mock@v0.5
+- pkg:composer/mcustiel/codeception-http-mock@v0.5.1
+- pkg:composer/mcustiel/codeception-http-mock@v0.6
+- pkg:composer/mcustiel/codeception-http-mock@v0.7

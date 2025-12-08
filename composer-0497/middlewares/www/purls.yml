@@ -1,0 +1,11 @@
+- pkg:composer/middlewares/www@v0.1.0
+- pkg:composer/middlewares/www@v0.2.0
+- pkg:composer/middlewares/www@v0.3.0
+- pkg:composer/middlewares/www@v0.4.0
+- pkg:composer/middlewares/www@v0.5.0
+- pkg:composer/middlewares/www@v1.0.0
+- pkg:composer/middlewares/www@v1.1.0
+- pkg:composer/middlewares/www@v2.0.0
+- pkg:composer/middlewares/www@v2.0.1
+- pkg:composer/middlewares/www@v2.0.2
+- pkg:composer/middlewares/www@v2.1.0

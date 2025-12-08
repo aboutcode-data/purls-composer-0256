@@ -1,0 +1,4 @@
+- pkg:composer/mirocow/yii2-queue@0.0.3
+- pkg:composer/mirocow/yii2-queue@0.1-alpha
+- pkg:composer/mirocow/yii2-queue@1.0.0
+- pkg:composer/mirocow/yii2-queue@1.0.1

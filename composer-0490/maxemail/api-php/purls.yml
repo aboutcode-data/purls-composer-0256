@@ -1,0 +1,17 @@
+- pkg:composer/maxemail/api-php@2.0
+- pkg:composer/maxemail/api-php@3.0
+- pkg:composer/maxemail/api-php@3.1
+- pkg:composer/maxemail/api-php@3.1.1
+- pkg:composer/maxemail/api-php@3.1.2
+- pkg:composer/maxemail/api-php@4.0.0
+- pkg:composer/maxemail/api-php@4.0.1
+- pkg:composer/maxemail/api-php@4.1.0
+- pkg:composer/maxemail/api-php@5.0.0
+- pkg:composer/maxemail/api-php@5.0.1
+- pkg:composer/maxemail/api-php@5.1.0
+- pkg:composer/maxemail/api-php@5.1.1
+- pkg:composer/maxemail/api-php@5.2.0
+- pkg:composer/maxemail/api-php@5.2.1
+- pkg:composer/maxemail/api-php@6.0.0
+- pkg:composer/maxemail/api-php@6.1.0
+- pkg:composer/maxemail/api-php@6.1.1

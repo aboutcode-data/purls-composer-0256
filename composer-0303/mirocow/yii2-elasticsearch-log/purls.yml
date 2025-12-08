@@ -1,0 +1,4 @@
+- pkg:composer/mirocow/yii2-elasticsearch-log@0.0.3
+- pkg:composer/mirocow/yii2-elasticsearch-log@0.0.4
+- pkg:composer/mirocow/yii2-elasticsearch-log@0.0.5
+- pkg:composer/mirocow/yii2-elasticsearch-log@0.0.6

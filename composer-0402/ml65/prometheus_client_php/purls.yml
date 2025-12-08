@@ -1,0 +1,11 @@
+- pkg:composer/ml65/prometheus_client_php@v2.6.2
+- pkg:composer/ml65/prometheus_client_php@v2.7.1
+- pkg:composer/ml65/prometheus_client_php@v2.7.2
+- pkg:composer/ml65/prometheus_client_php@v2.7.3
+- pkg:composer/ml65/prometheus_client_php@v2.7.4
+- pkg:composer/ml65/prometheus_client_php@v2.7.5
+- pkg:composer/ml65/prometheus_client_php@v2.7.6
+- pkg:composer/ml65/prometheus_client_php@v2.7.7
+- pkg:composer/ml65/prometheus_client_php@v2.7.8
+- pkg:composer/ml65/prometheus_client_php@v2.7.9
+- pkg:composer/ml65/prometheus_client_php@v2.8.0

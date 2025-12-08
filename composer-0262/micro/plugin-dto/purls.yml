@@ -1,0 +1,5 @@
+- pkg:composer/micro/plugin-dto@1.0
+- pkg:composer/micro/plugin-dto@2.0.0-alpha
+- pkg:composer/micro/plugin-dto@v1.6.0
+- pkg:composer/micro/plugin-dto@v1.6.1
+- pkg:composer/micro/plugin-dto@v1.6.2

@@ -1,0 +1,4 @@
+- pkg:composer/manafpm/test-project@1.0.0
+- pkg:composer/manafpm/test-project@1.2.1
+- pkg:composer/manafpm/test-project@1.2.2
+- pkg:composer/manafpm/test-project@1.2.3

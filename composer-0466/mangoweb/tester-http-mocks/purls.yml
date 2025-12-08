@@ -1,0 +1,4 @@
+- pkg:composer/mangoweb/tester-http-mocks@v0.1
+- pkg:composer/mangoweb/tester-http-mocks@v0.1.1
+- pkg:composer/mangoweb/tester-http-mocks@v0.2
+- pkg:composer/mangoweb/tester-http-mocks@v0.3

@@ -1,0 +1,8 @@
+- pkg:composer/migratorydata/migratorydata-client-php@5.0.0
+- pkg:composer/migratorydata/migratorydata-client-php@5.0.1
+- pkg:composer/migratorydata/migratorydata-client-php@6.0.0
+- pkg:composer/migratorydata/migratorydata-client-php@6.0.1
+- pkg:composer/migratorydata/migratorydata-client-php@6.0.2
+- pkg:composer/migratorydata/migratorydata-client-php@6.0.3
+- pkg:composer/migratorydata/migratorydata-client-php@6.0.4
+- pkg:composer/migratorydata/migratorydata-client-php@6.0.5

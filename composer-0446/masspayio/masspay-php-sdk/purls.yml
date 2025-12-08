@@ -1,0 +1,5 @@
+- pkg:composer/masspayio/masspay-php-sdk@2.0.0
+- pkg:composer/masspayio/masspay-php-sdk@3.0.0
+- pkg:composer/masspayio/masspay-php-sdk@v1.0.0
+- pkg:composer/masspayio/masspay-php-sdk@v1.0.1
+- pkg:composer/masspayio/masspay-php-sdk@v1.0.2

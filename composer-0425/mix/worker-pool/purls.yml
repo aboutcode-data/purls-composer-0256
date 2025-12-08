@@ -1,0 +1,6 @@
+- pkg:composer/mix/worker-pool@v2.2.12
+- pkg:composer/mix/worker-pool@v2.2.14
+- pkg:composer/mix/worker-pool@v2.2.15
+- pkg:composer/mix/worker-pool@v2.2.16
+- pkg:composer/mix/worker-pool@v2.2.7
+- pkg:composer/mix/worker-pool@v3.0.1

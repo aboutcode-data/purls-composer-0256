@@ -1,0 +1,4 @@
+- pkg:composer/marein/symfony-lock-doctrine-migrations-bundle@1.0.0
+- pkg:composer/marein/symfony-lock-doctrine-migrations-bundle@1.0.1
+- pkg:composer/marein/symfony-lock-doctrine-migrations-bundle@1.0.2
+- pkg:composer/marein/symfony-lock-doctrine-migrations-bundle@1.0.3

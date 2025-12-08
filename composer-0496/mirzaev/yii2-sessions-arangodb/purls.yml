@@ -1,0 +1,4 @@
+- pkg:composer/mirzaev/yii2-sessions-arangodb@1.0.0
+- pkg:composer/mirzaev/yii2-sessions-arangodb@2.0.0
+- pkg:composer/mirzaev/yii2-sessions-arangodb@2.1.0
+- pkg:composer/mirzaev/yii2-sessions-arangodb@2.2.0

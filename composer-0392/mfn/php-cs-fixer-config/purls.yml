@@ -1,0 +1,11 @@
+- pkg:composer/mfn/php-cs-fixer-config@1.0.0
+- pkg:composer/mfn/php-cs-fixer-config@1.0.1
+- pkg:composer/mfn/php-cs-fixer-config@1.0.2
+- pkg:composer/mfn/php-cs-fixer-config@2.0.0
+- pkg:composer/mfn/php-cs-fixer-config@2.1.0
+- pkg:composer/mfn/php-cs-fixer-config@2.2.0
+- pkg:composer/mfn/php-cs-fixer-config@2.3.0
+- pkg:composer/mfn/php-cs-fixer-config@2.4.0
+- pkg:composer/mfn/php-cs-fixer-config@2.5.0
+- pkg:composer/mfn/php-cs-fixer-config@2.6.0
+- pkg:composer/mfn/php-cs-fixer-config@2.8.0

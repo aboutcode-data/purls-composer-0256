@@ -1,0 +1,9 @@
+- pkg:composer/matthiasnoback/phpunit-test-service-container@2.0.1
+- pkg:composer/matthiasnoback/phpunit-test-service-container@v1.0.0
+- pkg:composer/matthiasnoback/phpunit-test-service-container@v2.0.0
+- pkg:composer/matthiasnoback/phpunit-test-service-container@v3.0.0
+- pkg:composer/matthiasnoback/phpunit-test-service-container@v3.0.1
+- pkg:composer/matthiasnoback/phpunit-test-service-container@v3.1.0
+- pkg:composer/matthiasnoback/phpunit-test-service-container@v3.2.0
+- pkg:composer/matthiasnoback/phpunit-test-service-container@v3.2.1
+- pkg:composer/matthiasnoback/phpunit-test-service-container@v3.3.0

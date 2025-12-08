@@ -1,0 +1,2 @@
+- pkg:composer/mod-ci/with-eloquent@v1
+- pkg:composer/mod-ci/with-eloquent@v2

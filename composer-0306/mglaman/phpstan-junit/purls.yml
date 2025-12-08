@@ -1,0 +1,4 @@
+- pkg:composer/mglaman/phpstan-junit@0.11.0
+- pkg:composer/mglaman/phpstan-junit@0.11.1
+- pkg:composer/mglaman/phpstan-junit@0.11.2
+- pkg:composer/mglaman/phpstan-junit@0.12

@@ -1,0 +1,4 @@
+- pkg:composer/maxromanovsky/php-maxmind-geoip@1.11
+- pkg:composer/maxromanovsky/php-maxmind-geoip@1.12
+- pkg:composer/maxromanovsky/php-maxmind-geoip@1.12.1
+- pkg:composer/maxromanovsky/php-maxmind-geoip@1.12.2

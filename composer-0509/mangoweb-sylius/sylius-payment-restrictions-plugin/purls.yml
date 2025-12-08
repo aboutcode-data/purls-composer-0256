@@ -1,0 +1,6 @@
+- pkg:composer/mangoweb-sylius/sylius-payment-restrictions-plugin@v0.2.0
+- pkg:composer/mangoweb-sylius/sylius-payment-restrictions-plugin@v0.3.0
+- pkg:composer/mangoweb-sylius/sylius-payment-restrictions-plugin@v0.3.1
+- pkg:composer/mangoweb-sylius/sylius-payment-restrictions-plugin@v0.3.2
+- pkg:composer/mangoweb-sylius/sylius-payment-restrictions-plugin@v0.3.3
+- pkg:composer/mangoweb-sylius/sylius-payment-restrictions-plugin@v1.0.0

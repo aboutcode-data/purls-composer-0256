@@ -1,0 +1,4 @@
+- pkg:composer/managewp/static-code-analysis-tools@v0.1.0
+- pkg:composer/managewp/static-code-analysis-tools@v0.2.0
+- pkg:composer/managewp/static-code-analysis-tools@v0.3.0
+- pkg:composer/managewp/static-code-analysis-tools@v0.3.1

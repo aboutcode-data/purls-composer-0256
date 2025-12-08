@@ -1,0 +1,12 @@
+- pkg:composer/middlewares/filesystem@v0.1.0
+- pkg:composer/middlewares/filesystem@v0.2.0
+- pkg:composer/middlewares/filesystem@v0.3.0
+- pkg:composer/middlewares/filesystem@v0.3.1
+- pkg:composer/middlewares/filesystem@v0.4.0
+- pkg:composer/middlewares/filesystem@v0.4.1
+- pkg:composer/middlewares/filesystem@v0.5.0
+- pkg:composer/middlewares/filesystem@v1.0.0
+- pkg:composer/middlewares/filesystem@v1.1.0
+- pkg:composer/middlewares/filesystem@v2.0.0
+- pkg:composer/middlewares/filesystem@v2.0.1
+- pkg:composer/middlewares/filesystem@v3.0.0

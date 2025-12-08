@@ -1,0 +1,16 @@
+- pkg:composer/massive/build-bundle@0.1
+- pkg:composer/massive/build-bundle@0.2
+- pkg:composer/massive/build-bundle@0.3.0
+- pkg:composer/massive/build-bundle@0.3.1
+- pkg:composer/massive/build-bundle@0.4.0
+- pkg:composer/massive/build-bundle@0.4.1
+- pkg:composer/massive/build-bundle@0.5.0
+- pkg:composer/massive/build-bundle@0.5.1
+- pkg:composer/massive/build-bundle@0.5.2
+- pkg:composer/massive/build-bundle@0.5.3
+- pkg:composer/massive/build-bundle@0.5.4
+- pkg:composer/massive/build-bundle@0.5.5
+- pkg:composer/massive/build-bundle@0.5.6
+- pkg:composer/massive/build-bundle@0.5.7
+- pkg:composer/massive/build-bundle@0.5.8
+- pkg:composer/massive/build-bundle@0.5.9

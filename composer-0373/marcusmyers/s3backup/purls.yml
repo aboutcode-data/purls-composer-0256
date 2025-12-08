@@ -1,0 +1,4 @@
+- pkg:composer/marcusmyers/s3backup@1.1.0
+- pkg:composer/marcusmyers/s3backup@2.0.0
+- pkg:composer/marcusmyers/s3backup@3.0.0
+- pkg:composer/marcusmyers/s3backup@v1.0.0

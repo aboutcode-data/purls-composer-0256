@@ -1,0 +1,4 @@
+- pkg:composer/micro/plugin-event-emitter@1.0
+- pkg:composer/micro/plugin-event-emitter@1.1
+- pkg:composer/micro/plugin-event-emitter@2.0.0-alpha
+- pkg:composer/micro/plugin-event-emitter@v1.6.1
