@@ -1,1 +1,2 @@
 - pkg:composer/gryfoss/symfony-form-crypto-transaction-validator@v1.0.0
+- pkg:composer/gryfoss/symfony-form-crypto-transaction-validator@v1.0.1
