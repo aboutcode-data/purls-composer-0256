@@ -3,6 +3,7 @@
 - pkg:composer/eseperio/omnipay-redsys@0.2.5
 - pkg:composer/eseperio/omnipay-redsys@0.3.0
 - pkg:composer/eseperio/omnipay-redsys@1.0.0
+- pkg:composer/eseperio/omnipay-redsys@2.0.0
 - pkg:composer/eseperio/omnipay-redsys@v0.2
 - pkg:composer/eseperio/omnipay-redsys@v0.2.1
 - pkg:composer/eseperio/omnipay-redsys@v1.1.1
