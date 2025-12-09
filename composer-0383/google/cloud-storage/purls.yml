@@ -96,6 +96,7 @@
 - pkg:composer/google/cloud-storage@v1.48.5
 - pkg:composer/google/cloud-storage@v1.48.6
 - pkg:composer/google/cloud-storage@v1.48.7
+- pkg:composer/google/cloud-storage@v1.49.0
 - pkg:composer/google/cloud-storage@v1.5.0
 - pkg:composer/google/cloud-storage@v1.5.1
 - pkg:composer/google/cloud-storage@v1.5.2
