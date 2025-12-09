@@ -268,3 +268,4 @@
 - pkg:composer/elasticms/form-bundle@6.9.1
 - pkg:composer/elasticms/form-bundle@6.9.2
 - pkg:composer/elasticms/form-bundle@6.9.3
+- pkg:composer/elasticms/form-bundle@6.9.4
