@@ -28,3 +28,4 @@
 - pkg:composer/keboola/api-error-control@4.1.0
 - pkg:composer/keboola/api-error-control@4.2.0
 - pkg:composer/keboola/api-error-control@4.3.0
+- pkg:composer/keboola/api-error-control@5.0.0
