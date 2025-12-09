@@ -280,6 +280,7 @@
 - pkg:composer/illuminate/pipeline@v12.40.2
 - pkg:composer/illuminate/pipeline@v12.41.0
 - pkg:composer/illuminate/pipeline@v12.41.1
+- pkg:composer/illuminate/pipeline@v12.42.0
 - pkg:composer/illuminate/pipeline@v12.5.0
 - pkg:composer/illuminate/pipeline@v12.6.0
 - pkg:composer/illuminate/pipeline@v12.7.0
