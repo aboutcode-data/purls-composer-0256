@@ -40,6 +40,7 @@
 - pkg:composer/dbp/relay-core-connector-oidc-bundle@v0.1.44
 - pkg:composer/dbp/relay-core-connector-oidc-bundle@v0.1.45
 - pkg:composer/dbp/relay-core-connector-oidc-bundle@v0.1.46
+- pkg:composer/dbp/relay-core-connector-oidc-bundle@v0.1.47
 - pkg:composer/dbp/relay-core-connector-oidc-bundle@v0.1.5
 - pkg:composer/dbp/relay-core-connector-oidc-bundle@v0.1.6
 - pkg:composer/dbp/relay-core-connector-oidc-bundle@v0.1.7
