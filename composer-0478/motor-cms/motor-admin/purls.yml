@@ -86,6 +86,9 @@
 - pkg:composer/motor-cms/motor-admin@2.9.5
 - pkg:composer/motor-cms/motor-admin@2.9.6
 - pkg:composer/motor-cms/motor-admin@2.9.7
+- pkg:composer/motor-cms/motor-admin@2025.50.0-RC
+- pkg:composer/motor-cms/motor-admin@2025.50.0-alpha
+- pkg:composer/motor-cms/motor-admin@2025.50.1-RC
 - pkg:composer/motor-cms/motor-admin@3.0.1
 - pkg:composer/motor-cms/motor-admin@3.1.0
 - pkg:composer/motor-cms/motor-admin@3.1.1
