@@ -35,3 +35,4 @@
 - pkg:composer/laravel/pulse@v1.4.3
 - pkg:composer/laravel/pulse@v1.4.4
 - pkg:composer/laravel/pulse@v1.4.5
+- pkg:composer/laravel/pulse@v1.4.6
