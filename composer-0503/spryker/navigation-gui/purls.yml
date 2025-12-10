@@ -33,3 +33,5 @@
 - pkg:composer/spryker/navigation-gui@2.8.1
 - pkg:composer/spryker/navigation-gui@2.9.0
 - pkg:composer/spryker/navigation-gui@3.0.0
+- pkg:composer/spryker/navigation-gui@3.0.1
+- pkg:composer/spryker/navigation-gui@3.0.2

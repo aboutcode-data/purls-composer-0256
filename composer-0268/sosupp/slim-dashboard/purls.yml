@@ -81,7 +81,9 @@
 - pkg:composer/sosupp/slim-dashboard@v1.37.5
 - pkg:composer/sosupp/slim-dashboard@v1.37.6
 - pkg:composer/sosupp/slim-dashboard@v1.38.0
+- pkg:composer/sosupp/slim-dashboard@v1.39.0
 - pkg:composer/sosupp/slim-dashboard@v1.4.0
+- pkg:composer/sosupp/slim-dashboard@v1.40.0
 - pkg:composer/sosupp/slim-dashboard@v1.5.0
 - pkg:composer/sosupp/slim-dashboard@v1.6.0
 - pkg:composer/sosupp/slim-dashboard@v1.7.0

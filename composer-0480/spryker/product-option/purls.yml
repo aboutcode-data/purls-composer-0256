@@ -76,6 +76,7 @@
 - pkg:composer/spryker/product-option@8.22.1
 - pkg:composer/spryker/product-option@8.23.0
 - pkg:composer/spryker/product-option@8.24.0
+- pkg:composer/spryker/product-option@8.24.1
 - pkg:composer/spryker/product-option@8.3.0
 - pkg:composer/spryker/product-option@8.3.1
 - pkg:composer/spryker/product-option@8.4.0
