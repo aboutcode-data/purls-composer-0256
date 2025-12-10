@@ -1,0 +1,4 @@
+- pkg:composer/thelia/hooktest-module@0.1
+- pkg:composer/thelia/hooktest-module@0.2
+- pkg:composer/thelia/hooktest-module@1.0
+- pkg:composer/thelia/hooktest-module@1.1

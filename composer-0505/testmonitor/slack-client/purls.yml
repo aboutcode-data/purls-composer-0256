@@ -1,0 +1,2 @@
+- pkg:composer/testmonitor/slack-client@v1.0.0
+- pkg:composer/testmonitor/slack-client@v2.0.0

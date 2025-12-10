@@ -1,0 +1,8 @@
+- pkg:composer/typo3-ci/typo3sniffpool@0.0.6
+- pkg:composer/typo3-ci/typo3sniffpool@1.0.0
+- pkg:composer/typo3-ci/typo3sniffpool@1.0.0-alpha
+- pkg:composer/typo3-ci/typo3sniffpool@1.0.1
+- pkg:composer/typo3-ci/typo3sniffpool@2.0.0
+- pkg:composer/typo3-ci/typo3sniffpool@2.0.1
+- pkg:composer/typo3-ci/typo3sniffpool@2.1.0
+- pkg:composer/typo3-ci/typo3sniffpool@2.1.1

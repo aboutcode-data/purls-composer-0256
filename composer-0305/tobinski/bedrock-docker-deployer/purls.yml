@@ -1,0 +1,4 @@
+- pkg:composer/tobinski/bedrock-docker-deployer@0.1
+- pkg:composer/tobinski/bedrock-docker-deployer@0.2
+- pkg:composer/tobinski/bedrock-docker-deployer@0.3
+- pkg:composer/tobinski/bedrock-docker-deployer@0.4

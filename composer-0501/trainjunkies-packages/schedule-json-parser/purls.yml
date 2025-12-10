@@ -1,0 +1,4 @@
+- pkg:composer/trainjunkies-packages/schedule-json-parser@v1.0
+- pkg:composer/trainjunkies-packages/schedule-json-parser@v1.1
+- pkg:composer/trainjunkies-packages/schedule-json-parser@v2
+- pkg:composer/trainjunkies-packages/schedule-json-parser@v3.0

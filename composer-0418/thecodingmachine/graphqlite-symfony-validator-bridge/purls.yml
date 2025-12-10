@@ -1,0 +1,14 @@
+- pkg:composer/thecodingmachine/graphqlite-symfony-validator-bridge@v4.0.0
+- pkg:composer/thecodingmachine/graphqlite-symfony-validator-bridge@v4.1.0
+- pkg:composer/thecodingmachine/graphqlite-symfony-validator-bridge@v5.0.0
+- pkg:composer/thecodingmachine/graphqlite-symfony-validator-bridge@v5.0.1
+- pkg:composer/thecodingmachine/graphqlite-symfony-validator-bridge@v6.0.0
+- pkg:composer/thecodingmachine/graphqlite-symfony-validator-bridge@v6.0.0-beta.0
+- pkg:composer/thecodingmachine/graphqlite-symfony-validator-bridge@v6.0.1
+- pkg:composer/thecodingmachine/graphqlite-symfony-validator-bridge@v6.0.2
+- pkg:composer/thecodingmachine/graphqlite-symfony-validator-bridge@v7.0.0
+- pkg:composer/thecodingmachine/graphqlite-symfony-validator-bridge@v7.1.0
+- pkg:composer/thecodingmachine/graphqlite-symfony-validator-bridge@v7.1.1
+- pkg:composer/thecodingmachine/graphqlite-symfony-validator-bridge@v7.1.2
+- pkg:composer/thecodingmachine/graphqlite-symfony-validator-bridge@v7.2.0
+- pkg:composer/thecodingmachine/graphqlite-symfony-validator-bridge@v7.3.0

@@ -1,0 +1,4 @@
+- pkg:composer/thelia/thelia-cache-redis-adapter-module@0.1.0
+- pkg:composer/thelia/thelia-cache-redis-adapter-module@1.0.0
+- pkg:composer/thelia/thelia-cache-redis-adapter-module@3.0.1
+- pkg:composer/thelia/thelia-cache-redis-adapter-module@3.0.2

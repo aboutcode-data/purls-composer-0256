@@ -1,0 +1,4 @@
+- pkg:composer/test-magenx/module-cms@103.0.4
+- pkg:composer/test-magenx/module-cms@104.0.1
+- pkg:composer/test-magenx/module-cms@104.0.2
+- pkg:composer/test-magenx/module-cms@104.0.3

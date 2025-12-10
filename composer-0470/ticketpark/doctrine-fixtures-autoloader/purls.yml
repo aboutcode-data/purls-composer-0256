@@ -1,0 +1,4 @@
+- pkg:composer/ticketpark/doctrine-fixtures-autoloader@0.1
+- pkg:composer/ticketpark/doctrine-fixtures-autoloader@0.2
+- pkg:composer/ticketpark/doctrine-fixtures-autoloader@0.2.1
+- pkg:composer/ticketpark/doctrine-fixtures-autoloader@1.0

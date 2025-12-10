@@ -1,0 +1,6 @@
+- pkg:composer/testingmic/geoip2country@v1.1_stable
+- pkg:composer/testingmic/geoip2country@v1.2_stable
+- pkg:composer/testingmic/geoip2country@v2.0
+- pkg:composer/testingmic/geoip2country@v2.1
+- pkg:composer/testingmic/geoip2country@v2.2
+- pkg:composer/testingmic/geoip2country@v2.3

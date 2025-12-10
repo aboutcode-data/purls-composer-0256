@@ -1,0 +1,5 @@
+- pkg:composer/tobymaxham/laravel-dkim@v1.0
+- pkg:composer/tobymaxham/laravel-dkim@v2.0.1
+- pkg:composer/tobymaxham/laravel-dkim@v2.0.2
+- pkg:composer/tobymaxham/laravel-dkim@v2.1.0
+- pkg:composer/tobymaxham/laravel-dkim@v3.0

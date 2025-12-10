@@ -1,0 +1,6 @@
+- pkg:composer/tiup/tiupsdk@0.1
+- pkg:composer/tiup/tiupsdk@0.2
+- pkg:composer/tiup/tiupsdk@0.3
+- pkg:composer/tiup/tiupsdk@0.4
+- pkg:composer/tiup/tiupsdk@0.5
+- pkg:composer/tiup/tiupsdk@0.6

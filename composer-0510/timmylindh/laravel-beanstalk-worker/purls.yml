@@ -1,0 +1,5 @@
+- pkg:composer/timmylindh/laravel-beanstalk-worker@v1.0.0
+- pkg:composer/timmylindh/laravel-beanstalk-worker@v1.1.0
+- pkg:composer/timmylindh/laravel-beanstalk-worker@v1.1.1
+- pkg:composer/timmylindh/laravel-beanstalk-worker@v1.1.2
+- pkg:composer/timmylindh/laravel-beanstalk-worker@v1.1.3

@@ -1,0 +1,3 @@
+- pkg:composer/telegramsdk/botkit@v1.0.0
+- pkg:composer/telegramsdk/botkit@v1.0.1
+- pkg:composer/telegramsdk/botkit@v1.0.2

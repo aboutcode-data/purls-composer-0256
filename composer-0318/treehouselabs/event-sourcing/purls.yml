@@ -1,0 +1,5 @@
+- pkg:composer/treehouselabs/event-sourcing@1.0
+- pkg:composer/treehouselabs/event-sourcing@1.1
+- pkg:composer/treehouselabs/event-sourcing@1.1.1
+- pkg:composer/treehouselabs/event-sourcing@2.0
+- pkg:composer/treehouselabs/event-sourcing@2.0.1

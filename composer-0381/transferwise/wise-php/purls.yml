@@ -1,0 +1,3 @@
+- pkg:composer/transferwise/wise-php@v0.1
+- pkg:composer/transferwise/wise-php@v0.2
+- pkg:composer/transferwise/wise-php@v0.2.1

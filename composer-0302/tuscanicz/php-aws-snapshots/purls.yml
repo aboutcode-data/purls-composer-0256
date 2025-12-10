@@ -1,0 +1,4 @@
+- pkg:composer/tuscanicz/php-aws-snapshots@0.9
+- pkg:composer/tuscanicz/php-aws-snapshots@1.0
+- pkg:composer/tuscanicz/php-aws-snapshots@1.1
+- pkg:composer/tuscanicz/php-aws-snapshots@1.1.1

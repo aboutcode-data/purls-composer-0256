@@ -1,0 +1,2 @@
+- pkg:composer/token/jwt@v4.0.4
+- pkg:composer/token/jwt@v4.4.0

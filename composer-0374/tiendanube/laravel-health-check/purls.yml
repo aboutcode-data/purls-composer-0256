@@ -1,0 +1,3 @@
+- pkg:composer/tiendanube/laravel-health-check@v1.0.0
+- pkg:composer/tiendanube/laravel-health-check@v2.0.0
+- pkg:composer/tiendanube/laravel-health-check@v3.0.0
