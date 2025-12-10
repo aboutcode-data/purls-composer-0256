@@ -351,6 +351,7 @@
 - pkg:composer/commongateway/corebundle@1.4.36
 - pkg:composer/commongateway/corebundle@1.4.37
 - pkg:composer/commongateway/corebundle@1.4.38
+- pkg:composer/commongateway/corebundle@1.4.39
 - pkg:composer/commongateway/corebundle@1.4.4
 - pkg:composer/commongateway/corebundle@1.4.5
 - pkg:composer/commongateway/corebundle@1.4.6

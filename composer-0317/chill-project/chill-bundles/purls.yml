@@ -103,6 +103,7 @@
 - pkg:composer/chill-project/chill-bundles@v4.0.1
 - pkg:composer/chill-project/chill-bundles@v4.0.2
 - pkg:composer/chill-project/chill-bundles@v4.1.0
+- pkg:composer/chill-project/chill-bundles@v4.10.0
 - pkg:composer/chill-project/chill-bundles@v4.2.0
 - pkg:composer/chill-project/chill-bundles@v4.2.1
 - pkg:composer/chill-project/chill-bundles@v4.3.0

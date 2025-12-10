@@ -24,6 +24,7 @@
 - pkg:composer/cloudcreativity/ddd-modules@v3.4.0
 - pkg:composer/cloudcreativity/ddd-modules@v4.0.0
 - pkg:composer/cloudcreativity/ddd-modules@v4.1.0
+- pkg:composer/cloudcreativity/ddd-modules@v5.0.0
 - pkg:composer/cloudcreativity/ddd-modules@v5.0.0-rc.1
 - pkg:composer/cloudcreativity/ddd-modules@v5.0.0-rc.2
 - pkg:composer/cloudcreativity/ddd-modules@v5.0.0-rc.3
