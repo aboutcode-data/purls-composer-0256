@@ -28,3 +28,4 @@
 - pkg:composer/sad_spirit/pg_builder@v3.1.0
 - pkg:composer/sad_spirit/pg_builder@v3.2.0
 - pkg:composer/sad_spirit/pg_builder@v3.3.0
+- pkg:composer/sad_spirit/pg_builder@v3.3.1

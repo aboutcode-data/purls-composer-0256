@@ -1,4 +1,5 @@
 - pkg:composer/realloc/multisite-language-switcher@2.10.0
+- pkg:composer/realloc/multisite-language-switcher@2.10.1
 - pkg:composer/realloc/multisite-language-switcher@2.4.0
 - pkg:composer/realloc/multisite-language-switcher@2.4.1
 - pkg:composer/realloc/multisite-language-switcher@2.4.10
