@@ -31,3 +31,4 @@
 - pkg:composer/kount/kount-ris-php-sdk@8.0.2
 - pkg:composer/kount/kount-ris-php-sdk@8.0.3
 - pkg:composer/kount/kount-ris-php-sdk@8.0.4
+- pkg:composer/kount/kount-ris-php-sdk@8.0.5
