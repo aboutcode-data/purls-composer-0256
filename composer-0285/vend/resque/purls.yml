@@ -1,0 +1,8 @@
+- pkg:composer/vend/resque@1.2
+- pkg:composer/vend/resque@2.0.1
+- pkg:composer/vend/resque@2.0.2
+- pkg:composer/vend/resque@2.0.3
+- pkg:composer/vend/resque@2.0.4
+- pkg:composer/vend/resque@2.1.0
+- pkg:composer/vend/resque@2.1.0-alpha
+- pkg:composer/vend/resque@2.1.1

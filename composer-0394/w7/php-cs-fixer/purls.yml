@@ -1,0 +1,6 @@
+- pkg:composer/w7/php-cs-fixer@v1.0.0
+- pkg:composer/w7/php-cs-fixer@v2.0.0
+- pkg:composer/w7/php-cs-fixer@v2.0.1
+- pkg:composer/w7/php-cs-fixer@v2.0.2
+- pkg:composer/w7/php-cs-fixer@v3.0.0
+- pkg:composer/w7/php-cs-fixer@v3.0.1

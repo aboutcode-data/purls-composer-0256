@@ -1,0 +1,15 @@
+- pkg:composer/upscale/swoole-blackfire@1.0.0
+- pkg:composer/upscale/swoole-blackfire@1.0.1
+- pkg:composer/upscale/swoole-blackfire@2.0.0
+- pkg:composer/upscale/swoole-blackfire@2.0.1
+- pkg:composer/upscale/swoole-blackfire@2.0.2
+- pkg:composer/upscale/swoole-blackfire@2.1.0
+- pkg:composer/upscale/swoole-blackfire@2.1.1
+- pkg:composer/upscale/swoole-blackfire@2.2.0
+- pkg:composer/upscale/swoole-blackfire@2.2.1
+- pkg:composer/upscale/swoole-blackfire@3.0.0
+- pkg:composer/upscale/swoole-blackfire@3.1.0
+- pkg:composer/upscale/swoole-blackfire@4.0.0
+- pkg:composer/upscale/swoole-blackfire@4.1.0
+- pkg:composer/upscale/swoole-blackfire@4.2.0
+- pkg:composer/upscale/swoole-blackfire@4.3.0

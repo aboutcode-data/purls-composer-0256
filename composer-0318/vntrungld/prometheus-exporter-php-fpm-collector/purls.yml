@@ -1,0 +1,6 @@
+- pkg:composer/vntrungld/prometheus-exporter-php-fpm-collector@v0.0.1
+- pkg:composer/vntrungld/prometheus-exporter-php-fpm-collector@v0.0.2
+- pkg:composer/vntrungld/prometheus-exporter-php-fpm-collector@v1.0.0
+- pkg:composer/vntrungld/prometheus-exporter-php-fpm-collector@v1.1.0
+- pkg:composer/vntrungld/prometheus-exporter-php-fpm-collector@v1.1.1
+- pkg:composer/vntrungld/prometheus-exporter-php-fpm-collector@v1.1.2

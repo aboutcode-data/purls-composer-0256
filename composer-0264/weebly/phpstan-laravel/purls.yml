@@ -1,0 +1,4 @@
+- pkg:composer/weebly/phpstan-laravel@1.0.0-alpha1
+- pkg:composer/weebly/phpstan-laravel@v1.0.0
+- pkg:composer/weebly/phpstan-laravel@v1.1.0
+- pkg:composer/weebly/phpstan-laravel@v1.1.1

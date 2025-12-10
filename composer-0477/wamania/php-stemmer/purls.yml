@@ -1,0 +1,11 @@
+- pkg:composer/wamania/php-stemmer@1.0
+- pkg:composer/wamania/php-stemmer@1.1
+- pkg:composer/wamania/php-stemmer@1.2
+- pkg:composer/wamania/php-stemmer@1.3
+- pkg:composer/wamania/php-stemmer@v2.0
+- pkg:composer/wamania/php-stemmer@v2.1
+- pkg:composer/wamania/php-stemmer@v2.1.1
+- pkg:composer/wamania/php-stemmer@v2.2.0
+- pkg:composer/wamania/php-stemmer@v3.0.0
+- pkg:composer/wamania/php-stemmer@v3.0.1
+- pkg:composer/wamania/php-stemmer@v4.0.0

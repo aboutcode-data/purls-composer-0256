@@ -1,0 +1,9 @@
+- pkg:composer/wamesk/laravel-nova-unit@2.0
+- pkg:composer/wamesk/laravel-nova-unit@2.1
+- pkg:composer/wamesk/laravel-nova-unit@2.2
+- pkg:composer/wamesk/laravel-nova-unit@2.3
+- pkg:composer/wamesk/laravel-nova-unit@4.0.0
+- pkg:composer/wamesk/laravel-nova-unit@4.1.0
+- pkg:composer/wamesk/laravel-nova-unit@4.1.1
+- pkg:composer/wamesk/laravel-nova-unit@5.0.0
+- pkg:composer/wamesk/laravel-nova-unit@5.0.1

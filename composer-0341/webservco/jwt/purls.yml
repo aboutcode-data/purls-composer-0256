@@ -1,0 +1,4 @@
+- pkg:composer/webservco/jwt@v0.0.1
+- pkg:composer/webservco/jwt@v0.1.0
+- pkg:composer/webservco/jwt@v0.8.0
+- pkg:composer/webservco/jwt@v1.0.0

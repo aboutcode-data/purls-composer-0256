@@ -1,0 +1,4 @@
+- pkg:composer/wecodein/http-middleware@0.1.0
+- pkg:composer/wecodein/http-middleware@0.5.0
+- pkg:composer/wecodein/http-middleware@1.0.0
+- pkg:composer/wecodein/http-middleware@1.0.1

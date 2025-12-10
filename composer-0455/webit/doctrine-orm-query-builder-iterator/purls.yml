@@ -1,0 +1,5 @@
+- pkg:composer/webit/doctrine-orm-query-builder-iterator@1.0.0
+- pkg:composer/webit/doctrine-orm-query-builder-iterator@2.0.0
+- pkg:composer/webit/doctrine-orm-query-builder-iterator@2.0.1
+- pkg:composer/webit/doctrine-orm-query-builder-iterator@2.0.2
+- pkg:composer/webit/doctrine-orm-query-builder-iterator@3.0.0

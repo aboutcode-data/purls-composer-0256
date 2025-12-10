@@ -1,0 +1,5 @@
+- pkg:composer/werxe/php-cs-fixer-config@v1.0.0
+- pkg:composer/werxe/php-cs-fixer-config@v1.0.1
+- pkg:composer/werxe/php-cs-fixer-config@v1.0.2
+- pkg:composer/werxe/php-cs-fixer-config@v1.0.3
+- pkg:composer/werxe/php-cs-fixer-config@v2.0.0

@@ -1,0 +1,4 @@
+- pkg:composer/vasek-purchart/rabbit-mq-consumer-handler-bundle@0.1
+- pkg:composer/vasek-purchart/rabbit-mq-consumer-handler-bundle@1.0
+- pkg:composer/vasek-purchart/rabbit-mq-consumer-handler-bundle@1.1
+- pkg:composer/vasek-purchart/rabbit-mq-consumer-handler-bundle@1.2

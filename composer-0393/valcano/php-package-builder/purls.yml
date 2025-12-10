@@ -1,0 +1,5 @@
+- pkg:composer/valcano/php-package-builder@v1.0.0
+- pkg:composer/valcano/php-package-builder@v2.0.0
+- pkg:composer/valcano/php-package-builder@v3.0.0
+- pkg:composer/valcano/php-package-builder@v3.1.0
+- pkg:composer/valcano/php-package-builder@v3.2.0

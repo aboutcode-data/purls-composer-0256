@@ -1,0 +1,2 @@
+- pkg:composer/um-flint/laravel-multi-tenant-redis@v0.0.1
+- pkg:composer/um-flint/laravel-multi-tenant-redis@v0.0.2

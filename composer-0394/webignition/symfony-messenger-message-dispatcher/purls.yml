@@ -1,0 +1,4 @@
+- pkg:composer/webignition/symfony-messenger-message-dispatcher@0.1
+- pkg:composer/webignition/symfony-messenger-message-dispatcher@0.2
+- pkg:composer/webignition/symfony-messenger-message-dispatcher@0.3
+- pkg:composer/webignition/symfony-messenger-message-dispatcher@0.4

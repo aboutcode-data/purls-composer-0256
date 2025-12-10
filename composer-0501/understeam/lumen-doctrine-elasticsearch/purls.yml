@@ -1,0 +1,10 @@
+- pkg:composer/understeam/lumen-doctrine-elasticsearch@0.4.2
+- pkg:composer/understeam/lumen-doctrine-elasticsearch@v0.1.0
+- pkg:composer/understeam/lumen-doctrine-elasticsearch@v0.1.1
+- pkg:composer/understeam/lumen-doctrine-elasticsearch@v0.2.0
+- pkg:composer/understeam/lumen-doctrine-elasticsearch@v0.2.1
+- pkg:composer/understeam/lumen-doctrine-elasticsearch@v0.3.0
+- pkg:composer/understeam/lumen-doctrine-elasticsearch@v0.3.1
+- pkg:composer/understeam/lumen-doctrine-elasticsearch@v0.4.0
+- pkg:composer/understeam/lumen-doctrine-elasticsearch@v0.4.1
+- pkg:composer/understeam/lumen-doctrine-elasticsearch@v0.4.3

@@ -1,0 +1,11 @@
+- pkg:composer/webman-tech/docker@v1.2.0
+- pkg:composer/webman-tech/docker@v1.2.1
+- pkg:composer/webman-tech/docker@v1.2.2
+- pkg:composer/webman-tech/docker@v2.0.0
+- pkg:composer/webman-tech/docker@v2.1.0
+- pkg:composer/webman-tech/docker@v2.1.1
+- pkg:composer/webman-tech/docker@v2.1.2
+- pkg:composer/webman-tech/docker@v2.2.0
+- pkg:composer/webman-tech/docker@v2.2.1
+- pkg:composer/webman-tech/docker@v2.3.0
+- pkg:composer/webman-tech/docker@v2.3.1

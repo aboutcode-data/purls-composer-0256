@@ -1,0 +1,2 @@
+- pkg:composer/vendor-patch/openswift-openstack-vendor-packages@v0.0.1
+- pkg:composer/vendor-patch/openswift-openstack-vendor-packages@v0.0.2
