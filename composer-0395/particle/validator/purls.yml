@@ -25,3 +25,4 @@
 - pkg:composer/particle/validator@v2.3.3
 - pkg:composer/particle/validator@v2.3.4
 - pkg:composer/particle/validator@v2.3.5
+- pkg:composer/particle/validator@v2.3.6
