@@ -55,6 +55,8 @@
 - pkg:composer/fittinq/symfony-connector@21.0.0
 - pkg:composer/fittinq/symfony-connector@21.2.0
 - pkg:composer/fittinq/symfony-connector@22.0.0
+- pkg:composer/fittinq/symfony-connector@23.0.0
+- pkg:composer/fittinq/symfony-connector@23.0.1
 - pkg:composer/fittinq/symfony-connector@3.0.0
 - pkg:composer/fittinq/symfony-connector@3.1.0
 - pkg:composer/fittinq/symfony-connector@4.0.0

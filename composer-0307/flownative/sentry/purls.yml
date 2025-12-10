@@ -32,3 +32,4 @@
 - pkg:composer/flownative/sentry@v2.1.1
 - pkg:composer/flownative/sentry@v3.0.0
 - pkg:composer/flownative/sentry@v3.1.0
+- pkg:composer/flownative/sentry@v3.2.0
