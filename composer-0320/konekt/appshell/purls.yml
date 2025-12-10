@@ -67,6 +67,7 @@
 - pkg:composer/konekt/appshell@4.13.0
 - pkg:composer/konekt/appshell@4.14.0
 - pkg:composer/konekt/appshell@4.15.0
+- pkg:composer/konekt/appshell@4.16.0
 - pkg:composer/konekt/appshell@4.2.0
 - pkg:composer/konekt/appshell@4.3.0
 - pkg:composer/konekt/appshell@4.4.0
