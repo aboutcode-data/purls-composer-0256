@@ -72,6 +72,7 @@
 - pkg:composer/simplesamlphp/xml-security@v1.13.5
 - pkg:composer/simplesamlphp/xml-security@v1.13.6
 - pkg:composer/simplesamlphp/xml-security@v1.13.7
+- pkg:composer/simplesamlphp/xml-security@v1.13.8
 - pkg:composer/simplesamlphp/xml-security@v1.2.0
 - pkg:composer/simplesamlphp/xml-security@v1.5.0
 - pkg:composer/simplesamlphp/xml-security@v1.5.1
@@ -119,3 +120,4 @@
 - pkg:composer/simplesamlphp/xml-security@v2.0.6
 - pkg:composer/simplesamlphp/xml-security@v2.0.7
 - pkg:composer/simplesamlphp/xml-security@v2.0.8
+- pkg:composer/simplesamlphp/xml-security@v2.0.9

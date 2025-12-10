@@ -10,6 +10,7 @@
 - pkg:composer/siganushka/generic-bundle@0.6.2
 - pkg:composer/siganushka/generic-bundle@0.6.3
 - pkg:composer/siganushka/generic-bundle@1.0.0
+- pkg:composer/siganushka/generic-bundle@1.1.0
 - pkg:composer/siganushka/generic-bundle@v0.1.0
 - pkg:composer/siganushka/generic-bundle@v0.1.1
 - pkg:composer/siganushka/generic-bundle@v0.4.0

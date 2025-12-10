@@ -5,3 +5,4 @@
 - pkg:composer/simplesamlphp/simplesamlphp-module-cdc@v1.0.1
 - pkg:composer/simplesamlphp/simplesamlphp-module-cdc@v1.1.0
 - pkg:composer/simplesamlphp/simplesamlphp-module-cdc@v1.1.1
+- pkg:composer/simplesamlphp/simplesamlphp-module-cdc@v1.1.2
