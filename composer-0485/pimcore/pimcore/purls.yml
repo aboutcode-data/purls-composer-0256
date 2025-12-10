@@ -199,6 +199,7 @@
 - pkg:composer/pimcore/pimcore@v12.2.2
 - pkg:composer/pimcore/pimcore@v12.2.3
 - pkg:composer/pimcore/pimcore@v12.2.4
+- pkg:composer/pimcore/pimcore@v12.3.0
 - pkg:composer/pimcore/pimcore@v5.0.0
 - pkg:composer/pimcore/pimcore@v5.0.0-RC
 - pkg:composer/pimcore/pimcore@v5.0.1
