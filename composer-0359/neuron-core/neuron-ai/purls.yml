@@ -315,3 +315,4 @@
 - pkg:composer/neuron-core/neuron-ai@2.8.9
 - pkg:composer/neuron-core/neuron-ai@2.9.0
 - pkg:composer/neuron-core/neuron-ai@2.9.1
+- pkg:composer/neuron-core/neuron-ai@2.9.2
