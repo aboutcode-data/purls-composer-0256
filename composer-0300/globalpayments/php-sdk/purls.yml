@@ -71,6 +71,7 @@
 - pkg:composer/globalpayments/php-sdk@14.0.2
 - pkg:composer/globalpayments/php-sdk@14.0.3
 - pkg:composer/globalpayments/php-sdk@14.0.3-beta
+- pkg:composer/globalpayments/php-sdk@14.0.4
 - pkg:composer/globalpayments/php-sdk@14.0.4-beta
 - pkg:composer/globalpayments/php-sdk@2.0.0
 - pkg:composer/globalpayments/php-sdk@2.0.1
