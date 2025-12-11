@@ -21,3 +21,4 @@
 - pkg:composer/moonshine/contracts@3.8.11
 - pkg:composer/moonshine/contracts@3.9.0
 - pkg:composer/moonshine/contracts@4.0.0
+- pkg:composer/moonshine/contracts@4.1.0
