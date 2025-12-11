@@ -18,3 +18,4 @@
 - pkg:composer/lulco/redis-proxy@1.4.0
 - pkg:composer/lulco/redis-proxy@1.5.0
 - pkg:composer/lulco/redis-proxy@1.6.0
+- pkg:composer/lulco/redis-proxy@1.7.0
