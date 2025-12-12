@@ -73,6 +73,7 @@
 - pkg:composer/phalcon-kit/core@0.4.43
 - pkg:composer/phalcon-kit/core@0.4.44
 - pkg:composer/phalcon-kit/core@0.4.45
+- pkg:composer/phalcon-kit/core@0.4.46
 - pkg:composer/phalcon-kit/core@0.4.5
 - pkg:composer/phalcon-kit/core@0.4.6
 - pkg:composer/phalcon-kit/core@0.4.7

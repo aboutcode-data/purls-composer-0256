@@ -10,3 +10,5 @@
 - pkg:composer/pontedilana/weasyprint-bundle@2.2.0
 - pkg:composer/pontedilana/weasyprint-bundle@2.3.0
 - pkg:composer/pontedilana/weasyprint-bundle@2.4.0
+- pkg:composer/pontedilana/weasyprint-bundle@2.5.0
+- pkg:composer/pontedilana/weasyprint-bundle@3.0.0
