@@ -7,3 +7,4 @@
 - pkg:composer/siokobu/phpspreadsheetdb@1.1.4
 - pkg:composer/siokobu/phpspreadsheetdb@1.1.5
 - pkg:composer/siokobu/phpspreadsheetdb@2.0.0
+- pkg:composer/siokobu/phpspreadsheetdb@v3.0.0
