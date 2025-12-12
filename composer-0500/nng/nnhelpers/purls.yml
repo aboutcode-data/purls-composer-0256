@@ -5,6 +5,8 @@
 - pkg:composer/nng/nnhelpers@13.0.5
 - pkg:composer/nng/nnhelpers@13.0.6
 - pkg:composer/nng/nnhelpers@13.0.7
+- pkg:composer/nng/nnhelpers@13.0.8
+- pkg:composer/nng/nnhelpers@2.0.10
 - pkg:composer/nng/nnhelpers@2.0.9
 - pkg:composer/nng/nnhelpers@v1.0.1
 - pkg:composer/nng/nnhelpers@v1.0.2

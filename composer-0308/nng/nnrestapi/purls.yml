@@ -2,7 +2,9 @@
 - pkg:composer/nng/nnrestapi@1.1.0
 - pkg:composer/nng/nnrestapi@13.1.1
 - pkg:composer/nng/nnrestapi@13.1.2
+- pkg:composer/nng/nnrestapi@13.1.3
 - pkg:composer/nng/nnrestapi@2.0.6
+- pkg:composer/nng/nnrestapi@2.0.7
 - pkg:composer/nng/nnrestapi@v1.1.1
 - pkg:composer/nng/nnrestapi@v1.2.0
 - pkg:composer/nng/nnrestapi@v1.3.0
