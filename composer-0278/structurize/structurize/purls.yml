@@ -1,4 +1,6 @@
+- pkg:composer/structurize/structurize@V0.2.35
 - pkg:composer/structurize/structurize@v0.0.1
+- pkg:composer/structurize/structurize@v0.0.2
 - pkg:composer/structurize/structurize@v0.1
 - pkg:composer/structurize/structurize@v0.1.1
 - pkg:composer/structurize/structurize@v0.1.10
@@ -69,6 +71,8 @@
 - pkg:composer/structurize/structurize@v0.2.31
 - pkg:composer/structurize/structurize@v0.2.32
 - pkg:composer/structurize/structurize@v0.2.33
+- pkg:composer/structurize/structurize@v0.2.34
+- pkg:composer/structurize/structurize@v0.2.36
 - pkg:composer/structurize/structurize@v0.2.4
 - pkg:composer/structurize/structurize@v0.2.5
 - pkg:composer/structurize/structurize@v0.2.6

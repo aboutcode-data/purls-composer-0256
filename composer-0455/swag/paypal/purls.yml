@@ -39,6 +39,7 @@
 - pkg:composer/swag/paypal@10.1.2
 - pkg:composer/swag/paypal@10.2.0
 - pkg:composer/swag/paypal@10.3.0
+- pkg:composer/swag/paypal@10.4.0
 - pkg:composer/swag/paypal@2.0.0
 - pkg:composer/swag/paypal@2.0.1
 - pkg:composer/swag/paypal@2.0.2
@@ -142,12 +143,14 @@
 - pkg:composer/swag/paypal@8.7.8
 - pkg:composer/swag/paypal@8.7.9
 - pkg:composer/swag/paypal@8.8.0
+- pkg:composer/swag/paypal@8.9.0
 - pkg:composer/swag/paypal@9.0.0
 - pkg:composer/swag/paypal@9.0.1
 - pkg:composer/swag/paypal@9.0.2
 - pkg:composer/swag/paypal@9.0.3
 - pkg:composer/swag/paypal@9.1.0
 - pkg:composer/swag/paypal@9.1.1
+- pkg:composer/swag/paypal@9.10.0
 - pkg:composer/swag/paypal@9.2.0
 - pkg:composer/swag/paypal@9.3.0
 - pkg:composer/swag/paypal@9.3.1
