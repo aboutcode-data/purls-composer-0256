@@ -75,3 +75,4 @@
 - pkg:composer/simplesamlphp/simplesamlphp-assets-base@v2.5.5
 - pkg:composer/simplesamlphp/simplesamlphp-assets-base@v2.5.6
 - pkg:composer/simplesamlphp/simplesamlphp-assets-base@v2.5.7
+- pkg:composer/simplesamlphp/simplesamlphp-assets-base@v2.5.8
