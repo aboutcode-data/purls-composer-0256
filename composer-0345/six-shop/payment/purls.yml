@@ -22,3 +22,4 @@
 - pkg:composer/six-shop/payment@v0.2.8
 - pkg:composer/six-shop/payment@v0.2.9
 - pkg:composer/six-shop/payment@v1.0.0
+- pkg:composer/six-shop/payment@v1.0.1
