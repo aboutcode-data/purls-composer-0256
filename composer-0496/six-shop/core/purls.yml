@@ -43,3 +43,4 @@
 - pkg:composer/six-shop/core@v0.6.7
 - pkg:composer/six-shop/core@v0.6.8
 - pkg:composer/six-shop/core@v0.6.9
+- pkg:composer/six-shop/core@v1.0.0
