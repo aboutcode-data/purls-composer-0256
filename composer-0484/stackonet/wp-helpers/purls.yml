@@ -5,6 +5,7 @@
 - pkg:composer/stackonet/wp-helpers@1.14.1
 - pkg:composer/stackonet/wp-helpers@1.14.2
 - pkg:composer/stackonet/wp-helpers@1.14.3
+- pkg:composer/stackonet/wp-helpers@1.14.5
 - pkg:composer/stackonet/wp-helpers@1.8.0
 - pkg:composer/stackonet/wp-helpers@1.8.1
 - pkg:composer/stackonet/wp-helpers@1.9.0

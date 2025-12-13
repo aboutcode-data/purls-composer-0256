@@ -14,3 +14,4 @@
 - pkg:composer/spryker/app-payment@3.4.0
 - pkg:composer/spryker/app-payment@3.4.1
 - pkg:composer/spryker/app-payment@3.5.0
+- pkg:composer/spryker/app-payment@3.5.1

@@ -54,3 +54,4 @@
 - pkg:composer/statamic/statamic@v5.3.5
 - pkg:composer/statamic/statamic@v5.3.6
 - pkg:composer/statamic/statamic@v5.3.7
+- pkg:composer/statamic/statamic@v5.3.8
