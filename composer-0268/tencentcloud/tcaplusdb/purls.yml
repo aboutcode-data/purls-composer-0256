@@ -396,6 +396,7 @@
 - pkg:composer/tencentcloud/tcaplusdb@3.0.1425
 - pkg:composer/tencentcloud/tcaplusdb@3.0.1445
 - pkg:composer/tencentcloud/tcaplusdb@3.0.1458
+- pkg:composer/tencentcloud/tcaplusdb@3.0.1503
 - pkg:composer/tencentcloud/tcaplusdb@3.0.248
 - pkg:composer/tencentcloud/tcaplusdb@3.0.249
 - pkg:composer/tencentcloud/tcaplusdb@3.0.250
