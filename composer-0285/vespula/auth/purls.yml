@@ -31,3 +31,4 @@
 - pkg:composer/vespula/auth@4.0.0
 - pkg:composer/vespula/auth@4.0.0-RC1
 - pkg:composer/vespula/auth@4.0.1
+- pkg:composer/vespula/auth@5.0.0
