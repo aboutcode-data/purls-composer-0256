@@ -45,3 +45,5 @@
 - pkg:composer/tigress/form-builder@2025.10.16.2
 - pkg:composer/tigress/form-builder@2025.10.16.3
 - pkg:composer/tigress/form-builder@2025.12.09.0
+- pkg:composer/tigress/form-builder@2025.12.10.0
+- pkg:composer/tigress/form-builder@2025.12.10.1

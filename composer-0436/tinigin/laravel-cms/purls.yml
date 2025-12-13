@@ -1,3 +1,4 @@
+- pkg:composer/tinigin/laravel-cms@2.2.12
 - pkg:composer/tinigin/laravel-cms@v1.0.0
 - pkg:composer/tinigin/laravel-cms@v1.0.1
 - pkg:composer/tinigin/laravel-cms@v1.0.10

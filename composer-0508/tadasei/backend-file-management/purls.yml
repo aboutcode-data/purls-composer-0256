@@ -13,3 +13,5 @@
 - pkg:composer/tadasei/backend-file-management@v2.6.0
 - pkg:composer/tadasei/backend-file-management@v2.6.1
 - pkg:composer/tadasei/backend-file-management@v2.7.0
+- pkg:composer/tadasei/backend-file-management@v2.7.1
+- pkg:composer/tadasei/backend-file-management@v2.7.2

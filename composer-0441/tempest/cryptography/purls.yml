@@ -8,6 +8,7 @@
 - pkg:composer/tempest/cryptography@v2.11.0
 - pkg:composer/tempest/cryptography@v2.12.0
 - pkg:composer/tempest/cryptography@v2.13.0
+- pkg:composer/tempest/cryptography@v2.14.0
 - pkg:composer/tempest/cryptography@v2.2.0
 - pkg:composer/tempest/cryptography@v2.2.1
 - pkg:composer/tempest/cryptography@v2.3.0

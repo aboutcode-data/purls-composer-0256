@@ -6,3 +6,5 @@
 - pkg:composer/thingstelemetry/laravel-traccar@v0.4.3-alpha
 - pkg:composer/thingstelemetry/laravel-traccar@v0.4.6-alpha
 - pkg:composer/thingstelemetry/laravel-traccar@v0.4.7-alpha
+- pkg:composer/thingstelemetry/laravel-traccar@v0.5.0-alpha
+- pkg:composer/thingstelemetry/laravel-traccar@v0.7.2-alpha

@@ -84,6 +84,8 @@
 - pkg:composer/tecnickcom/tc-lib-pdf-font@2.6.18
 - pkg:composer/tecnickcom/tc-lib-pdf-font@2.6.19
 - pkg:composer/tecnickcom/tc-lib-pdf-font@2.6.2
+- pkg:composer/tecnickcom/tc-lib-pdf-font@2.6.21
+- pkg:composer/tecnickcom/tc-lib-pdf-font@2.6.22
 - pkg:composer/tecnickcom/tc-lib-pdf-font@2.6.4
 - pkg:composer/tecnickcom/tc-lib-pdf-font@2.6.5
 - pkg:composer/tecnickcom/tc-lib-pdf-font@2.6.6
