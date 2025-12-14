@@ -13,3 +13,4 @@
 - pkg:composer/paveldanilin/php-tinkoff-payment@v1.2.0
 - pkg:composer/paveldanilin/php-tinkoff-payment@v1.2.1
 - pkg:composer/paveldanilin/php-tinkoff-payment@v1.3.3
+- pkg:composer/paveldanilin/php-tinkoff-payment@v2.0.1
