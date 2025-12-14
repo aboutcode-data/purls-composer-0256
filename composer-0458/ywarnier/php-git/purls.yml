@@ -1,0 +1,4 @@
+- pkg:composer/ywarnier/php-git@1.0.0
+- pkg:composer/ywarnier/php-git@1.1.0
+- pkg:composer/ywarnier/php-git@1.2.0
+- pkg:composer/ywarnier/php-git@2.0.0

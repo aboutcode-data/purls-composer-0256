@@ -70,3 +70,4 @@
 - pkg:composer/acquia/content-hub-php@3.7.0
 - pkg:composer/acquia/content-hub-php@3.7.1
 - pkg:composer/acquia/content-hub-php@3.8.0
+- pkg:composer/acquia/content-hub-php@3.9.0

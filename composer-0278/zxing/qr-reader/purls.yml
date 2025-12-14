@@ -1,0 +1,3 @@
+- pkg:composer/zxing/qr-reader@v1.0
+- pkg:composer/zxing/qr-reader@v1.1
+- pkg:composer/zxing/qr-reader@v1.2

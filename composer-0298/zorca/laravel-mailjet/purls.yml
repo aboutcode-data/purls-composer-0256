@@ -1,0 +1,4 @@
+- pkg:composer/zorca/laravel-mailjet@1.0.0
+- pkg:composer/zorca/laravel-mailjet@1.1.0
+- pkg:composer/zorca/laravel-mailjet@2.0.0
+- pkg:composer/zorca/laravel-mailjet@2.0.1

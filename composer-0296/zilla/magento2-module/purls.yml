@@ -1,0 +1,4 @@
+- pkg:composer/zilla/magento2-module@v0.0.1
+- pkg:composer/zilla/magento2-module@v0.0.2
+- pkg:composer/zilla/magento2-module@v0.0.3
+- pkg:composer/zilla/magento2-module@v0.0.4

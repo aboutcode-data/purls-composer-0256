@@ -1,0 +1,4 @@
+- pkg:composer/zawa/ethereum-php@1.0
+- pkg:composer/zawa/ethereum-php@1.1
+- pkg:composer/zawa/ethereum-php@1.2
+- pkg:composer/zawa/ethereum-php@1.3

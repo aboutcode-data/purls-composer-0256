@@ -116,3 +116,4 @@
 - pkg:composer/akeneo/module-magento2-connector-community@104.3.9
 - pkg:composer/akeneo/module-magento2-connector-community@105.0.1
 - pkg:composer/akeneo/module-magento2-connector-community@105.1.0
+- pkg:composer/akeneo/module-magento2-connector-community@105.1.2

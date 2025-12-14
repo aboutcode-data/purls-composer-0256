@@ -11,6 +11,7 @@
 - pkg:composer/alazziaz/laravel-dapr@v2.0.18
 - pkg:composer/alazziaz/laravel-dapr@v2.0.19
 - pkg:composer/alazziaz/laravel-dapr@v2.0.20
+- pkg:composer/alazziaz/laravel-dapr@v2.0.21
 - pkg:composer/alazziaz/laravel-dapr@v2.0.3
 - pkg:composer/alazziaz/laravel-dapr@v2.0.4
 - pkg:composer/alazziaz/laravel-dapr@v2.0.5

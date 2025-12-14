@@ -1,0 +1,9 @@
+- pkg:composer/zf2timo/phpunit-pretty-result-printer@0.1.0-alpha
+- pkg:composer/zf2timo/phpunit-pretty-result-printer@0.1.0rc
+- pkg:composer/zf2timo/phpunit-pretty-result-printer@1.0.0
+- pkg:composer/zf2timo/phpunit-pretty-result-printer@1.0.1
+- pkg:composer/zf2timo/phpunit-pretty-result-printer@1.0.1rc
+- pkg:composer/zf2timo/phpunit-pretty-result-printer@1.0.2
+- pkg:composer/zf2timo/phpunit-pretty-result-printer@1.0.3
+- pkg:composer/zf2timo/phpunit-pretty-result-printer@1.0.4
+- pkg:composer/zf2timo/phpunit-pretty-result-printer@2.0.0
