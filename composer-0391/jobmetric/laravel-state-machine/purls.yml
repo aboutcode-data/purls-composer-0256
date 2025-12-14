@@ -6,3 +6,5 @@
 - pkg:composer/jobmetric/laravel-state-machine@2.2.0
 - pkg:composer/jobmetric/laravel-state-machine@2.3.0
 - pkg:composer/jobmetric/laravel-state-machine@2.4.0
+- pkg:composer/jobmetric/laravel-state-machine@2.5.0
+- pkg:composer/jobmetric/laravel-state-machine@2.5.1
