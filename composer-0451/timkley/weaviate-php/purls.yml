@@ -1,5 +1,6 @@
 - pkg:composer/timkley/weaviate-php@0.1
 - pkg:composer/timkley/weaviate-php@0.10.0
+- pkg:composer/timkley/weaviate-php@0.11.0
 - pkg:composer/timkley/weaviate-php@0.2.0
 - pkg:composer/timkley/weaviate-php@0.3.0
 - pkg:composer/timkley/weaviate-php@0.3.1
