@@ -5,3 +5,4 @@
 - pkg:composer/saucebase/auth@v1.4
 - pkg:composer/saucebase/auth@v1.5
 - pkg:composer/saucebase/auth@v1.6
+- pkg:composer/saucebase/auth@v1.6.1
