@@ -1,0 +1,12 @@
+- pkg:composer/wikimedia/timestamp@v1.0.0
+- pkg:composer/wikimedia/timestamp@v2.0.0
+- pkg:composer/wikimedia/timestamp@v2.1.0
+- pkg:composer/wikimedia/timestamp@v2.1.1
+- pkg:composer/wikimedia/timestamp@v2.2.0
+- pkg:composer/wikimedia/timestamp@v3.0.0
+- pkg:composer/wikimedia/timestamp@v4.0.0
+- pkg:composer/wikimedia/timestamp@v4.1.0
+- pkg:composer/wikimedia/timestamp@v4.1.1
+- pkg:composer/wikimedia/timestamp@v4.2.0
+- pkg:composer/wikimedia/timestamp@v5.0.0
+- pkg:composer/wikimedia/timestamp@v5.1.0

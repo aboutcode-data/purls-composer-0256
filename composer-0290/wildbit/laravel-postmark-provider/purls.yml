@@ -1,0 +1,3 @@
+- pkg:composer/wildbit/laravel-postmark-provider@1.0.0
+- pkg:composer/wildbit/laravel-postmark-provider@2.0.0
+- pkg:composer/wildbit/laravel-postmark-provider@3.0.0

@@ -1,0 +1,7 @@
+- pkg:composer/yawik/composer-plugin@v0.32.0-RC1
+- pkg:composer/yawik/composer-plugin@v0.32.0-alpha1
+- pkg:composer/yawik/composer-plugin@v1.0.0
+- pkg:composer/yawik/composer-plugin@v2.0.0
+- pkg:composer/yawik/composer-plugin@v2.0.1
+- pkg:composer/yawik/composer-plugin@v3.0.0
+- pkg:composer/yawik/composer-plugin@v3.0.1

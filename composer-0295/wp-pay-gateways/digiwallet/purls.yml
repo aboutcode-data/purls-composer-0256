@@ -1,0 +1,12 @@
+- pkg:composer/wp-pay-gateways/digiwallet@v1.0.0
+- pkg:composer/wp-pay-gateways/digiwallet@v1.0.1
+- pkg:composer/wp-pay-gateways/digiwallet@v2.0.0
+- pkg:composer/wp-pay-gateways/digiwallet@v3.0.0
+- pkg:composer/wp-pay-gateways/digiwallet@v3.1.0
+- pkg:composer/wp-pay-gateways/digiwallet@v3.2.0
+- pkg:composer/wp-pay-gateways/digiwallet@v3.2.1
+- pkg:composer/wp-pay-gateways/digiwallet@v3.3.0
+- pkg:composer/wp-pay-gateways/digiwallet@v3.3.1
+- pkg:composer/wp-pay-gateways/digiwallet@v3.3.2
+- pkg:composer/wp-pay-gateways/digiwallet@v3.3.3
+- pkg:composer/wp-pay-gateways/digiwallet@v3.3.4

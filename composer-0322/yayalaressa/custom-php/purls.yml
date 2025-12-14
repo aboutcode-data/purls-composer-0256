@@ -1,0 +1,4 @@
+- pkg:composer/yayalaressa/custom-php@v1.8
+- pkg:composer/yayalaressa/custom-php@v2.0-beta
+- pkg:composer/yayalaressa/custom-php@v2.8-beta
+- pkg:composer/yayalaressa/custom-php@v2.9-beta

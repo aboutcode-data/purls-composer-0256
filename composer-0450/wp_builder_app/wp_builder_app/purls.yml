@@ -1,0 +1,3 @@
+- pkg:composer/wp_builder_app/wp_builder_app@0.0.1-beta
+- pkg:composer/wp_builder_app/wp_builder_app@0.0.1-rc1
+- pkg:composer/wp_builder_app/wp_builder_app@0.0.2-beta

@@ -1,0 +1,5 @@
+- pkg:composer/wp-forge/container@1.0
+- pkg:composer/wp-forge/container@1.1
+- pkg:composer/wp-forge/container@2.0
+- pkg:composer/wp-forge/container@3.0
+- pkg:composer/wp-forge/container@3.0.1

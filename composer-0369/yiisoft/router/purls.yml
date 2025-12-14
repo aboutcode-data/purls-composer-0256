@@ -1,0 +1,10 @@
+- pkg:composer/yiisoft/router@1.0.0
+- pkg:composer/yiisoft/router@1.1.0
+- pkg:composer/yiisoft/router@1.2.0
+- pkg:composer/yiisoft/router@2.0.0
+- pkg:composer/yiisoft/router@2.1.0
+- pkg:composer/yiisoft/router@3.0.0
+- pkg:composer/yiisoft/router@3.1.0
+- pkg:composer/yiisoft/router@4.0.0
+- pkg:composer/yiisoft/router@4.0.1
+- pkg:composer/yiisoft/router@4.0.2

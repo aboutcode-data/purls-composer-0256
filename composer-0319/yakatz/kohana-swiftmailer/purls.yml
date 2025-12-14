@@ -1,0 +1,4 @@
+- pkg:composer/yakatz/kohana-swiftmailer@2.0.0
+- pkg:composer/yakatz/kohana-swiftmailer@2.0.1
+- pkg:composer/yakatz/kohana-swiftmailer@v2.0.2
+- pkg:composer/yakatz/kohana-swiftmailer@v2.1.0

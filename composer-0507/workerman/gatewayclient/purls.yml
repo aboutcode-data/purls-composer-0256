@@ -1,0 +1,12 @@
+- pkg:composer/workerman/gatewayclient@v3.0.0
+- pkg:composer/workerman/gatewayclient@v3.0.10
+- pkg:composer/workerman/gatewayclient@v3.0.12
+- pkg:composer/workerman/gatewayclient@v3.0.13
+- pkg:composer/workerman/gatewayclient@v3.0.14
+- pkg:composer/workerman/gatewayclient@v3.0.15
+- pkg:composer/workerman/gatewayclient@v3.0.16
+- pkg:composer/workerman/gatewayclient@v3.0.17
+- pkg:composer/workerman/gatewayclient@v3.0.8
+- pkg:composer/workerman/gatewayclient@v3.0.9
+- pkg:composer/workerman/gatewayclient@v3.1.0
+- pkg:composer/workerman/gatewayclient@v3.1.1

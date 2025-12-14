@@ -1,0 +1,4 @@
+- pkg:composer/yektadg/laravel-telescope-mongodb@v1
+- pkg:composer/yektadg/laravel-telescope-mongodb@v1.1
+- pkg:composer/yektadg/laravel-telescope-mongodb@v1.11
+- pkg:composer/yektadg/laravel-telescope-mongodb@v2.0
