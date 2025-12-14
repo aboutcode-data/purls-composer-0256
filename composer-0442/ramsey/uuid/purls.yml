@@ -88,3 +88,4 @@
 - pkg:composer/ramsey/uuid@4.8.1
 - pkg:composer/ramsey/uuid@4.9.0
 - pkg:composer/ramsey/uuid@4.9.1
+- pkg:composer/ramsey/uuid@4.9.2
