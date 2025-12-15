@@ -16,3 +16,6 @@
 - pkg:composer/schachbulle/contao-chesstable-bundle@3.0.7
 - pkg:composer/schachbulle/contao-chesstable-bundle@3.0.8
 - pkg:composer/schachbulle/contao-chesstable-bundle@3.1.0
+- pkg:composer/schachbulle/contao-chesstable-bundle@4.0.0
+- pkg:composer/schachbulle/contao-chesstable-bundle@4.0.1
+- pkg:composer/schachbulle/contao-chesstable-bundle@4.0.2
