@@ -1,3 +1,4 @@
+- pkg:composer/whilesmart/eloquent-model-configuration@1.0.10
 - pkg:composer/whilesmart/eloquent-model-configuration@v1.0.0
 - pkg:composer/whilesmart/eloquent-model-configuration@v1.0.1
 - pkg:composer/whilesmart/eloquent-model-configuration@v1.0.2
