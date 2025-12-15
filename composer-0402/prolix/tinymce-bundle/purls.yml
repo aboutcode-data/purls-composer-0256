@@ -26,3 +26,4 @@
 - pkg:composer/prolix/tinymce-bundle@v2.5.1
 - pkg:composer/prolix/tinymce-bundle@v3.0.3
 - pkg:composer/prolix/tinymce-bundle@v3.0.4
+- pkg:composer/prolix/tinymce-bundle@v3.0.5
