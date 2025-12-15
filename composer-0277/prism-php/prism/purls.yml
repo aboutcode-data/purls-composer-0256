@@ -125,3 +125,4 @@
 - pkg:composer/prism-php/prism@v0.98.5
 - pkg:composer/prism-php/prism@v0.99.0
 - pkg:composer/prism-php/prism@v0.99.1
+- pkg:composer/prism-php/prism@v0.99.2
