@@ -43,3 +43,4 @@
 - pkg:composer/model/config@v0.7.5
 - pkg:composer/model/config@v0.7.6
 - pkg:composer/model/config@v0.7.7
+- pkg:composer/model/config@v0.7.8
