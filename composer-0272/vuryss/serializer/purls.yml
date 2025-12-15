@@ -15,3 +15,4 @@
 - pkg:composer/vuryss/serializer@v1.8.0
 - pkg:composer/vuryss/serializer@v1.9.0
 - pkg:composer/vuryss/serializer@v2.0.0
+- pkg:composer/vuryss/serializer@v3.0.0
