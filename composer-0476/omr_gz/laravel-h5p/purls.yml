@@ -1,4 +1,6 @@
 - pkg:composer/omr_gz/laravel-h5p@10.0
+- pkg:composer/omr_gz/laravel-h5p@11.0
+- pkg:composer/omr_gz/laravel-h5p@11.1
 - pkg:composer/omr_gz/laravel-h5p@6.0
 - pkg:composer/omr_gz/laravel-h5p@7.0
 - pkg:composer/omr_gz/laravel-h5p@8.0
