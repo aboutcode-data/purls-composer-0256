@@ -151,6 +151,7 @@
 - pkg:composer/swag/paypal@9.1.0
 - pkg:composer/swag/paypal@9.1.1
 - pkg:composer/swag/paypal@9.10.0
+- pkg:composer/swag/paypal@9.10.1
 - pkg:composer/swag/paypal@9.2.0
 - pkg:composer/swag/paypal@9.3.0
 - pkg:composer/swag/paypal@9.3.1

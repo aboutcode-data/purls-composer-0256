@@ -109,3 +109,4 @@
 - pkg:composer/themar/messaging-rabbitmq@v1.5.7
 - pkg:composer/themar/messaging-rabbitmq@v1.5.8
 - pkg:composer/themar/messaging-rabbitmq@v1.5.9
+- pkg:composer/themar/messaging-rabbitmq@v1.6
