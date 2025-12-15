@@ -16,6 +16,7 @@
 - pkg:composer/minishlink/web-push@v1.4.2
 - pkg:composer/minishlink/web-push@v1.4.3
 - pkg:composer/minishlink/web-push@v10.0.0
+- pkg:composer/minishlink/web-push@v10.0.1
 - pkg:composer/minishlink/web-push@v2.0.0
 - pkg:composer/minishlink/web-push@v2.0.1
 - pkg:composer/minishlink/web-push@v3.0.0
