@@ -180,6 +180,7 @@
 - pkg:composer/altis/cms@22.0.0
 - pkg:composer/altis/cms@22.0.0-beta.1
 - pkg:composer/altis/cms@22.0.1
+- pkg:composer/altis/cms@22.0.2
 - pkg:composer/altis/cms@23.0.0
 - pkg:composer/altis/cms@23.0.0-beta.1
 - pkg:composer/altis/cms@23.0.1
