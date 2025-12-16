@@ -36,6 +36,7 @@
 - pkg:composer/friendsofhyperf/openai-client@v3.1.58
 - pkg:composer/friendsofhyperf/openai-client@v3.1.62
 - pkg:composer/friendsofhyperf/openai-client@v3.1.75
+- pkg:composer/friendsofhyperf/openai-client@v3.1.76
 - pkg:composer/friendsofhyperf/openai-client@v3.2.0-alpha.1
 - pkg:composer/friendsofhyperf/openai-client@v3.2.0-alpha.5
 - pkg:composer/friendsofhyperf/openai-client@v3.2.0-alpha.6

@@ -124,3 +124,4 @@
 - pkg:composer/farmpublic/farmdatabasebundle@1.9.1
 - pkg:composer/farmpublic/farmdatabasebundle@1.9.2
 - pkg:composer/farmpublic/farmdatabasebundle@1.9.3
+- pkg:composer/farmpublic/farmdatabasebundle@2.0.0

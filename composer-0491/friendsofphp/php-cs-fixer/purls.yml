@@ -353,3 +353,5 @@
 - pkg:composer/friendsofphp/php-cs-fixer@v3.91.1
 - pkg:composer/friendsofphp/php-cs-fixer@v3.91.2
 - pkg:composer/friendsofphp/php-cs-fixer@v3.91.3
+- pkg:composer/friendsofphp/php-cs-fixer@v3.92.0
+- pkg:composer/friendsofphp/php-cs-fixer@v3.92.1
