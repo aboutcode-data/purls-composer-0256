@@ -3,3 +3,4 @@
 - pkg:composer/phpmx/datalayer@1.2
 - pkg:composer/phpmx/datalayer@1.4
 - pkg:composer/phpmx/datalayer@2.0
+- pkg:composer/phpmx/datalayer@2.0.1

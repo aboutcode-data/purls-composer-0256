@@ -16,3 +16,4 @@
 - pkg:composer/pfefferle/wordpress-webfinger@3.2.6
 - pkg:composer/pfefferle/wordpress-webfinger@3.2.7
 - pkg:composer/pfefferle/wordpress-webfinger@4.0.0
+- pkg:composer/pfefferle/wordpress-webfinger@4.0.1
