@@ -9,3 +9,4 @@
 - pkg:composer/codeception/module-redis@3.1.0
 - pkg:composer/codeception/module-redis@3.2.0
 - pkg:composer/codeception/module-redis@3.2.1
+- pkg:composer/codeception/module-redis@3.2.2
