@@ -48,3 +48,4 @@
 - pkg:composer/vanilo/framework@4.2.1
 - pkg:composer/vanilo/framework@5.0.0
 - pkg:composer/vanilo/framework@5.1.0
+- pkg:composer/vanilo/framework@5.1.1
