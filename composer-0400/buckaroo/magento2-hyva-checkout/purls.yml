@@ -6,5 +6,6 @@
 - pkg:composer/buckaroo/magento2-hyva-checkout@v1.3.0
 - pkg:composer/buckaroo/magento2-hyva-checkout@v1.3.1
 - pkg:composer/buckaroo/magento2-hyva-checkout@v1.4.0
+- pkg:composer/buckaroo/magento2-hyva-checkout@v1.4.1
 - pkg:composer/buckaroo/magento2-hyva-checkout@v2.0.0
 - pkg:composer/buckaroo/magento2-hyva-checkout@v2.0.0-RC1

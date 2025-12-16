@@ -11,3 +11,4 @@
 - pkg:composer/azuracast/doctrine-entity-normalizer@3.2.7
 - pkg:composer/azuracast/doctrine-entity-normalizer@3.2.8
 - pkg:composer/azuracast/doctrine-entity-normalizer@3.2.9
+- pkg:composer/azuracast/doctrine-entity-normalizer@3.3.0

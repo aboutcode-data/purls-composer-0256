@@ -105,3 +105,4 @@
 - pkg:composer/barryvdh/laravel-ide-helper@v3.5.4
 - pkg:composer/barryvdh/laravel-ide-helper@v3.5.5
 - pkg:composer/barryvdh/laravel-ide-helper@v3.6.0
+- pkg:composer/barryvdh/laravel-ide-helper@v3.6.1

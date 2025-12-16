@@ -53,6 +53,8 @@
 - pkg:composer/automattic/jetpack-post-list@v0.8.32
 - pkg:composer/automattic/jetpack-post-list@v0.8.33
 - pkg:composer/automattic/jetpack-post-list@v0.8.34
+- pkg:composer/automattic/jetpack-post-list@v0.8.35
+- pkg:composer/automattic/jetpack-post-list@v0.8.36
 - pkg:composer/automattic/jetpack-post-list@v0.8.4
 - pkg:composer/automattic/jetpack-post-list@v0.8.5
 - pkg:composer/automattic/jetpack-post-list@v0.8.6

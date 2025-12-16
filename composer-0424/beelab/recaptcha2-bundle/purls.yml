@@ -25,6 +25,7 @@
 - pkg:composer/beelab/recaptcha2-bundle@v2.10.1
 - pkg:composer/beelab/recaptcha2-bundle@v2.10.2
 - pkg:composer/beelab/recaptcha2-bundle@v2.11.0
+- pkg:composer/beelab/recaptcha2-bundle@v2.12.0
 - pkg:composer/beelab/recaptcha2-bundle@v2.2.0
 - pkg:composer/beelab/recaptcha2-bundle@v2.3.0
 - pkg:composer/beelab/recaptcha2-bundle@v2.3.1

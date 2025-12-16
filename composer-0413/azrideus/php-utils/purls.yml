@@ -94,7 +94,16 @@
 - pkg:composer/azrideus/php-utils@v1.1.18
 - pkg:composer/azrideus/php-utils@v1.1.180
 - pkg:composer/azrideus/php-utils@v1.1.181
+- pkg:composer/azrideus/php-utils@v1.1.182
+- pkg:composer/azrideus/php-utils@v1.1.183
+- pkg:composer/azrideus/php-utils@v1.1.184
+- pkg:composer/azrideus/php-utils@v1.1.185
+- pkg:composer/azrideus/php-utils@v1.1.186
+- pkg:composer/azrideus/php-utils@v1.1.187
+- pkg:composer/azrideus/php-utils@v1.1.188
+- pkg:composer/azrideus/php-utils@v1.1.189
 - pkg:composer/azrideus/php-utils@v1.1.19
+- pkg:composer/azrideus/php-utils@v1.1.190
 - pkg:composer/azrideus/php-utils@v1.1.2
 - pkg:composer/azrideus/php-utils@v1.1.20
 - pkg:composer/azrideus/php-utils@v1.1.21
