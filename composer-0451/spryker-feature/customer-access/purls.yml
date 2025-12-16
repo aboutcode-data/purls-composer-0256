@@ -16,3 +16,4 @@
 - pkg:composer/spryker-feature/customer-access@202404.0
 - pkg:composer/spryker-feature/customer-access@202410.0
 - pkg:composer/spryker-feature/customer-access@202507.0
+- pkg:composer/spryker-feature/customer-access@202512.0

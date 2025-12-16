@@ -13,3 +13,4 @@
 - pkg:composer/spryker-feature/file-manager@202404.0
 - pkg:composer/spryker-feature/file-manager@202410.0
 - pkg:composer/spryker-feature/file-manager@202507.0
+- pkg:composer/spryker-feature/file-manager@202512.0

@@ -16,3 +16,4 @@
 - pkg:composer/spryker-feature/inventory-management@202404.0
 - pkg:composer/spryker-feature/inventory-management@202410.0
 - pkg:composer/spryker-feature/inventory-management@202507.0
+- pkg:composer/spryker-feature/inventory-management@202512.0

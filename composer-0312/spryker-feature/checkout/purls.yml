@@ -13,3 +13,4 @@
 - pkg:composer/spryker-feature/checkout@202404.0
 - pkg:composer/spryker-feature/checkout@202410.0
 - pkg:composer/spryker-feature/checkout@202507.0
+- pkg:composer/spryker-feature/checkout@202512.0

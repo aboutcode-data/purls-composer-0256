@@ -2,3 +2,4 @@
 - pkg:composer/spryker-feature/shipment-cart@202404.0
 - pkg:composer/spryker-feature/shipment-cart@202410.0
 - pkg:composer/spryker-feature/shipment-cart@202507.0
+- pkg:composer/spryker-feature/shipment-cart@202512.0
