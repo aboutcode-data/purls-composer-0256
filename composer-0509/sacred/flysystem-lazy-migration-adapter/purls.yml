@@ -1,1 +1,2 @@
 - pkg:composer/sacred/flysystem-lazy-migration-adapter@v1.0.0
+- pkg:composer/sacred/flysystem-lazy-migration-adapter@v1.0.1
