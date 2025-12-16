@@ -37,3 +37,5 @@
 - pkg:composer/xgenious/xgapiclient@v4.0.0
 - pkg:composer/xgenious/xgapiclient@v5.0.0
 - pkg:composer/xgenious/xgapiclient@v6.0.0
+- pkg:composer/xgenious/xgapiclient@v6.1.0
+- pkg:composer/xgenious/xgapiclient@v6.1.1
