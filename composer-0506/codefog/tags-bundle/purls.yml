@@ -30,6 +30,8 @@
 - pkg:composer/codefog/tags-bundle@3.3.13
 - pkg:composer/codefog/tags-bundle@3.3.14
 - pkg:composer/codefog/tags-bundle@3.3.15
+- pkg:composer/codefog/tags-bundle@3.3.16
+- pkg:composer/codefog/tags-bundle@3.3.17
 - pkg:composer/codefog/tags-bundle@3.3.2
 - pkg:composer/codefog/tags-bundle@3.3.3
 - pkg:composer/codefog/tags-bundle@3.3.4

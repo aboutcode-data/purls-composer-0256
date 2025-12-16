@@ -21,6 +21,7 @@
 - pkg:composer/conekta/conekta-php@7.0.4
 - pkg:composer/conekta/conekta-php@7.0.5
 - pkg:composer/conekta/conekta-php@7.0.6
+- pkg:composer/conekta/conekta-php@7.0.7
 - pkg:composer/conekta/conekta-php@V3.3.0
 - pkg:composer/conekta/conekta-php@v1.9.0
 - pkg:composer/conekta/conekta-php@v1.9.1

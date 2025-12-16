@@ -83,6 +83,7 @@
 - pkg:composer/clarifai/clarifai-php-grpc@11.10.8
 - pkg:composer/clarifai/clarifai-php-grpc@11.10.9
 - pkg:composer/clarifai/clarifai-php-grpc@11.11.0
+- pkg:composer/clarifai/clarifai-php-grpc@11.11.1
 - pkg:composer/clarifai/clarifai-php-grpc@11.2.0
 - pkg:composer/clarifai/clarifai-php-grpc@11.2.1
 - pkg:composer/clarifai/clarifai-php-grpc@11.2.2

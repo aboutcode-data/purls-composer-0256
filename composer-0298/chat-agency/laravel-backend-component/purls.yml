@@ -19,6 +19,7 @@
 - pkg:composer/chat-agency/laravel-backend-component@v0.11.7
 - pkg:composer/chat-agency/laravel-backend-component@v0.12.0
 - pkg:composer/chat-agency/laravel-backend-component@v0.13.0
+- pkg:composer/chat-agency/laravel-backend-component@v0.13.1
 - pkg:composer/chat-agency/laravel-backend-component@v0.2.0
 - pkg:composer/chat-agency/laravel-backend-component@v0.2.1
 - pkg:composer/chat-agency/laravel-backend-component@v0.3.0
