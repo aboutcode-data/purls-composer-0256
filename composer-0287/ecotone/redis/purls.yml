@@ -168,6 +168,11 @@
 - pkg:composer/ecotone/redis@1.278.0
 - pkg:composer/ecotone/redis@1.278.1
 - pkg:composer/ecotone/redis@1.279.0
+- pkg:composer/ecotone/redis@1.280.0
+- pkg:composer/ecotone/redis@1.281.0
+- pkg:composer/ecotone/redis@1.281.1
+- pkg:composer/ecotone/redis@1.281.2
+- pkg:composer/ecotone/redis@1.282.0
 - pkg:composer/ecotone/redis@1.70.0
 - pkg:composer/ecotone/redis@1.72.0
 - pkg:composer/ecotone/redis@1.73.0
