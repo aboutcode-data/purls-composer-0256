@@ -3,3 +3,4 @@
 - pkg:composer/jackardios/laravel-file-cache@v2.0.1
 - pkg:composer/jackardios/laravel-file-cache@v3.0.3
 - pkg:composer/jackardios/laravel-file-cache@v4.0.0
+- pkg:composer/jackardios/laravel-file-cache@v4.0.1
