@@ -14,3 +14,4 @@
 - pkg:composer/sysmatter/laravel-navigation@v1.7.2
 - pkg:composer/sysmatter/laravel-navigation@v1.7.3
 - pkg:composer/sysmatter/laravel-navigation@v1.7.4
+- pkg:composer/sysmatter/laravel-navigation@v2.0.0

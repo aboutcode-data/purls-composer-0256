@@ -89,6 +89,7 @@
 - pkg:composer/sylius/user@v1.12.18
 - pkg:composer/sylius/user@v1.12.19
 - pkg:composer/sylius/user@v1.12.2
+- pkg:composer/sylius/user@v1.12.20
 - pkg:composer/sylius/user@v1.12.3
 - pkg:composer/sylius/user@v1.12.4
 - pkg:composer/sylius/user@v1.12.5
@@ -104,6 +105,7 @@
 - pkg:composer/sylius/user@v1.13.1
 - pkg:composer/sylius/user@v1.13.10
 - pkg:composer/sylius/user@v1.13.11
+- pkg:composer/sylius/user@v1.13.12
 - pkg:composer/sylius/user@v1.13.2
 - pkg:composer/sylius/user@v1.13.3
 - pkg:composer/sylius/user@v1.13.4
@@ -122,6 +124,7 @@
 - pkg:composer/sylius/user@v1.14.11
 - pkg:composer/sylius/user@v1.14.12
 - pkg:composer/sylius/user@v1.14.13
+- pkg:composer/sylius/user@v1.14.14
 - pkg:composer/sylius/user@v1.14.2
 - pkg:composer/sylius/user@v1.14.3
 - pkg:composer/sylius/user@v1.14.4
@@ -232,6 +235,7 @@
 - pkg:composer/sylius/user@v2.0.11
 - pkg:composer/sylius/user@v2.0.12
 - pkg:composer/sylius/user@v2.0.13
+- pkg:composer/sylius/user@v2.0.14
 - pkg:composer/sylius/user@v2.0.2
 - pkg:composer/sylius/user@v2.0.3
 - pkg:composer/sylius/user@v2.0.4
@@ -249,3 +253,4 @@
 - pkg:composer/sylius/user@v2.1.6
 - pkg:composer/sylius/user@v2.1.7
 - pkg:composer/sylius/user@v2.1.8
+- pkg:composer/sylius/user@v2.1.9

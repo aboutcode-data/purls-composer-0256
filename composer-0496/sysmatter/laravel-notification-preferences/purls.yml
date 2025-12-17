@@ -4,3 +4,4 @@
 - pkg:composer/sysmatter/laravel-notification-preferences@v1.1.2
 - pkg:composer/sysmatter/laravel-notification-preferences@v1.2.0
 - pkg:composer/sysmatter/laravel-notification-preferences@v1.2.1
+- pkg:composer/sysmatter/laravel-notification-preferences@v2.0.0

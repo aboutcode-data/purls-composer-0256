@@ -8,3 +8,4 @@
 - pkg:composer/tbe/tbe_remote_cache_purger@2.1.1
 - pkg:composer/tbe/tbe_remote_cache_purger@2.2.0
 - pkg:composer/tbe/tbe_remote_cache_purger@2.2.1
+- pkg:composer/tbe/tbe_remote_cache_purger@2.2.2
