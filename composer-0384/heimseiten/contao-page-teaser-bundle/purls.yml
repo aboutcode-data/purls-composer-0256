@@ -35,3 +35,5 @@
 - pkg:composer/heimseiten/contao-page-teaser-bundle@2.3.2
 - pkg:composer/heimseiten/contao-page-teaser-bundle@2.3.3
 - pkg:composer/heimseiten/contao-page-teaser-bundle@3.0.0
+- pkg:composer/heimseiten/contao-page-teaser-bundle@3.0.1
+- pkg:composer/heimseiten/contao-page-teaser-bundle@3.0.2
