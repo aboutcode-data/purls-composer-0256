@@ -1,2 +1,4 @@
 - pkg:composer/zuqongtech/laravel-db-introspection@0.0.1
 - pkg:composer/zuqongtech/laravel-db-introspection@0.0.2
+- pkg:composer/zuqongtech/laravel-db-introspection@1.0.1
+- pkg:composer/zuqongtech/laravel-db-introspection@v1.0.0
