@@ -71,6 +71,8 @@
 - pkg:composer/laminas/laminas-i18n@2.3.9
 - pkg:composer/laminas/laminas-i18n@2.30.0
 - pkg:composer/laminas/laminas-i18n@2.31.0
+- pkg:composer/laminas/laminas-i18n@2.32.0
+- pkg:composer/laminas/laminas-i18n@2.32.1
 - pkg:composer/laminas/laminas-i18n@2.4.0
 - pkg:composer/laminas/laminas-i18n@2.4.0rc1
 - pkg:composer/laminas/laminas-i18n@2.4.0rc2
