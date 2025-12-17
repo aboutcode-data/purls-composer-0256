@@ -36,6 +36,7 @@
 - pkg:composer/walkwizus/magento2-module-meilisearch@1.0.40
 - pkg:composer/walkwizus/magento2-module-meilisearch@1.0.41
 - pkg:composer/walkwizus/magento2-module-meilisearch@1.0.42
+- pkg:composer/walkwizus/magento2-module-meilisearch@1.0.43
 - pkg:composer/walkwizus/magento2-module-meilisearch@1.0.5
 - pkg:composer/walkwizus/magento2-module-meilisearch@1.0.6
 - pkg:composer/walkwizus/magento2-module-meilisearch@1.0.7
