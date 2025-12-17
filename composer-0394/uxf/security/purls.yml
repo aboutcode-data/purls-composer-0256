@@ -201,6 +201,7 @@
 - pkg:composer/uxf/security@3.74.4
 - pkg:composer/uxf/security@3.75.0
 - pkg:composer/uxf/security@3.75.3
+- pkg:composer/uxf/security@3.75.5
 - pkg:composer/uxf/security@3.8.0
 - pkg:composer/uxf/security@3.8.1
 - pkg:composer/uxf/security@3.8.2

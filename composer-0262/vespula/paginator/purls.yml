@@ -10,3 +10,4 @@
 - pkg:composer/vespula/paginator@2.1.0
 - pkg:composer/vespula/paginator@2.1.1
 - pkg:composer/vespula/paginator@2.2.0
+- pkg:composer/vespula/paginator@3.0.0
