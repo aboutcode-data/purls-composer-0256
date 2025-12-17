@@ -43,6 +43,7 @@
 - pkg:composer/karmabunny/rdb@v1.30.20
 - pkg:composer/karmabunny/rdb@v1.31.20
 - pkg:composer/karmabunny/rdb@v1.32.20
+- pkg:composer/karmabunny/rdb@v1.32.21
 - pkg:composer/karmabunny/rdb@v1.4.3
 - pkg:composer/karmabunny/rdb@v1.5.3
 - pkg:composer/karmabunny/rdb@v1.6.4
