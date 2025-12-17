@@ -13,6 +13,7 @@
 - pkg:composer/drupal/core-recipe-unpack@11.2.7
 - pkg:composer/drupal/core-recipe-unpack@11.2.8
 - pkg:composer/drupal/core-recipe-unpack@11.2.9
+- pkg:composer/drupal/core-recipe-unpack@11.3.0
 - pkg:composer/drupal/core-recipe-unpack@11.3.0-alpha1
 - pkg:composer/drupal/core-recipe-unpack@11.3.0-beta1
 - pkg:composer/drupal/core-recipe-unpack@11.3.0-rc1
