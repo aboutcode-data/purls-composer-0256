@@ -10,3 +10,4 @@
 - pkg:composer/programmatordev/openweathermap-php-api@v2.0.0
 - pkg:composer/programmatordev/openweathermap-php-api@v2.0.0-rc.1
 - pkg:composer/programmatordev/openweathermap-php-api@v3.0.0
+- pkg:composer/programmatordev/openweathermap-php-api@v3.0.1
