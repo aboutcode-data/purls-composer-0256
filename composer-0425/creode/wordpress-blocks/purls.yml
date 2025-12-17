@@ -101,3 +101,4 @@
 - pkg:composer/creode/wordpress-blocks@2.7.0
 - pkg:composer/creode/wordpress-blocks@2.8.0
 - pkg:composer/creode/wordpress-blocks@2.9.0
+- pkg:composer/creode/wordpress-blocks@3.0.0
