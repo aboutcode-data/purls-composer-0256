@@ -33,6 +33,7 @@
 - pkg:composer/flow-php/doctrine-dbal-bulk@0.26.1
 - pkg:composer/flow-php/doctrine-dbal-bulk@0.27.0
 - pkg:composer/flow-php/doctrine-dbal-bulk@0.28.0
+- pkg:composer/flow-php/doctrine-dbal-bulk@0.29.0
 - pkg:composer/flow-php/doctrine-dbal-bulk@0.3.0
 - pkg:composer/flow-php/doctrine-dbal-bulk@0.3.1
 - pkg:composer/flow-php/doctrine-dbal-bulk@0.3.2
