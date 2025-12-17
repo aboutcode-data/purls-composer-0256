@@ -36,3 +36,4 @@
 - pkg:composer/codesaur/http-message@v1.6.8
 - pkg:composer/codesaur/http-message@v1.7.0
 - pkg:composer/codesaur/http-message@v1.8.0
+- pkg:composer/codesaur/http-message@v1.9.0

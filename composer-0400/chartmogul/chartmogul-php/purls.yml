@@ -53,3 +53,4 @@
 - pkg:composer/chartmogul/chartmogul-php@v6.5.0
 - pkg:composer/chartmogul/chartmogul-php@v6.6.0
 - pkg:composer/chartmogul/chartmogul-php@v6.7.0
+- pkg:composer/chartmogul/chartmogul-php@v6.8.0
