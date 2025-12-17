@@ -46,6 +46,7 @@
 - pkg:composer/eliashaeussler/typo3-warming@0.5.3
 - pkg:composer/eliashaeussler/typo3-warming@0.5.4
 - pkg:composer/eliashaeussler/typo3-warming@0.5.5
+- pkg:composer/eliashaeussler/typo3-warming@0.5.6
 - pkg:composer/eliashaeussler/typo3-warming@1.0.0
 - pkg:composer/eliashaeussler/typo3-warming@1.0.1
 - pkg:composer/eliashaeussler/typo3-warming@1.0.2
