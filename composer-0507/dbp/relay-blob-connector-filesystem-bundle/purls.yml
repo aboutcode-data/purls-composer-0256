@@ -29,3 +29,4 @@
 - pkg:composer/dbp/relay-blob-connector-filesystem-bundle@v0.1.7
 - pkg:composer/dbp/relay-blob-connector-filesystem-bundle@v0.1.8
 - pkg:composer/dbp/relay-blob-connector-filesystem-bundle@v0.1.9
+- pkg:composer/dbp/relay-blob-connector-filesystem-bundle@v0.2.0

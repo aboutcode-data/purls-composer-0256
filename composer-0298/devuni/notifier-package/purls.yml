@@ -1,4 +1,9 @@
 - pkg:composer/devuni/notifier-package@v1.0.0
+- pkg:composer/devuni/notifier-package@v1.0.0-alpha.1
+- pkg:composer/devuni/notifier-package@v1.0.0-alpha.2
+- pkg:composer/devuni/notifier-package@v1.0.0-alpha.3
+- pkg:composer/devuni/notifier-package@v1.0.0-beta.1
+- pkg:composer/devuni/notifier-package@v1.0.0-beta.2
 - pkg:composer/devuni/notifier-package@v1.0.1
 - pkg:composer/devuni/notifier-package@v1.0.10
 - pkg:composer/devuni/notifier-package@v1.0.11
