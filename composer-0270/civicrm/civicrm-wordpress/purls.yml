@@ -9,3 +9,4 @@
 - pkg:composer/civicrm/civicrm-wordpress@6.7.2
 - pkg:composer/civicrm/civicrm-wordpress@6.8.0
 - pkg:composer/civicrm/civicrm-wordpress@6.9.0
+- pkg:composer/civicrm/civicrm-wordpress@6.9.1
