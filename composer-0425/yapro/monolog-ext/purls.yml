@@ -9,3 +9,4 @@
 - pkg:composer/yapro/monolog-ext@v1.0.7
 - pkg:composer/yapro/monolog-ext@v1.0.8
 - pkg:composer/yapro/monolog-ext@v1.0.9
+- pkg:composer/yapro/monolog-ext@v2.0.0
