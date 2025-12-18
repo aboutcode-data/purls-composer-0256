@@ -804,6 +804,7 @@
 - pkg:composer/survos/inspection-bundle@2.0.82
 - pkg:composer/survos/inspection-bundle@2.0.83
 - pkg:composer/survos/inspection-bundle@2.0.84
+- pkg:composer/survos/inspection-bundle@2.0.85
 - pkg:composer/survos/inspection-bundle@v1.0.0
 - pkg:composer/survos/inspection-bundle@v1.0.1
 - pkg:composer/survos/inspection-bundle@v1.2.4

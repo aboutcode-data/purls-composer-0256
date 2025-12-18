@@ -22,6 +22,7 @@
 - pkg:composer/thecodingmachine/graphqlite-bundle@v6.0.3
 - pkg:composer/thecodingmachine/graphqlite-bundle@v6.1.0
 - pkg:composer/thecodingmachine/graphqlite-bundle@v6.1.1
+- pkg:composer/thecodingmachine/graphqlite-bundle@v6.2.0
 - pkg:composer/thecodingmachine/graphqlite-bundle@v7.0.0
 - pkg:composer/thecodingmachine/graphqlite-bundle@v7.1.0
 - pkg:composer/thecodingmachine/graphqlite-bundle@v7.1.1

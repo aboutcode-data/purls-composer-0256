@@ -56,3 +56,4 @@
 - pkg:composer/timiki/rpc-server-bundle@6.1.1
 - pkg:composer/timiki/rpc-server-bundle@6.2.0
 - pkg:composer/timiki/rpc-server-bundle@6.4.0
+- pkg:composer/timiki/rpc-server-bundle@7.0.0
