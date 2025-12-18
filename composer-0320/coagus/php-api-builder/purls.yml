@@ -2,6 +2,7 @@
 - pkg:composer/coagus/php-api-builder@1.2.2
 - pkg:composer/coagus/php-api-builder@1.2.4
 - pkg:composer/coagus/php-api-builder@1.2.5
+- pkg:composer/coagus/php-api-builder@1.2.7
 - pkg:composer/coagus/php-api-builder@v0.1.0
 - pkg:composer/coagus/php-api-builder@v0.1.1
 - pkg:composer/coagus/php-api-builder@v0.2.0
