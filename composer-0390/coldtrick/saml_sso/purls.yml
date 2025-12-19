@@ -16,3 +16,4 @@
 - pkg:composer/coldtrick/saml_sso@v6.1
 - pkg:composer/coldtrick/saml_sso@v6.1.1
 - pkg:composer/coldtrick/saml_sso@v6.1.2
+- pkg:composer/coldtrick/saml_sso@v6.1.3
