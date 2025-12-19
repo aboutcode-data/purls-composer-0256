@@ -25,3 +25,7 @@
 - pkg:composer/maccesar/laravel-dropzone-enhanced@v2.1.7
 - pkg:composer/maccesar/laravel-dropzone-enhanced@v2.1.8
 - pkg:composer/maccesar/laravel-dropzone-enhanced@v2.1.9
+- pkg:composer/maccesar/laravel-dropzone-enhanced@v2.2.0
+- pkg:composer/maccesar/laravel-dropzone-enhanced@v2.2.1
+- pkg:composer/maccesar/laravel-dropzone-enhanced@v2.3.0
+- pkg:composer/maccesar/laravel-dropzone-enhanced@v2.3.1

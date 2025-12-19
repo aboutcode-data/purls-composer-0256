@@ -1,3 +1,4 @@
 - pkg:composer/lookberry/laravel-smsglobal-notifications-channel@1.0.0
 - pkg:composer/lookberry/laravel-smsglobal-notifications-channel@1.0.1
 - pkg:composer/lookberry/laravel-smsglobal-notifications-channel@1.1.1
+- pkg:composer/lookberry/laravel-smsglobal-notifications-channel@1.2.0
