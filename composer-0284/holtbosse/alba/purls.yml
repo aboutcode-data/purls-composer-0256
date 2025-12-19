@@ -14,6 +14,15 @@
 - pkg:composer/holtbosse/alba@3.17.1
 - pkg:composer/holtbosse/alba@3.17.2
 - pkg:composer/holtbosse/alba@3.18.0
+- pkg:composer/holtbosse/alba@3.19.0
+- pkg:composer/holtbosse/alba@3.19.1
+- pkg:composer/holtbosse/alba@3.19.2
+- pkg:composer/holtbosse/alba@3.19.3
+- pkg:composer/holtbosse/alba@3.19.4
+- pkg:composer/holtbosse/alba@3.19.5
+- pkg:composer/holtbosse/alba@3.19.6
+- pkg:composer/holtbosse/alba@3.19.7
+- pkg:composer/holtbosse/alba@3.19.8
 - pkg:composer/holtbosse/alba@3.2.0
 - pkg:composer/holtbosse/alba@3.3.0
 - pkg:composer/holtbosse/alba@3.3.1
