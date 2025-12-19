@@ -20,6 +20,7 @@
 - pkg:composer/goldziher/html-to-markdown@v2.14.7
 - pkg:composer/goldziher/html-to-markdown@v2.14.8
 - pkg:composer/goldziher/html-to-markdown@v2.14.9
+- pkg:composer/goldziher/html-to-markdown@v2.15.0
 - pkg:composer/goldziher/html-to-markdown@v2.5.7
 - pkg:composer/goldziher/html-to-markdown@v2.6.0
 - pkg:composer/goldziher/html-to-markdown@v2.6.1
