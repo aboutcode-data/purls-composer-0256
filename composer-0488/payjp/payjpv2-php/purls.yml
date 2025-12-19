@@ -1,3 +1,4 @@
 - pkg:composer/payjp/payjpv2-php@v0.0.1
 - pkg:composer/payjp/payjpv2-php@v1.0.0
 - pkg:composer/payjp/payjpv2-php@v1.0.1
+- pkg:composer/payjp/payjpv2-php@v1.0.2
