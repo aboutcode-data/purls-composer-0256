@@ -6,3 +6,4 @@
 - pkg:composer/aerendir/bin-github-actions-matrix@1.0.1
 - pkg:composer/aerendir/bin-github-actions-matrix@1.0.2
 - pkg:composer/aerendir/bin-github-actions-matrix@1.0.3
+- pkg:composer/aerendir/bin-github-actions-matrix@1.1.0
