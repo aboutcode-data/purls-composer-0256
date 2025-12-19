@@ -512,5 +512,6 @@
 - pkg:composer/neos/neos-ui@9.0.2
 - pkg:composer/neos/neos-ui@9.0.3
 - pkg:composer/neos/neos-ui@9.0.4
+- pkg:composer/neos/neos-ui@9.1.0
 - pkg:composer/neos/neos-ui@v0.0.0
 - pkg:composer/neos/neos-ui@v1.0.13

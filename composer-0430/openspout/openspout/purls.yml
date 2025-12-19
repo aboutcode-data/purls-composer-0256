@@ -69,3 +69,4 @@
 - pkg:composer/openspout/openspout@v4.9.0
 - pkg:composer/openspout/openspout@v5.0.0
 - pkg:composer/openspout/openspout@v5.1.0
+- pkg:composer/openspout/openspout@v5.1.1

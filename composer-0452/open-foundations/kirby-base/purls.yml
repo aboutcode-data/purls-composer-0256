@@ -339,7 +339,11 @@
 - pkg:composer/open-foundations/kirby-base@1.4.116
 - pkg:composer/open-foundations/kirby-base@1.4.117
 - pkg:composer/open-foundations/kirby-base@1.4.118
+- pkg:composer/open-foundations/kirby-base@1.4.119
 - pkg:composer/open-foundations/kirby-base@1.4.12
+- pkg:composer/open-foundations/kirby-base@1.4.120
+- pkg:composer/open-foundations/kirby-base@1.4.121
+- pkg:composer/open-foundations/kirby-base@1.4.122
 - pkg:composer/open-foundations/kirby-base@1.4.13
 - pkg:composer/open-foundations/kirby-base@1.4.14
 - pkg:composer/open-foundations/kirby-base@1.4.15

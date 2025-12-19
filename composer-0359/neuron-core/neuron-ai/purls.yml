@@ -253,6 +253,7 @@
 - pkg:composer/neuron-core/neuron-ai@2.0.8
 - pkg:composer/neuron-core/neuron-ai@2.1.0
 - pkg:composer/neuron-core/neuron-ai@2.1.1
+- pkg:composer/neuron-core/neuron-ai@2.10.0
 - pkg:composer/neuron-core/neuron-ai@2.2.0
 - pkg:composer/neuron-core/neuron-ai@2.2.1
 - pkg:composer/neuron-core/neuron-ai@2.2.10
