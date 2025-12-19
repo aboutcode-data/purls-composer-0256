@@ -6,3 +6,4 @@
 - pkg:composer/kiwfy/jwt-manager-php@6.0.0
 - pkg:composer/kiwfy/jwt-manager-php@7.0.0
 - pkg:composer/kiwfy/jwt-manager-php@7.0.1
+- pkg:composer/kiwfy/jwt-manager-php@8.0.0

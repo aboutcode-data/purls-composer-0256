@@ -7,3 +7,4 @@
 - pkg:composer/laravelroles/rolespermissions@v2.5
 - pkg:composer/laravelroles/rolespermissions@v3.0
 - pkg:composer/laravelroles/rolespermissions@v3.1
+- pkg:composer/laravelroles/rolespermissions@v4.0
