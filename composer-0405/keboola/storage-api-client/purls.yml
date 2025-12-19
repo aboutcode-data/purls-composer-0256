@@ -379,3 +379,4 @@
 - pkg:composer/keboola/storage-api-client@v18.3.0
 - pkg:composer/keboola/storage-api-client@v18.4.0
 - pkg:composer/keboola/storage-api-client@v18.5.0
+- pkg:composer/keboola/storage-api-client@v18.5.1
