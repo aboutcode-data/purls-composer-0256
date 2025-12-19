@@ -12,3 +12,5 @@
 - pkg:composer/bag2/cookie@v0.6.3
 - pkg:composer/bag2/cookie@v0.7.0
 - pkg:composer/bag2/cookie@v0.8.0
+- pkg:composer/bag2/cookie@v0.8.1
+- pkg:composer/bag2/cookie@v0.9.0
