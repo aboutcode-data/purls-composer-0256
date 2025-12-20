@@ -1,2 +1,7 @@
 - pkg:composer/guiziweb/mcp-redmine@v0.1.0-alpha
 - pkg:composer/guiziweb/mcp-redmine@v0.2.0-alpha
+- pkg:composer/guiziweb/mcp-redmine@v1.0.0
+- pkg:composer/guiziweb/mcp-redmine@v1.1.0
+- pkg:composer/guiziweb/mcp-redmine@v1.2.0
+- pkg:composer/guiziweb/mcp-redmine@v1.2.1
+- pkg:composer/guiziweb/mcp-redmine@v1.2.2
