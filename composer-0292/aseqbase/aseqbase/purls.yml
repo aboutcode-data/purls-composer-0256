@@ -19,5 +19,5 @@
 - pkg:composer/aseqbase/aseqbase@v6.5.0
 - pkg:composer/aseqbase/aseqbase@v6.6.0
 - pkg:composer/aseqbase/aseqbase@v7.0.1
-- pkg:composer/aseqbase/aseqbase@v7.0.9
 - pkg:composer/aseqbase/aseqbase@v7.1.0
+- pkg:composer/aseqbase/aseqbase@v7.2.0
