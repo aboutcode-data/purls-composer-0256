@@ -63,3 +63,4 @@
 - pkg:composer/bolt/forms@1.6.7
 - pkg:composer/bolt/forms@1.6.8
 - pkg:composer/bolt/forms@1.6.9
+- pkg:composer/bolt/forms@2.0.0
