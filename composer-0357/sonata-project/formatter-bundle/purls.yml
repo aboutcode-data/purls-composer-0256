@@ -41,3 +41,4 @@
 - pkg:composer/sonata-project/formatter-bundle@5.4.0
 - pkg:composer/sonata-project/formatter-bundle@5.4.1
 - pkg:composer/sonata-project/formatter-bundle@5.4.2
+- pkg:composer/sonata-project/formatter-bundle@5.5.0

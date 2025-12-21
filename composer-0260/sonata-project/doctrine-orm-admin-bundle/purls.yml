@@ -107,6 +107,7 @@
 - pkg:composer/sonata-project/doctrine-orm-admin-bundle@4.2.6
 - pkg:composer/sonata-project/doctrine-orm-admin-bundle@4.2.7
 - pkg:composer/sonata-project/doctrine-orm-admin-bundle@4.2.8
+- pkg:composer/sonata-project/doctrine-orm-admin-bundle@4.20.0
 - pkg:composer/sonata-project/doctrine-orm-admin-bundle@4.3.0
 - pkg:composer/sonata-project/doctrine-orm-admin-bundle@4.3.1
 - pkg:composer/sonata-project/doctrine-orm-admin-bundle@4.3.2
