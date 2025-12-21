@@ -39,5 +39,7 @@
 - pkg:composer/rollerworks/password-strength-validator@v2.0.1
 - pkg:composer/rollerworks/password-strength-validator@v2.0.2
 - pkg:composer/rollerworks/password-strength-validator@v2.0.3
+- pkg:composer/rollerworks/password-strength-validator@v3.0.0
 - pkg:composer/rollerworks/password-strength-validator@v3.0.0-BETA1
 - pkg:composer/rollerworks/password-strength-validator@v3.0.0-BETA2
+- pkg:composer/rollerworks/password-strength-validator@v3.0.0-BETA3

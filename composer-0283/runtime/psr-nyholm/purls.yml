@@ -1,1 +1,2 @@
 - pkg:composer/runtime/psr-nyholm@0.1.0
+- pkg:composer/runtime/psr-nyholm@1.0.0
