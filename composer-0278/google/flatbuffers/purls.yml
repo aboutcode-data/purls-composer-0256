@@ -35,5 +35,6 @@
 - pkg:composer/google/flatbuffers@v24.3.7
 - pkg:composer/google/flatbuffers@v25.1.21
 - pkg:composer/google/flatbuffers@v25.1.24
+- pkg:composer/google/flatbuffers@v25.12.19
 - pkg:composer/google/flatbuffers@v25.2.10
 - pkg:composer/google/flatbuffers@v25.9.23
