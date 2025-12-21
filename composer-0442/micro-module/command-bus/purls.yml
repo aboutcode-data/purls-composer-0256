@@ -4,3 +4,4 @@
 - pkg:composer/micro-module/command-bus@v0.5.2
 - pkg:composer/micro-module/command-bus@v0.5.3
 - pkg:composer/micro-module/command-bus@v0.5.4
+- pkg:composer/micro-module/command-bus@v0.6.0

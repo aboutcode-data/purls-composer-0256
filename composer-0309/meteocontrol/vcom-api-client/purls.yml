@@ -67,6 +67,8 @@
 - pkg:composer/meteocontrol/vcom-api-client@3.23.2
 - pkg:composer/meteocontrol/vcom-api-client@3.24.0
 - pkg:composer/meteocontrol/vcom-api-client@3.24.1
+- pkg:composer/meteocontrol/vcom-api-client@3.25.0
+- pkg:composer/meteocontrol/vcom-api-client@3.26.0
 - pkg:composer/meteocontrol/vcom-api-client@3.3.0
 - pkg:composer/meteocontrol/vcom-api-client@3.4.0
 - pkg:composer/meteocontrol/vcom-api-client@3.5.0
