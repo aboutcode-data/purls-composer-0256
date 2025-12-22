@@ -1,0 +1,2 @@
+- pkg:composer/lettermint/laravel-rabbitmq@0.1
+- pkg:composer/lettermint/laravel-rabbitmq@0.1.1
