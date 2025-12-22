@@ -14,3 +14,4 @@
 - pkg:composer/pbweb/audit-bundle@3.2
 - pkg:composer/pbweb/audit-bundle@3.2.1
 - pkg:composer/pbweb/audit-bundle@3.3
+- pkg:composer/pbweb/audit-bundle@3.3.1
