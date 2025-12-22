@@ -1,1 +1,2 @@
 - pkg:composer/tourze/symfony-ssl-request-detect-bundle@0.0.1
+- pkg:composer/tourze/symfony-ssl-request-detect-bundle@0.0.2
