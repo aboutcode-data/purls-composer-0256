@@ -11,3 +11,6 @@
 - pkg:composer/mmanda/laravel-obfs@v1.2.0
 - pkg:composer/mmanda/laravel-obfs@v1.2.1
 - pkg:composer/mmanda/laravel-obfs@v1.2.5
+- pkg:composer/mmanda/laravel-obfs@v1.2.6
+- pkg:composer/mmanda/laravel-obfs@v1.2.7
+- pkg:composer/mmanda/laravel-obfs@v1.2.8
