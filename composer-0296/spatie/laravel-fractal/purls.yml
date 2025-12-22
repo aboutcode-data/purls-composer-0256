@@ -68,3 +68,4 @@
 - pkg:composer/spatie/laravel-fractal@6.3.0
 - pkg:composer/spatie/laravel-fractal@6.3.1
 - pkg:composer/spatie/laravel-fractal@6.3.2
+- pkg:composer/spatie/laravel-fractal@6.3.3

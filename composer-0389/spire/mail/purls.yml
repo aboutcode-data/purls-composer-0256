@@ -1,3 +1,4 @@
+- pkg:composer/spire/mail@0.1.4
 - pkg:composer/spire/mail@v0.1.1
 - pkg:composer/spire/mail@v0.1.2
 - pkg:composer/spire/mail@v0.1.3
