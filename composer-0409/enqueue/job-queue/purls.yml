@@ -12,6 +12,7 @@
 - pkg:composer/enqueue/job-queue@0.10.24
 - pkg:composer/enqueue/job-queue@0.10.25
 - pkg:composer/enqueue/job-queue@0.10.26
+- pkg:composer/enqueue/job-queue@0.10.27
 - pkg:composer/enqueue/job-queue@0.10.4
 - pkg:composer/enqueue/job-queue@0.10.5
 - pkg:composer/enqueue/job-queue@0.10.6

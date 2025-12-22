@@ -5,6 +5,7 @@
 - pkg:composer/enqueue/pheanstalk@0.10.2
 - pkg:composer/enqueue/pheanstalk@0.10.25
 - pkg:composer/enqueue/pheanstalk@0.10.26
+- pkg:composer/enqueue/pheanstalk@0.10.27
 - pkg:composer/enqueue/pheanstalk@0.10.3
 - pkg:composer/enqueue/pheanstalk@0.10.4
 - pkg:composer/enqueue/pheanstalk@0.10.7

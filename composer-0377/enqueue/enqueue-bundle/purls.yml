@@ -10,6 +10,7 @@
 - pkg:composer/enqueue/enqueue-bundle@0.10.19
 - pkg:composer/enqueue/enqueue-bundle@0.10.24
 - pkg:composer/enqueue/enqueue-bundle@0.10.25
+- pkg:composer/enqueue/enqueue-bundle@0.10.27
 - pkg:composer/enqueue/enqueue-bundle@0.10.3
 - pkg:composer/enqueue/enqueue-bundle@0.10.6
 - pkg:composer/enqueue/enqueue-bundle@0.10.7
