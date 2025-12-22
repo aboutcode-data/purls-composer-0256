@@ -24,6 +24,7 @@
 - pkg:composer/willdurand/hateoas@3.12.0
 - pkg:composer/willdurand/hateoas@3.12.0-beta1
 - pkg:composer/willdurand/hateoas@3.12.0-beta2
+- pkg:composer/willdurand/hateoas@3.13.0
 - pkg:composer/willdurand/hateoas@3.2.0
 - pkg:composer/willdurand/hateoas@3.3.0
 - pkg:composer/willdurand/hateoas@3.4.0
