@@ -25,3 +25,5 @@
 - pkg:composer/satur.io/duckdb@v2.0.1-beta.2
 - pkg:composer/satur.io/duckdb@v2.0.1-beta.3
 - pkg:composer/satur.io/duckdb@v2.0.2
+- pkg:composer/satur.io/duckdb@v2.0.3
+- pkg:composer/satur.io/duckdb@v2.0.4-beta.1
