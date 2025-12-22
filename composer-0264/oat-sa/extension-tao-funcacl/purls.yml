@@ -42,6 +42,7 @@
 - pkg:composer/oat-sa/extension-tao-funcacl@v7.3.1
 - pkg:composer/oat-sa/extension-tao-funcacl@v7.4.0
 - pkg:composer/oat-sa/extension-tao-funcacl@v7.4.1
+- pkg:composer/oat-sa/extension-tao-funcacl@v7.4.10
 - pkg:composer/oat-sa/extension-tao-funcacl@v7.4.2
 - pkg:composer/oat-sa/extension-tao-funcacl@v7.4.3
 - pkg:composer/oat-sa/extension-tao-funcacl@v7.4.4
