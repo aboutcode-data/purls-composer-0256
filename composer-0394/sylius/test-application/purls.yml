@@ -14,3 +14,4 @@
 - pkg:composer/sylius/test-application@v2.1.0-ALPHA.4
 - pkg:composer/sylius/test-application@v2.1.0-ALPHA.5
 - pkg:composer/sylius/test-application@v2.1.0-ALPHA.6
+- pkg:composer/sylius/test-application@v2.2.0-ALPHA.1

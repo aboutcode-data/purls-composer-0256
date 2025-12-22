@@ -7,3 +7,4 @@
 - pkg:composer/sunaoka/laravel-ssm-parameters-loader@v1.3.2
 - pkg:composer/sunaoka/laravel-ssm-parameters-loader@v1.3.3
 - pkg:composer/sunaoka/laravel-ssm-parameters-loader@v1.4.0
+- pkg:composer/sunaoka/laravel-ssm-parameters-loader@v1.4.1
