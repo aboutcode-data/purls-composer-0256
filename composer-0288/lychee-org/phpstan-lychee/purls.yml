@@ -1,3 +1,4 @@
+- pkg:composer/lychee-org/phpstan-lychee@2.0.3
 - pkg:composer/lychee-org/phpstan-lychee@v1.0.0
 - pkg:composer/lychee-org/phpstan-lychee@v1.0.1
 - pkg:composer/lychee-org/phpstan-lychee@v1.0.2
