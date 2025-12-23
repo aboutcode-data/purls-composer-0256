@@ -1,5 +1,6 @@
 - pkg:composer/hieudmg/module-hyva-algolia-search@100.0.0
 - pkg:composer/hieudmg/module-hyva-algolia-search@100.0.1
+- pkg:composer/hieudmg/module-hyva-algolia-search@100.0.10
 - pkg:composer/hieudmg/module-hyva-algolia-search@100.0.2
 - pkg:composer/hieudmg/module-hyva-algolia-search@100.0.3
 - pkg:composer/hieudmg/module-hyva-algolia-search@100.0.4
