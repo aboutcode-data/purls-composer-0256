@@ -39,3 +39,4 @@
 - pkg:composer/kitodo/presentation@v6.0.0
 - pkg:composer/kitodo/presentation@v6.0.0-rc1
 - pkg:composer/kitodo/presentation@v6.0.0-rc2
+- pkg:composer/kitodo/presentation@v7.0.0-rc1
