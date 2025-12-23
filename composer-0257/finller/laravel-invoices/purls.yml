@@ -81,3 +81,4 @@
 - pkg:composer/finller/laravel-invoices@v4.5.1
 - pkg:composer/finller/laravel-invoices@v4.6.0
 - pkg:composer/finller/laravel-invoices@v4.6.1
+- pkg:composer/finller/laravel-invoices@v4.6.2
