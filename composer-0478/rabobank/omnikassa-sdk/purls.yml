@@ -6,3 +6,4 @@
 - pkg:composer/rabobank/omnikassa-sdk@v1.16.0
 - pkg:composer/rabobank/omnikassa-sdk@v1.17.1
 - pkg:composer/rabobank/omnikassa-sdk@v1.17.2
+- pkg:composer/rabobank/omnikassa-sdk@v1.18.0
