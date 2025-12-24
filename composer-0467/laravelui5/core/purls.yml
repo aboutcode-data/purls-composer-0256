@@ -32,3 +32,4 @@
 - pkg:composer/laravelui5/core@v1.2.6
 - pkg:composer/laravelui5/core@v2.0.0
 - pkg:composer/laravelui5/core@v2.0.1
+- pkg:composer/laravelui5/core@v2.0.2
