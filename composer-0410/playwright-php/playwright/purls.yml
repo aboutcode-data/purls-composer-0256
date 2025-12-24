@@ -1,1 +1,2 @@
 - pkg:composer/playwright-php/playwright@v1.0.0
+- pkg:composer/playwright-php/playwright@v1.1.0

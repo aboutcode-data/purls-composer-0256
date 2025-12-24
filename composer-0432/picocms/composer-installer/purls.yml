@@ -1,3 +1,4 @@
 - pkg:composer/picocms/composer-installer@v1.0.0
 - pkg:composer/picocms/composer-installer@v1.0.1
 - pkg:composer/picocms/composer-installer@v2.0.0
+- pkg:composer/picocms/composer-installer@v2.0.1
