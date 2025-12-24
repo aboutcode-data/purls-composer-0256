@@ -1,4 +1,5 @@
 - pkg:composer/sufyandev/laravel-migration-linter@2.0.0
+- pkg:composer/sufyandev/laravel-migration-linter@2.1.0
 - pkg:composer/sufyandev/laravel-migration-linter@v1.0.0
 - pkg:composer/sufyandev/laravel-migration-linter@v1.1.0
 - pkg:composer/sufyandev/laravel-migration-linter@v1.1.1
