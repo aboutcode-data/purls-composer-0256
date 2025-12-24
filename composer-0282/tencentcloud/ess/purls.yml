@@ -452,6 +452,7 @@
 - pkg:composer/tencentcloud/ess@3.0.1500
 - pkg:composer/tencentcloud/ess@3.0.1501
 - pkg:composer/tencentcloud/ess@3.0.1505
+- pkg:composer/tencentcloud/ess@3.0.1508
 - pkg:composer/tencentcloud/ess@3.0.583
 - pkg:composer/tencentcloud/ess@3.0.584
 - pkg:composer/tencentcloud/ess@3.0.585

@@ -326,3 +326,4 @@
 - pkg:composer/ukfast/client@v1.9.2
 - pkg:composer/ukfast/client@v2.0.0
 - pkg:composer/ukfast/client@v2.0.1
+- pkg:composer/ukfast/client@v2.1.0
