@@ -90,6 +90,7 @@
 - pkg:composer/clarifai/clarifai-php-grpc@11.11.5
 - pkg:composer/clarifai/clarifai-php-grpc@11.11.6
 - pkg:composer/clarifai/clarifai-php-grpc@11.11.7
+- pkg:composer/clarifai/clarifai-php-grpc@11.11.8
 - pkg:composer/clarifai/clarifai-php-grpc@11.2.0
 - pkg:composer/clarifai/clarifai-php-grpc@11.2.1
 - pkg:composer/clarifai/clarifai-php-grpc@11.2.2
