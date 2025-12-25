@@ -10,3 +10,4 @@
 - pkg:composer/yiisoft/yii-runner-http@3.0.0
 - pkg:composer/yiisoft/yii-runner-http@3.1.0
 - pkg:composer/yiisoft/yii-runner-http@3.2.0
+- pkg:composer/yiisoft/yii-runner-http@3.2.1

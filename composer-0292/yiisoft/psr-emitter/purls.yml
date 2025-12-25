@@ -1,1 +1,2 @@
 - pkg:composer/yiisoft/psr-emitter@1.0.0
+- pkg:composer/yiisoft/psr-emitter@1.0.1

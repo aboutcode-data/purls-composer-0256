@@ -118,3 +118,5 @@
 - pkg:composer/zenstruck/foundry@v2.8.0
 - pkg:composer/zenstruck/foundry@v2.8.1
 - pkg:composer/zenstruck/foundry@v2.8.2
+- pkg:composer/zenstruck/foundry@v2.8.3
+- pkg:composer/zenstruck/foundry@v2.8.4
