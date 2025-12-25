@@ -26,3 +26,5 @@
 - pkg:composer/webgriffe/newrelic-bundle@2.2.3
 - pkg:composer/webgriffe/newrelic-bundle@2.3.0
 - pkg:composer/webgriffe/newrelic-bundle@2.4.0
+- pkg:composer/webgriffe/newrelic-bundle@2.5.0
+- pkg:composer/webgriffe/newrelic-bundle@3.0.0
