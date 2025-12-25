@@ -1,4 +1,7 @@
 - pkg:composer/tangwei/hyperf-oracle@v0.1.0
 - pkg:composer/tangwei/hyperf-oracle@v2.2.0
+- pkg:composer/tangwei/hyperf-oracle@v2.2.1
+- pkg:composer/tangwei/hyperf-oracle@v2.2.2
 - pkg:composer/tangwei/hyperf-oracle@v3.1.0
 - pkg:composer/tangwei/hyperf-oracle@v3.1.1
+- pkg:composer/tangwei/hyperf-oracle@v3.1.2

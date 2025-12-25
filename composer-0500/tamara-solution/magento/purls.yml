@@ -59,6 +59,7 @@
 - pkg:composer/tamara-solution/magento@1.12.42
 - pkg:composer/tamara-solution/magento@1.12.43
 - pkg:composer/tamara-solution/magento@1.12.44
+- pkg:composer/tamara-solution/magento@1.12.47
 - pkg:composer/tamara-solution/magento@1.12.5
 - pkg:composer/tamara-solution/magento@1.12.6
 - pkg:composer/tamara-solution/magento@1.12.7
@@ -155,6 +156,7 @@
 - pkg:composer/tamara-solution/magento@2.11.44
 - pkg:composer/tamara-solution/magento@2.11.45
 - pkg:composer/tamara-solution/magento@2.11.46
+- pkg:composer/tamara-solution/magento@2.11.47
 - pkg:composer/tamara-solution/magento@2.11.5
 - pkg:composer/tamara-solution/magento@2.11.6
 - pkg:composer/tamara-solution/magento@2.11.7
