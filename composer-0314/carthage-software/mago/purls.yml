@@ -107,3 +107,5 @@
 - pkg:composer/carthage-software/mago@1.0.0-rc.8
 - pkg:composer/carthage-software/mago@1.0.0-rc.9
 - pkg:composer/carthage-software/mago@1.0.1
+- pkg:composer/carthage-software/mago@1.0.2
+- pkg:composer/carthage-software/mago@1.0.3

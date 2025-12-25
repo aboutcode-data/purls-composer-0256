@@ -3,3 +3,7 @@
 - pkg:composer/celysium/elasticsearch@1.2
 - pkg:composer/celysium/elasticsearch@1.3
 - pkg:composer/celysium/elasticsearch@1.4
+- pkg:composer/celysium/elasticsearch@1.5
+- pkg:composer/celysium/elasticsearch@1.6
+- pkg:composer/celysium/elasticsearch@1.6.1
+- pkg:composer/celysium/elasticsearch@1.6.2
