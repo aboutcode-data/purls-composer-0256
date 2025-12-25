@@ -25,7 +25,9 @@
 - pkg:composer/adyen/adyen-magento2-expresscheckout@2.5.1
 - pkg:composer/adyen/adyen-magento2-expresscheckout@2.5.2
 - pkg:composer/adyen/adyen-magento2-expresscheckout@2.5.3
+- pkg:composer/adyen/adyen-magento2-expresscheckout@2.5.4
 - pkg:composer/adyen/adyen-magento2-expresscheckout@3.0.0
 - pkg:composer/adyen/adyen-magento2-expresscheckout@3.0.0-rc1
 - pkg:composer/adyen/adyen-magento2-expresscheckout@3.0.1
 - pkg:composer/adyen/adyen-magento2-expresscheckout@3.0.2
+- pkg:composer/adyen/adyen-magento2-expresscheckout@3.0.3

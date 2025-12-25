@@ -31,3 +31,4 @@
 - pkg:composer/adminui/inertia-routes@v3.5.7
 - pkg:composer/adminui/inertia-routes@v3.6.0
 - pkg:composer/adminui/inertia-routes@v3.7.0
+- pkg:composer/adminui/inertia-routes@v3.7.1
