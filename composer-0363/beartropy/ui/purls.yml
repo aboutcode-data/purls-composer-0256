@@ -1,3 +1,4 @@
+- pkg:composer/beartropy/ui@0.10.1
 - pkg:composer/beartropy/ui@0.7.0
 - pkg:composer/beartropy/ui@0.7.10
 - pkg:composer/beartropy/ui@0.7.11
@@ -87,6 +88,7 @@
 - pkg:composer/beartropy/ui@0.9.41
 - pkg:composer/beartropy/ui@0.9.42
 - pkg:composer/beartropy/ui@0.9.43
+- pkg:composer/beartropy/ui@0.9.44
 - pkg:composer/beartropy/ui@0.9.6
 - pkg:composer/beartropy/ui@0.9.7
 - pkg:composer/beartropy/ui@0.9.8

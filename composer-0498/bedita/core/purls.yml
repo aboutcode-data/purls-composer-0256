@@ -160,3 +160,4 @@
 - pkg:composer/bedita/core@v5.9.1
 - pkg:composer/bedita/core@v6.0.0
 - pkg:composer/bedita/core@v6.0.1
+- pkg:composer/bedita/core@v6.0.2

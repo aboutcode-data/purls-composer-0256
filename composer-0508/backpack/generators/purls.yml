@@ -80,3 +80,4 @@
 - pkg:composer/backpack/generators@v4.0.6
 - pkg:composer/backpack/generators@v4.0.7
 - pkg:composer/backpack/generators@v4.1.0
+- pkg:composer/backpack/generators@v4.1.1
