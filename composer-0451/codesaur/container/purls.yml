@@ -10,3 +10,5 @@
 - pkg:composer/codesaur/container@v2.0.0
 - pkg:composer/codesaur/container@v2.1.0
 - pkg:composer/codesaur/container@v3.0.0
+- pkg:composer/codesaur/container@v3.0.1
+- pkg:composer/codesaur/container@v3.0.2
