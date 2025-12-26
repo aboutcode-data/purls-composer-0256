@@ -8,3 +8,4 @@
 - pkg:composer/eureka/component-database@3.2.0
 - pkg:composer/eureka/component-database@3.3.0
 - pkg:composer/eureka/component-database@3.4.0
+- pkg:composer/eureka/component-database@4.0.0
