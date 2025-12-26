@@ -11,3 +11,4 @@
 - pkg:composer/fusio/adapter-fcgi@v6.0.4
 - pkg:composer/fusio/adapter-fcgi@v6.0.5
 - pkg:composer/fusio/adapter-fcgi@v6.1.0
+- pkg:composer/fusio/adapter-fcgi@v6.2.0
