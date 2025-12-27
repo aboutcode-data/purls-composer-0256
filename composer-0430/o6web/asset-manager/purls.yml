@@ -34,3 +34,4 @@
 - pkg:composer/o6web/asset-manager@3.3.0
 - pkg:composer/o6web/asset-manager@3.4.0
 - pkg:composer/o6web/asset-manager@4.0.0
+- pkg:composer/o6web/asset-manager@4.1.0
