@@ -14,3 +14,4 @@
 - pkg:composer/solophp/validator@v2.5.1
 - pkg:composer/solophp/validator@v2.5.2
 - pkg:composer/solophp/validator@v2.6.0
+- pkg:composer/solophp/validator@v2.7.0
