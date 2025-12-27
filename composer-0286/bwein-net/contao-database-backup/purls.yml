@@ -16,3 +16,4 @@
 - pkg:composer/bwein-net/contao-database-backup@2.1
 - pkg:composer/bwein-net/contao-database-backup@2.2
 - pkg:composer/bwein-net/contao-database-backup@2.3
+- pkg:composer/bwein-net/contao-database-backup@2.3.1
