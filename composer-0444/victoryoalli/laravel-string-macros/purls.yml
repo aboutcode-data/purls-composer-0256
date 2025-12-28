@@ -11,3 +11,5 @@
 - pkg:composer/victoryoalli/laravel-string-macros@0.4.0
 - pkg:composer/victoryoalli/laravel-string-macros@1.0.0
 - pkg:composer/victoryoalli/laravel-string-macros@1.0.1
+- pkg:composer/victoryoalli/laravel-string-macros@v2.0.0
+- pkg:composer/victoryoalli/laravel-string-macros@v2.1.0
