@@ -1,2 +1,3 @@
 - pkg:composer/wpmvc/dependent-manager@1.0.0
 - pkg:composer/wpmvc/dependent-manager@1.0.1
+- pkg:composer/wpmvc/dependent-manager@1.3.0
