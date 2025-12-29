@@ -3,3 +3,5 @@
 - pkg:composer/devdot/cli-builder@v1.1
 - pkg:composer/devdot/cli-builder@v1.2
 - pkg:composer/devdot/cli-builder@v1.3
+- pkg:composer/devdot/cli-builder@v1.4
+- pkg:composer/devdot/cli-builder@v1.4.1
