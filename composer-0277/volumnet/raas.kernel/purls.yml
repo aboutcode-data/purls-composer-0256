@@ -160,6 +160,7 @@
 - pkg:composer/volumnet/raas.kernel@4.5.24
 - pkg:composer/volumnet/raas.kernel@4.5.25
 - pkg:composer/volumnet/raas.kernel@4.5.26
+- pkg:composer/volumnet/raas.kernel@4.5.27
 - pkg:composer/volumnet/raas.kernel@4.5.3
 - pkg:composer/volumnet/raas.kernel@4.5.4
 - pkg:composer/volumnet/raas.kernel@4.5.5
