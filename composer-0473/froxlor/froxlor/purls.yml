@@ -100,3 +100,5 @@
 - pkg:composer/froxlor/froxlor@2.2.8
 - pkg:composer/froxlor/froxlor@2.3.0
 - pkg:composer/froxlor/froxlor@2.3.0-rc1
+- pkg:composer/froxlor/froxlor@2.3.1
+- pkg:composer/froxlor/froxlor@2.3.2
