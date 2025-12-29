@@ -1,3 +1,5 @@
 - pkg:composer/springimport/magento2-module-constantcontact@0.1.1
 - pkg:composer/springimport/magento2-module-constantcontact@0.1.2.1
 - pkg:composer/springimport/magento2-module-constantcontact@0.1.2.2
+- pkg:composer/springimport/magento2-module-constantcontact@v1.0.0
+- pkg:composer/springimport/magento2-module-constantcontact@v1.1.0
