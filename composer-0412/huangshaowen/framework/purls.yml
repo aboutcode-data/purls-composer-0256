@@ -18,8 +18,11 @@
 - pkg:composer/huangshaowen/framework@2.0.8
 - pkg:composer/huangshaowen/framework@2.0.9
 - pkg:composer/huangshaowen/framework@3.0.1
+- pkg:composer/huangshaowen/framework@3.0.10
+- pkg:composer/huangshaowen/framework@3.0.11
 - pkg:composer/huangshaowen/framework@3.0.3
 - pkg:composer/huangshaowen/framework@3.0.4
 - pkg:composer/huangshaowen/framework@3.0.6
 - pkg:composer/huangshaowen/framework@3.0.7
 - pkg:composer/huangshaowen/framework@3.0.8
+- pkg:composer/huangshaowen/framework@3.0.9
