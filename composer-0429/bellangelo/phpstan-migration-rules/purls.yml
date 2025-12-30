@@ -3,3 +3,5 @@
 - pkg:composer/bellangelo/phpstan-migration-rules@v0.2.1
 - pkg:composer/bellangelo/phpstan-migration-rules@v0.2.2
 - pkg:composer/bellangelo/phpstan-migration-rules@v0.3.0
+- pkg:composer/bellangelo/phpstan-migration-rules@v0.3.1
+- pkg:composer/bellangelo/phpstan-migration-rules@v0.3.2
