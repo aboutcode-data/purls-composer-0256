@@ -120,3 +120,5 @@
 - pkg:composer/nsp-code/wp-hide@2.7.4
 - pkg:composer/nsp-code/wp-hide@2.7.6
 - pkg:composer/nsp-code/wp-hide@2.7.7
+- pkg:composer/nsp-code/wp-hide@2.7.9
+- pkg:composer/nsp-code/wp-hide@2.8
