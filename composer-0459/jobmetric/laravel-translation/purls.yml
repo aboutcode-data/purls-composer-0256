@@ -36,3 +36,7 @@
 - pkg:composer/jobmetric/laravel-translation@3.1.0
 - pkg:composer/jobmetric/laravel-translation@3.2.0
 - pkg:composer/jobmetric/laravel-translation@3.3.0
+- pkg:composer/jobmetric/laravel-translation@3.3.1
+- pkg:composer/jobmetric/laravel-translation@3.3.2
+- pkg:composer/jobmetric/laravel-translation@3.4.0
+- pkg:composer/jobmetric/laravel-translation@3.5.0
