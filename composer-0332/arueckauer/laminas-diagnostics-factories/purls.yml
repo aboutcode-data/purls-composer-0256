@@ -12,3 +12,4 @@
 - pkg:composer/arueckauer/laminas-diagnostics-factories@2.7.0
 - pkg:composer/arueckauer/laminas-diagnostics-factories@2.8.0
 - pkg:composer/arueckauer/laminas-diagnostics-factories@2.9.0
+- pkg:composer/arueckauer/laminas-diagnostics-factories@3.0.0
