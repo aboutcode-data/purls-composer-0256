@@ -31,3 +31,4 @@
 - pkg:composer/lion/request@v7.7.0
 - pkg:composer/lion/request@v7.8.0
 - pkg:composer/lion/request@v7.9.0
+- pkg:composer/lion/request@v8.0.0
