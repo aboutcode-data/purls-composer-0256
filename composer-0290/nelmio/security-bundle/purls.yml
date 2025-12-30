@@ -49,3 +49,4 @@
 - pkg:composer/nelmio/security-bundle@v3.5.0
 - pkg:composer/nelmio/security-bundle@v3.5.1
 - pkg:composer/nelmio/security-bundle@v3.6.0
+- pkg:composer/nelmio/security-bundle@v3.7.0
