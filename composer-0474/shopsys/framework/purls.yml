@@ -15,6 +15,7 @@
 - pkg:composer/shopsys/framework@v16.0.0
 - pkg:composer/shopsys/framework@v17.0.0
 - pkg:composer/shopsys/framework@v17.0.1
+- pkg:composer/shopsys/framework@v18.0.0
 - pkg:composer/shopsys/framework@v7.0.0
 - pkg:composer/shopsys/framework@v7.0.0-alpha1
 - pkg:composer/shopsys/framework@v7.0.0-alpha2

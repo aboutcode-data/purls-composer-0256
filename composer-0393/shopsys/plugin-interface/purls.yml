@@ -18,6 +18,7 @@
 - pkg:composer/shopsys/plugin-interface@v16.0.0
 - pkg:composer/shopsys/plugin-interface@v17.0.0
 - pkg:composer/shopsys/plugin-interface@v17.0.1
+- pkg:composer/shopsys/plugin-interface@v18.0.0
 - pkg:composer/shopsys/plugin-interface@v7.0.0
 - pkg:composer/shopsys/plugin-interface@v7.0.0-alpha1
 - pkg:composer/shopsys/plugin-interface@v7.0.0-alpha2
