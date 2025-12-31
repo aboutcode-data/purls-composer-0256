@@ -1,1 +1,4 @@
 - pkg:composer/qnox/qnox_flutterwave@v1.0.0
+- pkg:composer/qnox/qnox_flutterwave@v1.0.0-beta
+- pkg:composer/qnox/qnox_flutterwave@v1.0.1
+- pkg:composer/qnox/qnox_flutterwave@v1.0.2
