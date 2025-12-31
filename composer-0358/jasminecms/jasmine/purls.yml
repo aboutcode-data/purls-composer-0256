@@ -157,6 +157,8 @@
 - pkg:composer/jasminecms/jasmine@2.16.12
 - pkg:composer/jasminecms/jasmine@2.16.13
 - pkg:composer/jasminecms/jasmine@2.16.14
+- pkg:composer/jasminecms/jasmine@2.16.15
+- pkg:composer/jasminecms/jasmine@2.16.16
 - pkg:composer/jasminecms/jasmine@2.16.2
 - pkg:composer/jasminecms/jasmine@2.16.6
 - pkg:composer/jasminecms/jasmine@2.16.7
