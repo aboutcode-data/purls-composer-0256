@@ -11,3 +11,4 @@
 - pkg:composer/bottelet/translation-checker@1.2.3
 - pkg:composer/bottelet/translation-checker@1.2.4
 - pkg:composer/bottelet/translation-checker@1.2.5
+- pkg:composer/bottelet/translation-checker@2.0.0
