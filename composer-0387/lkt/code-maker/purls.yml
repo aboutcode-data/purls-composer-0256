@@ -46,3 +46,6 @@
 - pkg:composer/lkt/code-maker@2.1.9
 - pkg:composer/lkt/code-maker@2.2.0
 - pkg:composer/lkt/code-maker@3.0.0
+- pkg:composer/lkt/code-maker@3.0.1
+- pkg:composer/lkt/code-maker@3.0.2
+- pkg:composer/lkt/code-maker@3.0.3
