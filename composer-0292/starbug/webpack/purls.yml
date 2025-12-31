@@ -2,3 +2,4 @@
 - pkg:composer/starbug/webpack@v0.1.1
 - pkg:composer/starbug/webpack@v0.1.2
 - pkg:composer/starbug/webpack@v0.2.0
+- pkg:composer/starbug/webpack@v1.0.0
