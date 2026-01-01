@@ -54,6 +54,7 @@
 - pkg:composer/monolog/monolog@2.1.0
 - pkg:composer/monolog/monolog@2.1.1
 - pkg:composer/monolog/monolog@2.10.0
+- pkg:composer/monolog/monolog@2.11.0
 - pkg:composer/monolog/monolog@2.2.0
 - pkg:composer/monolog/monolog@2.3.0
 - pkg:composer/monolog/monolog@2.3.1
