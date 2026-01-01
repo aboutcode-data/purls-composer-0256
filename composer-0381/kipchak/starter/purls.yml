@@ -1,1 +1,3 @@
 - pkg:composer/kipchak/starter@2.0
+- pkg:composer/kipchak/starter@2.1
+- pkg:composer/kipchak/starter@2.2

@@ -1,1 +1,2 @@
 - pkg:composer/kipchak/middleware-auth-jwks@1.0
+- pkg:composer/kipchak/middleware-auth-jwks@1.1
