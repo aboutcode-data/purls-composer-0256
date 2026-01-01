@@ -262,6 +262,7 @@
 - pkg:composer/ecotone/laravel@1.286.0
 - pkg:composer/ecotone/laravel@1.286.1
 - pkg:composer/ecotone/laravel@1.287.0
+- pkg:composer/ecotone/laravel@1.288.0
 - pkg:composer/ecotone/laravel@1.29.0
 - pkg:composer/ecotone/laravel@1.3.0
 - pkg:composer/ecotone/laravel@1.30.0
