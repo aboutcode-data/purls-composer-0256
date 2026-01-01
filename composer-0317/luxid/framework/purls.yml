@@ -17,3 +17,6 @@
 - pkg:composer/luxid/framework@v0.2.6
 - pkg:composer/luxid/framework@v0.2.7
 - pkg:composer/luxid/framework@v0.2.8
+- pkg:composer/luxid/framework@v0.2.9
+- pkg:composer/luxid/framework@v0.3.0
+- pkg:composer/luxid/framework@v0.3.1
