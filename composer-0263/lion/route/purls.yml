@@ -37,6 +37,7 @@
 - pkg:composer/lion/route@v12.8.0
 - pkg:composer/lion/route@v12.9.0
 - pkg:composer/lion/route@v13.0.0
+- pkg:composer/lion/route@v13.1.0
 - pkg:composer/lion/route@v2.0
 - pkg:composer/lion/route@v2.1
 - pkg:composer/lion/route@v2.2
