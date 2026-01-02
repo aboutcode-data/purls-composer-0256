@@ -13,6 +13,7 @@
 - pkg:composer/eftec/mapache-commons@1.23
 - pkg:composer/eftec/mapache-commons@1.24
 - pkg:composer/eftec/mapache-commons@1.25
+- pkg:composer/eftec/mapache-commons@1.26
 - pkg:composer/eftec/mapache-commons@1.3
 - pkg:composer/eftec/mapache-commons@1.5
 - pkg:composer/eftec/mapache-commons@1.6
