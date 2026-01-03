@@ -87,3 +87,4 @@
 - pkg:composer/laradumps/laradumps@v4.6.0
 - pkg:composer/laradumps/laradumps@v4.6.1
 - pkg:composer/laradumps/laradumps@v4.6.2
+- pkg:composer/laradumps/laradumps@v5.0.0
