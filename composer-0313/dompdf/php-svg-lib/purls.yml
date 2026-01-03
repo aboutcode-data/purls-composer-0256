@@ -8,6 +8,7 @@
 - pkg:composer/dompdf/php-svg-lib@0.5.4
 - pkg:composer/dompdf/php-svg-lib@1.0.0
 - pkg:composer/dompdf/php-svg-lib@1.0.1
+- pkg:composer/dompdf/php-svg-lib@1.0.2
 - pkg:composer/dompdf/php-svg-lib@v0.1
 - pkg:composer/dompdf/php-svg-lib@v0.2
 - pkg:composer/dompdf/php-svg-lib@v0.3.0
