@@ -64,3 +64,5 @@
 - pkg:composer/oranfry/jars-core@4.7.3
 - pkg:composer/oranfry/jars-core@4.8.0
 - pkg:composer/oranfry/jars-core@4.9.0
+- pkg:composer/oranfry/jars-core@5.0.0
+- pkg:composer/oranfry/jars-core@5.0.1
