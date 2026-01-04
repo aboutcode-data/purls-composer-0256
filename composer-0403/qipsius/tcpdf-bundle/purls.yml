@@ -13,3 +13,4 @@
 - pkg:composer/qipsius/tcpdf-bundle@3.0.1
 - pkg:composer/qipsius/tcpdf-bundle@3.0.3
 - pkg:composer/qipsius/tcpdf-bundle@3.0.5
+- pkg:composer/qipsius/tcpdf-bundle@4.0.0
