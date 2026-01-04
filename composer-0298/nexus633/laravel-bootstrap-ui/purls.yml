@@ -9,4 +9,5 @@
 - pkg:composer/nexus633/laravel-bootstrap-ui@0.9.0-Beta
 - pkg:composer/nexus633/laravel-bootstrap-ui@0.9.5-Beta
 - pkg:composer/nexus633/laravel-bootstrap-ui@1.0.0-Beta
+- pkg:composer/nexus633/laravel-bootstrap-ui@1.1.0
 - pkg:composer/nexus633/laravel-bootstrap-ui@v0.1.0-alpha
