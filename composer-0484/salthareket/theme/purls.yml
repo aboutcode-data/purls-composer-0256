@@ -256,3 +256,5 @@
 - pkg:composer/salthareket/theme@3.6.8
 - pkg:composer/salthareket/theme@3.6.9
 - pkg:composer/salthareket/theme@3.7.0
+- pkg:composer/salthareket/theme@3.7.1
+- pkg:composer/salthareket/theme@3.7.2
