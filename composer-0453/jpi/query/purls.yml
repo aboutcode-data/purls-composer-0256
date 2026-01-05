@@ -21,3 +21,6 @@
 - pkg:composer/jpi/query@v2.3.4
 - pkg:composer/jpi/query@v2.3.5
 - pkg:composer/jpi/query@v2.3.6
+- pkg:composer/jpi/query@v2.3.7
+- pkg:composer/jpi/query@v2.4.0
+- pkg:composer/jpi/query@v2.4.1
