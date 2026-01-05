@@ -25,6 +25,7 @@
 - pkg:composer/mako/framework@11.4.2
 - pkg:composer/mako/framework@11.4.3
 - pkg:composer/mako/framework@11.4.4
+- pkg:composer/mako/framework@12.0.0
 - pkg:composer/mako/framework@3.5.0
 - pkg:composer/mako/framework@3.5.0-BETA2
 - pkg:composer/mako/framework@3.5.1
