@@ -4,6 +4,7 @@
 - pkg:composer/pear/net_smtp@1.11.1
 - pkg:composer/pear/net_smtp@1.12.0
 - pkg:composer/pear/net_smtp@1.12.1
+- pkg:composer/pear/net_smtp@1.12.2
 - pkg:composer/pear/net_smtp@1.6.3
 - pkg:composer/pear/net_smtp@1.7.0
 - pkg:composer/pear/net_smtp@1.7.1
