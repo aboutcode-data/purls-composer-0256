@@ -33,6 +33,7 @@
 - pkg:composer/symfony/ux-translator@v2.29.2
 - pkg:composer/symfony/ux-translator@v2.30.0
 - pkg:composer/symfony/ux-translator@v2.31.0
+- pkg:composer/symfony/ux-translator@v2.32.0
 - pkg:composer/symfony/ux-translator@v2.8.0
 - pkg:composer/symfony/ux-translator@v2.8.1
 - pkg:composer/symfony/ux-translator@v2.9.0
