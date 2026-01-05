@@ -24,3 +24,4 @@
 - pkg:composer/thinkshout/mailchimp-api-php@v3.1.0
 - pkg:composer/thinkshout/mailchimp-api-php@v3.1.1
 - pkg:composer/thinkshout/mailchimp-api-php@v3.1.2
+- pkg:composer/thinkshout/mailchimp-api-php@v3.1.3
