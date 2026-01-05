@@ -15,3 +15,4 @@
 - pkg:composer/xp-forge/sessions@v3.1.0
 - pkg:composer/xp-forge/sessions@v3.2.0
 - pkg:composer/xp-forge/sessions@v3.2.1
+- pkg:composer/xp-forge/sessions@v4.0.0

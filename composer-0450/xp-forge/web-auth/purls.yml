@@ -37,3 +37,6 @@
 - pkg:composer/xp-forge/web-auth@v6.1.0
 - pkg:composer/xp-forge/web-auth@v6.1.1
 - pkg:composer/xp-forge/web-auth@v6.1.2
+- pkg:composer/xp-forge/web-auth@v6.2.0
+- pkg:composer/xp-forge/web-auth@v7.0.0
+- pkg:composer/xp-forge/web-auth@v7.1.0
