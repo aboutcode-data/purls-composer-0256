@@ -265,6 +265,7 @@
 - pkg:composer/sonata-project/admin-bundle@4.4.0
 - pkg:composer/sonata-project/admin-bundle@4.40.0
 - pkg:composer/sonata-project/admin-bundle@4.41.0
+- pkg:composer/sonata-project/admin-bundle@4.42.0
 - pkg:composer/sonata-project/admin-bundle@4.5.0
 - pkg:composer/sonata-project/admin-bundle@4.5.1
 - pkg:composer/sonata-project/admin-bundle@4.6.0
