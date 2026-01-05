@@ -38,3 +38,4 @@
 - pkg:composer/redaxo/source@5.19.0
 - pkg:composer/redaxo/source@5.20.0
 - pkg:composer/redaxo/source@5.20.1
+- pkg:composer/redaxo/source@5.20.2
