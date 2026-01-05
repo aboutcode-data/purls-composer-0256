@@ -4,3 +4,4 @@
 - pkg:composer/tabby/m2-checkout@6.0.3
 - pkg:composer/tabby/m2-checkout@6.1.1
 - pkg:composer/tabby/m2-checkout@6.2.1
+- pkg:composer/tabby/m2-checkout@6.4.1

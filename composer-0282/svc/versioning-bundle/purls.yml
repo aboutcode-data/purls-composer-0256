@@ -13,6 +13,8 @@
 - pkg:composer/svc/versioning-bundle@7.0.0
 - pkg:composer/svc/versioning-bundle@7.1.0
 - pkg:composer/svc/versioning-bundle@8.0.0
+- pkg:composer/svc/versioning-bundle@8.1.0
+- pkg:composer/svc/versioning-bundle@8.2.0
 - pkg:composer/svc/versioning-bundle@v0.0.1
 - pkg:composer/svc/versioning-bundle@v0.1.0
 - pkg:composer/svc/versioning-bundle@v0.1.1

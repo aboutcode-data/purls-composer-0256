@@ -203,4 +203,6 @@
 - pkg:composer/svix/svix@v1.81.0
 - pkg:composer/svix/svix@v1.82.0
 - pkg:composer/svix/svix@v1.83.0
+- pkg:composer/svix/svix@v1.84.0
+- pkg:composer/svix/svix@v1.84.1
 - pkg:composer/svix/svix@v1.9.0
