@@ -49,3 +49,4 @@
 - pkg:composer/wp-pay-gateways/adyen@v4.7.0
 - pkg:composer/wp-pay-gateways/adyen@v4.8.0
 - pkg:composer/wp-pay-gateways/adyen@v4.8.0-rc.1
+- pkg:composer/wp-pay-gateways/adyen@v4.9.0

@@ -5,6 +5,7 @@
 - pkg:composer/webfiori/rest-easy@3.6.0
 - pkg:composer/webfiori/rest-easy@3.6.1
 - pkg:composer/webfiori/rest-easy@4.0.0
+- pkg:composer/webfiori/rest-easy@5.0.0
 - pkg:composer/webfiori/rest-easy@v1.4.5
 - pkg:composer/webfiori/rest-easy@v1.4.6
 - pkg:composer/webfiori/rest-easy@v1.4.7

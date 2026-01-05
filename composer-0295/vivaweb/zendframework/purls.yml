@@ -50,6 +50,7 @@
 - pkg:composer/vivaweb/zendframework@2.3.12.3
 - pkg:composer/vivaweb/zendframework@2.3.13
 - pkg:composer/vivaweb/zendframework@2.3.14
+- pkg:composer/vivaweb/zendframework@2.3.15
 - pkg:composer/vivaweb/zendframework@2.3.2
 - pkg:composer/vivaweb/zendframework@2.3.3
 - pkg:composer/vivaweb/zendframework@2.3.4

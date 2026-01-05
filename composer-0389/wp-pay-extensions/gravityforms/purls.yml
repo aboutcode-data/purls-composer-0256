@@ -73,6 +73,7 @@
 - pkg:composer/wp-pay-extensions/gravityforms@v4.10.0
 - pkg:composer/wp-pay-extensions/gravityforms@v4.10.1
 - pkg:composer/wp-pay-extensions/gravityforms@v4.10.2
+- pkg:composer/wp-pay-extensions/gravityforms@v4.11.0
 - pkg:composer/wp-pay-extensions/gravityforms@v4.4.0
 - pkg:composer/wp-pay-extensions/gravityforms@v4.4.1
 - pkg:composer/wp-pay-extensions/gravityforms@v4.4.2

@@ -1,1 +1,3 @@
 - pkg:composer/victoryoalli/laravel-multitenancy-impersonate@0.0.1
+- pkg:composer/victoryoalli/laravel-multitenancy-impersonate@v2.0.0
+- pkg:composer/victoryoalli/laravel-multitenancy-impersonate@v2.1.0

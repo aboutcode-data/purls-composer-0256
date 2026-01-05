@@ -5,6 +5,7 @@
 - pkg:composer/webfiori/http@3.6.0
 - pkg:composer/webfiori/http@3.6.1
 - pkg:composer/webfiori/http@4.0.0
+- pkg:composer/webfiori/http@5.0.0
 - pkg:composer/webfiori/http@v1.4.5
 - pkg:composer/webfiori/http@v1.4.6
 - pkg:composer/webfiori/http@v1.4.7
