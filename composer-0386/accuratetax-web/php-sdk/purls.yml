@@ -25,6 +25,8 @@
 - pkg:composer/accuratetax-web/php-sdk@1.6.19
 - pkg:composer/accuratetax-web/php-sdk@1.6.2
 - pkg:composer/accuratetax-web/php-sdk@1.6.20
+- pkg:composer/accuratetax-web/php-sdk@1.6.21
+- pkg:composer/accuratetax-web/php-sdk@1.6.22
 - pkg:composer/accuratetax-web/php-sdk@1.6.3
 - pkg:composer/accuratetax-web/php-sdk@1.6.4
 - pkg:composer/accuratetax-web/php-sdk@1.6.5
