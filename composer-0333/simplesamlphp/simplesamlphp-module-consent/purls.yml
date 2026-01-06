@@ -21,3 +21,4 @@
 - pkg:composer/simplesamlphp/simplesamlphp-module-consent@v1.4.0
 - pkg:composer/simplesamlphp/simplesamlphp-module-consent@v1.4.1
 - pkg:composer/simplesamlphp/simplesamlphp-module-consent@v1.4.2
+- pkg:composer/simplesamlphp/simplesamlphp-module-consent@v1.5.0
