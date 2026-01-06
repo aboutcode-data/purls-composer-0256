@@ -8,6 +8,7 @@
 - pkg:composer/contributte/middlewares@v0.11.1
 - pkg:composer/contributte/middlewares@v0.12.0
 - pkg:composer/contributte/middlewares@v0.12.1
+- pkg:composer/contributte/middlewares@v0.13.0
 - pkg:composer/contributte/middlewares@v0.2
 - pkg:composer/contributte/middlewares@v0.2.1
 - pkg:composer/contributte/middlewares@v0.3

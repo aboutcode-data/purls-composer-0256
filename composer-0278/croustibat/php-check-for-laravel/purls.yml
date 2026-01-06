@@ -2,3 +2,5 @@
 - pkg:composer/croustibat/php-check-for-laravel@1.0.1
 - pkg:composer/croustibat/php-check-for-laravel@1.0.2
 - pkg:composer/croustibat/php-check-for-laravel@1.1.0
+- pkg:composer/croustibat/php-check-for-laravel@1.2.0
+- pkg:composer/croustibat/php-check-for-laravel@v2.0.0
