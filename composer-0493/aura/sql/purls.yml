@@ -30,3 +30,4 @@
 - pkg:composer/aura/sql@5.0.3
 - pkg:composer/aura/sql@6.0.0
 - pkg:composer/aura/sql@6.0.0-beta1
+- pkg:composer/aura/sql@6.0.1

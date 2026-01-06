@@ -1,1 +1,2 @@
 - pkg:composer/async-aws/bedrock-agent@0.1.0
+- pkg:composer/async-aws/bedrock-agent@1.0.0
