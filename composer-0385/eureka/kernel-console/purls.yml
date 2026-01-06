@@ -14,3 +14,4 @@
 - pkg:composer/eureka/kernel-console@5.2.0
 - pkg:composer/eureka/kernel-console@6.0.0
 - pkg:composer/eureka/kernel-console@6.1.0
+- pkg:composer/eureka/kernel-console@7.0.0
