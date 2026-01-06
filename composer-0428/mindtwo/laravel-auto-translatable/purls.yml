@@ -1,1 +1,2 @@
 - pkg:composer/mindtwo/laravel-auto-translatable@0.1.0
+- pkg:composer/mindtwo/laravel-auto-translatable@0.1.1
