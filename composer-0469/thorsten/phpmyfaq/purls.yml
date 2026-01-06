@@ -154,6 +154,7 @@
 - pkg:composer/thorsten/phpmyfaq@4.0.8
 - pkg:composer/thorsten/phpmyfaq@4.0.9
 - pkg:composer/thorsten/phpmyfaq@4.1.0-RC
+- pkg:composer/thorsten/phpmyfaq@4.1.0-RC.2
 - pkg:composer/thorsten/phpmyfaq@4.1.0-alpha
 - pkg:composer/thorsten/phpmyfaq@4.1.0-alpha.2
 - pkg:composer/thorsten/phpmyfaq@4.1.0-alpha.3
