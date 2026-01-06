@@ -5,6 +5,7 @@
 - pkg:composer/brandshopru/online-receipt-api-client@2.4.1
 - pkg:composer/brandshopru/online-receipt-api-client@2.5.3
 - pkg:composer/brandshopru/online-receipt-api-client@3.0.1
+- pkg:composer/brandshopru/online-receipt-api-client@3.0.10
 - pkg:composer/brandshopru/online-receipt-api-client@3.0.4
 - pkg:composer/brandshopru/online-receipt-api-client@3.0.5
 - pkg:composer/brandshopru/online-receipt-api-client@3.0.7

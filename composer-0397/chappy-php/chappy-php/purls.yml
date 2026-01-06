@@ -62,3 +62,5 @@
 - pkg:composer/chappy-php/chappy-php@v1.4.1
 - pkg:composer/chappy-php/chappy-php@v1.4.2
 - pkg:composer/chappy-php/chappy-php@v1.4.3
+- pkg:composer/chappy-php/chappy-php@v1.4.4
+- pkg:composer/chappy-php/chappy-php@v1.4.6
