@@ -13,3 +13,5 @@
 - pkg:composer/amtgard/active-record-orm@v1.4.0
 - pkg:composer/amtgard/active-record-orm@v1.5.0
 - pkg:composer/amtgard/active-record-orm@v1.5.1
+- pkg:composer/amtgard/active-record-orm@v1.5.2
+- pkg:composer/amtgard/active-record-orm@v1.5.3
