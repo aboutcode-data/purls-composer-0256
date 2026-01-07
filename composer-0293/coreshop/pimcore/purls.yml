@@ -121,4 +121,6 @@
 - pkg:composer/coreshop/pimcore@4.1.5
 - pkg:composer/coreshop/pimcore@4.1.6
 - pkg:composer/coreshop/pimcore@4.1.7
+- pkg:composer/coreshop/pimcore@4.1.8
+- pkg:composer/coreshop/pimcore@5.0.0
 - pkg:composer/coreshop/pimcore@5.0.0-beta.1
