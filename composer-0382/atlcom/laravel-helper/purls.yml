@@ -135,7 +135,17 @@
 - pkg:composer/atlcom/laravel-helper@v1.04.30
 - pkg:composer/atlcom/laravel-helper@v1.04.31
 - pkg:composer/atlcom/laravel-helper@v1.04.32
+- pkg:composer/atlcom/laravel-helper@v1.04.33
+- pkg:composer/atlcom/laravel-helper@v1.04.34
+- pkg:composer/atlcom/laravel-helper@v1.04.35
+- pkg:composer/atlcom/laravel-helper@v1.04.36
+- pkg:composer/atlcom/laravel-helper@v1.04.37
+- pkg:composer/atlcom/laravel-helper@v1.04.38
+- pkg:composer/atlcom/laravel-helper@v1.04.39
 - pkg:composer/atlcom/laravel-helper@v1.04.4
+- pkg:composer/atlcom/laravel-helper@v1.04.40
+- pkg:composer/atlcom/laravel-helper@v1.04.41
+- pkg:composer/atlcom/laravel-helper@v1.04.42
 - pkg:composer/atlcom/laravel-helper@v1.04.5
 - pkg:composer/atlcom/laravel-helper@v1.04.6
 - pkg:composer/atlcom/laravel-helper@v1.04.7
