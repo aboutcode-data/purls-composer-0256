@@ -146,6 +146,10 @@
 - pkg:composer/atlcom/laravel-helper@v1.04.40
 - pkg:composer/atlcom/laravel-helper@v1.04.41
 - pkg:composer/atlcom/laravel-helper@v1.04.42
+- pkg:composer/atlcom/laravel-helper@v1.04.43
+- pkg:composer/atlcom/laravel-helper@v1.04.44
+- pkg:composer/atlcom/laravel-helper@v1.04.45
+- pkg:composer/atlcom/laravel-helper@v1.04.46
 - pkg:composer/atlcom/laravel-helper@v1.04.5
 - pkg:composer/atlcom/laravel-helper@v1.04.6
 - pkg:composer/atlcom/laravel-helper@v1.04.7
