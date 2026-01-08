@@ -36,6 +36,7 @@
 - pkg:composer/ryunosuke/php-web-debugger@v1.3.1
 - pkg:composer/ryunosuke/php-web-debugger@v1.3.2
 - pkg:composer/ryunosuke/php-web-debugger@v1.3.3
+- pkg:composer/ryunosuke/php-web-debugger@v1.3.4
 - pkg:composer/ryunosuke/php-web-debugger@v2.0.0
 - pkg:composer/ryunosuke/php-web-debugger@v2.0.1
 - pkg:composer/ryunosuke/php-web-debugger@v2.0.2
