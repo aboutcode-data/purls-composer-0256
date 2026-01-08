@@ -33,3 +33,4 @@
 - pkg:composer/storepress/admin-utils@1.9.1
 - pkg:composer/storepress/admin-utils@1.9.2
 - pkg:composer/storepress/admin-utils@1.9.3
+- pkg:composer/storepress/admin-utils@2.0.0
