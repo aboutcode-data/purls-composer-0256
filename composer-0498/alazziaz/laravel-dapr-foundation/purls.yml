@@ -30,3 +30,5 @@
 - pkg:composer/alazziaz/laravel-dapr-foundation@v2.0.6
 - pkg:composer/alazziaz/laravel-dapr-foundation@v2.0.7
 - pkg:composer/alazziaz/laravel-dapr-foundation@v2.0.9
+- pkg:composer/alazziaz/laravel-dapr-foundation@v2.1.0
+- pkg:composer/alazziaz/laravel-dapr-foundation@v2.1.1
