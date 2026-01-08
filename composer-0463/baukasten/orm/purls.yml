@@ -2,3 +2,4 @@
 - pkg:composer/baukasten/orm@0.0.1
 - pkg:composer/baukasten/orm@0.0.2
 - pkg:composer/baukasten/orm@0.0.3
+- pkg:composer/baukasten/orm@0.1.0
