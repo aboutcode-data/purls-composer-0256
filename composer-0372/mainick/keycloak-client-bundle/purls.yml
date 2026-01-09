@@ -21,3 +21,4 @@
 - pkg:composer/mainick/keycloak-client-bundle@3.0.1
 - pkg:composer/mainick/keycloak-client-bundle@3.0.2
 - pkg:composer/mainick/keycloak-client-bundle@3.1.0
+- pkg:composer/mainick/keycloak-client-bundle@3.2.0

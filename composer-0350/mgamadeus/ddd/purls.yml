@@ -240,7 +240,11 @@
 - pkg:composer/mgamadeus/ddd@2.8.34
 - pkg:composer/mgamadeus/ddd@2.8.35
 - pkg:composer/mgamadeus/ddd@2.8.36
+- pkg:composer/mgamadeus/ddd@2.8.37
+- pkg:composer/mgamadeus/ddd@2.8.38
+- pkg:composer/mgamadeus/ddd@2.8.39
 - pkg:composer/mgamadeus/ddd@2.8.4
+- pkg:composer/mgamadeus/ddd@2.8.40
 - pkg:composer/mgamadeus/ddd@2.8.5
 - pkg:composer/mgamadeus/ddd@2.8.6
 - pkg:composer/mgamadeus/ddd@2.8.7

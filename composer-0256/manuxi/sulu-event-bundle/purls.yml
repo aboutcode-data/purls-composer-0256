@@ -70,3 +70,6 @@
 - pkg:composer/manuxi/sulu-event-bundle@v3.0.3
 - pkg:composer/manuxi/sulu-event-bundle@v3.0.4
 - pkg:composer/manuxi/sulu-event-bundle@v3.0.6
+- pkg:composer/manuxi/sulu-event-bundle@v3.0.7
+- pkg:composer/manuxi/sulu-event-bundle@v3.0.8
+- pkg:composer/manuxi/sulu-event-bundle@v3.0.9

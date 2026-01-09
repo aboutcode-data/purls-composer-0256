@@ -14,3 +14,4 @@
 - pkg:composer/massive/build-bundle@0.5.7
 - pkg:composer/massive/build-bundle@0.5.8
 - pkg:composer/massive/build-bundle@0.5.9
+- pkg:composer/massive/build-bundle@0.6.0
