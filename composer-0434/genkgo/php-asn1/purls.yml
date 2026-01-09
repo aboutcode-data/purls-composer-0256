@@ -27,3 +27,4 @@
 - pkg:composer/genkgo/php-asn1@v2.6.1
 - pkg:composer/genkgo/php-asn1@v2.7.0
 - pkg:composer/genkgo/php-asn1@v2.8.0
+- pkg:composer/genkgo/php-asn1@v2.9.0
