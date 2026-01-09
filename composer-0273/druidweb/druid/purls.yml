@@ -22,3 +22,6 @@
 - pkg:composer/druidweb/druid@v1.2.8
 - pkg:composer/druidweb/druid@v1.2.9
 - pkg:composer/druidweb/druid@v1.3.0
+- pkg:composer/druidweb/druid@v1.4.0
+- pkg:composer/druidweb/druid@v1.4.1
+- pkg:composer/druidweb/druid@v1.4.2
