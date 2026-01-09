@@ -40,3 +40,5 @@
 - pkg:composer/betamfd/file-handler-bundle@v4.1.1
 - pkg:composer/betamfd/file-handler-bundle@v5.0.0
 - pkg:composer/betamfd/file-handler-bundle@v5.0.1
+- pkg:composer/betamfd/file-handler-bundle@v5.0.2
+- pkg:composer/betamfd/file-handler-bundle@v5.0.3
