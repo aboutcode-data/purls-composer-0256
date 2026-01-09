@@ -381,3 +381,11 @@
 - pkg:composer/keboola/storage-api-client@v18.5.0
 - pkg:composer/keboola/storage-api-client@v18.5.1
 - pkg:composer/keboola/storage-api-client@v18.5.2
+- pkg:composer/keboola/storage-api-client@v18.5.3
+- pkg:composer/keboola/storage-api-client@v18.5.4
+- pkg:composer/keboola/storage-api-client@v18.6.0
+- pkg:composer/keboola/storage-api-client@v18.6.0-alpha.1
+- pkg:composer/keboola/storage-api-client@v18.6.0-alpha.2
+- pkg:composer/keboola/storage-api-client@v18.6.0-alpha.3
+- pkg:composer/keboola/storage-api-client@v18.6.0-alpha.4
+- pkg:composer/keboola/storage-api-client@v18.6.0-alpha.5

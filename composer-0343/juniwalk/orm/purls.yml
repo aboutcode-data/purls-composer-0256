@@ -105,3 +105,5 @@
 - pkg:composer/juniwalk/orm@v3.0.5
 - pkg:composer/juniwalk/orm@v3.0.6
 - pkg:composer/juniwalk/orm@v3.0.7
+- pkg:composer/juniwalk/orm@v3.1.0
+- pkg:composer/juniwalk/orm@v3.1.1

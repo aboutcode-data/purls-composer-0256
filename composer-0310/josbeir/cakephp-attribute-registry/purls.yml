@@ -5,3 +5,6 @@
 - pkg:composer/josbeir/cakephp-attribute-registry@0.2.0
 - pkg:composer/josbeir/cakephp-attribute-registry@0.2.1
 - pkg:composer/josbeir/cakephp-attribute-registry@0.3.0
+- pkg:composer/josbeir/cakephp-attribute-registry@0.4.0
+- pkg:composer/josbeir/cakephp-attribute-registry@0.4.1
+- pkg:composer/josbeir/cakephp-attribute-registry@0.5.0
