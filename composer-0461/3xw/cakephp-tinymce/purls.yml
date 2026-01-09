@@ -18,3 +18,5 @@
 - pkg:composer/3xw/cakephp-tinymce@4.2.0
 - pkg:composer/3xw/cakephp-tinymce@4.2.1
 - pkg:composer/3xw/cakephp-tinymce@4.2.2
+- pkg:composer/3xw/cakephp-tinymce@5.0
+- pkg:composer/3xw/cakephp-tinymce@5.0.1

@@ -23,3 +23,5 @@
 - pkg:composer/3xw/cakephp-attachment@4.3.8
 - pkg:composer/3xw/cakephp-attachment@4.3.9
 - pkg:composer/3xw/cakephp-attachment@4.4.0
+- pkg:composer/3xw/cakephp-attachment@5.0
+- pkg:composer/3xw/cakephp-attachment@5.0.1
