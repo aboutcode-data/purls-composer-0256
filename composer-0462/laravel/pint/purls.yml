@@ -67,6 +67,7 @@
 - pkg:composer/laravel/pint@v1.25.0
 - pkg:composer/laravel/pint@v1.25.1
 - pkg:composer/laravel/pint@v1.26.0
+- pkg:composer/laravel/pint@v1.27.0
 - pkg:composer/laravel/pint@v1.3.0
 - pkg:composer/laravel/pint@v1.4.0
 - pkg:composer/laravel/pint@v1.4.1

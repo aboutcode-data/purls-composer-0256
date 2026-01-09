@@ -265,6 +265,7 @@
 - pkg:composer/machinepack/core@v2.23.16
 - pkg:composer/machinepack/core@v2.23.17
 - pkg:composer/machinepack/core@v2.23.18
+- pkg:composer/machinepack/core@v2.23.19
 - pkg:composer/machinepack/core@v2.23.2
 - pkg:composer/machinepack/core@v2.23.3
 - pkg:composer/machinepack/core@v2.23.3.1
