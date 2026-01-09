@@ -14,3 +14,4 @@
 - pkg:composer/yiisoft/error-handler@4.2.0
 - pkg:composer/yiisoft/error-handler@4.3.0
 - pkg:composer/yiisoft/error-handler@4.3.1
+- pkg:composer/yiisoft/error-handler@4.3.2
