@@ -1027,6 +1027,7 @@
 - pkg:composer/filament/tables@v3.3.43
 - pkg:composer/filament/tables@v3.3.45
 - pkg:composer/filament/tables@v3.3.46
+- pkg:composer/filament/tables@v3.3.47
 - pkg:composer/filament/tables@v3.3.5
 - pkg:composer/filament/tables@v3.3.6
 - pkg:composer/filament/tables@v3.3.7
@@ -1107,6 +1108,7 @@
 - pkg:composer/filament/tables@v4.4.0
 - pkg:composer/filament/tables@v4.5.0
 - pkg:composer/filament/tables@v4.5.1
+- pkg:composer/filament/tables@v4.5.2
 - pkg:composer/filament/tables@v5.0.0-beta1
 - pkg:composer/filament/tables@v5.0.0-beta2
 - pkg:composer/filament/tables@v5.0.0-beta3
@@ -1115,3 +1117,4 @@
 - pkg:composer/filament/tables@v5.0.0-beta6
 - pkg:composer/filament/tables@v5.0.0-beta7
 - pkg:composer/filament/tables@v5.0.0-beta8
+- pkg:composer/filament/tables@v5.0.0-beta9
