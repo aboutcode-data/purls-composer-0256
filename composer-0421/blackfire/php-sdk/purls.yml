@@ -104,6 +104,7 @@
 - pkg:composer/blackfire/php-sdk@v2.5.1
 - pkg:composer/blackfire/php-sdk@v2.5.10
 - pkg:composer/blackfire/php-sdk@v2.5.11
+- pkg:composer/blackfire/php-sdk@v2.5.12
 - pkg:composer/blackfire/php-sdk@v2.5.2
 - pkg:composer/blackfire/php-sdk@v2.5.3
 - pkg:composer/blackfire/php-sdk@v2.5.4

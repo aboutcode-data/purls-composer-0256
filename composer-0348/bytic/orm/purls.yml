@@ -141,5 +141,7 @@
 - pkg:composer/bytic/orm@1.0.93
 - pkg:composer/bytic/orm@1.0.94
 - pkg:composer/bytic/orm@1.0.95
+- pkg:composer/bytic/orm@1.0.96
 - pkg:composer/bytic/orm@2.0.0
 - pkg:composer/bytic/orm@2.0.1
+- pkg:composer/bytic/orm@2.0.2
