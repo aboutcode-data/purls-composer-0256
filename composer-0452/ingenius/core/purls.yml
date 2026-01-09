@@ -20,3 +20,7 @@
 - pkg:composer/ingenius/core@1.4.0
 - pkg:composer/ingenius/core@1.5.0
 - pkg:composer/ingenius/core@1.5.1
+- pkg:composer/ingenius/core@1.6.0
+- pkg:composer/ingenius/core@1.6.1
+- pkg:composer/ingenius/core@1.6.2
+- pkg:composer/ingenius/core@1.6.3
