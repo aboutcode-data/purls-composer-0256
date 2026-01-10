@@ -171,3 +171,4 @@
 - pkg:composer/ecotone/open-telemetry@1.290.2
 - pkg:composer/ecotone/open-telemetry@1.291.0
 - pkg:composer/ecotone/open-telemetry@1.291.1
+- pkg:composer/ecotone/open-telemetry@1.292.0
