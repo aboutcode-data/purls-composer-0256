@@ -4,6 +4,7 @@
 - pkg:composer/waxedphp/waxedphp@0.3.10
 - pkg:composer/waxedphp/waxedphp@0.3.11
 - pkg:composer/waxedphp/waxedphp@0.3.12
+- pkg:composer/waxedphp/waxedphp@0.3.13
 - pkg:composer/waxedphp/waxedphp@0.3.2
 - pkg:composer/waxedphp/waxedphp@0.3.3
 - pkg:composer/waxedphp/waxedphp@0.3.5
