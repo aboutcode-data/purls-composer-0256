@@ -16,3 +16,5 @@
 - pkg:composer/gupalo/twigext@1.7.0
 - pkg:composer/gupalo/twigext@1.7.1
 - pkg:composer/gupalo/twigext@1.7.2
+- pkg:composer/gupalo/twigext@1.8.0
+- pkg:composer/gupalo/twigext@1.9.0
