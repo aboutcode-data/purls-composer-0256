@@ -31,3 +31,4 @@
 - pkg:composer/mariosimao/notion-sdk-php@v1.8.0
 - pkg:composer/mariosimao/notion-sdk-php@v1.8.1
 - pkg:composer/mariosimao/notion-sdk-php@v1.9.0
+- pkg:composer/mariosimao/notion-sdk-php@v2.0.0-alpha.1

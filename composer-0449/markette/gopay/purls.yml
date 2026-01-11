@@ -1,5 +1,5 @@
-- pkg:composer/markette/gopay@1.0.0
-- pkg:composer/markette/gopay@1.1.0
+- pkg:composer/markette/gopay@v1.0.0
+- pkg:composer/markette/gopay@v1.1.0
 - pkg:composer/markette/gopay@v1.9.0
 - pkg:composer/markette/gopay@v2.0.0
 - pkg:composer/markette/gopay@v2.1.0

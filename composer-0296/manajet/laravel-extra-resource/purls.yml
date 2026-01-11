@@ -6,3 +6,4 @@
 - pkg:composer/manajet/laravel-extra-resource@v0.3.3
 - pkg:composer/manajet/laravel-extra-resource@v0.3.4
 - pkg:composer/manajet/laravel-extra-resource@v2.0.0
+- pkg:composer/manajet/laravel-extra-resource@v3.0.0
