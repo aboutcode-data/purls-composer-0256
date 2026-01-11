@@ -32,6 +32,7 @@
 - pkg:composer/game-worker/kiri-databases@v2.23
 - pkg:composer/game-worker/kiri-databases@v2.24
 - pkg:composer/game-worker/kiri-databases@v2.25
+- pkg:composer/game-worker/kiri-databases@v2.26
 - pkg:composer/game-worker/kiri-databases@v2.3
 - pkg:composer/game-worker/kiri-databases@v2.4
 - pkg:composer/game-worker/kiri-databases@v2.5
