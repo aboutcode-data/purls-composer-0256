@@ -5,6 +5,7 @@
 - pkg:composer/datagutten/tools@v1.11
 - pkg:composer/datagutten/tools@v1.11.1
 - pkg:composer/datagutten/tools@v1.12
+- pkg:composer/datagutten/tools@v1.13
 - pkg:composer/datagutten/tools@v1.2
 - pkg:composer/datagutten/tools@v1.3
 - pkg:composer/datagutten/tools@v1.3.1
