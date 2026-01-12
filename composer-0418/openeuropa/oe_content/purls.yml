@@ -63,6 +63,7 @@
 - pkg:composer/openeuropa/oe_content@4.1.0
 - pkg:composer/openeuropa/oe_content@4.10.0
 - pkg:composer/openeuropa/oe_content@4.11.0
+- pkg:composer/openeuropa/oe_content@4.12.0
 - pkg:composer/openeuropa/oe_content@4.2.0
 - pkg:composer/openeuropa/oe_content@4.3.0
 - pkg:composer/openeuropa/oe_content@4.4.0

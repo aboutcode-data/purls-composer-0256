@@ -6,3 +6,6 @@
 - pkg:composer/netresearch/agent-github-project@v1.3.2
 - pkg:composer/netresearch/agent-github-project@v1.4.0
 - pkg:composer/netresearch/agent-github-project@v1.4.1
+- pkg:composer/netresearch/agent-github-project@v2.0.0
+- pkg:composer/netresearch/agent-github-project@v2.0.1
+- pkg:composer/netresearch/agent-github-project@v2.0.2

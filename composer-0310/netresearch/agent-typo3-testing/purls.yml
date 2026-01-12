@@ -1,7 +1,9 @@
 - pkg:composer/netresearch/agent-typo3-testing@v1.0.0
 - pkg:composer/netresearch/agent-typo3-testing@v1.0.1
-- pkg:composer/netresearch/agent-typo3-testing@v2.2.1
 - pkg:composer/netresearch/agent-typo3-testing@v2.3.0
 - pkg:composer/netresearch/agent-typo3-testing@v2.3.1
 - pkg:composer/netresearch/agent-typo3-testing@v2.3.2
 - pkg:composer/netresearch/agent-typo3-testing@v2.4.0
+- pkg:composer/netresearch/agent-typo3-testing@v2.5.0
+- pkg:composer/netresearch/agent-typo3-testing@v2.5.1
+- pkg:composer/netresearch/agent-typo3-testing@v3.0.0

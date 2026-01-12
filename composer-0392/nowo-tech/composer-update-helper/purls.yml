@@ -18,7 +18,11 @@
 - pkg:composer/nowo-tech/composer-update-helper@v2.0.12
 - pkg:composer/nowo-tech/composer-update-helper@v2.0.13
 - pkg:composer/nowo-tech/composer-update-helper@v2.0.16
+- pkg:composer/nowo-tech/composer-update-helper@v2.0.17
+- pkg:composer/nowo-tech/composer-update-helper@v2.0.18
+- pkg:composer/nowo-tech/composer-update-helper@v2.0.19
 - pkg:composer/nowo-tech/composer-update-helper@v2.0.2
+- pkg:composer/nowo-tech/composer-update-helper@v2.0.20
 - pkg:composer/nowo-tech/composer-update-helper@v2.0.3
 - pkg:composer/nowo-tech/composer-update-helper@v2.0.4
 - pkg:composer/nowo-tech/composer-update-helper@v2.0.5
