@@ -7,3 +7,4 @@
 - pkg:composer/kemboielvis/mpesa-sdk-php@v2.1.2
 - pkg:composer/kemboielvis/mpesa-sdk-php@v2.1.3
 - pkg:composer/kemboielvis/mpesa-sdk-php@v2.2.0
+- pkg:composer/kemboielvis/mpesa-sdk-php@v2.2.1
