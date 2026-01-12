@@ -44,3 +44,5 @@
 - pkg:composer/devgiants/docker-wordpress@1.9.3
 - pkg:composer/devgiants/docker-wordpress@1.9.5
 - pkg:composer/devgiants/docker-wordpress@1.9.6
+- pkg:composer/devgiants/docker-wordpress@2.0.0
+- pkg:composer/devgiants/docker-wordpress@2.0.1
