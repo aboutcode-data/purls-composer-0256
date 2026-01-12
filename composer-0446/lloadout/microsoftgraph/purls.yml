@@ -16,6 +16,7 @@
 - pkg:composer/lloadout/microsoftgraph@v1.18
 - pkg:composer/lloadout/microsoftgraph@v1.19
 - pkg:composer/lloadout/microsoftgraph@v1.2
+- pkg:composer/lloadout/microsoftgraph@v1.20
 - pkg:composer/lloadout/microsoftgraph@v1.3
 - pkg:composer/lloadout/microsoftgraph@v1.4
 - pkg:composer/lloadout/microsoftgraph@v1.5

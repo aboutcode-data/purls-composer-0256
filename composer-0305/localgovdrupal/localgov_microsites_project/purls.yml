@@ -17,3 +17,5 @@
 - pkg:composer/localgovdrupal/localgov_microsites_project@4.0.1
 - pkg:composer/localgovdrupal/localgov_microsites_project@4.0.2
 - pkg:composer/localgovdrupal/localgov_microsites_project@4.0.3
+- pkg:composer/localgovdrupal/localgov_microsites_project@4.1.0
+- pkg:composer/localgovdrupal/localgov_microsites_project@4.1.1
