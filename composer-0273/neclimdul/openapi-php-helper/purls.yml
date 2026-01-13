@@ -9,6 +9,7 @@
 - pkg:composer/neclimdul/openapi-php-helper@1.2.0-alpha4
 - pkg:composer/neclimdul/openapi-php-helper@1.2.0-alpha5
 - pkg:composer/neclimdul/openapi-php-helper@1.2.0-alpha6
+- pkg:composer/neclimdul/openapi-php-helper@2.0.0
 - pkg:composer/neclimdul/openapi-php-helper@2.0.0-alpha1
 - pkg:composer/neclimdul/openapi-php-helper@2.0.0-alpha2
 - pkg:composer/neclimdul/openapi-php-helper@2.0.0-alpha3
