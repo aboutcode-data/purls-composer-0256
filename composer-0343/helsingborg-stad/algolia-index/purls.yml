@@ -65,3 +65,4 @@
 - pkg:composer/helsingborg-stad/algolia-index@3.5.2
 - pkg:composer/helsingborg-stad/algolia-index@3.5.4
 - pkg:composer/helsingborg-stad/algolia-index@3.5.6
+- pkg:composer/helsingborg-stad/algolia-index@3.5.8
