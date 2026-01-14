@@ -33,3 +33,4 @@
 - pkg:composer/posthog/posthog-php@3.7.1
 - pkg:composer/posthog/posthog-php@3.7.2
 - pkg:composer/posthog/posthog-php@3.7.3
+- pkg:composer/posthog/posthog-php@4.0.0
