@@ -159,7 +159,11 @@
 - pkg:composer/jasminecms/jasmine@2.16.14
 - pkg:composer/jasminecms/jasmine@2.16.15
 - pkg:composer/jasminecms/jasmine@2.16.16
+- pkg:composer/jasminecms/jasmine@2.16.17
+- pkg:composer/jasminecms/jasmine@2.16.18
+- pkg:composer/jasminecms/jasmine@2.16.19
 - pkg:composer/jasminecms/jasmine@2.16.2
+- pkg:composer/jasminecms/jasmine@2.16.20
 - pkg:composer/jasminecms/jasmine@2.16.6
 - pkg:composer/jasminecms/jasmine@2.16.7
 - pkg:composer/jasminecms/jasmine@2.16.8
