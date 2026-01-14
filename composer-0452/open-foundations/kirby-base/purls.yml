@@ -443,6 +443,8 @@
 - pkg:composer/open-foundations/kirby-base@1.5.13
 - pkg:composer/open-foundations/kirby-base@1.5.14
 - pkg:composer/open-foundations/kirby-base@1.5.15
+- pkg:composer/open-foundations/kirby-base@1.5.16
+- pkg:composer/open-foundations/kirby-base@1.5.17
 - pkg:composer/open-foundations/kirby-base@1.5.2
 - pkg:composer/open-foundations/kirby-base@1.5.3
 - pkg:composer/open-foundations/kirby-base@1.5.4
