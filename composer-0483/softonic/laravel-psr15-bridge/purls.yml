@@ -8,3 +8,4 @@
 - pkg:composer/softonic/laravel-psr15-bridge@4.0.0
 - pkg:composer/softonic/laravel-psr15-bridge@4.1.0
 - pkg:composer/softonic/laravel-psr15-bridge@4.1.1
+- pkg:composer/softonic/laravel-psr15-bridge@5.0.0
