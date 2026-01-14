@@ -1,3 +1,4 @@
+- pkg:composer/unleash/client@2.9.2
 - pkg:composer/unleash/client@v1.0.073
 - pkg:composer/unleash/client@v1.0.074
 - pkg:composer/unleash/client@v1.0.080
@@ -277,3 +278,11 @@
 - pkg:composer/unleash/client@v2.9.182
 - pkg:composer/unleash/client@v2.9.183
 - pkg:composer/unleash/client@v2.9.184
+- pkg:composer/unleash/client@v2.9.272
+- pkg:composer/unleash/client@v2.9.273
+- pkg:composer/unleash/client@v2.9.274
+- pkg:composer/unleash/client@v2.9.280
+- pkg:composer/unleash/client@v2.9.281
+- pkg:composer/unleash/client@v2.9.282
+- pkg:composer/unleash/client@v2.9.283
+- pkg:composer/unleash/client@v2.9.284

@@ -1,4 +1,6 @@
 - pkg:composer/tuupola/server-timing-middleware@0.10.0
+- pkg:composer/tuupola/server-timing-middleware@0.11.0
+- pkg:composer/tuupola/server-timing-middleware@0.12.0
 - pkg:composer/tuupola/server-timing-middleware@0.2.0
 - pkg:composer/tuupola/server-timing-middleware@0.3.0
 - pkg:composer/tuupola/server-timing-middleware@0.4.0
