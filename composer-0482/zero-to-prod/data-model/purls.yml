@@ -12,6 +12,7 @@
 - pkg:composer/zero-to-prod/data-model@v81.12.0
 - pkg:composer/zero-to-prod/data-model@v81.13.0
 - pkg:composer/zero-to-prod/data-model@v81.13.1
+- pkg:composer/zero-to-prod/data-model@v81.13.2
 - pkg:composer/zero-to-prod/data-model@v81.2.0
 - pkg:composer/zero-to-prod/data-model@v81.2.1
 - pkg:composer/zero-to-prod/data-model@v81.2.2
