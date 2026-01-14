@@ -98,6 +98,9 @@
 - pkg:composer/pop-api/api@15.2.0
 - pkg:composer/pop-api/api@15.2.1
 - pkg:composer/pop-api/api@15.3.0
+- pkg:composer/pop-api/api@16.0.0
+- pkg:composer/pop-api/api@16.0.1
+- pkg:composer/pop-api/api@16.1.0
 - pkg:composer/pop-api/api@2.0.0
 - pkg:composer/pop-api/api@2.0.1
 - pkg:composer/pop-api/api@2.1.0

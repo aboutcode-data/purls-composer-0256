@@ -75,3 +75,4 @@
 - pkg:composer/phpmailer/phpmailer@v6.9.3
 - pkg:composer/phpmailer/phpmailer@v7.0.0
 - pkg:composer/phpmailer/phpmailer@v7.0.1
+- pkg:composer/phpmailer/phpmailer@v7.0.2

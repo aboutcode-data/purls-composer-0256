@@ -1,1 +1,4 @@
 - pkg:composer/php-debugbar/twig-bridge@v1.0.0
+- pkg:composer/php-debugbar/twig-bridge@v1.1.0
+- pkg:composer/php-debugbar/twig-bridge@v2.0-beta.1
+- pkg:composer/php-debugbar/twig-bridge@v2.0.0

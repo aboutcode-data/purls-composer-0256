@@ -5,6 +5,7 @@
 - pkg:composer/polkurier/polkurier-sdk@1.0.5
 - pkg:composer/polkurier/polkurier-sdk@1.1
 - pkg:composer/polkurier/polkurier-sdk@1.1.1
+- pkg:composer/polkurier/polkurier-sdk@1.10.0
 - pkg:composer/polkurier/polkurier-sdk@1.2.0
 - pkg:composer/polkurier/polkurier-sdk@1.2.1
 - pkg:composer/polkurier/polkurier-sdk@1.2.2

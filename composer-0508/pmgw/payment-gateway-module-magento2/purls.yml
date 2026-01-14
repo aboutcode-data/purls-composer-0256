@@ -17,3 +17,5 @@
 - pkg:composer/pmgw/payment-gateway-module-magento2@4.1.0
 - pkg:composer/pmgw/payment-gateway-module-magento2@5.0.0
 - pkg:composer/pmgw/payment-gateway-module-magento2@5.0.1
+- pkg:composer/pmgw/payment-gateway-module-magento2@5.2.0
+- pkg:composer/pmgw/payment-gateway-module-magento2@5.3.0
