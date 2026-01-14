@@ -9,4 +9,8 @@
 - pkg:composer/kleinweb/lib@0.5.0
 - pkg:composer/kleinweb/lib@0.6.0
 - pkg:composer/kleinweb/lib@0.6.1
+- pkg:composer/kleinweb/lib@0.7.0
 - pkg:composer/kleinweb/lib@0.7.0-rc.1
+- pkg:composer/kleinweb/lib@0.7.1
+- pkg:composer/kleinweb/lib@1.0.0
+- pkg:composer/kleinweb/lib@1.1.0

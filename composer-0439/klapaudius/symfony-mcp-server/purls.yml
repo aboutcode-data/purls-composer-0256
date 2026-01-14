@@ -16,3 +16,4 @@
 - pkg:composer/klapaudius/symfony-mcp-server@1.6.0
 - pkg:composer/klapaudius/symfony-mcp-server@1.7.0
 - pkg:composer/klapaudius/symfony-mcp-server@1.8.0
+- pkg:composer/klapaudius/symfony-mcp-server@1.8.1
