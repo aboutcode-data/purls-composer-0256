@@ -8,6 +8,7 @@
 - pkg:composer/wyrihaximus/test-utilities@1.5.0
 - pkg:composer/wyrihaximus/test-utilities@1.6.0
 - pkg:composer/wyrihaximus/test-utilities@1.6.1
+- pkg:composer/wyrihaximus/test-utilities@10.0.0
 - pkg:composer/wyrihaximus/test-utilities@2.0.0
 - pkg:composer/wyrihaximus/test-utilities@2.0.0-alpha1
 - pkg:composer/wyrihaximus/test-utilities@2.0.0-alpha2
@@ -140,3 +141,4 @@
 - pkg:composer/wyrihaximus/test-utilities@8.6.0
 - pkg:composer/wyrihaximus/test-utilities@8.7.0
 - pkg:composer/wyrihaximus/test-utilities@8.8.0
+- pkg:composer/wyrihaximus/test-utilities@9.0.0
