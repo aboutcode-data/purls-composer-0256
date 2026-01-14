@@ -298,6 +298,11 @@
 - pkg:composer/appwrite/sdk-generator@1.8.0
 - pkg:composer/appwrite/sdk-generator@1.8.1
 - pkg:composer/appwrite/sdk-generator@1.8.10
+- pkg:composer/appwrite/sdk-generator@1.8.11
+- pkg:composer/appwrite/sdk-generator@1.8.12
+- pkg:composer/appwrite/sdk-generator@1.8.13
+- pkg:composer/appwrite/sdk-generator@1.8.14
+- pkg:composer/appwrite/sdk-generator@1.8.15
 - pkg:composer/appwrite/sdk-generator@1.8.2
 - pkg:composer/appwrite/sdk-generator@1.8.3
 - pkg:composer/appwrite/sdk-generator@1.8.4

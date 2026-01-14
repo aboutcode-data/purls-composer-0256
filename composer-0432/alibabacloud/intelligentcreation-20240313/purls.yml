@@ -20,6 +20,7 @@
 - pkg:composer/alibabacloud/intelligentcreation-20240313@2.14.2
 - pkg:composer/alibabacloud/intelligentcreation-20240313@2.15.0
 - pkg:composer/alibabacloud/intelligentcreation-20240313@2.16.0
+- pkg:composer/alibabacloud/intelligentcreation-20240313@2.16.1
 - pkg:composer/alibabacloud/intelligentcreation-20240313@2.2.0
 - pkg:composer/alibabacloud/intelligentcreation-20240313@2.3.0
 - pkg:composer/alibabacloud/intelligentcreation-20240313@2.4.0
