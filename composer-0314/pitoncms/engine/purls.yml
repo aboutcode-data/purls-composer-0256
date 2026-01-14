@@ -33,3 +33,5 @@
 - pkg:composer/pitoncms/engine@0.9.0
 - pkg:composer/pitoncms/engine@0.9.1
 - pkg:composer/pitoncms/engine@1.0.0
+- pkg:composer/pitoncms/engine@1.0.1
+- pkg:composer/pitoncms/engine@1.0.2
