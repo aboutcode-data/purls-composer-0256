@@ -1,3 +1,4 @@
 - pkg:composer/rodas/psr-scaffold@v1.0
 - pkg:composer/rodas/psr-scaffold@v1.1
 - pkg:composer/rodas/psr-scaffold@v2.0.0
+- pkg:composer/rodas/psr-scaffold@v2.0.1

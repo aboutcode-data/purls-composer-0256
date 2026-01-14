@@ -80,3 +80,4 @@
 - pkg:composer/secretwebmaster/wncms-core@v6.0.9
 - pkg:composer/secretwebmaster/wncms-core@v6.1.0
 - pkg:composer/secretwebmaster/wncms-core@v6.1.2
+- pkg:composer/secretwebmaster/wncms-core@v6.1.3

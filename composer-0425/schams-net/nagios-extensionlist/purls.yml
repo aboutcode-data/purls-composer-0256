@@ -5,3 +5,4 @@
 - pkg:composer/schams-net/nagios-extensionlist@v2.4.0
 - pkg:composer/schams-net/nagios-extensionlist@v2.5.0
 - pkg:composer/schams-net/nagios-extensionlist@v3.0.1
+- pkg:composer/schams-net/nagios-extensionlist@v3.0.2
