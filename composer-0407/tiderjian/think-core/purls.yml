@@ -210,6 +210,7 @@
 - pkg:composer/tiderjian/think-core@v11.5.1
 - pkg:composer/tiderjian/think-core@v11.5.2
 - pkg:composer/tiderjian/think-core@v11.5.3
+- pkg:composer/tiderjian/think-core@v11.50.0
 - pkg:composer/tiderjian/think-core@v11.6.0
 - pkg:composer/tiderjian/think-core@v11.6.1
 - pkg:composer/tiderjian/think-core@v11.6.2
@@ -327,6 +328,7 @@
 - pkg:composer/tiderjian/think-core@v12.38.2
 - pkg:composer/tiderjian/think-core@v12.39.0
 - pkg:composer/tiderjian/think-core@v12.4.0
+- pkg:composer/tiderjian/think-core@v12.40.0
 - pkg:composer/tiderjian/think-core@v12.5.0
 - pkg:composer/tiderjian/think-core@v12.5.1
 - pkg:composer/tiderjian/think-core@v12.6.0
@@ -400,6 +402,7 @@
 - pkg:composer/tiderjian/think-core@v14.2.0
 - pkg:composer/tiderjian/think-core@v14.3.0
 - pkg:composer/tiderjian/think-core@v14.4.0
+- pkg:composer/tiderjian/think-core@v14.5.0
 - pkg:composer/tiderjian/think-core@v2.0.0
 - pkg:composer/tiderjian/think-core@v2.0.1
 - pkg:composer/tiderjian/think-core@v2.0.10

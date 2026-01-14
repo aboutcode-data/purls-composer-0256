@@ -30,6 +30,7 @@
 - pkg:composer/sweetrdf/easyrdf@1.18.0
 - pkg:composer/sweetrdf/easyrdf@1.18.1
 - pkg:composer/sweetrdf/easyrdf@1.18.2
+- pkg:composer/sweetrdf/easyrdf@1.19.0
 - pkg:composer/sweetrdf/easyrdf@1.2
 - pkg:composer/sweetrdf/easyrdf@1.3
 - pkg:composer/sweetrdf/easyrdf@1.4

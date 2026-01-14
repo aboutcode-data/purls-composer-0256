@@ -39,7 +39,11 @@
 - pkg:composer/sylius/invoicing-plugin@v0.9.0
 - pkg:composer/sylius/invoicing-plugin@v1.0.0
 - pkg:composer/sylius/invoicing-plugin@v1.0.0-RC.1
+- pkg:composer/sylius/invoicing-plugin@v1.0.1
+- pkg:composer/sylius/invoicing-plugin@v1.1.0
 - pkg:composer/sylius/invoicing-plugin@v2.0.0
 - pkg:composer/sylius/invoicing-plugin@v2.0.0-RC.1
 - pkg:composer/sylius/invoicing-plugin@v2.0.1
 - pkg:composer/sylius/invoicing-plugin@v2.0.2
+- pkg:composer/sylius/invoicing-plugin@v2.0.3
+- pkg:composer/sylius/invoicing-plugin@v2.1.0

@@ -1,3 +1,10 @@
+- pkg:composer/survos/lingua-core@2.0.100
+- pkg:composer/survos/lingua-core@2.0.101
+- pkg:composer/survos/lingua-core@2.0.102
+- pkg:composer/survos/lingua-core@2.0.103
+- pkg:composer/survos/lingua-core@2.0.104
+- pkg:composer/survos/lingua-core@2.0.105
+- pkg:composer/survos/lingua-core@2.0.106
 - pkg:composer/survos/lingua-core@2.0.84
 - pkg:composer/survos/lingua-core@2.0.85
 - pkg:composer/survos/lingua-core@2.0.86
@@ -11,3 +18,6 @@
 - pkg:composer/survos/lingua-core@2.0.94
 - pkg:composer/survos/lingua-core@2.0.95
 - pkg:composer/survos/lingua-core@2.0.96
+- pkg:composer/survos/lingua-core@2.0.97
+- pkg:composer/survos/lingua-core@2.0.98
+- pkg:composer/survos/lingua-core@2.0.99

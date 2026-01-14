@@ -88,3 +88,4 @@
 - pkg:composer/symfony/asset-mapper@v8.0.0-BETA1
 - pkg:composer/symfony/asset-mapper@v8.0.0-RC1
 - pkg:composer/symfony/asset-mapper@v8.0.0-RC3
+- pkg:composer/symfony/asset-mapper@v8.0.3
