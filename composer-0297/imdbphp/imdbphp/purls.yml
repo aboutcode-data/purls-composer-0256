@@ -71,3 +71,4 @@
 - pkg:composer/imdbphp/imdbphp@v8.2.0
 - pkg:composer/imdbphp/imdbphp@v8.3.0
 - pkg:composer/imdbphp/imdbphp@v8.3.1
+- pkg:composer/imdbphp/imdbphp@v8.3.2
