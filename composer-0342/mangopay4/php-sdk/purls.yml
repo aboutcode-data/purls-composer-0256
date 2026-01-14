@@ -98,6 +98,7 @@
 - pkg:composer/mangopay4/php-sdk@3.47.0
 - pkg:composer/mangopay4/php-sdk@3.47.1
 - pkg:composer/mangopay4/php-sdk@3.47.2
+- pkg:composer/mangopay4/php-sdk@3.48.0
 - pkg:composer/mangopay4/php-sdk@3.5.0
 - pkg:composer/mangopay4/php-sdk@3.6.0
 - pkg:composer/mangopay4/php-sdk@3.7.0
