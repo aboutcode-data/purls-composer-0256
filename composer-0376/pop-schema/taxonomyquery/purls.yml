@@ -101,6 +101,7 @@
 - pkg:composer/pop-schema/taxonomyquery@15.3.0
 - pkg:composer/pop-schema/taxonomyquery@16.0.0
 - pkg:composer/pop-schema/taxonomyquery@16.0.1
+- pkg:composer/pop-schema/taxonomyquery@16.0.2
 - pkg:composer/pop-schema/taxonomyquery@2.0.1
 - pkg:composer/pop-schema/taxonomyquery@2.1.0
 - pkg:composer/pop-schema/taxonomyquery@2.1.1
