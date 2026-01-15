@@ -10,3 +10,4 @@
 - pkg:composer/socket-manager/rest-api@v1.6.0
 - pkg:composer/socket-manager/rest-api@v1.6.1
 - pkg:composer/socket-manager/rest-api@v1.6.2
+- pkg:composer/socket-manager/rest-api@v1.6.3

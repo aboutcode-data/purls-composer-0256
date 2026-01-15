@@ -36,3 +36,4 @@
 - pkg:composer/spryker/dashboard-merchant-portal-gui@2.3.0
 - pkg:composer/spryker/dashboard-merchant-portal-gui@3.0.0
 - pkg:composer/spryker/dashboard-merchant-portal-gui@3.1.0
+- pkg:composer/spryker/dashboard-merchant-portal-gui@4.0.0
