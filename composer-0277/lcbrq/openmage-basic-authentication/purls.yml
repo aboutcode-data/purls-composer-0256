@@ -1,2 +1,3 @@
 - pkg:composer/lcbrq/openmage-basic-authentication@1.0.0
 - pkg:composer/lcbrq/openmage-basic-authentication@1.1.0
+- pkg:composer/lcbrq/openmage-basic-authentication@1.1.1
