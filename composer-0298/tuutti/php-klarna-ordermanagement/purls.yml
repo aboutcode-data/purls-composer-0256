@@ -16,3 +16,4 @@
 - pkg:composer/tuutti/php-klarna-ordermanagement@2.0.0
 - pkg:composer/tuutti/php-klarna-ordermanagement@2.1.0
 - pkg:composer/tuutti/php-klarna-ordermanagement@2.2.0
+- pkg:composer/tuutti/php-klarna-ordermanagement@2.2.1
