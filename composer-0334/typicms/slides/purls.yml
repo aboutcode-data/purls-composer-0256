@@ -24,6 +24,7 @@
 - pkg:composer/typicms/slides@15.0.3
 - pkg:composer/typicms/slides@16.0.0
 - pkg:composer/typicms/slides@16.0.1
+- pkg:composer/typicms/slides@16.1.0
 - pkg:composer/typicms/slides@2.6.0
 - pkg:composer/typicms/slides@2.6.1
 - pkg:composer/typicms/slides@2.7.0
