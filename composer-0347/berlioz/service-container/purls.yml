@@ -14,3 +14,4 @@
 - pkg:composer/berlioz/service-container@v2.1.1
 - pkg:composer/berlioz/service-container@v2.2.0
 - pkg:composer/berlioz/service-container@v2.3.0
+- pkg:composer/berlioz/service-container@v2.3.1
