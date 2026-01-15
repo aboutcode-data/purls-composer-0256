@@ -21,3 +21,4 @@
 - pkg:composer/m6web/daemon-bundle@v6.0.1
 - pkg:composer/m6web/daemon-bundle@v7.0.0
 - pkg:composer/m6web/daemon-bundle@v8.0.0
+- pkg:composer/m6web/daemon-bundle@v9.0.0

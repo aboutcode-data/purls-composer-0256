@@ -46,3 +46,4 @@
 - pkg:composer/mediawiki/cargo@3.8.3
 - pkg:composer/mediawiki/cargo@3.8.4
 - pkg:composer/mediawiki/cargo@3.8.5
+- pkg:composer/mediawiki/cargo@3.8.6
