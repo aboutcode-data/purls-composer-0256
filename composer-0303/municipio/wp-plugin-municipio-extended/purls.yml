@@ -1,6 +1,7 @@
 - pkg:composer/municipio/wp-plugin-municipio-extended@2025.12-RC1
 - pkg:composer/municipio/wp-plugin-municipio-extended@2025.12.0
 - pkg:composer/municipio/wp-plugin-municipio-extended@2025.12.1
+- pkg:composer/municipio/wp-plugin-municipio-extended@2025.12.2
 - pkg:composer/municipio/wp-plugin-municipio-extended@v24.108.0
 - pkg:composer/municipio/wp-plugin-municipio-extended@v24.108.1
 - pkg:composer/municipio/wp-plugin-municipio-extended@v24.108.2
