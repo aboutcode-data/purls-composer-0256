@@ -7,6 +7,7 @@
 - pkg:composer/gowelle/flutterwave-php@1.0.6
 - pkg:composer/gowelle/flutterwave-php@2.0.0
 - pkg:composer/gowelle/flutterwave-php@v2.10.0
+- pkg:composer/gowelle/flutterwave-php@v2.11.0
 - pkg:composer/gowelle/flutterwave-php@v2.2.0
 - pkg:composer/gowelle/flutterwave-php@v2.3.0
 - pkg:composer/gowelle/flutterwave-php@v2.5.0
