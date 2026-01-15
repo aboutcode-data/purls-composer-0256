@@ -416,6 +416,7 @@
 - pkg:composer/tencentcloud/dlc@3.0.1511
 - pkg:composer/tencentcloud/dlc@3.0.1513
 - pkg:composer/tencentcloud/dlc@3.0.1514
+- pkg:composer/tencentcloud/dlc@3.0.1523
 - pkg:composer/tencentcloud/dlc@3.0.352
 - pkg:composer/tencentcloud/dlc@3.0.353
 - pkg:composer/tencentcloud/dlc@3.0.354
