@@ -26,3 +26,4 @@
 - pkg:composer/simps/mqtt@v1.4.5
 - pkg:composer/simps/mqtt@v1.4.6
 - pkg:composer/simps/mqtt@v2.0.0
+- pkg:composer/simps/mqtt@v2.0.1

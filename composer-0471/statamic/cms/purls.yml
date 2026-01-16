@@ -493,3 +493,4 @@
 - pkg:composer/statamic/cms@v6.0.0-alpha.9
 - pkg:composer/statamic/cms@v6.0.0-beta.1
 - pkg:composer/statamic/cms@v6.0.0-beta.2
+- pkg:composer/statamic/cms@v6.0.0-beta.3
