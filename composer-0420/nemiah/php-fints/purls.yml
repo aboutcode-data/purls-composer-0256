@@ -18,3 +18,4 @@
 - pkg:composer/nemiah/php-fints@3.5.0
 - pkg:composer/nemiah/php-fints@3.6.0
 - pkg:composer/nemiah/php-fints@3.7.0
+- pkg:composer/nemiah/php-fints@4.0.0
