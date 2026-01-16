@@ -1,2 +1,4 @@
 - pkg:composer/paneon/php-to-typescript-bundle@1.0.0
 - pkg:composer/paneon/php-to-typescript-bundle@1.1.0
+- pkg:composer/paneon/php-to-typescript-bundle@v2.0.0
+- pkg:composer/paneon/php-to-typescript-bundle@v2.0.1

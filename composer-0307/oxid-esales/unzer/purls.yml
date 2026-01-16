@@ -64,6 +64,7 @@
 - pkg:composer/oxid-esales/unzer@v1.2.4-rc.3
 - pkg:composer/oxid-esales/unzer@v1.2.5
 - pkg:composer/oxid-esales/unzer@v1.2.5-rc.1
+- pkg:composer/oxid-esales/unzer@v1.2.6
 - pkg:composer/oxid-esales/unzer@v1.2.6-rc.1
 - pkg:composer/oxid-esales/unzer@v2.1.4-rc1
 - pkg:composer/oxid-esales/unzer@v2.2.0
@@ -91,4 +92,5 @@
 - pkg:composer/oxid-esales/unzer@v2.2.2-rc.1
 - pkg:composer/oxid-esales/unzer@v2.2.3
 - pkg:composer/oxid-esales/unzer@v2.2.3-rc.1
+- pkg:composer/oxid-esales/unzer@v2.2.4
 - pkg:composer/oxid-esales/unzer@v2.2.4-rc.1
