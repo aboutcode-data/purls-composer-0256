@@ -1,1 +1,2 @@
 - pkg:composer/salines/cakephp-mail-interceptor@v1.0.0
+- pkg:composer/salines/cakephp-mail-interceptor@v1.0.1
