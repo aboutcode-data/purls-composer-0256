@@ -8,6 +8,7 @@
 - pkg:composer/neuron-php/cli@0.8.11
 - pkg:composer/neuron-php/cli@0.8.12
 - pkg:composer/neuron-php/cli@0.8.13
+- pkg:composer/neuron-php/cli@0.8.14
 - pkg:composer/neuron-php/cli@0.8.2
 - pkg:composer/neuron-php/cli@0.8.3
 - pkg:composer/neuron-php/cli@0.8.4
