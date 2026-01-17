@@ -89,6 +89,7 @@
 - pkg:composer/dub/dub-php@v0.14.0
 - pkg:composer/dub/dub-php@v0.15.0
 - pkg:composer/dub/dub-php@v0.15.1
+- pkg:composer/dub/dub-php@v0.15.2
 - pkg:composer/dub/dub-php@v0.4.2
 - pkg:composer/dub/dub-php@v0.4.3
 - pkg:composer/dub/dub-php@v0.4.4

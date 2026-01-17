@@ -12,3 +12,4 @@
 - pkg:composer/dvsa/authentication-cognito@v3.0.0
 - pkg:composer/dvsa/authentication-cognito@v3.1.0
 - pkg:composer/dvsa/authentication-cognito@v3.2.0
+- pkg:composer/dvsa/authentication-cognito@v3.3.0

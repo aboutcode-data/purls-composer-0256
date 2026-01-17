@@ -6,3 +6,4 @@
 - pkg:composer/dvsa/php-govuk-account@2.0.0
 - pkg:composer/dvsa/php-govuk-account@2.0.1
 - pkg:composer/dvsa/php-govuk-account@3.0.0
+- pkg:composer/dvsa/php-govuk-account@3.1.0

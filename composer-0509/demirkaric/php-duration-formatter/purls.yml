@@ -1,3 +1,4 @@
 - pkg:composer/demirkaric/php-duration-formatter@v1.0.0
 - pkg:composer/demirkaric/php-duration-formatter@v1.0.1
 - pkg:composer/demirkaric/php-duration-formatter@v1.0.2
+- pkg:composer/demirkaric/php-duration-formatter@v1.0.3

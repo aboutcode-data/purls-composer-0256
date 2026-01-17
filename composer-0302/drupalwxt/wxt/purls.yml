@@ -121,6 +121,7 @@
 - pkg:composer/drupalwxt/wxt@5.4.4
 - pkg:composer/drupalwxt/wxt@5.4.5
 - pkg:composer/drupalwxt/wxt@5.6.0
+- pkg:composer/drupalwxt/wxt@5.6.1
 - pkg:composer/drupalwxt/wxt@6.1.0
 - pkg:composer/drupalwxt/wxt@6.1.0-alpha1
 - pkg:composer/drupalwxt/wxt@6.1.1
