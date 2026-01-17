@@ -143,6 +143,7 @@
 - pkg:composer/ilmiont/ardeidae@3.3.2
 - pkg:composer/ilmiont/ardeidae@3.4.0
 - pkg:composer/ilmiont/ardeidae@3.4.1
+- pkg:composer/ilmiont/ardeidae@3.5.0
 - pkg:composer/ilmiont/ardeidae@3.5.0-rc1
 - pkg:composer/ilmiont/ardeidae@4.1.0-rc1
 - pkg:composer/ilmiont/ardeidae@4.1.0-rc10
@@ -151,6 +152,7 @@
 - pkg:composer/ilmiont/ardeidae@4.1.0-rc13
 - pkg:composer/ilmiont/ardeidae@4.1.0-rc14
 - pkg:composer/ilmiont/ardeidae@4.1.0-rc15
+- pkg:composer/ilmiont/ardeidae@4.1.0-rc16
 - pkg:composer/ilmiont/ardeidae@4.1.0-rc2
 - pkg:composer/ilmiont/ardeidae@4.1.0-rc3
 - pkg:composer/ilmiont/ardeidae@4.1.0-rc4

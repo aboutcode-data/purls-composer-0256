@@ -118,3 +118,4 @@
 - pkg:composer/ibexa/post-install@v5.0.2
 - pkg:composer/ibexa/post-install@v5.0.3
 - pkg:composer/ibexa/post-install@v5.0.4
+- pkg:composer/ibexa/post-install@v5.0.5
