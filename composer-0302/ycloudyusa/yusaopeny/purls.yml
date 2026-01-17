@@ -38,6 +38,7 @@
 - pkg:composer/ycloudyusa/yusaopeny@11.3.0.0-alpha1
 - pkg:composer/ycloudyusa/yusaopeny@11.3.0.0-beta1
 - pkg:composer/ycloudyusa/yusaopeny@11.3.0.0-beta2
+- pkg:composer/ycloudyusa/yusaopeny@11.3.0.1-rc1
 - pkg:composer/ycloudyusa/yusaopeny@8.0.1
 - pkg:composer/ycloudyusa/yusaopeny@8.0.2
 - pkg:composer/ycloudyusa/yusaopeny@8.0.3
