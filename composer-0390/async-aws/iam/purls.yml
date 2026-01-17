@@ -17,3 +17,4 @@
 - pkg:composer/async-aws/iam@1.6.0
 - pkg:composer/async-aws/iam@1.6.1
 - pkg:composer/async-aws/iam@1.7.0
+- pkg:composer/async-aws/iam@1.8.0

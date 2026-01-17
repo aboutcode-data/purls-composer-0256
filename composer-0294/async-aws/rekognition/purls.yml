@@ -16,3 +16,4 @@
 - pkg:composer/async-aws/rekognition@1.4.0
 - pkg:composer/async-aws/rekognition@1.5.0
 - pkg:composer/async-aws/rekognition@1.5.1
+- pkg:composer/async-aws/rekognition@1.6.0
