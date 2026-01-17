@@ -46,6 +46,7 @@
 - pkg:composer/open-telemetry/sdk@1.1.1
 - pkg:composer/open-telemetry/sdk@1.1.2
 - pkg:composer/open-telemetry/sdk@1.10.0
+- pkg:composer/open-telemetry/sdk@1.11.0
 - pkg:composer/open-telemetry/sdk@1.2.0
 - pkg:composer/open-telemetry/sdk@1.2.1
 - pkg:composer/open-telemetry/sdk@1.2.2
