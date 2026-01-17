@@ -41,6 +41,7 @@
 - pkg:composer/alibabacloud/cloudauth-20190307@3.12.1
 - pkg:composer/alibabacloud/cloudauth-20190307@3.12.2
 - pkg:composer/alibabacloud/cloudauth-20190307@3.13.0
+- pkg:composer/alibabacloud/cloudauth-20190307@3.13.1
 - pkg:composer/alibabacloud/cloudauth-20190307@3.2.0
 - pkg:composer/alibabacloud/cloudauth-20190307@3.2.1
 - pkg:composer/alibabacloud/cloudauth-20190307@3.2.2

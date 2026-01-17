@@ -50,3 +50,4 @@
 - pkg:composer/alnv/prosearch-indexer-contao-adapter-bundle@2.9.2
 - pkg:composer/alnv/prosearch-indexer-contao-adapter-bundle@2.9.3
 - pkg:composer/alnv/prosearch-indexer-contao-adapter-bundle@2.9.4
+- pkg:composer/alnv/prosearch-indexer-contao-adapter-bundle@2.9.5

@@ -1,2 +1,4 @@
 - pkg:composer/alnaggar/laravel-translatable-model@1.0
 - pkg:composer/alnaggar/laravel-translatable-model@1.1
+- pkg:composer/alnaggar/laravel-translatable-model@1.1.1
+- pkg:composer/alnaggar/laravel-translatable-model@1.2
