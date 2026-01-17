@@ -1,3 +1,8 @@
 - pkg:composer/cognesy/instructor-laravel@v1.14.0
 - pkg:composer/cognesy/instructor-laravel@v1.15.0
 - pkg:composer/cognesy/instructor-laravel@v1.16.0
+- pkg:composer/cognesy/instructor-laravel@v1.17.0
+- pkg:composer/cognesy/instructor-laravel@v1.18.0
+- pkg:composer/cognesy/instructor-laravel@v1.18.1
+- pkg:composer/cognesy/instructor-laravel@v1.18.2
+- pkg:composer/cognesy/instructor-laravel@v1.18.3

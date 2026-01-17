@@ -2,6 +2,7 @@
 - pkg:composer/cyril-verloop/doctrine-entities@1.1.0
 - pkg:composer/cyril-verloop/doctrine-entities@1.1.1
 - pkg:composer/cyril-verloop/doctrine-entities@10.0.0
+- pkg:composer/cyril-verloop/doctrine-entities@10.1.0
 - pkg:composer/cyril-verloop/doctrine-entities@2.0.0
 - pkg:composer/cyril-verloop/doctrine-entities@2.0.1
 - pkg:composer/cyril-verloop/doctrine-entities@2.1.0
