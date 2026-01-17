@@ -36,3 +36,4 @@
 - pkg:composer/google/cloud-video-stitcher@v1.0.4
 - pkg:composer/google/cloud-video-stitcher@v1.1.0
 - pkg:composer/google/cloud-video-stitcher@v1.1.1
+- pkg:composer/google/cloud-video-stitcher@v1.1.2
