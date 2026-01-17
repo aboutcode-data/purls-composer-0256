@@ -8,3 +8,4 @@
 - pkg:composer/stytch/stytch-php@v1.8.0
 - pkg:composer/stytch/stytch-php@v1.9.0
 - pkg:composer/stytch/stytch-php@v2.0.0-alpha
+- pkg:composer/stytch/stytch-php@v2.0.0-alpha.1
