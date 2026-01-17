@@ -2,6 +2,7 @@
 - pkg:composer/firevel/api-resource-schema-generator@0.0.10
 - pkg:composer/firevel/api-resource-schema-generator@0.0.11
 - pkg:composer/firevel/api-resource-schema-generator@0.0.12
+- pkg:composer/firevel/api-resource-schema-generator@0.0.13
 - pkg:composer/firevel/api-resource-schema-generator@0.0.2
 - pkg:composer/firevel/api-resource-schema-generator@0.0.3
 - pkg:composer/firevel/api-resource-schema-generator@0.0.4

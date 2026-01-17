@@ -74,6 +74,8 @@
 - pkg:composer/filament/schemas@v4.5.0
 - pkg:composer/filament/schemas@v4.5.1
 - pkg:composer/filament/schemas@v4.5.2
+- pkg:composer/filament/schemas@v4.5.3
+- pkg:composer/filament/schemas@v5.0.0
 - pkg:composer/filament/schemas@v5.0.0-beta1
 - pkg:composer/filament/schemas@v5.0.0-beta2
 - pkg:composer/filament/schemas@v5.0.0-beta3
