@@ -10,3 +10,4 @@
 - pkg:composer/ttempleton/craft-category-groups-field@2.0.0-beta.1
 - pkg:composer/ttempleton/craft-category-groups-field@2.0.1
 - pkg:composer/ttempleton/craft-category-groups-field@2.1.0
+- pkg:composer/ttempleton/craft-category-groups-field@3.0.0
