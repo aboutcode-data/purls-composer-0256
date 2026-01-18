@@ -4,4 +4,5 @@
 - pkg:composer/doctrine/event-manager@1.2.0
 - pkg:composer/doctrine/event-manager@2.0.0
 - pkg:composer/doctrine/event-manager@2.0.1
+- pkg:composer/doctrine/event-manager@2.1.0
 - pkg:composer/doctrine/event-manager@v1.0.0
