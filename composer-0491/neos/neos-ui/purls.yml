@@ -483,6 +483,7 @@
 - pkg:composer/neos/neos-ui@8.3.14
 - pkg:composer/neos/neos-ui@8.3.15
 - pkg:composer/neos/neos-ui@8.3.16
+- pkg:composer/neos/neos-ui@8.3.17
 - pkg:composer/neos/neos-ui@8.3.2
 - pkg:composer/neos/neos-ui@8.3.3
 - pkg:composer/neos/neos-ui@8.3.4
@@ -492,6 +493,7 @@
 - pkg:composer/neos/neos-ui@8.3.8
 - pkg:composer/neos/neos-ui@8.3.9
 - pkg:composer/neos/neos-ui@8.4.0
+- pkg:composer/neos/neos-ui@8.4.1
 - pkg:composer/neos/neos-ui@9.0.0
 - pkg:composer/neos/neos-ui@9.0.0-beta1
 - pkg:composer/neos/neos-ui@9.0.0-beta10
