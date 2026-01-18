@@ -17,6 +17,7 @@
 - pkg:composer/frootbox/mvc@0.10
 - pkg:composer/frootbox/mvc@0.11
 - pkg:composer/frootbox/mvc@0.11.1
+- pkg:composer/frootbox/mvc@0.11.2
 - pkg:composer/frootbox/mvc@0.2
 - pkg:composer/frootbox/mvc@0.3
 - pkg:composer/frootbox/mvc@0.3.1
