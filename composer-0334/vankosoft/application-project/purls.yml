@@ -48,6 +48,8 @@
 - pkg:composer/vankosoft/application-project@v1.12.3
 - pkg:composer/vankosoft/application-project@v1.13.0
 - pkg:composer/vankosoft/application-project@v1.13.1
+- pkg:composer/vankosoft/application-project@v1.13.2
+- pkg:composer/vankosoft/application-project@v1.13.3
 - pkg:composer/vankosoft/application-project@v1.2.0
 - pkg:composer/vankosoft/application-project@v1.2.1
 - pkg:composer/vankosoft/application-project@v1.3.0
