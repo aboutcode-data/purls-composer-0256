@@ -19,3 +19,5 @@
 - pkg:composer/aslamhus/wordpress-hmr@v1.2.3
 - pkg:composer/aslamhus/wordpress-hmr@v2
 - pkg:composer/aslamhus/wordpress-hmr@v2.1.0
+- pkg:composer/aslamhus/wordpress-hmr@v2.2.0
+- pkg:composer/aslamhus/wordpress-hmr@v2.3.0
