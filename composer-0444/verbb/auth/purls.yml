@@ -36,6 +36,7 @@
 - pkg:composer/verbb/auth@1.0.40
 - pkg:composer/verbb/auth@1.0.41
 - pkg:composer/verbb/auth@1.0.42
+- pkg:composer/verbb/auth@1.0.43
 - pkg:composer/verbb/auth@1.0.5
 - pkg:composer/verbb/auth@1.0.6
 - pkg:composer/verbb/auth@1.0.7
@@ -66,6 +67,7 @@
 - pkg:composer/verbb/auth@2.0.26
 - pkg:composer/verbb/auth@2.0.27
 - pkg:composer/verbb/auth@2.0.28
+- pkg:composer/verbb/auth@2.0.29
 - pkg:composer/verbb/auth@2.0.3
 - pkg:composer/verbb/auth@2.0.4
 - pkg:composer/verbb/auth@2.0.5
