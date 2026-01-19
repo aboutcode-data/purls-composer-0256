@@ -29,6 +29,7 @@
 - pkg:composer/seongbae/canvas@1.8.3
 - pkg:composer/seongbae/canvas@1.9
 - pkg:composer/seongbae/canvas@1.9.1
+- pkg:composer/seongbae/canvas@2.0
 - pkg:composer/seongbae/canvas@v0.1-beta
 - pkg:composer/seongbae/canvas@v0.1.1-beta
 - pkg:composer/seongbae/canvas@v0.1.10-beta
