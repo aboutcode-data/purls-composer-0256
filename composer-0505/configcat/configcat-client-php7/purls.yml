@@ -8,3 +8,4 @@
 - pkg:composer/configcat/configcat-client-php7@v3.0.0
 - pkg:composer/configcat/configcat-client-php7@v3.0.1
 - pkg:composer/configcat/configcat-client-php7@v3.0.2
+- pkg:composer/configcat/configcat-client-php7@v3.1.0
