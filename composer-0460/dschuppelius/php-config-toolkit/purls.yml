@@ -23,7 +23,10 @@
 - pkg:composer/dschuppelius/php-config-toolkit@v0.2.25
 - pkg:composer/dschuppelius/php-config-toolkit@v0.2.26
 - pkg:composer/dschuppelius/php-config-toolkit@v0.2.27
+- pkg:composer/dschuppelius/php-config-toolkit@v0.2.28
+- pkg:composer/dschuppelius/php-config-toolkit@v0.2.29
 - pkg:composer/dschuppelius/php-config-toolkit@v0.2.3
+- pkg:composer/dschuppelius/php-config-toolkit@v0.2.30
 - pkg:composer/dschuppelius/php-config-toolkit@v0.2.4
 - pkg:composer/dschuppelius/php-config-toolkit@v0.2.5
 - pkg:composer/dschuppelius/php-config-toolkit@v0.2.6

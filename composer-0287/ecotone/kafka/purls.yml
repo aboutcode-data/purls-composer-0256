@@ -96,3 +96,4 @@
 - pkg:composer/ecotone/kafka@1.294.0
 - pkg:composer/ecotone/kafka@1.294.1
 - pkg:composer/ecotone/kafka@1.295.0
+- pkg:composer/ecotone/kafka@1.296.0
