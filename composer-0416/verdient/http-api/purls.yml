@@ -2,3 +2,4 @@
 - pkg:composer/verdient/http-api@1.0.0
 - pkg:composer/verdient/http-api@2.0.0
 - pkg:composer/verdient/http-api@2.0.1
+- pkg:composer/verdient/http-api@2.0.2

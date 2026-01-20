@@ -1,2 +1,6 @@
+- pkg:composer/vaughan/ubl-invoice@v1.0.0
+- pkg:composer/vaughan/ubl-invoice@v1.0.1
+- pkg:composer/vaughan/ubl-invoice@v1.0.2
 - pkg:composer/vaughan/ubl-invoice@v3.0
 - pkg:composer/vaughan/ubl-invoice@v3.0.1
+- pkg:composer/vaughan/ubl-invoice@v3.0.2

@@ -24,3 +24,4 @@
 - pkg:composer/viabillhq/module-payment@4.0.40
 - pkg:composer/viabillhq/module-payment@4.0.41
 - pkg:composer/viabillhq/module-payment@4.0.42
+- pkg:composer/viabillhq/module-payment@5.0.1
