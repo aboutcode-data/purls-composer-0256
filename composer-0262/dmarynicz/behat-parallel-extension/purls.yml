@@ -6,3 +6,4 @@
 - pkg:composer/dmarynicz/behat-parallel-extension@v1.0.3
 - pkg:composer/dmarynicz/behat-parallel-extension@v1.1.0
 - pkg:composer/dmarynicz/behat-parallel-extension@v1.1.1
+- pkg:composer/dmarynicz/behat-parallel-extension@v1.2.0
