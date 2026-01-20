@@ -1,2 +1,4 @@
 - pkg:composer/yuisalabs/voltia-datatable@v0.1.0
 - pkg:composer/yuisalabs/voltia-datatable@v0.1.1
+- pkg:composer/yuisalabs/voltia-datatable@v1.0.0
+- pkg:composer/yuisalabs/voltia-datatable@v1.0.1
