@@ -1,3 +1,4 @@
 - pkg:composer/zenmanage/zenmanage-php@1.0.0
 - pkg:composer/zenmanage/zenmanage-php@1.0.1
 - pkg:composer/zenmanage/zenmanage-php@2.0.0
+- pkg:composer/zenmanage/zenmanage-php@3.0.0
