@@ -69,3 +69,4 @@
 - pkg:composer/macsidigital/laravel-api-client@4.0.2
 - pkg:composer/macsidigital/laravel-api-client@4.1.0
 - pkg:composer/macsidigital/laravel-api-client@5.0.0
+- pkg:composer/macsidigital/laravel-api-client@5.0.1

@@ -14,6 +14,7 @@
 - pkg:composer/laravel-enso/api@1.1.1
 - pkg:composer/laravel-enso/api@1.10.0
 - pkg:composer/laravel-enso/api@1.10.1
+- pkg:composer/laravel-enso/api@1.11.0
 - pkg:composer/laravel-enso/api@1.2.0
 - pkg:composer/laravel-enso/api@1.2.1
 - pkg:composer/laravel-enso/api@1.2.2
