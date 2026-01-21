@@ -22,3 +22,5 @@
 - pkg:composer/gupalo/config-bundle@1.5.0
 - pkg:composer/gupalo/config-bundle@1.6
 - pkg:composer/gupalo/config-bundle@1.7
+- pkg:composer/gupalo/config-bundle@1.8
+- pkg:composer/gupalo/config-bundle@1.9
