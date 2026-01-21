@@ -1,1 +1,2 @@
 - pkg:composer/ifthenpay/payment-gateway-sdk@v1.0.0
+- pkg:composer/ifthenpay/payment-gateway-sdk@v1.0.1
