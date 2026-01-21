@@ -13,3 +13,4 @@
 - pkg:composer/marshmallow/nova-fontawesome@v2.0.5
 - pkg:composer/marshmallow/nova-fontawesome@v2.0.6
 - pkg:composer/marshmallow/nova-fontawesome@v2.1.0
+- pkg:composer/marshmallow/nova-fontawesome@v3.0.0

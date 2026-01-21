@@ -13,3 +13,5 @@
 - pkg:composer/mediagone/dotless-bundle@0.5.1
 - pkg:composer/mediagone/dotless-bundle@0.5.2
 - pkg:composer/mediagone/dotless-bundle@0.6.0
+- pkg:composer/mediagone/dotless-bundle@0.7.0
+- pkg:composer/mediagone/dotless-bundle@0.7.1

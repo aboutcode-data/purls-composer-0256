@@ -1,3 +1,4 @@
+- pkg:composer/mautic/theme-multi-step@7.0.0
 - pkg:composer/mautic/theme-multi-step@7.0.0-alpha
 - pkg:composer/mautic/theme-multi-step@7.0.0-beta
 - pkg:composer/mautic/theme-multi-step@7.0.0-rc
