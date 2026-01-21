@@ -5,6 +5,7 @@
 - pkg:composer/cedx/akismet@15.0.1
 - pkg:composer/cedx/akismet@15.1.0
 - pkg:composer/cedx/akismet@16.0.0
+- pkg:composer/cedx/akismet@17.0.0
 - pkg:composer/cedx/akismet@v1.0.0
 - pkg:composer/cedx/akismet@v1.1.0
 - pkg:composer/cedx/akismet@v10.0.0
