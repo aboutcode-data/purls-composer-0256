@@ -36,6 +36,8 @@
 - pkg:composer/peekabooauth/peekaboo-bundle@1.4.0
 - pkg:composer/peekabooauth/peekaboo-bundle@1.4.1
 - pkg:composer/peekabooauth/peekaboo-bundle@1.5.0
+- pkg:composer/peekabooauth/peekaboo-bundle@1.6.0
+- pkg:composer/peekabooauth/peekaboo-bundle@1.7.0
 - pkg:composer/peekabooauth/peekaboo-bundle@v1.0.0
 - pkg:composer/peekabooauth/peekaboo-bundle@v1.0.1
 - pkg:composer/peekabooauth/peekaboo-bundle@v1.0.2

@@ -27,3 +27,4 @@
 - pkg:composer/pressbooks/pressbooks-saml-sso@2.5.1
 - pkg:composer/pressbooks/pressbooks-saml-sso@2.5.2
 - pkg:composer/pressbooks/pressbooks-saml-sso@2.5.3
+- pkg:composer/pressbooks/pressbooks-saml-sso@2.6.0

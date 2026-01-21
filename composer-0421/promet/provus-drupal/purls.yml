@@ -30,4 +30,5 @@
 - pkg:composer/promet/provus-drupal@2.2.4
 - pkg:composer/promet/provus-drupal@2.2.5
 - pkg:composer/promet/provus-drupal@2.3.0
+- pkg:composer/promet/provus-drupal@2.3.1
 - pkg:composer/promet/provus-drupal@3.0.0-alpha1
