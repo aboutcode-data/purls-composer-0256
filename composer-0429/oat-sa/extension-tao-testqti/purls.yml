@@ -676,6 +676,7 @@
 - pkg:composer/oat-sa/extension-tao-testqti@v48.9.7.4
 - pkg:composer/oat-sa/extension-tao-testqti@v49.0.0
 - pkg:composer/oat-sa/extension-tao-testqti@v49.0.1
+- pkg:composer/oat-sa/extension-tao-testqti@v49.0.2
 - pkg:composer/oat-sa/extension-tao-testqti@v5.0.0
 - pkg:composer/oat-sa/extension-tao-testqti@v5.12.0
 - pkg:composer/oat-sa/extension-tao-testqti@v5.12.3

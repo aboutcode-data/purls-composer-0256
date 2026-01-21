@@ -84,6 +84,7 @@
 - pkg:composer/oat-sa/extension-tao-delivery@v15.15.5
 - pkg:composer/oat-sa/extension-tao-delivery@v15.15.6
 - pkg:composer/oat-sa/extension-tao-delivery@v15.15.7
+- pkg:composer/oat-sa/extension-tao-delivery@v15.15.8
 - pkg:composer/oat-sa/extension-tao-delivery@v15.2.0
 - pkg:composer/oat-sa/extension-tao-delivery@v15.2.1
 - pkg:composer/oat-sa/extension-tao-delivery@v15.3.0

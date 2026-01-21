@@ -43,6 +43,7 @@
 - pkg:composer/patryk-sawicki/helper@0.4.1.7
 - pkg:composer/patryk-sawicki/helper@0.4.1.8
 - pkg:composer/patryk-sawicki/helper@0.4.1.9
+- pkg:composer/patryk-sawicki/helper@0.4.2
 - pkg:composer/patryk-sawicki/helper@0.5.0.0
 - pkg:composer/patryk-sawicki/helper@0.5.1.0
 - pkg:composer/patryk-sawicki/helper@0.5.1.1
@@ -67,3 +68,4 @@
 - pkg:composer/patryk-sawicki/helper@0.7.6
 - pkg:composer/patryk-sawicki/helper@0.7.7
 - pkg:composer/patryk-sawicki/helper@0.7.8
+- pkg:composer/patryk-sawicki/helper@0.7.9
