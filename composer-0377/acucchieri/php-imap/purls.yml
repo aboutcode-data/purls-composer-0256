@@ -1,6 +1,7 @@
 - pkg:composer/acucchieri/php-imap@2.0.0
 - pkg:composer/acucchieri/php-imap@2.0.1
 - pkg:composer/acucchieri/php-imap@2.0.2
+- pkg:composer/acucchieri/php-imap@3.0.0
 - pkg:composer/acucchieri/php-imap@v1.0.0
 - pkg:composer/acucchieri/php-imap@v1.0.1
 - pkg:composer/acucchieri/php-imap@v1.0.2
