@@ -59,6 +59,7 @@
 - pkg:composer/nextstore/sylius-gift-card-plugin@v0.1.61
 - pkg:composer/nextstore/sylius-gift-card-plugin@v0.1.62
 - pkg:composer/nextstore/sylius-gift-card-plugin@v0.1.63
+- pkg:composer/nextstore/sylius-gift-card-plugin@v0.1.64
 - pkg:composer/nextstore/sylius-gift-card-plugin@v0.1.7
 - pkg:composer/nextstore/sylius-gift-card-plugin@v0.1.8
 - pkg:composer/nextstore/sylius-gift-card-plugin@v0.1.9

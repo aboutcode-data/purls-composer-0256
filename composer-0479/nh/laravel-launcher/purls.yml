@@ -24,3 +24,4 @@
 - pkg:composer/nh/laravel-launcher@0.3.4
 - pkg:composer/nh/laravel-launcher@0.3.5
 - pkg:composer/nh/laravel-launcher@0.3.6
+- pkg:composer/nh/laravel-launcher@0.4.0
