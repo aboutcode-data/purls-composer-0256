@@ -25,3 +25,4 @@
 - pkg:composer/flow-php/symfony-http-foundation-bridge@0.28.0
 - pkg:composer/flow-php/symfony-http-foundation-bridge@0.29.0
 - pkg:composer/flow-php/symfony-http-foundation-bridge@0.30.0
+- pkg:composer/flow-php/symfony-http-foundation-bridge@0.31.0
