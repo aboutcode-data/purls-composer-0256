@@ -9,3 +9,4 @@
 - pkg:composer/laravel-lang/native-currency-names@1.6.1
 - pkg:composer/laravel-lang/native-currency-names@1.7.0
 - pkg:composer/laravel-lang/native-currency-names@1.7.1
+- pkg:composer/laravel-lang/native-currency-names@1.8.0
