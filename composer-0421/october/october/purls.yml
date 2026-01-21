@@ -244,6 +244,7 @@
 - pkg:composer/october/october@v3.6.4
 - pkg:composer/october/october@v3.7.0
 - pkg:composer/october/october@v3.7.10
+- pkg:composer/october/october@v3.7.13
 - pkg:composer/october/october@v3.7.3
 - pkg:composer/october/october@v4.0.0
 - pkg:composer/october/october@v4.0.15
