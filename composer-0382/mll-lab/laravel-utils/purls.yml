@@ -1,6 +1,7 @@
 - pkg:composer/mll-lab/laravel-utils@v1.0.0
 - pkg:composer/mll-lab/laravel-utils@v10.0.0
 - pkg:composer/mll-lab/laravel-utils@v10.1.0
+- pkg:composer/mll-lab/laravel-utils@v10.10.0
 - pkg:composer/mll-lab/laravel-utils@v10.2.0
 - pkg:composer/mll-lab/laravel-utils@v10.2.1
 - pkg:composer/mll-lab/laravel-utils@v10.3.0
