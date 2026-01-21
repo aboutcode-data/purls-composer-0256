@@ -5,3 +5,4 @@
 - pkg:composer/jlorente/stethome-php-sdk@2.0.0
 - pkg:composer/jlorente/stethome-php-sdk@2.0.1
 - pkg:composer/jlorente/stethome-php-sdk@2.0.2
+- pkg:composer/jlorente/stethome-php-sdk@v2.0.3

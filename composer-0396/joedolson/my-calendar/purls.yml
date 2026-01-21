@@ -113,5 +113,6 @@
 - pkg:composer/joedolson/my-calendar@v3.6.7
 - pkg:composer/joedolson/my-calendar@v3.6.8
 - pkg:composer/joedolson/my-calendar@v3.6.9
+- pkg:composer/joedolson/my-calendar@v3.7.0
 - pkg:composer/joedolson/my-calendar@v3.7.0-beta
 - pkg:composer/joedolson/my-calendar@v3.7.0-rc1

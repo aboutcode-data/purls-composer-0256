@@ -85,3 +85,6 @@
 - pkg:composer/kmi/db-sync-tool@2.9.0
 - pkg:composer/kmi/db-sync-tool@2.9.1
 - pkg:composer/kmi/db-sync-tool@2.9.2
+- pkg:composer/kmi/db-sync-tool@3.0.0
+- pkg:composer/kmi/db-sync-tool@3.0.1
+- pkg:composer/kmi/db-sync-tool@3.0.2

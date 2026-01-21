@@ -15,3 +15,5 @@
 - pkg:composer/kleinweb/lib@1.0.0
 - pkg:composer/kleinweb/lib@1.1.0
 - pkg:composer/kleinweb/lib@1.1.1
+- pkg:composer/kleinweb/lib@1.1.2
+- pkg:composer/kleinweb/lib@1.1.3
