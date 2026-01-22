@@ -40,3 +40,4 @@
 - pkg:composer/contao-components/jquery@3.6.4
 - pkg:composer/contao-components/jquery@3.7.0
 - pkg:composer/contao-components/jquery@3.7.1
+- pkg:composer/contao-components/jquery@4.0.0
