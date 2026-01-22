@@ -11,3 +11,5 @@
 - pkg:composer/apsc-web/ubc_apsc_helper@2.0.0
 - pkg:composer/apsc-web/ubc_apsc_helper@2.1.0
 - pkg:composer/apsc-web/ubc_apsc_helper@2.2.0
+- pkg:composer/apsc-web/ubc_apsc_helper@2.3.0
+- pkg:composer/apsc-web/ubc_apsc_helper@2.3.1
