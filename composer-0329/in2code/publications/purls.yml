@@ -27,6 +27,7 @@
 - pkg:composer/in2code/publications@1.9.0
 - pkg:composer/in2code/publications@1.9.1
 - pkg:composer/in2code/publications@13.0.0
+- pkg:composer/in2code/publications@13.0.1
 - pkg:composer/in2code/publications@2.0.0
 - pkg:composer/in2code/publications@2.1.0
 - pkg:composer/in2code/publications@2.2.0
@@ -54,3 +55,4 @@
 - pkg:composer/in2code/publications@6.1.0
 - pkg:composer/in2code/publications@6.2.0
 - pkg:composer/in2code/publications@6.2.1
+- pkg:composer/in2code/publications@6.2.2
