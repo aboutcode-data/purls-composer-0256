@@ -28,6 +28,7 @@
 - pkg:composer/acdh-oeaw/arche-metadata-crawler@0.14.6
 - pkg:composer/acdh-oeaw/arche-metadata-crawler@0.14.7
 - pkg:composer/acdh-oeaw/arche-metadata-crawler@0.15.0
+- pkg:composer/acdh-oeaw/arche-metadata-crawler@0.16.0
 - pkg:composer/acdh-oeaw/arche-metadata-crawler@0.2.0
 - pkg:composer/acdh-oeaw/arche-metadata-crawler@0.2.1
 - pkg:composer/acdh-oeaw/arche-metadata-crawler@0.2.2
