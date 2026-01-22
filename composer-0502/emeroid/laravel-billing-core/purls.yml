@@ -1,3 +1,5 @@
 - pkg:composer/emeroid/laravel-billing-core@v1.0.0
 - pkg:composer/emeroid/laravel-billing-core@v1.1.0
 - pkg:composer/emeroid/laravel-billing-core@v1.2.0
+- pkg:composer/emeroid/laravel-billing-core@v1.2.1
+- pkg:composer/emeroid/laravel-billing-core@v1.2.2

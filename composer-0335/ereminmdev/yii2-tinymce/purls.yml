@@ -1,3 +1,4 @@
+- pkg:composer/ereminmdev/yii2-tinymce@1.0.56
 - pkg:composer/ereminmdev/yii2-tinymce@v1.0.0
 - pkg:composer/ereminmdev/yii2-tinymce@v1.0.1
 - pkg:composer/ereminmdev/yii2-tinymce@v1.0.10
@@ -45,6 +46,11 @@
 - pkg:composer/ereminmdev/yii2-tinymce@v1.0.49
 - pkg:composer/ereminmdev/yii2-tinymce@v1.0.5
 - pkg:composer/ereminmdev/yii2-tinymce@v1.0.50
+- pkg:composer/ereminmdev/yii2-tinymce@v1.0.51
+- pkg:composer/ereminmdev/yii2-tinymce@v1.0.52
+- pkg:composer/ereminmdev/yii2-tinymce@v1.0.53
+- pkg:composer/ereminmdev/yii2-tinymce@v1.0.54
+- pkg:composer/ereminmdev/yii2-tinymce@v1.0.55
 - pkg:composer/ereminmdev/yii2-tinymce@v1.0.6
 - pkg:composer/ereminmdev/yii2-tinymce@v1.0.7
 - pkg:composer/ereminmdev/yii2-tinymce@v1.0.8
