@@ -265,6 +265,7 @@
 - pkg:composer/code16/sharp@v9.15.1
 - pkg:composer/code16/sharp@v9.16.0
 - pkg:composer/code16/sharp@v9.16.1
+- pkg:composer/code16/sharp@v9.17.0
 - pkg:composer/code16/sharp@v9.2.0
 - pkg:composer/code16/sharp@v9.2.1
 - pkg:composer/code16/sharp@v9.2.2
