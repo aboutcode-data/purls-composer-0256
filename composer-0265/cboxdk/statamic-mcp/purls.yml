@@ -10,3 +10,5 @@
 - pkg:composer/cboxdk/statamic-mcp@v0.8.0
 - pkg:composer/cboxdk/statamic-mcp@v0.9.0
 - pkg:composer/cboxdk/statamic-mcp@v1.0.0-alpha.1
+- pkg:composer/cboxdk/statamic-mcp@v1.0.0-alpha.2
+- pkg:composer/cboxdk/statamic-mcp@v1.0.0-alpha.3

@@ -51,3 +51,4 @@
 - pkg:composer/channext/channext-rabbitmq@1.7.5
 - pkg:composer/channext/channext-rabbitmq@1.7.6
 - pkg:composer/channext/channext-rabbitmq@1.8.0
+- pkg:composer/channext/channext-rabbitmq@1.8.1
