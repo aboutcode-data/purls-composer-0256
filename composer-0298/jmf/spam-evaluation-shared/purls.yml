@@ -1,2 +1,3 @@
 - pkg:composer/jmf/spam-evaluation-shared@1.0.0
 - pkg:composer/jmf/spam-evaluation-shared@2.0.0
+- pkg:composer/jmf/spam-evaluation-shared@2.0.1
