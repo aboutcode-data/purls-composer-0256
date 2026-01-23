@@ -76,3 +76,4 @@
 - pkg:composer/laminas/laminas-json@3.6.0
 - pkg:composer/laminas/laminas-json@3.7.0
 - pkg:composer/laminas/laminas-json@3.7.1
+- pkg:composer/laminas/laminas-json@3.8.0

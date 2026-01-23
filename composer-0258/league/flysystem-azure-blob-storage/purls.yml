@@ -22,6 +22,7 @@
 - pkg:composer/league/flysystem-azure-blob-storage@3.28.0
 - pkg:composer/league/flysystem-azure-blob-storage@3.3.0
 - pkg:composer/league/flysystem-azure-blob-storage@3.30.0
+- pkg:composer/league/flysystem-azure-blob-storage@3.31.0
 - pkg:composer/league/flysystem-azure-blob-storage@3.6.0
 - pkg:composer/league/flysystem-azure-blob-storage@3.7.0
 - pkg:composer/league/flysystem-azure-blob-storage@3.8.0

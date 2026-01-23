@@ -127,3 +127,4 @@
 - pkg:composer/leantime/leantime@v3.5.7
 - pkg:composer/leantime/leantime@v3.5.8
 - pkg:composer/leantime/leantime@v3.5.9
+- pkg:composer/leantime/leantime@v3.6.0
