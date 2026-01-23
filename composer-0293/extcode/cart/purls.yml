@@ -49,6 +49,7 @@
 - pkg:composer/extcode/cart@v11.4.9
 - pkg:composer/extcode/cart@v11.5.0
 - pkg:composer/extcode/cart@v11.6.0
+- pkg:composer/extcode/cart@v11.7.0
 - pkg:composer/extcode/cart@v2.0.0
 - pkg:composer/extcode/cart@v2.4.3
 - pkg:composer/extcode/cart@v3.0.0
