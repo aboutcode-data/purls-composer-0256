@@ -22,3 +22,5 @@
 - pkg:composer/hirasso/html-processor@v0.5.7
 - pkg:composer/hirasso/html-processor@v0.6.0
 - pkg:composer/hirasso/html-processor@v0.6.1
+- pkg:composer/hirasso/html-processor@v0.6.2
+- pkg:composer/hirasso/html-processor@v0.6.3
