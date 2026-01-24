@@ -8,6 +8,7 @@
 - pkg:composer/spomky-labs/otphp@11.3.0
 - pkg:composer/spomky-labs/otphp@11.4.0
 - pkg:composer/spomky-labs/otphp@11.4.1
+- pkg:composer/spomky-labs/otphp@11.4.2
 - pkg:composer/spomky-labs/otphp@5.0.0
 - pkg:composer/spomky-labs/otphp@v1.0.0-stable
 - pkg:composer/spomky-labs/otphp@v10.0.0

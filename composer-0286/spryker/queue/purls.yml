@@ -24,6 +24,7 @@
 - pkg:composer/spryker/queue@1.21.0
 - pkg:composer/spryker/queue@1.21.1
 - pkg:composer/spryker/queue@1.22.0
+- pkg:composer/spryker/queue@1.22.1
 - pkg:composer/spryker/queue@1.3.0
 - pkg:composer/spryker/queue@1.4.0
 - pkg:composer/spryker/queue@1.5.0

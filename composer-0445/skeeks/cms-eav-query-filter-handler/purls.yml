@@ -23,3 +23,4 @@
 - pkg:composer/skeeks/cms-eav-query-filter-handler@1.0.0.9
 - pkg:composer/skeeks/cms-eav-query-filter-handler@2.0.0
 - pkg:composer/skeeks/cms-eav-query-filter-handler@2.1.0
+- pkg:composer/skeeks/cms-eav-query-filter-handler@2.1.1
