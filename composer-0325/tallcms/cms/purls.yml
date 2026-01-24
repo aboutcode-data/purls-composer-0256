@@ -12,3 +12,7 @@
 - pkg:composer/tallcms/cms@2.0.7
 - pkg:composer/tallcms/cms@2.0.8
 - pkg:composer/tallcms/cms@2.0.9
+- pkg:composer/tallcms/cms@2.1.0
+- pkg:composer/tallcms/cms@2.2.0
+- pkg:composer/tallcms/cms@2.3.0
+- pkg:composer/tallcms/cms@2.4.0

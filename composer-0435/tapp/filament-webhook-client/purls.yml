@@ -3,3 +3,4 @@
 - pkg:composer/tapp/filament-webhook-client@v1.1.0
 - pkg:composer/tapp/filament-webhook-client@v1.1.1
 - pkg:composer/tapp/filament-webhook-client@v4.0.0
+- pkg:composer/tapp/filament-webhook-client@v4.0.1
