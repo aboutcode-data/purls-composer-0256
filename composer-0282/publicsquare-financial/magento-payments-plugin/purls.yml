@@ -31,3 +31,5 @@
 - pkg:composer/publicsquare-financial/magento-payments-plugin@v0.1.7
 - pkg:composer/publicsquare-financial/magento-payments-plugin@v0.1.8
 - pkg:composer/publicsquare-financial/magento-payments-plugin@v0.1.9
+- pkg:composer/publicsquare-financial/magento-payments-plugin@v0.2.0
+- pkg:composer/publicsquare-financial/magento-payments-plugin@v0.2.1
