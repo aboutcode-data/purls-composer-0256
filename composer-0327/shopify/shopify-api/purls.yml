@@ -30,3 +30,4 @@
 - pkg:composer/shopify/shopify-api@v5.8.1
 - pkg:composer/shopify/shopify-api@v5.9.0
 - pkg:composer/shopify/shopify-api@v6.0.0
+- pkg:composer/shopify/shopify-api@v6.1.0

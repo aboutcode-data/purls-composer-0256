@@ -105,3 +105,8 @@
 - pkg:composer/shm/schema@0.1.7
 - pkg:composer/shm/schema@0.1.8
 - pkg:composer/shm/schema@0.1.9
+- pkg:composer/shm/schema@1.0.0
+- pkg:composer/shm/schema@1.0.1
+- pkg:composer/shm/schema@1.0.2
+- pkg:composer/shm/schema@1.0.3
+- pkg:composer/shm/schema@1.0.4

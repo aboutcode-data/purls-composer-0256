@@ -3,3 +3,4 @@
 - pkg:composer/roukmoute/doctrine-prefix-bundle@v1.0
 - pkg:composer/roukmoute/doctrine-prefix-bundle@v1.0.1
 - pkg:composer/roukmoute/doctrine-prefix-bundle@v1.0.2
+- pkg:composer/roukmoute/doctrine-prefix-bundle@v2.0.0

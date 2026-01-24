@@ -7,3 +7,7 @@
 - pkg:composer/sam-it/yii2-urlsigner@v2.0.0
 - pkg:composer/sam-it/yii2-urlsigner@v3.0.0
 - pkg:composer/sam-it/yii2-urlsigner@v4.0.0
+- pkg:composer/sam-it/yii2-urlsigner@v4.1.0
+- pkg:composer/sam-it/yii2-urlsigner@v4.2.0
+- pkg:composer/sam-it/yii2-urlsigner@v4.2.1
+- pkg:composer/sam-it/yii2-urlsigner@v4.2.2
