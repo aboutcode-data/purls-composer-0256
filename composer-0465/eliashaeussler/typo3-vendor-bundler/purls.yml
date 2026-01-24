@@ -9,3 +9,5 @@
 - pkg:composer/eliashaeussler/typo3-vendor-bundler@2.3.0
 - pkg:composer/eliashaeussler/typo3-vendor-bundler@3.0.0
 - pkg:composer/eliashaeussler/typo3-vendor-bundler@3.0.1
+- pkg:composer/eliashaeussler/typo3-vendor-bundler@3.1.0
+- pkg:composer/eliashaeussler/typo3-vendor-bundler@3.1.1
