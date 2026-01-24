@@ -1,5 +1,6 @@
 - pkg:composer/flagsmith/flagsmith-php-client@3.0.0
 - pkg:composer/flagsmith/flagsmith-php-client@5.0.0
+- pkg:composer/flagsmith/flagsmith-php-client@5.1.0
 - pkg:composer/flagsmith/flagsmith-php-client@v1.0.0
 - pkg:composer/flagsmith/flagsmith-php-client@v2.0.0
 - pkg:composer/flagsmith/flagsmith-php-client@v2.0.1
