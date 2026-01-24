@@ -1,3 +1,4 @@
 - pkg:composer/dadadev/phpstan-symfony-routing@0.0.1
 - pkg:composer/dadadev/phpstan-symfony-routing@0.1.0
 - pkg:composer/dadadev/phpstan-symfony-routing@0.2.0
+- pkg:composer/dadadev/phpstan-symfony-routing@0.3.0
