@@ -1,2 +1,4 @@
 - pkg:composer/omnia-digital/library@1.0
 - pkg:composer/omnia-digital/library@2.0
+- pkg:composer/omnia-digital/library@v1.1.0
+- pkg:composer/omnia-digital/library@v2.1.0

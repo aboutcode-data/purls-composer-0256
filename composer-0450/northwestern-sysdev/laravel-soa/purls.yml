@@ -19,6 +19,7 @@
 - pkg:composer/northwestern-sysdev/laravel-soa@v11.0.2
 - pkg:composer/northwestern-sysdev/laravel-soa@v11.1.0
 - pkg:composer/northwestern-sysdev/laravel-soa@v11.2.0
+- pkg:composer/northwestern-sysdev/laravel-soa@v11.3.0
 - pkg:composer/northwestern-sysdev/laravel-soa@v2.0.0
 - pkg:composer/northwestern-sysdev/laravel-soa@v2.0.1
 - pkg:composer/northwestern-sysdev/laravel-soa@v2.1.0
