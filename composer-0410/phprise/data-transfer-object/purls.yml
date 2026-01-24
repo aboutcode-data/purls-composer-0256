@@ -2,3 +2,4 @@
 - pkg:composer/phprise/data-transfer-object@v1.1.0
 - pkg:composer/phprise/data-transfer-object@v1.1.1
 - pkg:composer/phprise/data-transfer-object@v1.1.2
+- pkg:composer/phprise/data-transfer-object@v1.1.3
