@@ -26,3 +26,6 @@
 - pkg:composer/lumynus/kernel@v1.3.4
 - pkg:composer/lumynus/kernel@v1.3.5
 - pkg:composer/lumynus/kernel@v1.3.6
+- pkg:composer/lumynus/kernel@v1.3.7
+- pkg:composer/lumynus/kernel@v1.3.8
+- pkg:composer/lumynus/kernel@v1.3.9
