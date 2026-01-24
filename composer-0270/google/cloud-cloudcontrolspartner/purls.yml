@@ -11,3 +11,4 @@
 - pkg:composer/google/cloud-cloudcontrolspartner@v0.4.1
 - pkg:composer/google/cloud-cloudcontrolspartner@v0.5.0
 - pkg:composer/google/cloud-cloudcontrolspartner@v0.5.1
+- pkg:composer/google/cloud-cloudcontrolspartner@v0.5.2
