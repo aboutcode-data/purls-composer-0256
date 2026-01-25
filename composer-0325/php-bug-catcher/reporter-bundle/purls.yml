@@ -1,3 +1,4 @@
+- pkg:composer/php-bug-catcher/reporter-bundle@1.2.2
 - pkg:composer/php-bug-catcher/reporter-bundle@v1.0.0
 - pkg:composer/php-bug-catcher/reporter-bundle@v2.0.0
 - pkg:composer/php-bug-catcher/reporter-bundle@v2.0.1
