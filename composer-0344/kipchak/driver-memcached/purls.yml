@@ -1,1 +1,4 @@
 - pkg:composer/kipchak/driver-memcached@1.0
+- pkg:composer/kipchak/driver-memcached@1.1
+- pkg:composer/kipchak/driver-memcached@1.2
+- pkg:composer/kipchak/driver-memcached@1.3
