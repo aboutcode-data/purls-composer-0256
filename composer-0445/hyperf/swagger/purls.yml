@@ -45,6 +45,7 @@
 - pkg:composer/hyperf/swagger@v3.1.58
 - pkg:composer/hyperf/swagger@v3.1.6
 - pkg:composer/hyperf/swagger@v3.1.63
+- pkg:composer/hyperf/swagger@v3.1.66
 - pkg:composer/hyperf/swagger@v3.1.7
 - pkg:composer/hyperf/swagger@v3.2.0-alpha.1
 - pkg:composer/hyperf/swagger@v3.2.0-alpha.3
