@@ -129,6 +129,9 @@
 - pkg:composer/prism-php/prism@v0.99.11
 - pkg:composer/prism-php/prism@v0.99.12
 - pkg:composer/prism-php/prism@v0.99.13
+- pkg:composer/prism-php/prism@v0.99.14
+- pkg:composer/prism-php/prism@v0.99.15
+- pkg:composer/prism-php/prism@v0.99.16
 - pkg:composer/prism-php/prism@v0.99.2
 - pkg:composer/prism-php/prism@v0.99.3
 - pkg:composer/prism-php/prism@v0.99.4
