@@ -6,6 +6,7 @@
 - pkg:composer/pear/pear@v1.10.15
 - pkg:composer/pear/pear@v1.10.16
 - pkg:composer/pear/pear@v1.10.17
+- pkg:composer/pear/pear@v1.10.18
 - pkg:composer/pear/pear@v1.10.4
 - pkg:composer/pear/pear@v1.10.5
 - pkg:composer/pear/pear@v1.10.6

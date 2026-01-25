@@ -24,3 +24,5 @@
 - pkg:composer/passchn/cakephp-assets@v0.5.0
 - pkg:composer/passchn/cakephp-assets@v0.5.1
 - pkg:composer/passchn/cakephp-assets@v0.5.2
+- pkg:composer/passchn/cakephp-assets@v0.6.0
+- pkg:composer/passchn/cakephp-assets@v0.6.1
