@@ -21,6 +21,7 @@
 - pkg:composer/laravel-zero/foundation@v12.32.6
 - pkg:composer/laravel-zero/foundation@v12.35.0
 - pkg:composer/laravel-zero/foundation@v12.40.0
+- pkg:composer/laravel-zero/foundation@v12.48.1
 - pkg:composer/laravel-zero/foundation@v5.5.28
 - pkg:composer/laravel-zero/foundation@v5.5.29
 - pkg:composer/laravel-zero/foundation@v5.5.32
