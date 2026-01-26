@@ -19,3 +19,4 @@
 - pkg:composer/php-task/task-bundle@3.1.0
 - pkg:composer/php-task/task-bundle@3.2.0
 - pkg:composer/php-task/task-bundle@4.0.0
+- pkg:composer/php-task/task-bundle@4.0.1

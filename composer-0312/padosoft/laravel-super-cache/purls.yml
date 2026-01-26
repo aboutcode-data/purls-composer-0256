@@ -32,3 +32,4 @@
 - pkg:composer/padosoft/laravel-super-cache@v2.1.0
 - pkg:composer/padosoft/laravel-super-cache@v2.1.1
 - pkg:composer/padosoft/laravel-super-cache@v2.1.2
+- pkg:composer/padosoft/laravel-super-cache@v2.1.3
