@@ -71,6 +71,7 @@
 - pkg:composer/simplesamlphp/simplesamlphp-assets-base@v2.4.4
 - pkg:composer/simplesamlphp/simplesamlphp-assets-base@v2.5.0
 - pkg:composer/simplesamlphp/simplesamlphp-assets-base@v2.5.1
+- pkg:composer/simplesamlphp/simplesamlphp-assets-base@v2.5.10
 - pkg:composer/simplesamlphp/simplesamlphp-assets-base@v2.5.2
 - pkg:composer/simplesamlphp/simplesamlphp-assets-base@v2.5.3
 - pkg:composer/simplesamlphp/simplesamlphp-assets-base@v2.5.4
