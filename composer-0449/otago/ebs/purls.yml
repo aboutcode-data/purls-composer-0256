@@ -17,3 +17,4 @@
 - pkg:composer/otago/ebs@v5.0
 - pkg:composer/otago/ebs@v5.1
 - pkg:composer/otago/ebs@v5.2
+- pkg:composer/otago/ebs@v6.0
