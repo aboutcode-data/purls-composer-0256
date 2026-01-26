@@ -2,3 +2,5 @@
 - pkg:composer/jobmetric/laravel-env-modifier@1.1.0
 - pkg:composer/jobmetric/laravel-env-modifier@2.0.0
 - pkg:composer/jobmetric/laravel-env-modifier@2.1.0
+- pkg:composer/jobmetric/laravel-env-modifier@2.2.0
+- pkg:composer/jobmetric/laravel-env-modifier@2.2.1
