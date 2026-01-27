@@ -52,6 +52,7 @@
 - pkg:composer/open-southeners/laravel-apiable@3.16.2
 - pkg:composer/open-southeners/laravel-apiable@3.16.3
 - pkg:composer/open-southeners/laravel-apiable@3.16.4
+- pkg:composer/open-southeners/laravel-apiable@3.17.0
 - pkg:composer/open-southeners/laravel-apiable@3.2.0
 - pkg:composer/open-southeners/laravel-apiable@3.2.1
 - pkg:composer/open-southeners/laravel-apiable@3.2.2
