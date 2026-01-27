@@ -99,6 +99,7 @@
 - pkg:composer/phpunit/phpunit@10.5.60
 - pkg:composer/phpunit/phpunit@10.5.61
 - pkg:composer/phpunit/phpunit@10.5.62
+- pkg:composer/phpunit/phpunit@10.5.63
 - pkg:composer/phpunit/phpunit@10.5.7
 - pkg:composer/phpunit/phpunit@10.5.8
 - pkg:composer/phpunit/phpunit@10.5.9
@@ -185,6 +186,7 @@
 - pkg:composer/phpunit/phpunit@11.5.48
 - pkg:composer/phpunit/phpunit@11.5.49
 - pkg:composer/phpunit/phpunit@11.5.5
+- pkg:composer/phpunit/phpunit@11.5.50
 - pkg:composer/phpunit/phpunit@11.5.6
 - pkg:composer/phpunit/phpunit@11.5.7
 - pkg:composer/phpunit/phpunit@11.5.8
@@ -247,6 +249,7 @@
 - pkg:composer/phpunit/phpunit@12.5.5
 - pkg:composer/phpunit/phpunit@12.5.6
 - pkg:composer/phpunit/phpunit@12.5.7
+- pkg:composer/phpunit/phpunit@12.5.8
 - pkg:composer/phpunit/phpunit@3.7.0
 - pkg:composer/phpunit/phpunit@3.7.1
 - pkg:composer/phpunit/phpunit@3.7.10
