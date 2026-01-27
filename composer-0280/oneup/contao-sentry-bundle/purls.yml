@@ -9,3 +9,4 @@
 - pkg:composer/oneup/contao-sentry-bundle@4.0.0
 - pkg:composer/oneup/contao-sentry-bundle@4.1.0
 - pkg:composer/oneup/contao-sentry-bundle@4.1.1
+- pkg:composer/oneup/contao-sentry-bundle@4.2.0
