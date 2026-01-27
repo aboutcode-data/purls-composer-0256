@@ -1,1 +1,2 @@
 - pkg:composer/pantono/phinx@0.16.11
+- pkg:composer/pantono/phinx@0.16.12
