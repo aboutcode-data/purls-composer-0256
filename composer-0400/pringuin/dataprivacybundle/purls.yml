@@ -9,6 +9,7 @@
 - pkg:composer/pringuin/dataprivacybundle@v1.3
 - pkg:composer/pringuin/dataprivacybundle@v1.4
 - pkg:composer/pringuin/dataprivacybundle@v1.5
+- pkg:composer/pringuin/dataprivacybundle@v1.6
 - pkg:composer/pringuin/dataprivacybundle@v2.0
 - pkg:composer/pringuin/dataprivacybundle@v2.1
 - pkg:composer/pringuin/dataprivacybundle@v2.2
@@ -16,3 +17,4 @@
 - pkg:composer/pringuin/dataprivacybundle@v2.4
 - pkg:composer/pringuin/dataprivacybundle@v2.5
 - pkg:composer/pringuin/dataprivacybundle@v2.6
+- pkg:composer/pringuin/dataprivacybundle@v2.7
