@@ -23,3 +23,5 @@
 - pkg:composer/tanthammar/laravel-rules@6.1.0
 - pkg:composer/tanthammar/laravel-rules@6.2.0
 - pkg:composer/tanthammar/laravel-rules@6.2.1
+- pkg:composer/tanthammar/laravel-rules@6.3.0
+- pkg:composer/tanthammar/laravel-rules@6.3.1

@@ -1,3 +1,4 @@
+- pkg:composer/tempest/cryptography@v1.6.0
 - pkg:composer/tempest/cryptography@v2.0.0
 - pkg:composer/tempest/cryptography@v2.0.1
 - pkg:composer/tempest/cryptography@v2.0.2

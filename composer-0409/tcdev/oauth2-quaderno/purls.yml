@@ -1,2 +1,4 @@
+- pkg:composer/tcdev/oauth2-quaderno@1.0.2
+- pkg:composer/tcdev/oauth2-quaderno@1.0.3
 - pkg:composer/tcdev/oauth2-quaderno@v1.0.0
 - pkg:composer/tcdev/oauth2-quaderno@v1.0.1
