@@ -3,3 +3,4 @@
 - pkg:composer/toflar/cronjob-supervisor@2.0.1
 - pkg:composer/toflar/cronjob-supervisor@2.0.2
 - pkg:composer/toflar/cronjob-supervisor@2.0.3
+- pkg:composer/toflar/cronjob-supervisor@2.1.0
