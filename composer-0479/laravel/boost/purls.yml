@@ -50,3 +50,4 @@
 - pkg:composer/laravel/boost@v1.8.8
 - pkg:composer/laravel/boost@v1.8.9
 - pkg:composer/laravel/boost@v2.0.0
+- pkg:composer/laravel/boost@v2.0.1
