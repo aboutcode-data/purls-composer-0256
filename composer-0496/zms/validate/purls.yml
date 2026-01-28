@@ -1,3 +1,4 @@
+- pkg:composer/zms/validate@1.1.7
 - pkg:composer/zms/validate@v1.0.0
 - pkg:composer/zms/validate@v1.0.1
 - pkg:composer/zms/validate@v1.0.2

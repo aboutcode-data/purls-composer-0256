@@ -28,6 +28,14 @@
 - pkg:composer/yrodevgit/codetazer@v1.7
 - pkg:composer/yrodevgit/codetazer@v1.8
 - pkg:composer/yrodevgit/codetazer@v1.9
+- pkg:composer/yrodevgit/codetazer@v10
+- pkg:composer/yrodevgit/codetazer@v10.1.0
+- pkg:composer/yrodevgit/codetazer@v10.1.1
+- pkg:composer/yrodevgit/codetazer@v10.1.3
+- pkg:composer/yrodevgit/codetazer@v10.1.4
+- pkg:composer/yrodevgit/codetazer@v10.1.5
+- pkg:composer/yrodevgit/codetazer@v10.1.6
+- pkg:composer/yrodevgit/codetazer@v10.1.7
 - pkg:composer/yrodevgit/codetazer@v2.1
 - pkg:composer/yrodevgit/codetazer@v2.2
 - pkg:composer/yrodevgit/codetazer@v2.3
@@ -395,3 +403,9 @@
 - pkg:composer/yrodevgit/codetazer@v9.9
 - pkg:composer/yrodevgit/codetazer@v9.9.1
 - pkg:composer/yrodevgit/codetazer@v9.9.2
+- pkg:composer/yrodevgit/codetazer@v9.9.3
+- pkg:composer/yrodevgit/codetazer@v9.9.4
+- pkg:composer/yrodevgit/codetazer@v9.9.5
+- pkg:composer/yrodevgit/codetazer@v9.9.6
+- pkg:composer/yrodevgit/codetazer@v9.9.7
+- pkg:composer/yrodevgit/codetazer@v9.9.8

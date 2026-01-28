@@ -27,3 +27,4 @@
 - pkg:composer/zone-eu/wildduck-php-client@1.6.4
 - pkg:composer/zone-eu/wildduck-php-client@1.7.0
 - pkg:composer/zone-eu/wildduck-php-client@2.0.0
+- pkg:composer/zone-eu/wildduck-php-client@2.0.1

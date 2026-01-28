@@ -48,6 +48,7 @@
 - pkg:composer/yajra/laravel-datatables-html@v12.4.0
 - pkg:composer/yajra/laravel-datatables-html@v12.5.0
 - pkg:composer/yajra/laravel-datatables-html@v12.6.0
+- pkg:composer/yajra/laravel-datatables-html@v12.7.0
 - pkg:composer/yajra/laravel-datatables-html@v2.0.0
 - pkg:composer/yajra/laravel-datatables-html@v2.0.1
 - pkg:composer/yajra/laravel-datatables-html@v2.0.2
