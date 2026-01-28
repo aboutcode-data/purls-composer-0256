@@ -1,4 +1,4 @@
-- pkg:composer/rikudou/unleash-sdk-bundle@0.12.1
+- pkg:composer/rikudou/unleash-sdk-bundle@0.12.2
 - pkg:composer/rikudou/unleash-sdk-bundle@v0.10.073
 - pkg:composer/rikudou/unleash-sdk-bundle@v0.10.074
 - pkg:composer/rikudou/unleash-sdk-bundle@v0.10.080
@@ -49,6 +49,14 @@
 - pkg:composer/rikudou/unleash-sdk-bundle@v0.12.180
 - pkg:composer/rikudou/unleash-sdk-bundle@v0.12.181
 - pkg:composer/rikudou/unleash-sdk-bundle@v0.12.182
+- pkg:composer/rikudou/unleash-sdk-bundle@v0.12.273
+- pkg:composer/rikudou/unleash-sdk-bundle@v0.12.274
+- pkg:composer/rikudou/unleash-sdk-bundle@v0.12.280
+- pkg:composer/rikudou/unleash-sdk-bundle@v0.12.281
+- pkg:composer/rikudou/unleash-sdk-bundle@v0.12.282
+- pkg:composer/rikudou/unleash-sdk-bundle@v0.12.283
+- pkg:composer/rikudou/unleash-sdk-bundle@v0.12.284
+- pkg:composer/rikudou/unleash-sdk-bundle@v0.12.285
 - pkg:composer/rikudou/unleash-sdk-bundle@v0.9.073
 - pkg:composer/rikudou/unleash-sdk-bundle@v0.9.074
 - pkg:composer/rikudou/unleash-sdk-bundle@v0.9.080
