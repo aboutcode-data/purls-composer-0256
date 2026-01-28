@@ -10,3 +10,4 @@
 - pkg:composer/webgriffe/sylius-nexi-plugin@v1.1.0
 - pkg:composer/webgriffe/sylius-nexi-plugin@v2.0.0
 - pkg:composer/webgriffe/sylius-nexi-plugin@v3.0.0
+- pkg:composer/webgriffe/sylius-nexi-plugin@v4.0.0
