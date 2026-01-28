@@ -56,4 +56,7 @@
 - pkg:composer/puneetxp/compile-php@0.2.15
 - pkg:composer/puneetxp/compile-php@0.2.16
 - pkg:composer/puneetxp/compile-php@0.2.17
+- pkg:composer/puneetxp/compile-php@0.2.18
+- pkg:composer/puneetxp/compile-php@0.2.19
+- pkg:composer/puneetxp/compile-php@0.2.20
 - pkg:composer/puneetxp/compile-php@2.11.1
