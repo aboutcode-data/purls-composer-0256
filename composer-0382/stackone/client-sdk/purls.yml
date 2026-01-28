@@ -27,6 +27,7 @@
 - pkg:composer/stackone/client-sdk@v0.28.2
 - pkg:composer/stackone/client-sdk@v0.28.3
 - pkg:composer/stackone/client-sdk@v0.28.4
+- pkg:composer/stackone/client-sdk@v0.28.5
 - pkg:composer/stackone/client-sdk@v0.3.0
 - pkg:composer/stackone/client-sdk@v0.5.0
 - pkg:composer/stackone/client-sdk@v0.7.0

@@ -1,3 +1,4 @@
 - pkg:composer/subster/php-sdk@v0.0.1
 - pkg:composer/subster/php-sdk@v0.0.2
 - pkg:composer/subster/php-sdk@v0.0.3
+- pkg:composer/subster/php-sdk@v0.0.4
