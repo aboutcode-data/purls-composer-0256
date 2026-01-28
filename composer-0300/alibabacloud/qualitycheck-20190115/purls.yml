@@ -20,3 +20,5 @@
 - pkg:composer/alibabacloud/qualitycheck-20190115@8.5.0
 - pkg:composer/alibabacloud/qualitycheck-20190115@8.5.1
 - pkg:composer/alibabacloud/qualitycheck-20190115@8.5.2
+- pkg:composer/alibabacloud/qualitycheck-20190115@8.5.3
+- pkg:composer/alibabacloud/qualitycheck-20190115@8.5.4
