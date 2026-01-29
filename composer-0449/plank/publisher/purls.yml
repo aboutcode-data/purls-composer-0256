@@ -36,6 +36,7 @@
 - pkg:composer/plank/publisher@v10.1.2
 - pkg:composer/plank/publisher@v10.10.0
 - pkg:composer/plank/publisher@v10.10.1
+- pkg:composer/plank/publisher@v10.10.2
 - pkg:composer/plank/publisher@v10.2.0
 - pkg:composer/plank/publisher@v10.2.1
 - pkg:composer/plank/publisher@v10.2.2
@@ -66,6 +67,7 @@
 - pkg:composer/plank/publisher@v11.1.2
 - pkg:composer/plank/publisher@v11.10.0
 - pkg:composer/plank/publisher@v11.10.1
+- pkg:composer/plank/publisher@v11.10.2
 - pkg:composer/plank/publisher@v11.2.0
 - pkg:composer/plank/publisher@v11.2.1
 - pkg:composer/plank/publisher@v11.2.2
@@ -94,6 +96,7 @@
 - pkg:composer/plank/publisher@v11.9.5
 - pkg:composer/plank/publisher@v12.10.0
 - pkg:composer/plank/publisher@v12.10.1
+- pkg:composer/plank/publisher@v12.10.2
 - pkg:composer/plank/publisher@v12.5.0
 - pkg:composer/plank/publisher@v12.5.1
 - pkg:composer/plank/publisher@v12.6.0
