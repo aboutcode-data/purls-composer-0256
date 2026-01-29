@@ -40,6 +40,7 @@
 - pkg:composer/opentok/opentok@v4.2.0
 - pkg:composer/opentok/opentok@v4.20.0
 - pkg:composer/opentok/opentok@v4.21.0
+- pkg:composer/opentok/opentok@v4.21.1
 - pkg:composer/opentok/opentok@v4.3.0
 - pkg:composer/opentok/opentok@v4.4.0
 - pkg:composer/opentok/opentok@v4.4.1
