@@ -3,3 +3,4 @@
 - pkg:composer/xpaw/steam-openid@v3.0.0
 - pkg:composer/xpaw/steam-openid@v3.1.0
 - pkg:composer/xpaw/steam-openid@v3.1.1
+- pkg:composer/xpaw/steam-openid@v4.0.0
