@@ -38,6 +38,7 @@
 - pkg:composer/aimatchfun/laravel-ai@1.8.0
 - pkg:composer/aimatchfun/laravel-ai@1.9.0
 - pkg:composer/aimatchfun/laravel-ai@1.9.1
+- pkg:composer/aimatchfun/laravel-ai@2.3.0
 - pkg:composer/aimatchfun/laravel-ai@v1.14.0
 - pkg:composer/aimatchfun/laravel-ai@v2.0.0
 - pkg:composer/aimatchfun/laravel-ai@v2.1.0
