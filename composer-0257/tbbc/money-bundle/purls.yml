@@ -12,6 +12,7 @@
 - pkg:composer/tbbc/money-bundle@6.0.5
 - pkg:composer/tbbc/money-bundle@6.1.0
 - pkg:composer/tbbc/money-bundle@7.0
+- pkg:composer/tbbc/money-bundle@7.1
 - pkg:composer/tbbc/money-bundle@v1.0.0
 - pkg:composer/tbbc/money-bundle@v1.1.0
 - pkg:composer/tbbc/money-bundle@v1.2.0

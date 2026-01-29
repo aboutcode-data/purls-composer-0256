@@ -48,4 +48,6 @@
 - pkg:composer/t3g/symfony-template-bundle@4.0.7
 - pkg:composer/t3g/symfony-template-bundle@4.0.8
 - pkg:composer/t3g/symfony-template-bundle@5.0.0
+- pkg:composer/t3g/symfony-template-bundle@5.1.0
+- pkg:composer/t3g/symfony-template-bundle@5.1.1
 - pkg:composer/t3g/symfony-template-bundle@v2.8.0
