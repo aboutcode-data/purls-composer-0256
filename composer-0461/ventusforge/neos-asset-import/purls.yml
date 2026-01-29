@@ -1,1 +1,2 @@
 - pkg:composer/ventusforge/neos-asset-import@0.1.0
+- pkg:composer/ventusforge/neos-asset-import@1.0.0
