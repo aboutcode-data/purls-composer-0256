@@ -6,3 +6,10 @@
 - pkg:composer/backstage/installer@v0.0.7
 - pkg:composer/backstage/installer@v0.0.8
 - pkg:composer/backstage/installer@v0.0.9
+- pkg:composer/backstage/installer@v2.0.0-beta36
+- pkg:composer/backstage/installer@v2.0.0-beta38
+- pkg:composer/backstage/installer@v2.0.0-beta39
+- pkg:composer/backstage/installer@v2.0.0-beta40
+- pkg:composer/backstage/installer@v2.0.0-beta41
+- pkg:composer/backstage/installer@v2.0.0-beta42
+- pkg:composer/backstage/installer@v2.0.0beta-37

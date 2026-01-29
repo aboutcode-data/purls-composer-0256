@@ -18,3 +18,4 @@
 - pkg:composer/asm89/stack-cors@v2.1.1
 - pkg:composer/asm89/stack-cors@v2.2.0
 - pkg:composer/asm89/stack-cors@v2.3.0
+- pkg:composer/asm89/stack-cors@v2.4.0
