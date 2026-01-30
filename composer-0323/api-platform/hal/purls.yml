@@ -4,6 +4,7 @@
 - pkg:composer/api-platform/hal@v4.2.12
 - pkg:composer/api-platform/hal@v4.2.13
 - pkg:composer/api-platform/hal@v4.2.14
+- pkg:composer/api-platform/hal@v4.2.15
 - pkg:composer/api-platform/hal@v4.2.3
 - pkg:composer/api-platform/hal@v4.2.4
 - pkg:composer/api-platform/hal@v4.2.5
