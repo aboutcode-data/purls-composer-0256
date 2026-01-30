@@ -152,6 +152,7 @@
 - pkg:composer/se7enxweb/twig@v2.16.0
 - pkg:composer/se7enxweb/twig@v2.16.1
 - pkg:composer/se7enxweb/twig@v2.16.2
+- pkg:composer/se7enxweb/twig@v2.16.3
 - pkg:composer/se7enxweb/twig@v2.2.0
 - pkg:composer/se7enxweb/twig@v2.3.0
 - pkg:composer/se7enxweb/twig@v2.3.1
