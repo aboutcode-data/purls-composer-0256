@@ -1,1 +1,6 @@
 - pkg:composer/syntexa/core@2025.12.27-alpha
+- pkg:composer/syntexa/core@v1.0.0
+- pkg:composer/syntexa/core@v1.0.1
+- pkg:composer/syntexa/core@v1.0.2
+- pkg:composer/syntexa/core@v1.0.3
+- pkg:composer/syntexa/core@v1.0.4
