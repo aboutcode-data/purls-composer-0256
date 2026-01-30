@@ -46,3 +46,4 @@
 - pkg:composer/thelia/customer-family-module@3.1.9
 - pkg:composer/thelia/customer-family-module@3.2.0
 - pkg:composer/thelia/customer-family-module@3.2.1
+- pkg:composer/thelia/customer-family-module@3.2.2
