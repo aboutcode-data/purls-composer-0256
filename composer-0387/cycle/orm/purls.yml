@@ -83,6 +83,7 @@
 - pkg:composer/cycle/orm@v2.12.1
 - pkg:composer/cycle/orm@v2.12.2
 - pkg:composer/cycle/orm@v2.12.3
+- pkg:composer/cycle/orm@v2.13.0
 - pkg:composer/cycle/orm@v2.2.0
 - pkg:composer/cycle/orm@v2.2.1
 - pkg:composer/cycle/orm@v2.2.2

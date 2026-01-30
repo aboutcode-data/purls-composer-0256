@@ -1,1 +1,4 @@
 - pkg:composer/cweiske/nextcloud_sql_addressbook@v0.1.0
+- pkg:composer/cweiske/nextcloud_sql_addressbook@v0.1.1
+- pkg:composer/cweiske/nextcloud_sql_addressbook@v0.1.2
+- pkg:composer/cweiske/nextcloud_sql_addressbook@v0.2.0

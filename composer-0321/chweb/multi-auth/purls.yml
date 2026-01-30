@@ -1,2 +1,5 @@
 - pkg:composer/chweb/multi-auth@v1.0.1-beta1
 - pkg:composer/chweb/multi-auth@v1.0.2-beta1
+- pkg:composer/chweb/multi-auth@v1.1.0-beta1
+- pkg:composer/chweb/multi-auth@v1.2.0-beta1
+- pkg:composer/chweb/multi-auth@v1.2.1-beta1

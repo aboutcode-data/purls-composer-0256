@@ -52,6 +52,7 @@
 - pkg:composer/contao/package-manager@1.10.6
 - pkg:composer/contao/package-manager@1.10.7
 - pkg:composer/contao/package-manager@1.10.8
+- pkg:composer/contao/package-manager@1.10.9
 - pkg:composer/contao/package-manager@1.2.0
 - pkg:composer/contao/package-manager@1.2.1
 - pkg:composer/contao/package-manager@1.2.2
