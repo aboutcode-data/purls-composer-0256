@@ -21,6 +21,9 @@
 - pkg:composer/devuni/notifier-package@v1.0.22
 - pkg:composer/devuni/notifier-package@v1.0.23
 - pkg:composer/devuni/notifier-package@v1.0.24
+- pkg:composer/devuni/notifier-package@v1.0.25
+- pkg:composer/devuni/notifier-package@v1.0.26
+- pkg:composer/devuni/notifier-package@v1.0.27
 - pkg:composer/devuni/notifier-package@v1.0.3
 - pkg:composer/devuni/notifier-package@v1.0.4
 - pkg:composer/devuni/notifier-package@v1.0.5
@@ -28,3 +31,4 @@
 - pkg:composer/devuni/notifier-package@v1.0.7
 - pkg:composer/devuni/notifier-package@v1.0.8
 - pkg:composer/devuni/notifier-package@v1.0.9
+- pkg:composer/devuni/notifier-package@v2.0.0

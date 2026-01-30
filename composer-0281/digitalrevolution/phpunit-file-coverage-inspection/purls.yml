@@ -17,3 +17,4 @@
 - pkg:composer/digitalrevolution/phpunit-file-coverage-inspection@v3.0.2
 - pkg:composer/digitalrevolution/phpunit-file-coverage-inspection@v3.0.3
 - pkg:composer/digitalrevolution/phpunit-file-coverage-inspection@v3.0.4
+- pkg:composer/digitalrevolution/phpunit-file-coverage-inspection@v3.1.0

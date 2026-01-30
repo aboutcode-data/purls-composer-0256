@@ -23,5 +23,6 @@
 - pkg:composer/dna/magento-2@1.5.0
 - pkg:composer/dna/magento-2@1.6.0
 - pkg:composer/dna/magento-2@1.6.1
+- pkg:composer/dna/magento-2@1.6.2
 - pkg:composer/dna/magento-2@v1.0.0
 - pkg:composer/dna/magento-2@v1.0.1

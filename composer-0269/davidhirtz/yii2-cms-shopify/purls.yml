@@ -9,6 +9,8 @@
 - pkg:composer/davidhirtz/yii2-cms-shopify@2.1.8
 - pkg:composer/davidhirtz/yii2-cms-shopify@2.1.9
 - pkg:composer/davidhirtz/yii2-cms-shopify@2.2.0
+- pkg:composer/davidhirtz/yii2-cms-shopify@2.2.1
+- pkg:composer/davidhirtz/yii2-cms-shopify@2.2.2
 - pkg:composer/davidhirtz/yii2-cms-shopify@v1.0.0
 - pkg:composer/davidhirtz/yii2-cms-shopify@v1.0.1
 - pkg:composer/davidhirtz/yii2-cms-shopify@v1.0.2

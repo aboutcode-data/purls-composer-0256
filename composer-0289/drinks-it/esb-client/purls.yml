@@ -66,6 +66,7 @@
 - pkg:composer/drinks-it/esb-client@2.3.1
 - pkg:composer/drinks-it/esb-client@2.30
 - pkg:composer/drinks-it/esb-client@2.31
+- pkg:composer/drinks-it/esb-client@2.32
 - pkg:composer/drinks-it/esb-client@2.4.0
 - pkg:composer/drinks-it/esb-client@2.5.0
 - pkg:composer/drinks-it/esb-client@2.6.0

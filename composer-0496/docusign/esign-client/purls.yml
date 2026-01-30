@@ -84,3 +84,4 @@
 - pkg:composer/docusign/esign-client@v8.4.0
 - pkg:composer/docusign/esign-client@v8.5.0
 - pkg:composer/docusign/esign-client@v8.6.0
+- pkg:composer/docusign/esign-client@v8.7.0
