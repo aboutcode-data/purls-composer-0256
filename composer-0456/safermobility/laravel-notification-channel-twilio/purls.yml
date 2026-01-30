@@ -7,3 +7,4 @@
 - pkg:composer/safermobility/laravel-notification-channel-twilio@6.0.1
 - pkg:composer/safermobility/laravel-notification-channel-twilio@6.0.2
 - pkg:composer/safermobility/laravel-notification-channel-twilio@6.0.3
+- pkg:composer/safermobility/laravel-notification-channel-twilio@6.0.4
