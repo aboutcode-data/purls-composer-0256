@@ -13,6 +13,9 @@
 - pkg:composer/bit-badger/pdo-document@v1.0.0-beta9
 - pkg:composer/bit-badger/pdo-document@v1.0.0-rc1
 - pkg:composer/bit-badger/pdo-document@v1.1.0
+- pkg:composer/bit-badger/pdo-document@v1.2.0
 - pkg:composer/bit-badger/pdo-document@v2.0.0
 - pkg:composer/bit-badger/pdo-document@v2.0.0-rc1
 - pkg:composer/bit-badger/pdo-document@v2.1.0
+- pkg:composer/bit-badger/pdo-document@v2.2.0
+- pkg:composer/bit-badger/pdo-document@v3.0.0

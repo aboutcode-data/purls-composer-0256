@@ -63,8 +63,16 @@
 - pkg:composer/chappy-php/chappy-php-framework@v1.3.9
 - pkg:composer/chappy-php/chappy-php-framework@v1.4
 - pkg:composer/chappy-php/chappy-php-framework@v1.4.1
+- pkg:composer/chappy-php/chappy-php-framework@v1.4.10
+- pkg:composer/chappy-php/chappy-php-framework@v1.4.11
+- pkg:composer/chappy-php/chappy-php-framework@v1.4.12
 - pkg:composer/chappy-php/chappy-php-framework@v1.4.2
 - pkg:composer/chappy-php/chappy-php-framework@v1.4.3
 - pkg:composer/chappy-php/chappy-php-framework@v1.4.4
 - pkg:composer/chappy-php/chappy-php-framework@v1.4.5
 - pkg:composer/chappy-php/chappy-php-framework@v1.4.6
+- pkg:composer/chappy-php/chappy-php-framework@v1.4.7
+- pkg:composer/chappy-php/chappy-php-framework@v1.4.8
+- pkg:composer/chappy-php/chappy-php-framework@v1.4.9
+- pkg:composer/chappy-php/chappy-php-framework@v2.0.0
+- pkg:composer/chappy-php/chappy-php-framework@v2.0.1
