@@ -32,6 +32,7 @@
 - pkg:composer/wyrihaximus/phpstan-rules-wrapper@10.9.0
 - pkg:composer/wyrihaximus/phpstan-rules-wrapper@11.0.0
 - pkg:composer/wyrihaximus/phpstan-rules-wrapper@12.0.0
+- pkg:composer/wyrihaximus/phpstan-rules-wrapper@12.1.0
 - pkg:composer/wyrihaximus/phpstan-rules-wrapper@2.0.0
 - pkg:composer/wyrihaximus/phpstan-rules-wrapper@2.0.1
 - pkg:composer/wyrihaximus/phpstan-rules-wrapper@2.0.2
