@@ -52,6 +52,7 @@
 - pkg:composer/vanilla/garden-schema@v4.4.3
 - pkg:composer/vanilla/garden-schema@v5.0.0
 - pkg:composer/vanilla/garden-schema@v5.1.0
+- pkg:composer/vanilla/garden-schema@v5.2.0
 - pkg:composer/vanilla/garden-schema@v5.2.0-beta
 - pkg:composer/vanilla/garden-schema@v5.2.0-beta2
 - pkg:composer/vanilla/garden-schema@v5.2.0-beta3
@@ -59,3 +60,4 @@
 - pkg:composer/vanilla/garden-schema@v5.2.0-beta5
 - pkg:composer/vanilla/garden-schema@v5.2.0-beta6
 - pkg:composer/vanilla/garden-schema@v5.2.0-beta7
+- pkg:composer/vanilla/garden-schema@v5.2.1
