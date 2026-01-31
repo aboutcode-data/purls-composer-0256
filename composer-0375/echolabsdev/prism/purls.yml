@@ -131,6 +131,10 @@
 - pkg:composer/echolabsdev/prism@v0.99.13
 - pkg:composer/echolabsdev/prism@v0.99.14
 - pkg:composer/echolabsdev/prism@v0.99.15
+- pkg:composer/echolabsdev/prism@v0.99.16
+- pkg:composer/echolabsdev/prism@v0.99.17
+- pkg:composer/echolabsdev/prism@v0.99.18
+- pkg:composer/echolabsdev/prism@v0.99.19
 - pkg:composer/echolabsdev/prism@v0.99.2
 - pkg:composer/echolabsdev/prism@v0.99.3
 - pkg:composer/echolabsdev/prism@v0.99.4

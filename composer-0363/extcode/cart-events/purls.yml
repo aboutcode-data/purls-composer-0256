@@ -30,3 +30,4 @@
 - pkg:composer/extcode/cart-events@v4.1.0
 - pkg:composer/extcode/cart-events@v4.1.2
 - pkg:composer/extcode/cart-events@v5.0.0
+- pkg:composer/extcode/cart-events@v5.1.0

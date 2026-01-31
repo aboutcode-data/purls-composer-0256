@@ -1,1 +1,2 @@
 - pkg:composer/exads/twilio-sdk@1.0
+- pkg:composer/exads/twilio-sdk@2.0

@@ -28,6 +28,7 @@
 - pkg:composer/extcode/cart@v10.2.8
 - pkg:composer/extcode/cart@v10.2.9
 - pkg:composer/extcode/cart@v10.3.0
+- pkg:composer/extcode/cart@v10.3.1
 - pkg:composer/extcode/cart@v11.0.0
 - pkg:composer/extcode/cart@v11.0.1
 - pkg:composer/extcode/cart@v11.1.0
@@ -50,6 +51,7 @@
 - pkg:composer/extcode/cart@v11.5.0
 - pkg:composer/extcode/cart@v11.6.0
 - pkg:composer/extcode/cart@v11.7.0
+- pkg:composer/extcode/cart@v11.7.1
 - pkg:composer/extcode/cart@v2.0.0
 - pkg:composer/extcode/cart@v2.4.3
 - pkg:composer/extcode/cart@v3.0.0
