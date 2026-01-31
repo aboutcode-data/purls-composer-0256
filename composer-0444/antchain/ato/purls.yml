@@ -32,6 +32,7 @@
 - pkg:composer/antchain/ato@1.16.35
 - pkg:composer/antchain/ato@1.16.66
 - pkg:composer/antchain/ato@1.19.2
+- pkg:composer/antchain/ato@1.19.3
 - pkg:composer/antchain/ato@1.7.13
 - pkg:composer/antchain/ato@1.7.14
 - pkg:composer/antchain/ato@1.7.15
