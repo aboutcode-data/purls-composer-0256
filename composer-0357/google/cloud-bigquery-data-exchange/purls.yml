@@ -25,3 +25,4 @@
 - pkg:composer/google/cloud-bigquery-data-exchange@v0.5.2
 - pkg:composer/google/cloud-bigquery-data-exchange@v0.6.0
 - pkg:composer/google/cloud-bigquery-data-exchange@v0.6.1
+- pkg:composer/google/cloud-bigquery-data-exchange@v0.6.2

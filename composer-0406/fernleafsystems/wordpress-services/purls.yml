@@ -183,6 +183,7 @@
 - pkg:composer/fernleafsystems/wordpress-services@3.12.4
 - pkg:composer/fernleafsystems/wordpress-services@3.12.5
 - pkg:composer/fernleafsystems/wordpress-services@3.13.0
+- pkg:composer/fernleafsystems/wordpress-services@3.13.1
 - pkg:composer/fernleafsystems/wordpress-services@3.2.0
 - pkg:composer/fernleafsystems/wordpress-services@3.2.1
 - pkg:composer/fernleafsystems/wordpress-services@3.2.2

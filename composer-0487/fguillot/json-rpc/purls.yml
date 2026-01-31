@@ -17,3 +17,4 @@
 - pkg:composer/fguillot/json-rpc@v1.2.8
 - pkg:composer/fguillot/json-rpc@v1.3.0
 - pkg:composer/fguillot/json-rpc@v1.3.1
+- pkg:composer/fguillot/json-rpc@v1.4.0

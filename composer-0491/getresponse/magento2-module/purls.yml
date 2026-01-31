@@ -40,3 +40,4 @@
 - pkg:composer/getresponse/magento2-module@1.4.0
 - pkg:composer/getresponse/magento2-module@1.4.1
 - pkg:composer/getresponse/magento2-module@1.4.2
+- pkg:composer/getresponse/magento2-module@2.0.0
