@@ -19,3 +19,4 @@
 - pkg:composer/storyblok/php-management-api-client@v1.0.8
 - pkg:composer/storyblok/php-management-api-client@v1.0.9
 - pkg:composer/storyblok/php-management-api-client@v1.1.0
+- pkg:composer/storyblok/php-management-api-client@v1.1.1
