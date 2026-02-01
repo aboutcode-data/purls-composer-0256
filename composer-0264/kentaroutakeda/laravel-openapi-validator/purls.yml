@@ -13,6 +13,7 @@
 - pkg:composer/kentaroutakeda/laravel-openapi-validator@v0.9.0
 - pkg:composer/kentaroutakeda/laravel-openapi-validator@v1.0.0
 - pkg:composer/kentaroutakeda/laravel-openapi-validator@v1.1.0
+- pkg:composer/kentaroutakeda/laravel-openapi-validator@v1.10.0
 - pkg:composer/kentaroutakeda/laravel-openapi-validator@v1.2.0
 - pkg:composer/kentaroutakeda/laravel-openapi-validator@v1.3.0
 - pkg:composer/kentaroutakeda/laravel-openapi-validator@v1.4.0

@@ -3,3 +3,5 @@
 - pkg:composer/kipchak/driver-http@1.2
 - pkg:composer/kipchak/driver-http@1.3
 - pkg:composer/kipchak/driver-http@1.4
+- pkg:composer/kipchak/driver-http@1.5
+- pkg:composer/kipchak/driver-http@1.6
