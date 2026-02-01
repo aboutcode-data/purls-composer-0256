@@ -5,3 +5,4 @@
 - pkg:composer/dbout/wp-module-rest-api@1.1.0
 - pkg:composer/dbout/wp-module-rest-api@1.1.1
 - pkg:composer/dbout/wp-module-rest-api@v1.2.0
+- pkg:composer/dbout/wp-module-rest-api@v1.2.1
