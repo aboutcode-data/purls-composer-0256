@@ -42,6 +42,7 @@
 - pkg:composer/lara-zeus/core@4.0.1
 - pkg:composer/lara-zeus/core@4.0.2
 - pkg:composer/lara-zeus/core@4.0.3
+- pkg:composer/lara-zeus/core@4.0.4
 - pkg:composer/lara-zeus/core@v3.0.0
 - pkg:composer/lara-zeus/core@v3.0.0-beta1
 - pkg:composer/lara-zeus/core@v3.0.0-beta10

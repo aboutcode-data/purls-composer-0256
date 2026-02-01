@@ -18,3 +18,5 @@
 - pkg:composer/macpaw/behat-api-context@v1.3.6
 - pkg:composer/macpaw/behat-api-context@v1.4.0
 - pkg:composer/macpaw/behat-api-context@v2.0.0
+- pkg:composer/macpaw/behat-api-context@v3.0.0
+- pkg:composer/macpaw/behat-api-context@v3.0.1
