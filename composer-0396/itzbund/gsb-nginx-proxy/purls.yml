@@ -124,3 +124,4 @@
 - pkg:composer/itzbund/gsb-nginx-proxy@v2.0.1-rc.3
 - pkg:composer/itzbund/gsb-nginx-proxy@v2.0.2
 - pkg:composer/itzbund/gsb-nginx-proxy@v2.0.3
+- pkg:composer/itzbund/gsb-nginx-proxy@v2.0.4

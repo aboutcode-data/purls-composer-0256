@@ -26,3 +26,4 @@
 - pkg:composer/jeremy379/laravel-openid-connect@3.0.3
 - pkg:composer/jeremy379/laravel-openid-connect@3.0.4
 - pkg:composer/jeremy379/laravel-openid-connect@3.0.5
+- pkg:composer/jeremy379/laravel-openid-connect@3.1.0

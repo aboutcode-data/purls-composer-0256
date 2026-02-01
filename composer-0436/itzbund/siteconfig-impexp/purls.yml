@@ -113,4 +113,5 @@
 - pkg:composer/itzbund/siteconfig-impexp@v2.0.1-rc.3
 - pkg:composer/itzbund/siteconfig-impexp@v2.0.2
 - pkg:composer/itzbund/siteconfig-impexp@v2.0.3
+- pkg:composer/itzbund/siteconfig-impexp@v2.1.0
 - pkg:composer/itzbund/siteconfig-impexp@v2.1.0-rc.1

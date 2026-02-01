@@ -26,3 +26,4 @@
 - pkg:composer/jelix/saml-module@v2.4.0
 - pkg:composer/jelix/saml-module@v2.4.1
 - pkg:composer/jelix/saml-module@v2.5.0
+- pkg:composer/jelix/saml-module@v2.6.0
