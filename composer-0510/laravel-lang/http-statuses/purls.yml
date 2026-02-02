@@ -6,6 +6,7 @@
 - pkg:composer/laravel-lang/http-statuses@3.10.5
 - pkg:composer/laravel-lang/http-statuses@3.11.0
 - pkg:composer/laravel-lang/http-statuses@3.11.1
+- pkg:composer/laravel-lang/http-statuses@3.12.0
 - pkg:composer/laravel-lang/http-statuses@3.5.0
 - pkg:composer/laravel-lang/http-statuses@3.6.0
 - pkg:composer/laravel-lang/http-statuses@3.6.1

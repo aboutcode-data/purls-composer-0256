@@ -18,6 +18,7 @@
 - pkg:composer/laravel/pennant@v1.18.3
 - pkg:composer/laravel/pennant@v1.18.4
 - pkg:composer/laravel/pennant@v1.18.5
+- pkg:composer/laravel/pennant@v1.19.0
 - pkg:composer/laravel/pennant@v1.2.0
 - pkg:composer/laravel/pennant@v1.2.1
 - pkg:composer/laravel/pennant@v1.3.0
