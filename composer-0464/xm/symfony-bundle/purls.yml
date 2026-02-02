@@ -151,6 +151,7 @@
 - pkg:composer/xm/symfony-bundle@v2.0.103
 - pkg:composer/xm/symfony-bundle@v2.0.104
 - pkg:composer/xm/symfony-bundle@v2.0.105
+- pkg:composer/xm/symfony-bundle@v2.0.106
 - pkg:composer/xm/symfony-bundle@v2.0.11
 - pkg:composer/xm/symfony-bundle@v2.0.12
 - pkg:composer/xm/symfony-bundle@v2.0.13
