@@ -67,3 +67,4 @@
 - pkg:composer/heimrichhannot/contao-google-maps-bundle@2.8.2
 - pkg:composer/heimrichhannot/contao-google-maps-bundle@2.9.0
 - pkg:composer/heimrichhannot/contao-google-maps-bundle@3.0.0-beta1
+- pkg:composer/heimrichhannot/contao-google-maps-bundle@3.0.0-beta2
