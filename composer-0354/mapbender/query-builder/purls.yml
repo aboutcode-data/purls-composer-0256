@@ -15,3 +15,4 @@
 - pkg:composer/mapbender/query-builder@1.2.6
 - pkg:composer/mapbender/query-builder@2.0.0
 - pkg:composer/mapbender/query-builder@2.0.1
+- pkg:composer/mapbender/query-builder@2.0.2
