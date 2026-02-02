@@ -71,3 +71,5 @@
 - pkg:composer/codeigniter4/framework@v4.6.2
 - pkg:composer/codeigniter4/framework@v4.6.3
 - pkg:composer/codeigniter4/framework@v4.6.4
+- pkg:composer/codeigniter4/framework@v4.6.5
+- pkg:composer/codeigniter4/framework@v4.7.0
