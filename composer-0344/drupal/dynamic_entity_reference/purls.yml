@@ -8,3 +8,4 @@
 - pkg:composer/drupal/dynamic_entity_reference@4.0.0-alpha3
 - pkg:composer/drupal/dynamic_entity_reference@4.0.0-alpha4
 - pkg:composer/drupal/dynamic_entity_reference@4.0.0-alpha5
+- pkg:composer/drupal/dynamic_entity_reference@4.0.0-alpha6
