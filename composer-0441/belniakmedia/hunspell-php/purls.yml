@@ -2,5 +2,6 @@
 - pkg:composer/belniakmedia/hunspell-php@2.0.0
 - pkg:composer/belniakmedia/hunspell-php@3.0.0
 - pkg:composer/belniakmedia/hunspell-php@4.0.0
+- pkg:composer/belniakmedia/hunspell-php@4.0.1
 - pkg:composer/belniakmedia/hunspell-php@v1.0
 - pkg:composer/belniakmedia/hunspell-php@v1.1
