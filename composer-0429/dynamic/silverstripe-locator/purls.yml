@@ -33,3 +33,4 @@
 - pkg:composer/dynamic/silverstripe-locator@4.0.0
 - pkg:composer/dynamic/silverstripe-locator@4.0.1
 - pkg:composer/dynamic/silverstripe-locator@4.0.2
+- pkg:composer/dynamic/silverstripe-locator@5.0.0

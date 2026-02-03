@@ -70,6 +70,7 @@
 - pkg:composer/draw/workflow@0.34.0
 - pkg:composer/draw/workflow@0.35.0
 - pkg:composer/draw/workflow@0.36.0
+- pkg:composer/draw/workflow@0.37.0
 - pkg:composer/draw/workflow@0.9.26
 - pkg:composer/draw/workflow@0.9.27
 - pkg:composer/draw/workflow@0.9.28
