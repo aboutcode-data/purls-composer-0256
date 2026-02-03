@@ -1,4 +1,5 @@
 - pkg:composer/beholdr/laravel-helpers@v0.0.1
+- pkg:composer/beholdr/laravel-helpers@v0.10.0
 - pkg:composer/beholdr/laravel-helpers@v0.2.0
 - pkg:composer/beholdr/laravel-helpers@v0.3.0
 - pkg:composer/beholdr/laravel-helpers@v0.4.0
