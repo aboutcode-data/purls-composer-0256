@@ -69,3 +69,5 @@
 - pkg:composer/laurentmuller/highcharts-bundle@3.0.2
 - pkg:composer/laurentmuller/highcharts-bundle@3.0.3
 - pkg:composer/laurentmuller/highcharts-bundle@3.0.4
+- pkg:composer/laurentmuller/highcharts-bundle@3.0.5
+- pkg:composer/laurentmuller/highcharts-bundle@4.0.0
