@@ -1,2 +1,3 @@
 - pkg:composer/import-ai/flarum-generic-oauth@v1.0.1
 - pkg:composer/import-ai/flarum-generic-oauth@v1.0.2
+- pkg:composer/import-ai/flarum-generic-oauth@v1.0.3
