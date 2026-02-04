@@ -6,6 +6,7 @@
 - pkg:composer/ibexa/rector@v4.6.24
 - pkg:composer/ibexa/rector@v4.6.25
 - pkg:composer/ibexa/rector@v4.6.26
+- pkg:composer/ibexa/rector@v4.6.27
 - pkg:composer/ibexa/rector@v5.0.0
 - pkg:composer/ibexa/rector@v5.0.0-beta1
 - pkg:composer/ibexa/rector@v5.0.0-rc1
