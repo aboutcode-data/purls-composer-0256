@@ -304,6 +304,7 @@
 - pkg:composer/bedita/manager@v5.17.2
 - pkg:composer/bedita/manager@v5.17.3
 - pkg:composer/bedita/manager@v5.18.0
+- pkg:composer/bedita/manager@v5.19.0
 - pkg:composer/bedita/manager@v5.2.0
 - pkg:composer/bedita/manager@v5.3.0
 - pkg:composer/bedita/manager@v5.3.1
@@ -362,3 +363,4 @@
 - pkg:composer/bedita/manager@v6.2.4
 - pkg:composer/bedita/manager@v6.3.0
 - pkg:composer/bedita/manager@v6.3.1
+- pkg:composer/bedita/manager@v6.4.0
