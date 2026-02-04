@@ -20,6 +20,7 @@
 - pkg:composer/neclimdul/openapi-php-helper@2.0.0-alpha8
 - pkg:composer/neclimdul/openapi-php-helper@2.0.1
 - pkg:composer/neclimdul/openapi-php-helper@2.0.2
+- pkg:composer/neclimdul/openapi-php-helper@2.1.0
 - pkg:composer/neclimdul/openapi-php-helper@v0.0.1
 - pkg:composer/neclimdul/openapi-php-helper@v0.0.10
 - pkg:composer/neclimdul/openapi-php-helper@v0.0.11
