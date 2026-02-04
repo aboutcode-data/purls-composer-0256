@@ -34,3 +34,4 @@
 - pkg:composer/designmynight/laravel-mongodb-passport@v4.0.8
 - pkg:composer/designmynight/laravel-mongodb-passport@v4.0.9
 - pkg:composer/designmynight/laravel-mongodb-passport@v4.10.0
+- pkg:composer/designmynight/laravel-mongodb-passport@v5.0.0
