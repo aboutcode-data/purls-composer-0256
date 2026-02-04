@@ -15,6 +15,7 @@
 - pkg:composer/fsi/resource-repository-bundle@3.0.4
 - pkg:composer/fsi/resource-repository-bundle@3.0.5
 - pkg:composer/fsi/resource-repository-bundle@3.0.6
+- pkg:composer/fsi/resource-repository-bundle@4.0.0
 - pkg:composer/fsi/resource-repository-bundle@v1.0.0
 - pkg:composer/fsi/resource-repository-bundle@v1.0.1
 - pkg:composer/fsi/resource-repository-bundle@v1.0.2

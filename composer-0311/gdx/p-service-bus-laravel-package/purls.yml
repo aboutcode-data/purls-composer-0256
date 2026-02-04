@@ -14,3 +14,4 @@
 - pkg:composer/gdx/p-service-bus-laravel-package@2.3.0
 - pkg:composer/gdx/p-service-bus-laravel-package@2.4.0
 - pkg:composer/gdx/p-service-bus-laravel-package@2.5.0
+- pkg:composer/gdx/p-service-bus-laravel-package@2.6.0
