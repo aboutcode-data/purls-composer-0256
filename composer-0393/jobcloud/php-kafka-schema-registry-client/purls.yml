@@ -14,3 +14,4 @@
 - pkg:composer/jobcloud/php-kafka-schema-registry-client@v2.1.0
 - pkg:composer/jobcloud/php-kafka-schema-registry-client@v2.1.1
 - pkg:composer/jobcloud/php-kafka-schema-registry-client@v2.2.0
+- pkg:composer/jobcloud/php-kafka-schema-registry-client@v3.0.0
