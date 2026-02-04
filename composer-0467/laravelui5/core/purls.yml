@@ -58,3 +58,4 @@
 - pkg:composer/laravelui5/core@v3.0.2
 - pkg:composer/laravelui5/core@v3.0.3
 - pkg:composer/laravelui5/core@v3.0.4
+- pkg:composer/laravelui5/core@v3.1.0

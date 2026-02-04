@@ -54,3 +54,4 @@
 - pkg:composer/laradumps/laradumps-core@v3.2.9
 - pkg:composer/laradumps/laradumps-core@v4.0.0
 - pkg:composer/laradumps/laradumps-core@v4.0.1
+- pkg:composer/laradumps/laradumps-core@v4.0.2

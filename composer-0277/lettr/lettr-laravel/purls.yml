@@ -5,3 +5,6 @@
 - pkg:composer/lettr/lettr-laravel@v0.5.0
 - pkg:composer/lettr/lettr-laravel@v0.6.0
 - pkg:composer/lettr/lettr-laravel@v0.7.0
+- pkg:composer/lettr/lettr-laravel@v0.8.0
+- pkg:composer/lettr/lettr-laravel@v0.9.0
+- pkg:composer/lettr/lettr-laravel@v0.9.1
