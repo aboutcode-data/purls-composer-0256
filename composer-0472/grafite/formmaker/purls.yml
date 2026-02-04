@@ -253,3 +253,4 @@
 - pkg:composer/grafite/formmaker@v7.2.2
 - pkg:composer/grafite/formmaker@v7.2.3
 - pkg:composer/grafite/formmaker@v7.2.4
+- pkg:composer/grafite/formmaker@v7.3.0
