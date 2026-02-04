@@ -72,3 +72,5 @@
 - pkg:composer/meilisearch/meilisearch-php@v2.0.0-beta.1
 - pkg:composer/meilisearch/meilisearch-php@v2.0.0-beta.2
 - pkg:composer/meilisearch/meilisearch-php@v2.0.0-beta.3
+- pkg:composer/meilisearch/meilisearch-php@v2.0.0-beta.4
+- pkg:composer/meilisearch/meilisearch-php@v2.0.0-beta.5
