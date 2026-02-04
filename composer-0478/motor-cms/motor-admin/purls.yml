@@ -36,6 +36,7 @@
 - pkg:composer/motor-cms/motor-admin@2026.5.2-RC
 - pkg:composer/motor-cms/motor-admin@2026.5.3-RC
 - pkg:composer/motor-cms/motor-admin@2026.5.4-RC
+- pkg:composer/motor-cms/motor-admin@2026.6.3
 - pkg:composer/motor-cms/motor-admin@3.0.1
 - pkg:composer/motor-cms/motor-admin@3.1.1
 - pkg:composer/motor-cms/motor-admin@3.10.0
