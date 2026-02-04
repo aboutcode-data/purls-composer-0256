@@ -10,3 +10,6 @@
 - pkg:composer/netresearch/agent-typo3-testing@v4.0.0
 - pkg:composer/netresearch/agent-typo3-testing@v4.1.0
 - pkg:composer/netresearch/agent-typo3-testing@v5.0.0
+- pkg:composer/netresearch/agent-typo3-testing@v5.1.0
+- pkg:composer/netresearch/agent-typo3-testing@v5.2.0
+- pkg:composer/netresearch/agent-typo3-testing@v5.2.1

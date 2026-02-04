@@ -43,3 +43,5 @@
 - pkg:composer/online-payments/sdk-php@7.3.1
 - pkg:composer/online-payments/sdk-php@7.4.0
 - pkg:composer/online-payments/sdk-php@7.5.0
+- pkg:composer/online-payments/sdk-php@8.0.0
+- pkg:composer/online-payments/sdk-php@8.0.1

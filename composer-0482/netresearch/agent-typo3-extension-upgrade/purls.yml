@@ -6,3 +6,6 @@
 - pkg:composer/netresearch/agent-typo3-extension-upgrade@v2.0.0
 - pkg:composer/netresearch/agent-typo3-extension-upgrade@v2.0.1
 - pkg:composer/netresearch/agent-typo3-extension-upgrade@v2.0.2
+- pkg:composer/netresearch/agent-typo3-extension-upgrade@v3.0.0
+- pkg:composer/netresearch/agent-typo3-extension-upgrade@v3.1.0
+- pkg:composer/netresearch/agent-typo3-extension-upgrade@v3.1.1
