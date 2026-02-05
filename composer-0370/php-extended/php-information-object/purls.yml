@@ -77,6 +77,7 @@
 - pkg:composer/php-extended/php-information-object@18.5.0
 - pkg:composer/php-extended/php-information-object@18.5.1
 - pkg:composer/php-extended/php-information-object@18.5.10
+- pkg:composer/php-extended/php-information-object@18.5.11
 - pkg:composer/php-extended/php-information-object@18.5.2
 - pkg:composer/php-extended/php-information-object@18.5.3
 - pkg:composer/php-extended/php-information-object@18.5.4

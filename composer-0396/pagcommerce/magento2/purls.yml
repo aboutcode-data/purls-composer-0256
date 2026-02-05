@@ -28,3 +28,4 @@
 - pkg:composer/pagcommerce/magento2@1.6.6
 - pkg:composer/pagcommerce/magento2@1.6.7
 - pkg:composer/pagcommerce/magento2@1.6.8
+- pkg:composer/pagcommerce/magento2@1.6.9

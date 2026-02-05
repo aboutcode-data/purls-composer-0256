@@ -3,3 +3,4 @@
 - pkg:composer/paneon/php-to-typescript@v2.0.0
 - pkg:composer/paneon/php-to-typescript@v2.1.0
 - pkg:composer/paneon/php-to-typescript@v2.2.0
+- pkg:composer/paneon/php-to-typescript@v2.2.2

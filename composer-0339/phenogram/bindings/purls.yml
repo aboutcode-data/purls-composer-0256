@@ -19,3 +19,6 @@
 - pkg:composer/phenogram/bindings@5.2.0
 - pkg:composer/phenogram/bindings@5.3.0
 - pkg:composer/phenogram/bindings@5.4.0
+- pkg:composer/phenogram/bindings@5.4.1
+- pkg:composer/phenogram/bindings@5.5.0
+- pkg:composer/phenogram/bindings@5.5.1

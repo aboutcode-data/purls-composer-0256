@@ -41,6 +41,7 @@
 - pkg:composer/phpro/grumphp-shim@v2.16.0
 - pkg:composer/phpro/grumphp-shim@v2.17.0
 - pkg:composer/phpro/grumphp-shim@v2.18.0
+- pkg:composer/phpro/grumphp-shim@v2.19.0
 - pkg:composer/phpro/grumphp-shim@v2.2.0
 - pkg:composer/phpro/grumphp-shim@v2.3.0
 - pkg:composer/phpro/grumphp-shim@v2.4.0

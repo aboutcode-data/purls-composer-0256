@@ -32,3 +32,4 @@
 - pkg:composer/php-collective/code-sniffer@0.4.6
 - pkg:composer/php-collective/code-sniffer@0.5.0
 - pkg:composer/php-collective/code-sniffer@0.5.1
+- pkg:composer/php-collective/code-sniffer@0.5.2

@@ -294,3 +294,4 @@
 - pkg:composer/pantheon-systems/wordpress-composer@6.8.2
 - pkg:composer/pantheon-systems/wordpress-composer@6.8.3
 - pkg:composer/pantheon-systems/wordpress-composer@6.9
+- pkg:composer/pantheon-systems/wordpress-composer@6.9.1

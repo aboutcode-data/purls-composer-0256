@@ -33,3 +33,4 @@
 - pkg:composer/php-extended/php-json-schema-object@8.2.4
 - pkg:composer/php-extended/php-json-schema-object@8.2.5
 - pkg:composer/php-extended/php-json-schema-object@8.2.6
+- pkg:composer/php-extended/php-json-schema-object@8.2.7
