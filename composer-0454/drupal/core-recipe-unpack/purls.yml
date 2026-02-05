@@ -20,3 +20,4 @@
 - pkg:composer/drupal/core-recipe-unpack@11.3.0-rc2
 - pkg:composer/drupal/core-recipe-unpack@11.3.1
 - pkg:composer/drupal/core-recipe-unpack@11.3.2
+- pkg:composer/drupal/core-recipe-unpack@11.3.3
