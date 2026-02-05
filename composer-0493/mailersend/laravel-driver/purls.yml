@@ -22,3 +22,4 @@
 - pkg:composer/mailersend/laravel-driver@v2.8.0
 - pkg:composer/mailersend/laravel-driver@v2.9.0
 - pkg:composer/mailersend/laravel-driver@v2.9.1
+- pkg:composer/mailersend/laravel-driver@v3.0.0
