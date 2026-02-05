@@ -106,6 +106,8 @@
 - pkg:composer/ricardomartins/pagbank-woocommerce@4.5.0
 - pkg:composer/ricardomartins/pagbank-woocommerce@4.50.0
 - pkg:composer/ricardomartins/pagbank-woocommerce@4.50.1
+- pkg:composer/ricardomartins/pagbank-woocommerce@4.50.2
+- pkg:composer/ricardomartins/pagbank-woocommerce@4.50.3
 - pkg:composer/ricardomartins/pagbank-woocommerce@4.6.0
 - pkg:composer/ricardomartins/pagbank-woocommerce@4.6.1
 - pkg:composer/ricardomartins/pagbank-woocommerce@4.6.2

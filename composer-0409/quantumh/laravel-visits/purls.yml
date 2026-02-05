@@ -62,6 +62,7 @@
 - pkg:composer/quantumh/laravel-visits@v3.0.9
 - pkg:composer/quantumh/laravel-visits@v4.0.0
 - pkg:composer/quantumh/laravel-visits@v4.0.1
+- pkg:composer/quantumh/laravel-visits@v4.0.10
 - pkg:composer/quantumh/laravel-visits@v4.0.2
 - pkg:composer/quantumh/laravel-visits@v4.0.3
 - pkg:composer/quantumh/laravel-visits@v4.0.4
@@ -69,3 +70,4 @@
 - pkg:composer/quantumh/laravel-visits@v4.0.6
 - pkg:composer/quantumh/laravel-visits@v4.0.7
 - pkg:composer/quantumh/laravel-visits@v4.0.8
+- pkg:composer/quantumh/laravel-visits@v4.0.9
