@@ -843,6 +843,7 @@
 - pkg:composer/filament/support@v4.6.1
 - pkg:composer/filament/support@v4.6.2
 - pkg:composer/filament/support@v4.6.3
+- pkg:composer/filament/support@v4.7.0
 - pkg:composer/filament/support@v5.0.0
 - pkg:composer/filament/support@v5.0.0-beta1
 - pkg:composer/filament/support@v5.0.0-beta2
@@ -857,3 +858,4 @@
 - pkg:composer/filament/support@v5.1.1
 - pkg:composer/filament/support@v5.1.2
 - pkg:composer/filament/support@v5.1.3
+- pkg:composer/filament/support@v5.2.0
