@@ -1,3 +1,5 @@
 - pkg:composer/leuchtfeuer/mautic-companytimeline-bundle@1.0.1
 - pkg:composer/leuchtfeuer/mautic-companytimeline-bundle@1.1.0
+- pkg:composer/leuchtfeuer/mautic-companytimeline-bundle@5.0.0
 - pkg:composer/leuchtfeuer/mautic-companytimeline-bundle@6.1.1
+- pkg:composer/leuchtfeuer/mautic-companytimeline-bundle@6.1.2

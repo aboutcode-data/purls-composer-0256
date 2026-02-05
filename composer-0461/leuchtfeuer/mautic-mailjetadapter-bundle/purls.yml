@@ -11,3 +11,4 @@
 - pkg:composer/leuchtfeuer/mautic-mailjetadapter-bundle@1.0.7
 - pkg:composer/leuchtfeuer/mautic-mailjetadapter-bundle@1.0.8
 - pkg:composer/leuchtfeuer/mautic-mailjetadapter-bundle@1.0.9
+- pkg:composer/leuchtfeuer/mautic-mailjetadapter-bundle@5.0.0

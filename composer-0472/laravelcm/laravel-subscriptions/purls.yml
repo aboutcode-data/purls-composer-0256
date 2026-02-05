@@ -11,3 +11,5 @@
 - pkg:composer/laravelcm/laravel-subscriptions@v1.5
 - pkg:composer/laravelcm/laravel-subscriptions@v1.6
 - pkg:composer/laravelcm/laravel-subscriptions@v1.7
+- pkg:composer/laravelcm/laravel-subscriptions@v1.7.1
+- pkg:composer/laravelcm/laravel-subscriptions@v1.7.2
