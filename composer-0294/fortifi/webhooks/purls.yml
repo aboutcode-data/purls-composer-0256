@@ -35,6 +35,7 @@
 - pkg:composer/fortifi/webhooks@3.21.0
 - pkg:composer/fortifi/webhooks@3.22.0
 - pkg:composer/fortifi/webhooks@3.23.0
+- pkg:composer/fortifi/webhooks@3.24.0
 - pkg:composer/fortifi/webhooks@3.3.0
 - pkg:composer/fortifi/webhooks@3.4.0
 - pkg:composer/fortifi/webhooks@3.5.0
