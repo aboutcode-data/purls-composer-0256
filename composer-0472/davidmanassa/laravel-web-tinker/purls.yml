@@ -1,6 +1,7 @@
 - pkg:composer/davidmanassa/laravel-web-tinker@0.0.1
 - pkg:composer/davidmanassa/laravel-web-tinker@1.0.0
 - pkg:composer/davidmanassa/laravel-web-tinker@1.1.0
+- pkg:composer/davidmanassa/laravel-web-tinker@1.10.1
 - pkg:composer/davidmanassa/laravel-web-tinker@1.2.0
 - pkg:composer/davidmanassa/laravel-web-tinker@1.2.1
 - pkg:composer/davidmanassa/laravel-web-tinker@1.2.2
@@ -33,4 +34,5 @@
 - pkg:composer/davidmanassa/laravel-web-tinker@1.8.3
 - pkg:composer/davidmanassa/laravel-web-tinker@1.8.4
 - pkg:composer/davidmanassa/laravel-web-tinker@1.9.0
+- pkg:composer/davidmanassa/laravel-web-tinker@1.9.1
 - pkg:composer/davidmanassa/laravel-web-tinker@v1.10.0
