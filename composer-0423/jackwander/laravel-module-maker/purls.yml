@@ -15,3 +15,5 @@
 - pkg:composer/jackwander/laravel-module-maker@1.2
 - pkg:composer/jackwander/laravel-module-maker@2.0.0
 - pkg:composer/jackwander/laravel-module-maker@2.0.2
+- pkg:composer/jackwander/laravel-module-maker@2.1.0
+- pkg:composer/jackwander/laravel-module-maker@2.1.1
