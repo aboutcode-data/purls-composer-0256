@@ -168,6 +168,8 @@
 - pkg:composer/jasminecms/jasmine@2.16.7
 - pkg:composer/jasminecms/jasmine@2.16.8
 - pkg:composer/jasminecms/jasmine@2.16.9
+- pkg:composer/jasminecms/jasmine@2.17.0
+- pkg:composer/jasminecms/jasmine@2.17.1
 - pkg:composer/jasminecms/jasmine@2.2.0
 - pkg:composer/jasminecms/jasmine@2.2.1
 - pkg:composer/jasminecms/jasmine@2.2.2

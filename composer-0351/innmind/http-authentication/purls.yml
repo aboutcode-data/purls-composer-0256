@@ -11,3 +11,4 @@
 - pkg:composer/innmind/http-authentication@3.0.0
 - pkg:composer/innmind/http-authentication@4.0.0
 - pkg:composer/innmind/http-authentication@5.0.0
+- pkg:composer/innmind/http-authentication@6.0.0

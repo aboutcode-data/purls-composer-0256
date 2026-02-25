@@ -2,3 +2,7 @@
 - pkg:composer/jezzdk/statamic-mapbox@v2.0
 - pkg:composer/jezzdk/statamic-mapbox@v2.0.1
 - pkg:composer/jezzdk/statamic-mapbox@v2.1.0
+- pkg:composer/jezzdk/statamic-mapbox@v2.2.0
+- pkg:composer/jezzdk/statamic-mapbox@v2.2.1
+- pkg:composer/jezzdk/statamic-mapbox@v3.0.0
+- pkg:composer/jezzdk/statamic-mapbox@v3.0.1

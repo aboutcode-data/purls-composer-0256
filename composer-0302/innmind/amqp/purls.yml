@@ -26,3 +26,4 @@
 - pkg:composer/innmind/amqp@5.0.0
 - pkg:composer/innmind/amqp@5.1.0
 - pkg:composer/innmind/amqp@6.0.0
+- pkg:composer/innmind/amqp@7.0.0

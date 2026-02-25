@@ -1,3 +1,5 @@
+- pkg:composer/imemento/activity-log@10.0.0
+- pkg:composer/imemento/activity-log@12.0.0
 - pkg:composer/imemento/activity-log@5.7.0
 - pkg:composer/imemento/activity-log@5.7.1
 - pkg:composer/imemento/activity-log@5.7.10
@@ -16,4 +18,5 @@
 - pkg:composer/imemento/activity-log@7.0.0
 - pkg:composer/imemento/activity-log@8.0.0
 - pkg:composer/imemento/activity-log@8.1.1
+- pkg:composer/imemento/activity-log@9.0.0
 - pkg:composer/imemento/activity-log@v8.1.0

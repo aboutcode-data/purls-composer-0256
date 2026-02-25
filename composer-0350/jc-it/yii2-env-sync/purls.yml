@@ -1,2 +1,4 @@
 - pkg:composer/jc-it/yii2-env-sync@v1.0.0
 - pkg:composer/jc-it/yii2-env-sync@v1.1.0
+- pkg:composer/jc-it/yii2-env-sync@v1.2.0
+- pkg:composer/jc-it/yii2-env-sync@v1.2.1

@@ -14,3 +14,4 @@
 - pkg:composer/innmind/router@5.0.1
 - pkg:composer/innmind/router@5.1.0
 - pkg:composer/innmind/router@5.2.0
+- pkg:composer/innmind/router@6.0.0

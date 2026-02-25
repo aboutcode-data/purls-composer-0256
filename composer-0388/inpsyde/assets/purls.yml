@@ -17,6 +17,7 @@
 - pkg:composer/inpsyde/assets@2.10.0
 - pkg:composer/inpsyde/assets@2.11.0
 - pkg:composer/inpsyde/assets@2.12.0
+- pkg:composer/inpsyde/assets@2.13
 - pkg:composer/inpsyde/assets@2.2
 - pkg:composer/inpsyde/assets@2.2.1
 - pkg:composer/inpsyde/assets@2.2.2

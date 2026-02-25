@@ -58,3 +58,6 @@
 - pkg:composer/ingenico/direct-sdk-php@7.3.1
 - pkg:composer/ingenico/direct-sdk-php@7.4.0
 - pkg:composer/ingenico/direct-sdk-php@7.5.0
+- pkg:composer/ingenico/direct-sdk-php@8.0.0
+- pkg:composer/ingenico/direct-sdk-php@8.0.1
+- pkg:composer/ingenico/direct-sdk-php@8.1.0
