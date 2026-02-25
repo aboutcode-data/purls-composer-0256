@@ -10,6 +10,8 @@
 - pkg:composer/nramos/search-indexer@2.2.2
 - pkg:composer/nramos/search-indexer@2.2.3
 - pkg:composer/nramos/search-indexer@2.2.4
+- pkg:composer/nramos/search-indexer@2.2.5
+- pkg:composer/nramos/search-indexer@2.2.7
 - pkg:composer/nramos/search-indexer@v1.0.0
 - pkg:composer/nramos/search-indexer@v1.0.1
 - pkg:composer/nramos/search-indexer@v1.0.10
@@ -22,3 +24,4 @@
 - pkg:composer/nramos/search-indexer@v1.0.7
 - pkg:composer/nramos/search-indexer@v1.0.8
 - pkg:composer/nramos/search-indexer@v1.0.9
+- pkg:composer/nramos/search-indexer@v2.2.6

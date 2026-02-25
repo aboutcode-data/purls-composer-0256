@@ -8,3 +8,4 @@
 - pkg:composer/openoap/open-oap@v1.3.0
 - pkg:composer/openoap/open-oap@v1.3.1
 - pkg:composer/openoap/open-oap@v2.0.0
+- pkg:composer/openoap/open-oap@v3.0.0

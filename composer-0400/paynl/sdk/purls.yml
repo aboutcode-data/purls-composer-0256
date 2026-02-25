@@ -8,6 +8,7 @@
 - pkg:composer/paynl/sdk@2.2.3
 - pkg:composer/paynl/sdk@2.2.4
 - pkg:composer/paynl/sdk@2.2.5
+- pkg:composer/paynl/sdk@2.2.6
 - pkg:composer/paynl/sdk@v1.0.0
 - pkg:composer/paynl/sdk@v1.0.1
 - pkg:composer/paynl/sdk@v1.0.2

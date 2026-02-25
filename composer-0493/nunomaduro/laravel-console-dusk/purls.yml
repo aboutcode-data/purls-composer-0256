@@ -12,6 +12,7 @@
 - pkg:composer/nunomaduro/laravel-console-dusk@v1.13.0
 - pkg:composer/nunomaduro/laravel-console-dusk@v1.13.1
 - pkg:composer/nunomaduro/laravel-console-dusk@v1.14.0
+- pkg:composer/nunomaduro/laravel-console-dusk@v1.15.0
 - pkg:composer/nunomaduro/laravel-console-dusk@v1.2.0
 - pkg:composer/nunomaduro/laravel-console-dusk@v1.3.0
 - pkg:composer/nunomaduro/laravel-console-dusk@v1.4.0

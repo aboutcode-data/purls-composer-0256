@@ -107,6 +107,7 @@
 - pkg:composer/oat-sa/extension-tao-delivery@v15.9.2.1
 - pkg:composer/oat-sa/extension-tao-delivery@v15.9.3
 - pkg:composer/oat-sa/extension-tao-delivery@v15.9.4
+- pkg:composer/oat-sa/extension-tao-delivery@v16.0.0
 - pkg:composer/oat-sa/extension-tao-delivery@v2.6.2
 - pkg:composer/oat-sa/extension-tao-delivery@v2.6.3
 - pkg:composer/oat-sa/extension-tao-delivery@v2.7.0

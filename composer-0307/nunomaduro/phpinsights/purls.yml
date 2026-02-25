@@ -37,6 +37,7 @@
 - pkg:composer/nunomaduro/phpinsights@v2.13.1
 - pkg:composer/nunomaduro/phpinsights@v2.13.2
 - pkg:composer/nunomaduro/phpinsights@v2.13.3
+- pkg:composer/nunomaduro/phpinsights@v2.14.0
 - pkg:composer/nunomaduro/phpinsights@v2.2.0
 - pkg:composer/nunomaduro/phpinsights@v2.3.0
 - pkg:composer/nunomaduro/phpinsights@v2.4.0

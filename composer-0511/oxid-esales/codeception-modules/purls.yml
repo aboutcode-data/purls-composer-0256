@@ -16,3 +16,4 @@
 - pkg:composer/oxid-esales/codeception-modules@v4.2.0
 - pkg:composer/oxid-esales/codeception-modules@v4.3.0
 - pkg:composer/oxid-esales/codeception-modules@v5.0.0-alpha.1
+- pkg:composer/oxid-esales/codeception-modules@v8.0.0-alpha.2

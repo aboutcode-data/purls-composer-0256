@@ -9,3 +9,4 @@
 - pkg:composer/novius/laravel-translation-loader@v3.1.1
 - pkg:composer/novius/laravel-translation-loader@v3.2.0
 - pkg:composer/novius/laravel-translation-loader@v3.2.1
+- pkg:composer/novius/laravel-translation-loader@v4.0.0

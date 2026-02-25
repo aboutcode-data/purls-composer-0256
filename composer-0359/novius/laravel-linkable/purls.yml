@@ -6,3 +6,5 @@
 - pkg:composer/novius/laravel-linkable@1.0.5
 - pkg:composer/novius/laravel-linkable@1.1.0
 - pkg:composer/novius/laravel-linkable@1.1.1
+- pkg:composer/novius/laravel-linkable@2.0.0
+- pkg:composer/novius/laravel-linkable@2.1.0

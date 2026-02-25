@@ -12,3 +12,4 @@
 - pkg:composer/oxid-esales/twig-admin-theme@v3.0.0
 - pkg:composer/oxid-esales/twig-admin-theme@v3.0.0-alpha.1
 - pkg:composer/oxid-esales/twig-admin-theme@v3.0.1
+- pkg:composer/oxid-esales/twig-admin-theme@v8.0.0-alpha.2

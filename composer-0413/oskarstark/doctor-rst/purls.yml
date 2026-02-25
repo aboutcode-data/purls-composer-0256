@@ -152,6 +152,9 @@
 - pkg:composer/oskarstark/doctor-rst@1.76.0
 - pkg:composer/oskarstark/doctor-rst@1.77.0
 - pkg:composer/oskarstark/doctor-rst@1.78.0
+- pkg:composer/oskarstark/doctor-rst@1.78.1
+- pkg:composer/oskarstark/doctor-rst@1.79.0
 - pkg:composer/oskarstark/doctor-rst@1.8.0
 - pkg:composer/oskarstark/doctor-rst@1.8.1
+- pkg:composer/oskarstark/doctor-rst@1.80.0
 - pkg:composer/oskarstark/doctor-rst@1.9.0

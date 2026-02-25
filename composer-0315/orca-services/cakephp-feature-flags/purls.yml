@@ -1,3 +1,5 @@
 - pkg:composer/orca-services/cakephp-feature-flags@0.1.0
 - pkg:composer/orca-services/cakephp-feature-flags@1.0.0
 - pkg:composer/orca-services/cakephp-feature-flags@1.0.1
+- pkg:composer/orca-services/cakephp-feature-flags@1.0.2
+- pkg:composer/orca-services/cakephp-feature-flags@2.0.0

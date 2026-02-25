@@ -12,3 +12,4 @@
 - pkg:composer/pbmedia/laravel-browser-kit-macro@5.6.0
 - pkg:composer/pbmedia/laravel-browser-kit-macro@5.7.0
 - pkg:composer/pbmedia/laravel-browser-kit-macro@5.8.0
+- pkg:composer/pbmedia/laravel-browser-kit-macro@5.9.0
