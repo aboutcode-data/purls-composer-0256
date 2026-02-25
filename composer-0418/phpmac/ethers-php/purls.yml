@@ -6,3 +6,6 @@
 - pkg:composer/phpmac/ethers-php@v1.1.1
 - pkg:composer/phpmac/ethers-php@v1.1.2
 - pkg:composer/phpmac/ethers-php@v1.2.0
+- pkg:composer/phpmac/ethers-php@v1.3.0
+- pkg:composer/phpmac/ethers-php@v2.0.0
+- pkg:composer/phpmac/ethers-php@v2.0.1

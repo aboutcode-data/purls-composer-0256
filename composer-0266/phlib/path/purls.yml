@@ -5,3 +5,4 @@
 - pkg:composer/phlib/path@1.0.4
 - pkg:composer/phlib/path@2.0.0
 - pkg:composer/phlib/path@2.1.0
+- pkg:composer/phlib/path@2.2.0

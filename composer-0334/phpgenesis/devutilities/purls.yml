@@ -25,6 +25,7 @@
 - pkg:composer/phpgenesis/devutilities@v0.3.9
 - pkg:composer/phpgenesis/devutilities@v1.0.0
 - pkg:composer/phpgenesis/devutilities@v1.1.0
+- pkg:composer/phpgenesis/devutilities@v1.10.0
 - pkg:composer/phpgenesis/devutilities@v1.2.0
 - pkg:composer/phpgenesis/devutilities@v1.2.1
 - pkg:composer/phpgenesis/devutilities@v1.3.0
@@ -44,3 +45,6 @@
 - pkg:composer/phpgenesis/devutilities@v1.8.0
 - pkg:composer/phpgenesis/devutilities@v1.9.0
 - pkg:composer/phpgenesis/devutilities@v1.9.1
+- pkg:composer/phpgenesis/devutilities@v1.9.2
+- pkg:composer/phpgenesis/devutilities@v1.9.3
+- pkg:composer/phpgenesis/devutilities@v1.9.4

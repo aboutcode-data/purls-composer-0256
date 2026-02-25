@@ -12,3 +12,6 @@
 - pkg:composer/pixelbrackets/patchbot@1.9.0
 - pkg:composer/pixelbrackets/patchbot@1.9.1
 - pkg:composer/pixelbrackets/patchbot@2.0.0
+- pkg:composer/pixelbrackets/patchbot@3.0.0
+- pkg:composer/pixelbrackets/patchbot@3.1.0
+- pkg:composer/pixelbrackets/patchbot@3.2.0

@@ -155,6 +155,9 @@
 - pkg:composer/phpmyfaq/phpmyfaq@4.0.9
 - pkg:composer/phpmyfaq/phpmyfaq@4.1.0-RC
 - pkg:composer/phpmyfaq/phpmyfaq@4.1.0-RC.2
+- pkg:composer/phpmyfaq/phpmyfaq@4.1.0-RC.4
+- pkg:composer/phpmyfaq/phpmyfaq@4.1.0-RC.5
+- pkg:composer/phpmyfaq/phpmyfaq@4.1.0-RC.6
 - pkg:composer/phpmyfaq/phpmyfaq@4.1.0-alpha
 - pkg:composer/phpmyfaq/phpmyfaq@4.1.0-alpha.2
 - pkg:composer/phpmyfaq/phpmyfaq@4.1.0-alpha.3

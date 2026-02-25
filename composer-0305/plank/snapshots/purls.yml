@@ -48,6 +48,7 @@
 - pkg:composer/plank/snapshots@v10.9.5
 - pkg:composer/plank/snapshots@v10.9.6
 - pkg:composer/plank/snapshots@v10.9.7
+- pkg:composer/plank/snapshots@v10.9.8
 - pkg:composer/plank/snapshots@v11.0.0
 - pkg:composer/plank/snapshots@v11.0.1
 - pkg:composer/plank/snapshots@v11.1.0
@@ -87,6 +88,7 @@
 - pkg:composer/plank/snapshots@v11.9.5
 - pkg:composer/plank/snapshots@v11.9.6
 - pkg:composer/plank/snapshots@v11.9.7
+- pkg:composer/plank/snapshots@v11.9.8
 - pkg:composer/plank/snapshots@v12.7.3
 - pkg:composer/plank/snapshots@v12.7.4
 - pkg:composer/plank/snapshots@v12.8.0
@@ -98,3 +100,4 @@
 - pkg:composer/plank/snapshots@v12.9.5
 - pkg:composer/plank/snapshots@v12.9.6
 - pkg:composer/plank/snapshots@v12.9.7
+- pkg:composer/plank/snapshots@v12.9.8

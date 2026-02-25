@@ -155,3 +155,6 @@
 - pkg:composer/pods-framework/pods@3.3.2
 - pkg:composer/pods-framework/pods@3.3.3
 - pkg:composer/pods-framework/pods@3.3.4
+- pkg:composer/pods-framework/pods@3.3.5
+- pkg:composer/pods-framework/pods@3.3.6
+- pkg:composer/pods-framework/pods@3.3.7

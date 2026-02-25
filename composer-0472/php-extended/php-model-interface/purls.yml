@@ -94,6 +94,7 @@
 - pkg:composer/php-extended/php-model-interface@11.8.7
 - pkg:composer/php-extended/php-model-interface@11.8.8
 - pkg:composer/php-extended/php-model-interface@11.8.9
+- pkg:composer/php-extended/php-model-interface@11.9.0
 - pkg:composer/php-extended/php-model-interface@2.0.0
 - pkg:composer/php-extended/php-model-interface@2.1.0
 - pkg:composer/php-extended/php-model-interface@3.0.0

@@ -87,3 +87,4 @@
 - pkg:composer/plank/laravel-mediable@6.2.1
 - pkg:composer/plank/laravel-mediable@6.3.0
 - pkg:composer/plank/laravel-mediable@6.3.1
+- pkg:composer/plank/laravel-mediable@6.4.0

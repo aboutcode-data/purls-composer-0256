@@ -8,3 +8,4 @@
 - pkg:composer/phpspec/prophecy-phpunit@v2.2.0
 - pkg:composer/phpspec/prophecy-phpunit@v2.3.0
 - pkg:composer/phpspec/prophecy-phpunit@v2.4.0
+- pkg:composer/phpspec/prophecy-phpunit@v2.5.0

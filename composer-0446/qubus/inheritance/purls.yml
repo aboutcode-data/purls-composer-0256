@@ -11,3 +11,5 @@
 - pkg:composer/qubus/inheritance@v3.0.5
 - pkg:composer/qubus/inheritance@v4.0.0
 - pkg:composer/qubus/inheritance@v4.1.0
+- pkg:composer/qubus/inheritance@v4.2.0
+- pkg:composer/qubus/inheritance@v4.2.1
