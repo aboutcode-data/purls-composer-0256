@@ -210,9 +210,12 @@
 - pkg:composer/m2epro/magento2-extension@1.87.3
 - pkg:composer/m2epro/magento2-extension@1.88.0
 - pkg:composer/m2epro/magento2-extension@1.88.1
+- pkg:composer/m2epro/magento2-extension@1.89.0
 - pkg:composer/m2epro/magento2-extension@1.9.0
 - pkg:composer/m2epro/magento2-extension@1.9.1
 - pkg:composer/m2epro/magento2-extension@1.9.2
 - pkg:composer/m2epro/magento2-extension@1.9.3
 - pkg:composer/m2epro/magento2-extension@1.9.4
 - pkg:composer/m2epro/magento2-extension@1.9.5
+- pkg:composer/m2epro/magento2-extension@1.90.0
+- pkg:composer/m2epro/magento2-extension@1.90.1

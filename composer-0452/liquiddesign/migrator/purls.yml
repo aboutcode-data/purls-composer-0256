@@ -3,6 +3,7 @@
 - pkg:composer/liquiddesign/migrator@1.1.0
 - pkg:composer/liquiddesign/migrator@1.1.1
 - pkg:composer/liquiddesign/migrator@1.1.2
+- pkg:composer/liquiddesign/migrator@1.1.4
 - pkg:composer/liquiddesign/migrator@v1.0.0
 - pkg:composer/liquiddesign/migrator@v1.0.1
 - pkg:composer/liquiddesign/migrator@v1.0.10

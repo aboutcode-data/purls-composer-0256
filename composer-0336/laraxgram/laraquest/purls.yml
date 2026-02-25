@@ -29,3 +29,6 @@
 - pkg:composer/laraxgram/laraquest@v1.3.0
 - pkg:composer/laraxgram/laraquest@v1.4.0
 - pkg:composer/laraxgram/laraquest@v1.5.0
+- pkg:composer/laraxgram/laraquest@v1.6.0
+- pkg:composer/laraxgram/laraquest@v1.6.1
+- pkg:composer/laraxgram/laraquest@v1.6.2

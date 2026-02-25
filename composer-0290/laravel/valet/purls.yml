@@ -164,6 +164,7 @@
 - pkg:composer/laravel/valet@v4.1.4
 - pkg:composer/laravel/valet@v4.10.0
 - pkg:composer/laravel/valet@v4.11.0
+- pkg:composer/laravel/valet@v4.11.1
 - pkg:composer/laravel/valet@v4.3.0
 - pkg:composer/laravel/valet@v4.4.0
 - pkg:composer/laravel/valet@v4.4.1

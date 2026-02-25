@@ -13,3 +13,4 @@
 - pkg:composer/laravel-fans/lint@v9.1.0
 - pkg:composer/laravel-fans/lint@v9.2.0
 - pkg:composer/laravel-fans/lint@v9.3.0
+- pkg:composer/laravel-fans/lint@v9.3.1

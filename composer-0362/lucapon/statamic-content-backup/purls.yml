@@ -11,3 +11,6 @@
 - pkg:composer/lucapon/statamic-content-backup@v3.0.1
 - pkg:composer/lucapon/statamic-content-backup@v3.0.2
 - pkg:composer/lucapon/statamic-content-backup@v3.0.3
+- pkg:composer/lucapon/statamic-content-backup@v3.0.4
+- pkg:composer/lucapon/statamic-content-backup@v3.0.5
+- pkg:composer/lucapon/statamic-content-backup@v4.0.0

@@ -1,3 +1,4 @@
 - pkg:composer/lnst/sender@4.0.0
 - pkg:composer/lnst/sender@4.0.1
 - pkg:composer/lnst/sender@5.0.0
+- pkg:composer/lnst/sender@6.0.0

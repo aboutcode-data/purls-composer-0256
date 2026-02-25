@@ -180,3 +180,4 @@
 - pkg:composer/laravel-enso/select@4.4.4
 - pkg:composer/laravel-enso/select@4.4.5
 - pkg:composer/laravel-enso/select@4.5.0
+- pkg:composer/laravel-enso/select@4.6.0

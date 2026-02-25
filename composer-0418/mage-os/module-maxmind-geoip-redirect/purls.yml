@@ -10,3 +10,4 @@
 - pkg:composer/mage-os/module-maxmind-geoip-redirect@1.3.2
 - pkg:composer/mage-os/module-maxmind-geoip-redirect@1.4.0
 - pkg:composer/mage-os/module-maxmind-geoip-redirect@1.5.0
+- pkg:composer/mage-os/module-maxmind-geoip-redirect@2.0.0

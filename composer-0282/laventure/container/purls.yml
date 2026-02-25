@@ -1,1 +1,2 @@
-- pkg:composer/laventure/container@v1.0.0
+- pkg:composer/laventure/container@1.0.0
+- pkg:composer/laventure/container@2.0.0

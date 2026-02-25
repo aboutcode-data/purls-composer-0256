@@ -9,3 +9,5 @@
 - pkg:composer/lightscale/laralight-tables@v1.3.1
 - pkg:composer/lightscale/laralight-tables@v1.3.2
 - pkg:composer/lightscale/laralight-tables@v2.0.0
+- pkg:composer/lightscale/laralight-tables@v2.1.0
+- pkg:composer/lightscale/laralight-tables@v2.1.1
