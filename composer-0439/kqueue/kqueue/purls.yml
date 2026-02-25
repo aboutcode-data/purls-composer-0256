@@ -1,1 +1,2 @@
 - pkg:composer/kqueue/kqueue@v0.0.1
+- pkg:composer/kqueue/kqueue@v0.0.2

@@ -34,6 +34,8 @@
 - pkg:composer/kununu/testing-bundle@v21.0.0
 - pkg:composer/kununu/testing-bundle@v21.1.0
 - pkg:composer/kununu/testing-bundle@v22.0.0
+- pkg:composer/kununu/testing-bundle@v23.0.0
+- pkg:composer/kununu/testing-bundle@v23.0.1
 - pkg:composer/kununu/testing-bundle@v5.0.0
 - pkg:composer/kununu/testing-bundle@v6.0.0
 - pkg:composer/kununu/testing-bundle@v7.0.0

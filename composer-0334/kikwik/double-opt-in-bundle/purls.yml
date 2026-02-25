@@ -13,3 +13,6 @@
 - pkg:composer/kikwik/double-opt-in-bundle@v1.0.8
 - pkg:composer/kikwik/double-opt-in-bundle@v1.0.9
 - pkg:composer/kikwik/double-opt-in-bundle@v1.1.0
+- pkg:composer/kikwik/double-opt-in-bundle@v1.1.1
+- pkg:composer/kikwik/double-opt-in-bundle@v1.1.2
+- pkg:composer/kikwik/double-opt-in-bundle@v1.1.3

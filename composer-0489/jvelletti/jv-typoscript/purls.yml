@@ -12,3 +12,5 @@
 - pkg:composer/jvelletti/jv-typoscript@11.4.6
 - pkg:composer/jvelletti/jv-typoscript@11.4.8
 - pkg:composer/jvelletti/jv-typoscript@11.4.9
+- pkg:composer/jvelletti/jv-typoscript@13.4.0
+- pkg:composer/jvelletti/jv-typoscript@13.4.1

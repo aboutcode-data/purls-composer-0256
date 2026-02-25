@@ -23,3 +23,5 @@
 - pkg:composer/karmabunny/router@v2.7.14
 - pkg:composer/karmabunny/router@v2.7.15
 - pkg:composer/karmabunny/router@v2.7.16
+- pkg:composer/karmabunny/router@v2.8.16
+- pkg:composer/karmabunny/router@v2.8.17
