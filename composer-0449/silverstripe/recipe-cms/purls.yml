@@ -116,3 +116,4 @@
 - pkg:composer/silverstripe/recipe-cms@6.1.0
 - pkg:composer/silverstripe/recipe-cms@6.1.0-beta1
 - pkg:composer/silverstripe/recipe-cms@6.1.0-rc1
+- pkg:composer/silverstripe/recipe-cms@6.2.0-beta1

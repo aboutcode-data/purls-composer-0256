@@ -5,3 +5,4 @@
 - pkg:composer/shipstream/fedex-rest-sdk@v1.1.2
 - pkg:composer/shipstream/fedex-rest-sdk@v1.2.0
 - pkg:composer/shipstream/fedex-rest-sdk@v1.3.0
+- pkg:composer/shipstream/fedex-rest-sdk@v1.4.0

@@ -91,3 +91,4 @@
 - pkg:composer/smarty/smarty@v5.5.2
 - pkg:composer/smarty/smarty@v5.6.0
 - pkg:composer/smarty/smarty@v5.7.0
+- pkg:composer/smarty/smarty@v5.8.0

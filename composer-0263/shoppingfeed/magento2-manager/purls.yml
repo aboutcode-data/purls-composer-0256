@@ -93,6 +93,7 @@
 - pkg:composer/shoppingfeed/magento2-manager@1.13.1
 - pkg:composer/shoppingfeed/magento2-manager@1.14.0
 - pkg:composer/shoppingfeed/magento2-manager@1.15.0
+- pkg:composer/shoppingfeed/magento2-manager@1.16.0
 - pkg:composer/shoppingfeed/magento2-manager@1.2.0
 - pkg:composer/shoppingfeed/magento2-manager@1.2.1
 - pkg:composer/shoppingfeed/magento2-manager@1.2.2

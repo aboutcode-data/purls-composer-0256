@@ -11,6 +11,7 @@
 - pkg:composer/shopsys/frontend-api@v14.0.0
 - pkg:composer/shopsys/frontend-api@v14.0.1
 - pkg:composer/shopsys/frontend-api@v14.5.0
+- pkg:composer/shopsys/frontend-api@v14.5.1
 - pkg:composer/shopsys/frontend-api@v15.0.0
 - pkg:composer/shopsys/frontend-api@v16.0.0
 - pkg:composer/shopsys/frontend-api@v17.0.0

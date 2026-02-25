@@ -27,3 +27,6 @@
 - pkg:composer/silentz/akismet@v4.0.1
 - pkg:composer/silentz/akismet@v5.0
 - pkg:composer/silentz/akismet@v5.1
+- pkg:composer/silentz/akismet@v6.0.2
+- pkg:composer/silentz/akismet@v6.1.0
+- pkg:composer/silentz/akismet@v6.1.1

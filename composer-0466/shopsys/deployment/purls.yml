@@ -45,3 +45,9 @@
 - pkg:composer/shopsys/deployment@v4.1.1
 - pkg:composer/shopsys/deployment@v4.2.0
 - pkg:composer/shopsys/deployment@v4.3.0
+- pkg:composer/shopsys/deployment@v4.4.0
+- pkg:composer/shopsys/deployment@v4.5.0
+- pkg:composer/shopsys/deployment@v4.5.1
+- pkg:composer/shopsys/deployment@v4.5.2
+- pkg:composer/shopsys/deployment@v4.6.0
+- pkg:composer/shopsys/deployment@v4.6.1

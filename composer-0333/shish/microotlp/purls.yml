@@ -2,6 +2,10 @@
 - pkg:composer/shish/microotlp@v0.0.1
 - pkg:composer/shish/microotlp@v0.0.10
 - pkg:composer/shish/microotlp@v0.0.11
+- pkg:composer/shish/microotlp@v0.0.12
+- pkg:composer/shish/microotlp@v0.0.13
+- pkg:composer/shish/microotlp@v0.0.14
+- pkg:composer/shish/microotlp@v0.0.15
 - pkg:composer/shish/microotlp@v0.0.2
 - pkg:composer/shish/microotlp@v0.0.3
 - pkg:composer/shish/microotlp@v0.0.4

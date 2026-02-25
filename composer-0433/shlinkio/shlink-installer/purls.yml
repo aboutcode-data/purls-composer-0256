@@ -2,6 +2,7 @@
 - pkg:composer/shlinkio/shlink-installer@v1.1.0
 - pkg:composer/shlinkio/shlink-installer@v1.2.0
 - pkg:composer/shlinkio/shlink-installer@v1.2.1
+- pkg:composer/shlinkio/shlink-installer@v10.0.0
 - pkg:composer/shlinkio/shlink-installer@v2.0.0
 - pkg:composer/shlinkio/shlink-installer@v2.1.0
 - pkg:composer/shlinkio/shlink-installer@v3.0.0

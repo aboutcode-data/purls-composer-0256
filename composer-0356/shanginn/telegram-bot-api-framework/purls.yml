@@ -28,3 +28,6 @@
 - pkg:composer/shanginn/telegram-bot-api-framework@5.1.0
 - pkg:composer/shanginn/telegram-bot-api-framework@5.2.0
 - pkg:composer/shanginn/telegram-bot-api-framework@5.3.0
+- pkg:composer/shanginn/telegram-bot-api-framework@5.3.1
+- pkg:composer/shanginn/telegram-bot-api-framework@5.3.2
+- pkg:composer/shanginn/telegram-bot-api-framework@5.4.0
