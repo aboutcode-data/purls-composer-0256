@@ -358,6 +358,7 @@
 - pkg:composer/heimrichhannot/contao-utils-bundle@2.244.0
 - pkg:composer/heimrichhannot/contao-utils-bundle@2.244.1
 - pkg:composer/heimrichhannot/contao-utils-bundle@2.244.2
+- pkg:composer/heimrichhannot/contao-utils-bundle@2.244.3
 - pkg:composer/heimrichhannot/contao-utils-bundle@2.25.0
 - pkg:composer/heimrichhannot/contao-utils-bundle@2.25.1
 - pkg:composer/heimrichhannot/contao-utils-bundle@2.25.2
@@ -550,6 +551,7 @@
 - pkg:composer/heimrichhannot/contao-utils-bundle@3.1.0
 - pkg:composer/heimrichhannot/contao-utils-bundle@3.1.1
 - pkg:composer/heimrichhannot/contao-utils-bundle@3.10.0
+- pkg:composer/heimrichhannot/contao-utils-bundle@3.10.1
 - pkg:composer/heimrichhannot/contao-utils-bundle@3.2.0
 - pkg:composer/heimrichhannot/contao-utils-bundle@3.3.0
 - pkg:composer/heimrichhannot/contao-utils-bundle@3.4.0

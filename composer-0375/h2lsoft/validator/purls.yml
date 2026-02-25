@@ -5,3 +5,5 @@
 - pkg:composer/h2lsoft/validator@v1.1.5
 - pkg:composer/h2lsoft/validator@v1.2.0
 - pkg:composer/h2lsoft/validator@v1.2.1
+- pkg:composer/h2lsoft/validator@v1.2.2
+- pkg:composer/h2lsoft/validator@v2.0.0

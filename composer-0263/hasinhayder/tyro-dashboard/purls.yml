@@ -1,3 +1,7 @@
+- pkg:composer/hasinhayder/tyro-dashboard@v1.10.0
+- pkg:composer/hasinhayder/tyro-dashboard@v1.11.0
+- pkg:composer/hasinhayder/tyro-dashboard@v1.12.0
+- pkg:composer/hasinhayder/tyro-dashboard@v1.13.0
 - pkg:composer/hasinhayder/tyro-dashboard@v1.2.0
 - pkg:composer/hasinhayder/tyro-dashboard@v1.3.0
 - pkg:composer/hasinhayder/tyro-dashboard@v1.3.1
@@ -16,3 +20,5 @@
 - pkg:composer/hasinhayder/tyro-dashboard@v1.6.6
 - pkg:composer/hasinhayder/tyro-dashboard@v1.7.0
 - pkg:composer/hasinhayder/tyro-dashboard@v1.7.1
+- pkg:composer/hasinhayder/tyro-dashboard@v1.8.0
+- pkg:composer/hasinhayder/tyro-dashboard@v1.9.0

@@ -64,7 +64,9 @@
 - pkg:composer/hyperf/cache@v3.1.56
 - pkg:composer/hyperf/cache@v3.1.57
 - pkg:composer/hyperf/cache@v3.1.63
+- pkg:composer/hyperf/cache@v3.1.67
 - pkg:composer/hyperf/cache@v3.2.0-alpha.1
 - pkg:composer/hyperf/cache@v3.2.0-alpha.3
 - pkg:composer/hyperf/cache@v3.2.0-alpha.4
 - pkg:composer/hyperf/cache@v3.2.0-beta.1
+- pkg:composer/hyperf/cache@v3.2.0-beta.2

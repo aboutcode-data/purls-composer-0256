@@ -5,3 +5,5 @@
 - pkg:composer/henrotaym/laravel-trustup-messaging-io@v0.0.5
 - pkg:composer/henrotaym/laravel-trustup-messaging-io@v0.0.6
 - pkg:composer/henrotaym/laravel-trustup-messaging-io@v1.0.0
+- pkg:composer/henrotaym/laravel-trustup-messaging-io@v2.0.0
+- pkg:composer/henrotaym/laravel-trustup-messaging-io@v2.0.1

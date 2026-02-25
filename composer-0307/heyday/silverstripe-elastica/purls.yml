@@ -28,3 +28,4 @@
 - pkg:composer/heyday/silverstripe-elastica@4.3.1
 - pkg:composer/heyday/silverstripe-elastica@4.4.0
 - pkg:composer/heyday/silverstripe-elastica@4.4.1
+- pkg:composer/heyday/silverstripe-elastica@5.0.0

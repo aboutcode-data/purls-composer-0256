@@ -156,7 +156,9 @@
 - pkg:composer/humanmade/core@24.0.3
 - pkg:composer/humanmade/core@25.0.0
 - pkg:composer/humanmade/core@25.0.0-beta.1
+- pkg:composer/humanmade/core@26.0.0
 - pkg:composer/humanmade/core@26.0.0-beta.1
+- pkg:composer/humanmade/core@26.0.0-beta.2
 - pkg:composer/humanmade/core@3.0.0
 - pkg:composer/humanmade/core@3.0.0-beta1
 - pkg:composer/humanmade/core@3.0.0-beta2

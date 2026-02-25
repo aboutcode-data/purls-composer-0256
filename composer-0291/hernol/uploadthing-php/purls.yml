@@ -1,2 +1,4 @@
 - pkg:composer/hernol/uploadthing-php@1.0.0
 - pkg:composer/hernol/uploadthing-php@1.2.1
+- pkg:composer/hernol/uploadthing-php@2.0.0
+- pkg:composer/hernol/uploadthing-php@2.0.1
