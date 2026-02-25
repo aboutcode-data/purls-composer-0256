@@ -131,3 +131,5 @@
 - pkg:composer/revolution/laravel-bluesky@1.1.5
 - pkg:composer/revolution/laravel-bluesky@1.1.6
 - pkg:composer/revolution/laravel-bluesky@1.1.7
+- pkg:composer/revolution/laravel-bluesky@1.1.8
+- pkg:composer/revolution/laravel-bluesky@1.2.0

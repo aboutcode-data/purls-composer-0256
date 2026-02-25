@@ -62,6 +62,8 @@
 - pkg:composer/rkw/rkw-template@v10.4.64-stable
 - pkg:composer/rkw/rkw-template@v10.4.65-stable
 - pkg:composer/rkw/rkw-template@v10.4.66-stable
+- pkg:composer/rkw/rkw-template@v10.4.67-stable
+- pkg:composer/rkw/rkw-template@v10.4.68-stable
 - pkg:composer/rkw/rkw-template@v10.4.7-stable
 - pkg:composer/rkw/rkw-template@v10.4.8-stable
 - pkg:composer/rkw/rkw-template@v10.4.9-stable

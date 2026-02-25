@@ -24,3 +24,5 @@
 - pkg:composer/revolution/laravel-boost-copilot-cli@1.1.4
 - pkg:composer/revolution/laravel-boost-copilot-cli@2.0.0
 - pkg:composer/revolution/laravel-boost-copilot-cli@2.0.1
+- pkg:composer/revolution/laravel-boost-copilot-cli@2.0.2
+- pkg:composer/revolution/laravel-boost-copilot-cli@2.0.3

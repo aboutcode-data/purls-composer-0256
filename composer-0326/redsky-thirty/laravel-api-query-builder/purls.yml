@@ -16,3 +16,5 @@
 - pkg:composer/redsky-thirty/laravel-api-query-builder@1.1.4
 - pkg:composer/redsky-thirty/laravel-api-query-builder@1.2.0
 - pkg:composer/redsky-thirty/laravel-api-query-builder@1.2.1
+- pkg:composer/redsky-thirty/laravel-api-query-builder@1.2.2
+- pkg:composer/redsky-thirty/laravel-api-query-builder@1.3.0

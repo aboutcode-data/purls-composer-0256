@@ -36,6 +36,8 @@
 - pkg:composer/roave/backward-compatibility-check@8.15.0
 - pkg:composer/roave/backward-compatibility-check@8.16.0
 - pkg:composer/roave/backward-compatibility-check@8.17.0
+- pkg:composer/roave/backward-compatibility-check@8.18.0
+- pkg:composer/roave/backward-compatibility-check@8.19.0
 - pkg:composer/roave/backward-compatibility-check@8.2.0
 - pkg:composer/roave/backward-compatibility-check@8.2.1
 - pkg:composer/roave/backward-compatibility-check@8.3.0

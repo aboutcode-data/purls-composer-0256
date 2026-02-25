@@ -73,3 +73,4 @@
 - pkg:composer/revolution/laravel-google-sheets@7.1.2
 - pkg:composer/revolution/laravel-google-sheets@7.1.3
 - pkg:composer/revolution/laravel-google-sheets@7.1.4
+- pkg:composer/revolution/laravel-google-sheets@7.2.0

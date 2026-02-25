@@ -42,3 +42,4 @@
 - pkg:composer/rtconner/laravel-tagging@4.1.4
 - pkg:composer/rtconner/laravel-tagging@5.0.0
 - pkg:composer/rtconner/laravel-tagging@5.0.1
+- pkg:composer/rtconner/laravel-tagging@6.0.0

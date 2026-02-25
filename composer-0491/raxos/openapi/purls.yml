@@ -3,3 +3,4 @@
 - pkg:composer/raxos/openapi@1.8.1
 - pkg:composer/raxos/openapi@1.8.2
 - pkg:composer/raxos/openapi@1.9.0
+- pkg:composer/raxos/openapi@2.0.0

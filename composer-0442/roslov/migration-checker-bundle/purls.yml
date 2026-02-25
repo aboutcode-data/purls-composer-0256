@@ -8,3 +8,4 @@
 - pkg:composer/roslov/migration-checker-bundle@0.3.1
 - pkg:composer/roslov/migration-checker-bundle@0.4.0
 - pkg:composer/roslov/migration-checker-bundle@0.5.0
+- pkg:composer/roslov/migration-checker-bundle@1.0.0

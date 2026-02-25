@@ -1,3 +1,4 @@
+- pkg:composer/rasedi/php-sdk@0.0.1-alpha
 - pkg:composer/rasedi/php-sdk@v1.0.0
 - pkg:composer/rasedi/php-sdk@v1.0.1
 - pkg:composer/rasedi/php-sdk@v1.0.2

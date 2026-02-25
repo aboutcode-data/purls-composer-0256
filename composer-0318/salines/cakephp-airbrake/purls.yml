@@ -1,1 +1,2 @@
 - pkg:composer/salines/cakephp-airbrake@v1.0.0
+- pkg:composer/salines/cakephp-airbrake@v1.0.1

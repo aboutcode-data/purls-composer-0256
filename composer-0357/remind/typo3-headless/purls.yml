@@ -12,3 +12,4 @@
 - pkg:composer/remind/typo3-headless@v4.1.0
 - pkg:composer/remind/typo3-headless@v4.1.1
 - pkg:composer/remind/typo3-headless@v4.2.0
+- pkg:composer/remind/typo3-headless@v5.0.0

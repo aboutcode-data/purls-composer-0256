@@ -8,3 +8,4 @@
 - pkg:composer/revolution/sail-db-backup@2.1.0
 - pkg:composer/revolution/sail-db-backup@3.0.0
 - pkg:composer/revolution/sail-db-backup@3.1.0
+- pkg:composer/revolution/sail-db-backup@3.2.0
