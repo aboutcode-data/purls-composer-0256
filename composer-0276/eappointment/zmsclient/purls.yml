@@ -69,3 +69,4 @@
 - pkg:composer/eappointment/zmsclient@2.30.0
 - pkg:composer/eappointment/zmsclient@2.30.01
 - pkg:composer/eappointment/zmsclient@2.30.02
+- pkg:composer/eappointment/zmsclient@2.30.03

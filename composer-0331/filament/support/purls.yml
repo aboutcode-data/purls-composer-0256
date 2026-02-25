@@ -757,6 +757,8 @@
 - pkg:composer/filament/support@v3.3.45
 - pkg:composer/filament/support@v3.3.46
 - pkg:composer/filament/support@v3.3.47
+- pkg:composer/filament/support@v3.3.48
+- pkg:composer/filament/support@v3.3.49
 - pkg:composer/filament/support@v3.3.5
 - pkg:composer/filament/support@v3.3.6
 - pkg:composer/filament/support@v3.3.7
@@ -844,6 +846,9 @@
 - pkg:composer/filament/support@v4.6.2
 - pkg:composer/filament/support@v4.6.3
 - pkg:composer/filament/support@v4.7.0
+- pkg:composer/filament/support@v4.7.1
+- pkg:composer/filament/support@v4.7.2
+- pkg:composer/filament/support@v4.7.3
 - pkg:composer/filament/support@v5.0.0
 - pkg:composer/filament/support@v5.0.0-beta1
 - pkg:composer/filament/support@v5.0.0-beta2
@@ -859,3 +864,6 @@
 - pkg:composer/filament/support@v5.1.2
 - pkg:composer/filament/support@v5.1.3
 - pkg:composer/filament/support@v5.2.0
+- pkg:composer/filament/support@v5.2.1
+- pkg:composer/filament/support@v5.2.2
+- pkg:composer/filament/support@v5.2.3

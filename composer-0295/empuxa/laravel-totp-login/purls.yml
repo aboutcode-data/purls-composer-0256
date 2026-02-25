@@ -19,4 +19,5 @@
 - pkg:composer/empuxa/laravel-totp-login@v6.1.0
 - pkg:composer/empuxa/laravel-totp-login@v6.2.0
 - pkg:composer/empuxa/laravel-totp-login@v6.3.0
+- pkg:composer/empuxa/laravel-totp-login@v7.0.0
 - pkg:composer/empuxa/laravel-totp-login@v7.0.0-rc.1

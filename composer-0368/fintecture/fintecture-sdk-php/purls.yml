@@ -35,3 +35,4 @@
 - pkg:composer/fintecture/fintecture-sdk-php@2.5.1
 - pkg:composer/fintecture/fintecture-sdk-php@2.5.2
 - pkg:composer/fintecture/fintecture-sdk-php@2.6.0
+- pkg:composer/fintecture/fintecture-sdk-php@2.6.1

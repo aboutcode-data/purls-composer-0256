@@ -197,7 +197,16 @@
 - pkg:composer/ecotone/lite-application@1.296.0
 - pkg:composer/ecotone/lite-application@1.297.0
 - pkg:composer/ecotone/lite-application@1.297.1
+- pkg:composer/ecotone/lite-application@1.298.0
+- pkg:composer/ecotone/lite-application@1.299.0
+- pkg:composer/ecotone/lite-application@1.299.1
+- pkg:composer/ecotone/lite-application@1.299.2
 - pkg:composer/ecotone/lite-application@1.3.0
+- pkg:composer/ecotone/lite-application@1.300.0
+- pkg:composer/ecotone/lite-application@1.300.1
+- pkg:composer/ecotone/lite-application@1.300.2
+- pkg:composer/ecotone/lite-application@1.301.0
+- pkg:composer/ecotone/lite-application@1.302.0
 - pkg:composer/ecotone/lite-application@1.47.0
 - pkg:composer/ecotone/lite-application@1.47.1
 - pkg:composer/ecotone/lite-application@1.47.2

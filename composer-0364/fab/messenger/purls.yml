@@ -14,3 +14,4 @@
 - pkg:composer/fab/messenger@4.0.4
 - pkg:composer/fab/messenger@4.1.0
 - pkg:composer/fab/messenger@5.0.0
+- pkg:composer/fab/messenger@6.0.0

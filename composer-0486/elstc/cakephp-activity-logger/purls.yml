@@ -28,3 +28,4 @@
 - pkg:composer/elstc/cakephp-activity-logger@v3.0.1
 - pkg:composer/elstc/cakephp-activity-logger@v3.1.0
 - pkg:composer/elstc/cakephp-activity-logger@v3.2.0
+- pkg:composer/elstc/cakephp-activity-logger@v3.3.0

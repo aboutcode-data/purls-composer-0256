@@ -21,6 +21,7 @@
 - pkg:composer/fastly/fastly@v11.0.0
 - pkg:composer/fastly/fastly@v12.0.0
 - pkg:composer/fastly/fastly@v12.1.0
+- pkg:composer/fastly/fastly@v13.0.0
 - pkg:composer/fastly/fastly@v2.0.0
 - pkg:composer/fastly/fastly@v2.1.0
 - pkg:composer/fastly/fastly@v2.1.1

@@ -1,2 +1,8 @@
 - pkg:composer/epay/magento2-epic-payment-module@4.0.1
+- pkg:composer/epay/magento2-epic-payment-module@4.0.10
+- pkg:composer/epay/magento2-epic-payment-module@4.0.11
+- pkg:composer/epay/magento2-epic-payment-module@4.0.12
+- pkg:composer/epay/magento2-epic-payment-module@4.0.13
+- pkg:composer/epay/magento2-epic-payment-module@4.0.14
+- pkg:composer/epay/magento2-epic-payment-module@4.0.15
 - pkg:composer/epay/magento2-epic-payment-module@4.0.9

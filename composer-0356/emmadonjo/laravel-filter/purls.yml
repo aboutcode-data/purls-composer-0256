@@ -1,3 +1,4 @@
 - pkg:composer/emmadonjo/laravel-filter@v0.0.1
 - pkg:composer/emmadonjo/laravel-filter@v0.0.2
 - pkg:composer/emmadonjo/laravel-filter@v0.0.3
+- pkg:composer/emmadonjo/laravel-filter@v1.0.0

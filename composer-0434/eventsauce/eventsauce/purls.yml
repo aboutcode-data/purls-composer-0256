@@ -45,3 +45,4 @@
 - pkg:composer/eventsauce/eventsauce@3.6.2
 - pkg:composer/eventsauce/eventsauce@3.7.0
 - pkg:composer/eventsauce/eventsauce@3.7.1
+- pkg:composer/eventsauce/eventsauce@3.8.0
