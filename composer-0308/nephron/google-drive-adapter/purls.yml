@@ -15,3 +15,6 @@
 - pkg:composer/nephron/google-drive-adapter@v2.4
 - pkg:composer/nephron/google-drive-adapter@v2.5
 - pkg:composer/nephron/google-drive-adapter@v2.6
+- pkg:composer/nephron/google-drive-adapter@v2.7
+- pkg:composer/nephron/google-drive-adapter@v2.8
+- pkg:composer/nephron/google-drive-adapter@v2.9

@@ -12,6 +12,8 @@
 - pkg:composer/nng/nnhelpers@13.1.2
 - pkg:composer/nng/nnhelpers@13.1.3
 - pkg:composer/nng/nnhelpers@13.1.4
+- pkg:composer/nng/nnhelpers@13.1.5
+- pkg:composer/nng/nnhelpers@13.1.6
 - pkg:composer/nng/nnhelpers@2.0.10
 - pkg:composer/nng/nnhelpers@2.0.12
 - pkg:composer/nng/nnhelpers@2.0.9

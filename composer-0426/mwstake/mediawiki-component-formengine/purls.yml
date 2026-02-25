@@ -40,3 +40,4 @@
 - pkg:composer/mwstake/mediawiki-component-formengine@3.0.7
 - pkg:composer/mwstake/mediawiki-component-formengine@3.0.8
 - pkg:composer/mwstake/mediawiki-component-formengine@3.0.9
+- pkg:composer/mwstake/mediawiki-component-formengine@3.1.0

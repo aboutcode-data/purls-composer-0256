@@ -26,6 +26,11 @@
 - pkg:composer/mpc/mpc-vidply@1.0.38
 - pkg:composer/mpc/mpc-vidply@1.0.39
 - pkg:composer/mpc/mpc-vidply@1.0.40
+- pkg:composer/mpc/mpc-vidply@1.0.41
+- pkg:composer/mpc/mpc-vidply@1.0.42
+- pkg:composer/mpc/mpc-vidply@1.0.43
+- pkg:composer/mpc/mpc-vidply@1.0.44
+- pkg:composer/mpc/mpc-vidply@1.0.45
 - pkg:composer/mpc/mpc-vidply@v1.0.0
 - pkg:composer/mpc/mpc-vidply@v1.0.1
 - pkg:composer/mpc/mpc-vidply@v1.0.10

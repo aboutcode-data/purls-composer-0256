@@ -228,3 +228,4 @@
 - pkg:composer/mollie/mollie-api-php@v3.6.0
 - pkg:composer/mollie/mollie-api-php@v3.7.0
 - pkg:composer/mollie/mollie-api-php@v3.8.0
+- pkg:composer/mollie/mollie-api-php@v3.9.0

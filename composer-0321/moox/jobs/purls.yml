@@ -32,4 +32,8 @@
 - pkg:composer/moox/jobs@3.5.0
 - pkg:composer/moox/jobs@4.0.0-beta.2
 - pkg:composer/moox/jobs@4.0.0-beta.3
+- pkg:composer/moox/jobs@5.0.0
+- pkg:composer/moox/jobs@5.0.1
+- pkg:composer/moox/jobs@5.0.11
+- pkg:composer/moox/jobs@5.0.12
 - pkg:composer/moox/jobs@v4.0.0-beta.1

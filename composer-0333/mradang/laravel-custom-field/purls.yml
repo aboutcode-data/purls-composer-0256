@@ -19,3 +19,7 @@
 - pkg:composer/mradang/laravel-custom-field@v5.0.0
 - pkg:composer/mradang/laravel-custom-field@v5.1.0
 - pkg:composer/mradang/laravel-custom-field@v5.2.0
+- pkg:composer/mradang/laravel-custom-field@v6.0.1
+- pkg:composer/mradang/laravel-custom-field@v6.0.2
+- pkg:composer/mradang/laravel-custom-field@v6.1.0
+- pkg:composer/mradang/laravel-custom-field@v6.2.2

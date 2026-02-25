@@ -4,4 +4,8 @@
 - pkg:composer/moox/tag@0.3.3
 - pkg:composer/moox/tag@4.0.0-beta.2
 - pkg:composer/moox/tag@4.0.0-beta.3
+- pkg:composer/moox/tag@5.0.0-beta
+- pkg:composer/moox/tag@5.0.1-beta
+- pkg:composer/moox/tag@5.0.11
+- pkg:composer/moox/tag@5.0.12
 - pkg:composer/moox/tag@v4.0.0-beta.1

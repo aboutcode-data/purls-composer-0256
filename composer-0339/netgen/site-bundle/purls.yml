@@ -79,3 +79,4 @@
 - pkg:composer/netgen/site-bundle@3.3.4
 - pkg:composer/netgen/site-bundle@3.3.5
 - pkg:composer/netgen/site-bundle@3.4.0
+- pkg:composer/netgen/site-bundle@4.0.0

@@ -1,1 +1,2 @@
 - pkg:composer/nixphp/session@v0.1.0
+- pkg:composer/nixphp/session@v0.1.1
