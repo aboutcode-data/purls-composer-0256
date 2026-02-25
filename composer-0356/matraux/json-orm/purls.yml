@@ -5,3 +5,4 @@
 - pkg:composer/matraux/json-orm@1.4.2
 - pkg:composer/matraux/json-orm@2.0.0
 - pkg:composer/matraux/json-orm@2.1.0
+- pkg:composer/matraux/json-orm@2.2.0

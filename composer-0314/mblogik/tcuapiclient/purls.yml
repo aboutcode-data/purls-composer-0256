@@ -1,1 +1,4 @@
+- pkg:composer/mblogik/tcuapiclient@v1.1.0
 - pkg:composer/mblogik/tcuapiclient@v2.0.0
+- pkg:composer/mblogik/tcuapiclient@v2.1.0
+- pkg:composer/mblogik/tcuapiclient@v2.2.0

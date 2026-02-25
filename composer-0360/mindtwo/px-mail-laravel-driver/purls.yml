@@ -16,3 +16,4 @@
 - pkg:composer/mindtwo/px-mail-laravel-driver@0.7.0
 - pkg:composer/mindtwo/px-mail-laravel-driver@0.7.1
 - pkg:composer/mindtwo/px-mail-laravel-driver@0.7.2
+- pkg:composer/mindtwo/px-mail-laravel-driver@1.0.0

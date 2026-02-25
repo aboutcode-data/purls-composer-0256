@@ -21,3 +21,5 @@
 - pkg:composer/memio/model@v3.0.0
 - pkg:composer/memio/model@v3.0.2
 - pkg:composer/memio/model@v3.0.3
+- pkg:composer/memio/model@v4.0.0-alpha1
+- pkg:composer/memio/model@v4.0.0-alpha2

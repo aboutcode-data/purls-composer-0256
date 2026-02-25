@@ -38,3 +38,6 @@
 - pkg:composer/milon/barcode@v11.0.0
 - pkg:composer/milon/barcode@v11.0.1
 - pkg:composer/milon/barcode@v12.0.0
+- pkg:composer/milon/barcode@v12.1.0
+- pkg:composer/milon/barcode@v13.0
+- pkg:composer/milon/barcode@v13.1

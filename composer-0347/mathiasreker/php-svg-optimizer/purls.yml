@@ -66,3 +66,10 @@
 - pkg:composer/mathiasreker/php-svg-optimizer@8.2.4
 - pkg:composer/mathiasreker/php-svg-optimizer@8.2.5
 - pkg:composer/mathiasreker/php-svg-optimizer@8.2.6
+- pkg:composer/mathiasreker/php-svg-optimizer@8.3.0
+- pkg:composer/mathiasreker/php-svg-optimizer@8.3.1
+- pkg:composer/mathiasreker/php-svg-optimizer@8.4.0
+- pkg:composer/mathiasreker/php-svg-optimizer@8.4.1
+- pkg:composer/mathiasreker/php-svg-optimizer@8.5.0
+- pkg:composer/mathiasreker/php-svg-optimizer@8.5.1
+- pkg:composer/mathiasreker/php-svg-optimizer@8.5.2

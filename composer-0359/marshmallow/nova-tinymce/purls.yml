@@ -19,3 +19,4 @@
 - pkg:composer/marshmallow/nova-tinymce@v2.2.0
 - pkg:composer/marshmallow/nova-tinymce@v2.2.1
 - pkg:composer/marshmallow/nova-tinymce@v2.3.0
+- pkg:composer/marshmallow/nova-tinymce@v2.3.1

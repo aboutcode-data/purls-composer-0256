@@ -80,3 +80,4 @@
 - pkg:composer/makaira/oxid-connect@4.2.5
 - pkg:composer/makaira/oxid-connect@4.3.0
 - pkg:composer/makaira/oxid-connect@4.4.0
+- pkg:composer/makaira/oxid-connect@4.5.0

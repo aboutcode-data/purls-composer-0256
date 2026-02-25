@@ -5,6 +5,8 @@
 - pkg:composer/michaeldrennen/schwab-api-php@v0.13
 - pkg:composer/michaeldrennen/schwab-api-php@v0.14
 - pkg:composer/michaeldrennen/schwab-api-php@v0.15
+- pkg:composer/michaeldrennen/schwab-api-php@v0.16
+- pkg:composer/michaeldrennen/schwab-api-php@v0.17
 - pkg:composer/michaeldrennen/schwab-api-php@v0.2
 - pkg:composer/michaeldrennen/schwab-api-php@v0.3
 - pkg:composer/michaeldrennen/schwab-api-php@v0.4

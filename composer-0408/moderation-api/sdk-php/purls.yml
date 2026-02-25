@@ -4,3 +4,7 @@
 - pkg:composer/moderation-api/sdk-php@v0.3.0
 - pkg:composer/moderation-api/sdk-php@v0.4.0
 - pkg:composer/moderation-api/sdk-php@v0.5.0
+- pkg:composer/moderation-api/sdk-php@v0.6.0
+- pkg:composer/moderation-api/sdk-php@v0.7.0
+- pkg:composer/moderation-api/sdk-php@v0.7.1
+- pkg:composer/moderation-api/sdk-php@v0.8.0

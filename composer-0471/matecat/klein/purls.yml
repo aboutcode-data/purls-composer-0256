@@ -10,3 +10,5 @@
 - pkg:composer/matecat/klein@v3.0.0
 - pkg:composer/matecat/klein@v3.1.0
 - pkg:composer/matecat/klein@v3.2.0
+- pkg:composer/matecat/klein@v3.2.1
+- pkg:composer/matecat/klein@v3.2.2

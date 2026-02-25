@@ -30,6 +30,7 @@
 - pkg:composer/mako/framework@12.0.0
 - pkg:composer/mako/framework@12.0.1
 - pkg:composer/mako/framework@12.0.2
+- pkg:composer/mako/framework@12.1.0
 - pkg:composer/mako/framework@3.5.0
 - pkg:composer/mako/framework@3.5.0-BETA2
 - pkg:composer/mako/framework@3.5.1

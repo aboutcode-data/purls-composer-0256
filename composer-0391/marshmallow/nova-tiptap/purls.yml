@@ -10,3 +10,5 @@
 - pkg:composer/marshmallow/nova-tiptap@5.7.0
 - pkg:composer/marshmallow/nova-tiptap@5.8.0
 - pkg:composer/marshmallow/nova-tiptap@5.8.1
+- pkg:composer/marshmallow/nova-tiptap@5.9.0
+- pkg:composer/marshmallow/nova-tiptap@6.0.0

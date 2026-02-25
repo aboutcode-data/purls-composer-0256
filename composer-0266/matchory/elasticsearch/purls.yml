@@ -99,3 +99,4 @@
 - pkg:composer/matchory/elasticsearch@3.0.0-alpha.9
 - pkg:composer/matchory/elasticsearch@3.0.0-beta.0
 - pkg:composer/matchory/elasticsearch@3.0.0-beta.1
+- pkg:composer/matchory/elasticsearch@3.0.0-beta.2
