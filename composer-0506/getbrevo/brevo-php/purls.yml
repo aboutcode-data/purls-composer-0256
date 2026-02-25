@@ -1,3 +1,4 @@
+- pkg:composer/getbrevo/brevo-php@4.0.5
 - pkg:composer/getbrevo/brevo-php@v1.0.0
 - pkg:composer/getbrevo/brevo-php@v1.0.1
 - pkg:composer/getbrevo/brevo-php@v1.0.2

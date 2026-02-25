@@ -93,6 +93,10 @@
 - pkg:composer/flarum-lang/russian@1.58.2
 - pkg:composer/flarum-lang/russian@1.59.0
 - pkg:composer/flarum-lang/russian@1.59.1
+- pkg:composer/flarum-lang/russian@1.59.10
+- pkg:composer/flarum-lang/russian@1.59.11
+- pkg:composer/flarum-lang/russian@1.59.12
+- pkg:composer/flarum-lang/russian@1.59.13
 - pkg:composer/flarum-lang/russian@1.59.2
 - pkg:composer/flarum-lang/russian@1.59.3
 - pkg:composer/flarum-lang/russian@1.59.4

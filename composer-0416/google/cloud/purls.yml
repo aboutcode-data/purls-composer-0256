@@ -263,8 +263,10 @@
 - pkg:composer/google/cloud@v0.316.0
 - pkg:composer/google/cloud@v0.317.0
 - pkg:composer/google/cloud@v0.318.0
+- pkg:composer/google/cloud@v0.319.0
 - pkg:composer/google/cloud@v0.32.0
 - pkg:composer/google/cloud@v0.32.1
+- pkg:composer/google/cloud@v0.320.0
 - pkg:composer/google/cloud@v0.33.0
 - pkg:composer/google/cloud@v0.33.1
 - pkg:composer/google/cloud@v0.34.0

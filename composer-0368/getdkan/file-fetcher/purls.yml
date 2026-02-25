@@ -27,3 +27,4 @@
 - pkg:composer/getdkan/file-fetcher@5.0.5
 - pkg:composer/getdkan/file-fetcher@5.1.0
 - pkg:composer/getdkan/file-fetcher@5.1.1
+- pkg:composer/getdkan/file-fetcher@5.1.2

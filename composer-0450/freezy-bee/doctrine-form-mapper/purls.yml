@@ -1,5 +1,7 @@
 - pkg:composer/freezy-bee/doctrine-form-mapper@1.7.0
 - pkg:composer/freezy-bee/doctrine-form-mapper@1.8.0
+- pkg:composer/freezy-bee/doctrine-form-mapper@1.9.0
+- pkg:composer/freezy-bee/doctrine-form-mapper@1.9.1
 - pkg:composer/freezy-bee/doctrine-form-mapper@v1.0.0
 - pkg:composer/freezy-bee/doctrine-form-mapper@v1.0.0-beta10
 - pkg:composer/freezy-bee/doctrine-form-mapper@v1.0.0-beta11

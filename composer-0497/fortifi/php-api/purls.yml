@@ -126,6 +126,7 @@
 - pkg:composer/fortifi/php-api@3.179.0
 - pkg:composer/fortifi/php-api@3.18.0
 - pkg:composer/fortifi/php-api@3.180.0
+- pkg:composer/fortifi/php-api@3.181.0
 - pkg:composer/fortifi/php-api@3.19.0
 - pkg:composer/fortifi/php-api@3.19.1
 - pkg:composer/fortifi/php-api@3.19.2

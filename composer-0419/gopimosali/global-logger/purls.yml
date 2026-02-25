@@ -1,4 +1,6 @@
-- pkg:composer/gopimosali/global-logger@1.5.0
 - pkg:composer/gopimosali/global-logger@v1.0.0
 - pkg:composer/gopimosali/global-logger@v1.6.0
 - pkg:composer/gopimosali/global-logger@v1.6.1
+- pkg:composer/gopimosali/global-logger@v1.6.2
+- pkg:composer/gopimosali/global-logger@v1.6.3
+- pkg:composer/gopimosali/global-logger@v1.6.4

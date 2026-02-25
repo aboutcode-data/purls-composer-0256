@@ -10,3 +10,4 @@
 - pkg:composer/google/cloud-developerconnect@v0.5.0
 - pkg:composer/google/cloud-developerconnect@v0.5.1
 - pkg:composer/google/cloud-developerconnect@v0.5.3
+- pkg:composer/google/cloud-developerconnect@v0.6.0

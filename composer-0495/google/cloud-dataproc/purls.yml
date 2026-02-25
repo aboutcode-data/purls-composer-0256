@@ -70,6 +70,7 @@
 - pkg:composer/google/cloud-dataproc@v2.8.0
 - pkg:composer/google/cloud-dataproc@v2.8.1
 - pkg:composer/google/cloud-dataproc@v2.8.2
+- pkg:composer/google/cloud-dataproc@v2.9.0
 - pkg:composer/google/cloud-dataproc@v3.0.0
 - pkg:composer/google/cloud-dataproc@v3.1.0
 - pkg:composer/google/cloud-dataproc@v3.1.1

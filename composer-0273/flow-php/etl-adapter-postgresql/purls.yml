@@ -1,2 +1,3 @@
 - pkg:composer/flow-php/etl-adapter-postgresql@0.30.0
 - pkg:composer/flow-php/etl-adapter-postgresql@0.31.0
+- pkg:composer/flow-php/etl-adapter-postgresql@0.32.0
