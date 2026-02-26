@@ -44,3 +44,6 @@
 - pkg:composer/usualtool/framework@V6.7
 - pkg:composer/usualtool/framework@V6.7.5
 - pkg:composer/usualtool/framework@V6.8
+- pkg:composer/usualtool/framework@V7.0
+- pkg:composer/usualtool/framework@V7.0.1
+- pkg:composer/usualtool/framework@V7.0.2

@@ -7,3 +7,4 @@
 - pkg:composer/upmind/provision-provider-software-licenses@v3.4
 - pkg:composer/upmind/provision-provider-software-licenses@v3.5
 - pkg:composer/upmind/provision-provider-software-licenses@v3.6
+- pkg:composer/upmind/provision-provider-software-licenses@v3.7

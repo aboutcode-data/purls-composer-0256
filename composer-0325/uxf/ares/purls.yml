@@ -178,6 +178,9 @@
 - pkg:composer/uxf/ares@3.76.2
 - pkg:composer/uxf/ares@3.76.3
 - pkg:composer/uxf/ares@3.77.2
+- pkg:composer/uxf/ares@3.77.3
+- pkg:composer/uxf/ares@3.77.4
+- pkg:composer/uxf/ares@3.77.5
 - pkg:composer/uxf/ares@3.8.0
 - pkg:composer/uxf/ares@3.8.1
 - pkg:composer/uxf/ares@3.8.2

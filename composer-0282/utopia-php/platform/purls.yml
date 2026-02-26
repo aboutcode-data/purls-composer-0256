@@ -19,6 +19,8 @@
 - pkg:composer/utopia-php/platform@0.7.12
 - pkg:composer/utopia-php/platform@0.7.13
 - pkg:composer/utopia-php/platform@0.7.14
+- pkg:composer/utopia-php/platform@0.7.15
+- pkg:composer/utopia-php/platform@0.7.16
 - pkg:composer/utopia-php/platform@0.7.2
 - pkg:composer/utopia-php/platform@0.7.3
 - pkg:composer/utopia-php/platform@0.7.4
@@ -30,3 +32,4 @@
 - pkg:composer/utopia-php/platform@0.8.0
 - pkg:composer/utopia-php/platform@0.8.1
 - pkg:composer/utopia-php/platform@0.9.0
+- pkg:composer/utopia-php/platform@0.9.1

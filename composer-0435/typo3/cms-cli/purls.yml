@@ -6,3 +6,4 @@
 - pkg:composer/typo3/cms-cli@3.1.0
 - pkg:composer/typo3/cms-cli@3.1.1
 - pkg:composer/typo3/cms-cli@3.1.2
+- pkg:composer/typo3/cms-cli@v3.1.3

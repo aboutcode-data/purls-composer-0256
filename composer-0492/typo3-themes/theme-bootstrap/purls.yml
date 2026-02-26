@@ -9,3 +9,5 @@
 - pkg:composer/typo3-themes/theme-bootstrap@8.8.4
 - pkg:composer/typo3-themes/theme-bootstrap@9.0.0
 - pkg:composer/typo3-themes/theme-bootstrap@9.0.1
+- pkg:composer/typo3-themes/theme-bootstrap@9.1.0
+- pkg:composer/typo3-themes/theme-bootstrap@9.2.0

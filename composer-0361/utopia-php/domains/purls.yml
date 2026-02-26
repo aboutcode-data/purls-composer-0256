@@ -27,3 +27,5 @@
 - pkg:composer/utopia-php/domains@0.9.1
 - pkg:composer/utopia-php/domains@0.9.2
 - pkg:composer/utopia-php/domains@1.0.0
+- pkg:composer/utopia-php/domains@1.0.1
+- pkg:composer/utopia-php/domains@1.0.2

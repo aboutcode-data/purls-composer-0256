@@ -25,6 +25,7 @@
 - pkg:composer/vantiv/cnp-payments-sdk@12.45.0
 - pkg:composer/vantiv/cnp-payments-sdk@12.47.0
 - pkg:composer/vantiv/cnp-payments-sdk@12.48.0
+- pkg:composer/vantiv/cnp-payments-sdk@12.49.0
 - pkg:composer/vantiv/cnp-payments-sdk@12.5.0
 - pkg:composer/vantiv/cnp-payments-sdk@12.5.1
 - pkg:composer/vantiv/cnp-payments-sdk@12.5.2

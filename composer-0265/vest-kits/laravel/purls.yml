@@ -15,3 +15,5 @@
 - pkg:composer/vest-kits/laravel@v1.2.8
 - pkg:composer/vest-kits/laravel@v1.2.9
 - pkg:composer/vest-kits/laravel@v1.3.0
+- pkg:composer/vest-kits/laravel@v1.4.0
+- pkg:composer/vest-kits/laravel@v1.4.1
