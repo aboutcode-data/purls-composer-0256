@@ -2,6 +2,8 @@
 - pkg:composer/spatie/laravel-backup@1.0.0
 - pkg:composer/spatie/laravel-backup@1.1.0
 - pkg:composer/spatie/laravel-backup@1.2.0
+- pkg:composer/spatie/laravel-backup@10.0.0
+- pkg:composer/spatie/laravel-backup@10.0.1
 - pkg:composer/spatie/laravel-backup@2.0.0
 - pkg:composer/spatie/laravel-backup@2.0.1
 - pkg:composer/spatie/laravel-backup@2.0.2
@@ -316,3 +318,5 @@
 - pkg:composer/spatie/laravel-backup@9.3.5
 - pkg:composer/spatie/laravel-backup@9.3.6
 - pkg:composer/spatie/laravel-backup@9.3.7
+- pkg:composer/spatie/laravel-backup@9.4.0
+- pkg:composer/spatie/laravel-backup@9.4.1

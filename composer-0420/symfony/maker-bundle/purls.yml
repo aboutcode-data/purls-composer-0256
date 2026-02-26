@@ -105,6 +105,7 @@
 - pkg:composer/symfony/maker-bundle@v1.64.0
 - pkg:composer/symfony/maker-bundle@v1.65.0
 - pkg:composer/symfony/maker-bundle@v1.65.1
+- pkg:composer/symfony/maker-bundle@v1.66.0
 - pkg:composer/symfony/maker-bundle@v1.7.0
 - pkg:composer/symfony/maker-bundle@v1.8.0
 - pkg:composer/symfony/maker-bundle@v1.9.0

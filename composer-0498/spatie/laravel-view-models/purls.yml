@@ -16,3 +16,4 @@
 - pkg:composer/spatie/laravel-view-models@1.5.4
 - pkg:composer/spatie/laravel-view-models@1.6.0
 - pkg:composer/spatie/laravel-view-models@1.6.1
+- pkg:composer/spatie/laravel-view-models@1.6.2

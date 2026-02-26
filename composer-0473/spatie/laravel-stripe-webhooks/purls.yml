@@ -37,6 +37,8 @@
 - pkg:composer/spatie/laravel-stripe-webhooks@3.10.3
 - pkg:composer/spatie/laravel-stripe-webhooks@3.10.4
 - pkg:composer/spatie/laravel-stripe-webhooks@3.10.5
+- pkg:composer/spatie/laravel-stripe-webhooks@3.10.6
+- pkg:composer/spatie/laravel-stripe-webhooks@3.10.7
 - pkg:composer/spatie/laravel-stripe-webhooks@3.2.0
 - pkg:composer/spatie/laravel-stripe-webhooks@3.2.1
 - pkg:composer/spatie/laravel-stripe-webhooks@3.2.2

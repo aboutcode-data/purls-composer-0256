@@ -59,6 +59,8 @@
 - pkg:composer/su-soe/soe_profile@12.1.3
 - pkg:composer/su-soe/soe_profile@12.1.4
 - pkg:composer/su-soe/soe_profile@12.1.5
+- pkg:composer/su-soe/soe_profile@12.2.0
+- pkg:composer/su-soe/soe_profile@12.2.1
 - pkg:composer/su-soe/soe_profile@8.1.0-rc.10
 - pkg:composer/su-soe/soe_profile@8.1.0-rc.8
 - pkg:composer/su-soe/soe_profile@8.1.0-rc.9

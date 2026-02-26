@@ -21,3 +21,6 @@
 - pkg:composer/spryker/availability-cart-connector@7.3.0
 - pkg:composer/spryker/availability-cart-connector@7.4.0
 - pkg:composer/spryker/availability-cart-connector@7.5.0
+- pkg:composer/spryker/availability-cart-connector@7.6.0
+- pkg:composer/spryker/availability-cart-connector@7.7.0
+- pkg:composer/spryker/availability-cart-connector@7.8.0

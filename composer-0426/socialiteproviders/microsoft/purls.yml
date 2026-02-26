@@ -12,6 +12,8 @@
 - pkg:composer/socialiteproviders/microsoft@4.6.0
 - pkg:composer/socialiteproviders/microsoft@4.6.0-beta
 - pkg:composer/socialiteproviders/microsoft@4.7.0
+- pkg:composer/socialiteproviders/microsoft@4.7.1
+- pkg:composer/socialiteproviders/microsoft@4.8.0
 - pkg:composer/socialiteproviders/microsoft@v1.0.0
 - pkg:composer/socialiteproviders/microsoft@v1.1
 - pkg:composer/socialiteproviders/microsoft@v3.0.0

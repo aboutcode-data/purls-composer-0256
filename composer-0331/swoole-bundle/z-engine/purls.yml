@@ -25,3 +25,5 @@
 - pkg:composer/swoole-bundle/z-engine@8.3.1
 - pkg:composer/swoole-bundle/z-engine@8.4.0
 - pkg:composer/swoole-bundle/z-engine@8.4.1
+- pkg:composer/swoole-bundle/z-engine@8.5.0
+- pkg:composer/swoole-bundle/z-engine@8.5.1

@@ -29,6 +29,7 @@
 - pkg:composer/sunnysideup/permission_provider@14.5.2
 - pkg:composer/sunnysideup/permission_provider@14.6.0
 - pkg:composer/sunnysideup/permission_provider@14.6.1
+- pkg:composer/sunnysideup/permission_provider@15.0.0
 - pkg:composer/sunnysideup/permission_provider@2.0.0
 - pkg:composer/sunnysideup/permission_provider@2.1.0
 - pkg:composer/sunnysideup/permission_provider@2.1.1

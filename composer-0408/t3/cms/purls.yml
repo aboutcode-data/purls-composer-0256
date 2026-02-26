@@ -8,6 +8,7 @@
 - pkg:composer/t3/cms@12.0.0
 - pkg:composer/t3/cms@12.4.0
 - pkg:composer/t3/cms@13.0.0
+- pkg:composer/t3/cms@13.0.1
 - pkg:composer/t3/cms@7.0.0
 - pkg:composer/t3/cms@7.0.1
 - pkg:composer/t3/cms@7.6.0

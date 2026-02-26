@@ -63,3 +63,5 @@
 - pkg:composer/sunnysideup/upgrade_to_silverstripe_4@8.7.3
 - pkg:composer/sunnysideup/upgrade_to_silverstripe_4@8.8.0
 - pkg:composer/sunnysideup/upgrade_to_silverstripe_4@8.9.0
+- pkg:composer/sunnysideup/upgrade_to_silverstripe_4@9.0.0
+- pkg:composer/sunnysideup/upgrade_to_silverstripe_4@9.1.0

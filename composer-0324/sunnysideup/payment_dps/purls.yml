@@ -1,3 +1,4 @@
+- pkg:composer/sunnysideup/payment_dps@10.0.0
 - pkg:composer/sunnysideup/payment_dps@3.0.0
 - pkg:composer/sunnysideup/payment_dps@4.0.0
 - pkg:composer/sunnysideup/payment_dps@5.0.0

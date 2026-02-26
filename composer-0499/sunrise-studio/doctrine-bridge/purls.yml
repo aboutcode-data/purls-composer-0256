@@ -40,3 +40,4 @@
 - pkg:composer/sunrise-studio/doctrine-bridge@v3.5.0
 - pkg:composer/sunrise-studio/doctrine-bridge@v3.6.0
 - pkg:composer/sunrise-studio/doctrine-bridge@v3.6.1
+- pkg:composer/sunrise-studio/doctrine-bridge@v3.7.0

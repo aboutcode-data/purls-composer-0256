@@ -64,6 +64,7 @@
 - pkg:composer/spryker/availability@9.29.0
 - pkg:composer/spryker/availability@9.3.0
 - pkg:composer/spryker/availability@9.30.0
+- pkg:composer/spryker/availability@9.31.0
 - pkg:composer/spryker/availability@9.4.0
 - pkg:composer/spryker/availability@9.4.1
 - pkg:composer/spryker/availability@9.5.0

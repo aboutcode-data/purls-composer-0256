@@ -18,3 +18,4 @@
 - pkg:composer/spatie/laravel-database-mail-templates@3.6.0
 - pkg:composer/spatie/laravel-database-mail-templates@3.7.0
 - pkg:composer/spatie/laravel-database-mail-templates@3.7.1
+- pkg:composer/spatie/laravel-database-mail-templates@3.7.2

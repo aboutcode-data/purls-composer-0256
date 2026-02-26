@@ -126,3 +126,6 @@
 - pkg:composer/supseven/supi@v8.0.4
 - pkg:composer/supseven/supi@v8.0.5
 - pkg:composer/supseven/supi@v8.0.6
+- pkg:composer/supseven/supi@v9.0.0
+- pkg:composer/supseven/supi@v9.0.1
+- pkg:composer/supseven/supi@v9.0.2

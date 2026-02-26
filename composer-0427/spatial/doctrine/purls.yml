@@ -29,6 +29,7 @@
 - pkg:composer/spatial/doctrine@4.0.0-alpha7
 - pkg:composer/spatial/doctrine@4.0.0-alpha7.1
 - pkg:composer/spatial/doctrine@4.0.0-alpha8
+- pkg:composer/spatial/doctrine@4.0.1
 - pkg:composer/spatial/doctrine@v1.0.0
 - pkg:composer/spatial/doctrine@v1.0.1
 - pkg:composer/spatial/doctrine@v2.0.0

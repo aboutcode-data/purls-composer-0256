@@ -17,3 +17,5 @@
 - pkg:composer/stuartmcgill/sumoapi-php@0.7.1
 - pkg:composer/stuartmcgill/sumoapi-php@0.8.0
 - pkg:composer/stuartmcgill/sumoapi-php@0.8.1
+- pkg:composer/stuartmcgill/sumoapi-php@v0.8.2
+- pkg:composer/stuartmcgill/sumoapi-php@v0.8.3

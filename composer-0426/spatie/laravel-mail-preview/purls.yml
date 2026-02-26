@@ -19,6 +19,7 @@
 - pkg:composer/spatie/laravel-mail-preview@6.1.0
 - pkg:composer/spatie/laravel-mail-preview@6.2.0
 - pkg:composer/spatie/laravel-mail-preview@6.2.1
+- pkg:composer/spatie/laravel-mail-preview@6.2.2
 - pkg:composer/spatie/laravel-mail-preview@v1.0.0
 - pkg:composer/spatie/laravel-mail-preview@v1.1.0
 - pkg:composer/spatie/laravel-mail-preview@v1.1.1

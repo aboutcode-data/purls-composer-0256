@@ -110,6 +110,8 @@
 - pkg:composer/spryker/application@3.43.0
 - pkg:composer/spryker/application@3.44.0
 - pkg:composer/spryker/application@3.44.1
+- pkg:composer/spryker/application@3.44.2
+- pkg:composer/spryker/application@3.44.3
 - pkg:composer/spryker/application@3.5.0
 - pkg:composer/spryker/application@3.6.0
 - pkg:composer/spryker/application@3.7.0

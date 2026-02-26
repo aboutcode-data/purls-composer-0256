@@ -45,3 +45,4 @@
 - pkg:composer/stechstudio/laravel-zipstream@5.5
 - pkg:composer/stechstudio/laravel-zipstream@5.6
 - pkg:composer/stechstudio/laravel-zipstream@5.7
+- pkg:composer/stechstudio/laravel-zipstream@5.8

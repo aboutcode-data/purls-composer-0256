@@ -14,3 +14,4 @@
 - pkg:composer/spatie/laravel-artisan-dd@2.3.4
 - pkg:composer/spatie/laravel-artisan-dd@2.4.0
 - pkg:composer/spatie/laravel-artisan-dd@2.4.1
+- pkg:composer/spatie/laravel-artisan-dd@2.5.0

@@ -28,3 +28,4 @@
 - pkg:composer/statamic/importer@v2.0.0-beta.1
 - pkg:composer/statamic/importer@v2.0.0-beta.2
 - pkg:composer/statamic/importer@v2.0.0-beta.3
+- pkg:composer/statamic/importer@v2.0.1

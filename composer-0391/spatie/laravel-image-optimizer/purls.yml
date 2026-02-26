@@ -24,3 +24,4 @@
 - pkg:composer/spatie/laravel-image-optimizer@1.8.0
 - pkg:composer/spatie/laravel-image-optimizer@1.8.1
 - pkg:composer/spatie/laravel-image-optimizer@1.8.2
+- pkg:composer/spatie/laravel-image-optimizer@1.8.3

@@ -8,3 +8,4 @@
 - pkg:composer/softcreatr/php-mime-detector@4.0.0
 - pkg:composer/softcreatr/php-mime-detector@5.0.0
 - pkg:composer/softcreatr/php-mime-detector@5.1.0
+- pkg:composer/softcreatr/php-mime-detector@5.1.1

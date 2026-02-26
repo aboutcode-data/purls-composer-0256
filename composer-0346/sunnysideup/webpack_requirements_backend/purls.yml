@@ -7,6 +7,13 @@
 - pkg:composer/sunnysideup/webpack_requirements_backend@1.4.0
 - pkg:composer/sunnysideup/webpack_requirements_backend@1.5.0
 - pkg:composer/sunnysideup/webpack_requirements_backend@1.6.0
+- pkg:composer/sunnysideup/webpack_requirements_backend@10.0.0
+- pkg:composer/sunnysideup/webpack_requirements_backend@10.0.1
+- pkg:composer/sunnysideup/webpack_requirements_backend@10.0.2
+- pkg:composer/sunnysideup/webpack_requirements_backend@10.0.3
+- pkg:composer/sunnysideup/webpack_requirements_backend@10.0.4
+- pkg:composer/sunnysideup/webpack_requirements_backend@10.0.5
+- pkg:composer/sunnysideup/webpack_requirements_backend@10.0.6
 - pkg:composer/sunnysideup/webpack_requirements_backend@2.0.0
 - pkg:composer/sunnysideup/webpack_requirements_backend@3.0.0
 - pkg:composer/sunnysideup/webpack_requirements_backend@3.0.1

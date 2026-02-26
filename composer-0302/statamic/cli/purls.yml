@@ -29,3 +29,4 @@
 - pkg:composer/statamic/cli@3.5.0
 - pkg:composer/statamic/cli@3.6.0
 - pkg:composer/statamic/cli@3.6.1
+- pkg:composer/statamic/cli@3.6.2

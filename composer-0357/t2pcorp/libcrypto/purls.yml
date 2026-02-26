@@ -7,3 +7,11 @@
 - pkg:composer/t2pcorp/libcrypto@v1.1.0
 - pkg:composer/t2pcorp/libcrypto@v1.1.1
 - pkg:composer/t2pcorp/libcrypto@v1.2.0
+- pkg:composer/t2pcorp/libcrypto@v1.3.1
+- pkg:composer/t2pcorp/libcrypto@v1.3.2
+- pkg:composer/t2pcorp/libcrypto@v1.3.3
+- pkg:composer/t2pcorp/libcrypto@v1.3.4
+- pkg:composer/t2pcorp/libcrypto@v1.3.5
+- pkg:composer/t2pcorp/libcrypto@v1.4.8
+- pkg:composer/t2pcorp/libcrypto@v1.5.8
+- pkg:composer/t2pcorp/libcrypto@v1.6.8
