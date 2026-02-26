@@ -160,6 +160,8 @@
 - pkg:composer/symfony/amazon-mailer@v7.4.0
 - pkg:composer/symfony/amazon-mailer@v7.4.0-BETA1
 - pkg:composer/symfony/amazon-mailer@v7.4.0-RC1
+- pkg:composer/symfony/amazon-mailer@v7.4.6
 - pkg:composer/symfony/amazon-mailer@v8.0.0
 - pkg:composer/symfony/amazon-mailer@v8.0.0-BETA1
 - pkg:composer/symfony/amazon-mailer@v8.0.0-RC1
+- pkg:composer/symfony/amazon-mailer@v8.0.6
