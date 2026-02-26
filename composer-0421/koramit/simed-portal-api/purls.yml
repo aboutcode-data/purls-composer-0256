@@ -2,6 +2,10 @@
 - pkg:composer/koramit/simed-portal-api@0.1.1
 - pkg:composer/koramit/simed-portal-api@0.1.10
 - pkg:composer/koramit/simed-portal-api@0.1.11
+- pkg:composer/koramit/simed-portal-api@0.1.12
+- pkg:composer/koramit/simed-portal-api@0.1.13
+- pkg:composer/koramit/simed-portal-api@0.1.14
+- pkg:composer/koramit/simed-portal-api@0.1.15
 - pkg:composer/koramit/simed-portal-api@0.1.2
 - pkg:composer/koramit/simed-portal-api@0.1.3
 - pkg:composer/koramit/simed-portal-api@0.1.4
