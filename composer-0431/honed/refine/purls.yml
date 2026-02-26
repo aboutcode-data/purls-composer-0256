@@ -32,6 +32,7 @@
 - pkg:composer/honed/refine@v0.30.0
 - pkg:composer/honed/refine@v0.31.0
 - pkg:composer/honed/refine@v0.32.0
+- pkg:composer/honed/refine@v0.33.0
 - pkg:composer/honed/refine@v0.4.0
 - pkg:composer/honed/refine@v0.5.0
 - pkg:composer/honed/refine@v0.5.1
