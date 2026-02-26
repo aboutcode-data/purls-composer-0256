@@ -6,6 +6,8 @@
 - pkg:composer/tacman/twig-tree-tag@3.1.5
 - pkg:composer/tacman/twig-tree-tag@3.1.6
 - pkg:composer/tacman/twig-tree-tag@3.1.7
+- pkg:composer/tacman/twig-tree-tag@3.1.8
+- pkg:composer/tacman/twig-tree-tag@3.2.0
 - pkg:composer/tacman/twig-tree-tag@v1.0.0
 - pkg:composer/tacman/twig-tree-tag@v3.0.0
 - pkg:composer/tacman/twig-tree-tag@v3.0.1

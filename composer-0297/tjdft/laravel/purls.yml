@@ -9,3 +9,7 @@
 - pkg:composer/tjdft/laravel@2.2.3
 - pkg:composer/tjdft/laravel@2.2.4
 - pkg:composer/tjdft/laravel@2.2.5
+- pkg:composer/tjdft/laravel@2.2.6
+- pkg:composer/tjdft/laravel@2.3
+- pkg:composer/tjdft/laravel@2.3.1
+- pkg:composer/tjdft/laravel@2.4.0

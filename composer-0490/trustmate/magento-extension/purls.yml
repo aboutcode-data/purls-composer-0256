@@ -19,3 +19,4 @@
 - pkg:composer/trustmate/magento-extension@3.0.7
 - pkg:composer/trustmate/magento-extension@3.0.8
 - pkg:composer/trustmate/magento-extension@3.0.9
+- pkg:composer/trustmate/magento-extension@4.0.0

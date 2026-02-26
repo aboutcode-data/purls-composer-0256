@@ -34,3 +34,5 @@
 - pkg:composer/threadi/easy-directory-listing-for-wordpress@4.0.4
 - pkg:composer/threadi/easy-directory-listing-for-wordpress@4.0.5
 - pkg:composer/threadi/easy-directory-listing-for-wordpress@4.0.6
+- pkg:composer/threadi/easy-directory-listing-for-wordpress@4.0.7
+- pkg:composer/threadi/easy-directory-listing-for-wordpress@v4.0.8

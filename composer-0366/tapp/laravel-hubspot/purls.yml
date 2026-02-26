@@ -21,3 +21,5 @@
 - pkg:composer/tapp/laravel-hubspot@v1.1.4
 - pkg:composer/tapp/laravel-hubspot@v2.0.0
 - pkg:composer/tapp/laravel-hubspot@v2.0.1
+- pkg:composer/tapp/laravel-hubspot@v2.0.3
+- pkg:composer/tapp/laravel-hubspot@v2.0.4

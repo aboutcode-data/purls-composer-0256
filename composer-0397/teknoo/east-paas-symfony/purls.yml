@@ -88,3 +88,6 @@
 - pkg:composer/teknoo/east-paas-symfony@5.1.0
 - pkg:composer/teknoo/east-paas-symfony@5.1.1
 - pkg:composer/teknoo/east-paas-symfony@5.1.2
+- pkg:composer/teknoo/east-paas-symfony@5.2.0
+- pkg:composer/teknoo/east-paas-symfony@5.2.1
+- pkg:composer/teknoo/east-paas-symfony@5.2.2

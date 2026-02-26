@@ -21,6 +21,7 @@
 - pkg:composer/tiqr/tiqr-server-libphp@4.3.0
 - pkg:composer/tiqr/tiqr-server-libphp@4.3.0-beta1
 - pkg:composer/tiqr/tiqr-server-libphp@4.3.1
+- pkg:composer/tiqr/tiqr-server-libphp@4.4.0
 - pkg:composer/tiqr/tiqr-server-libphp@v1.1
 - pkg:composer/tiqr/tiqr-server-libphp@v1.1.1
 - pkg:composer/tiqr/tiqr-server-libphp@v1.1.10

@@ -412,6 +412,9 @@
 - pkg:composer/tencentcloud/apm@3.0.1512
 - pkg:composer/tencentcloud/apm@3.0.1520
 - pkg:composer/tencentcloud/apm@3.0.1528
+- pkg:composer/tencentcloud/apm@3.0.1533
+- pkg:composer/tencentcloud/apm@3.0.1534
+- pkg:composer/tencentcloud/apm@3.0.1535
 - pkg:composer/tencentcloud/apm@3.0.530
 - pkg:composer/tencentcloud/apm@3.0.531
 - pkg:composer/tencentcloud/apm@3.0.532

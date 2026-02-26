@@ -45,3 +45,9 @@
 - pkg:composer/tempest/datetime@v2.9.1
 - pkg:composer/tempest/datetime@v2.9.2
 - pkg:composer/tempest/datetime@v2.9.3
+- pkg:composer/tempest/datetime@v3.0.0
+- pkg:composer/tempest/datetime@v3.0.1
+- pkg:composer/tempest/datetime@v3.0.2
+- pkg:composer/tempest/datetime@v3.1.0
+- pkg:composer/tempest/datetime@v3.2.0
+- pkg:composer/tempest/datetime@v3.2.1

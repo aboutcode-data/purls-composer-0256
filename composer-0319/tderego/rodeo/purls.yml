@@ -1,3 +1,4 @@
+- pkg:composer/tderego/rodeo@1.0.0
 - pkg:composer/tderego/rodeo@1.0.0-alpha1
 - pkg:composer/tderego/rodeo@1.0.0-alpha10
 - pkg:composer/tderego/rodeo@1.0.0-alpha11
@@ -44,3 +45,14 @@
 - pkg:composer/tderego/rodeo@1.0.0-beta7
 - pkg:composer/tderego/rodeo@1.0.0-beta8
 - pkg:composer/tderego/rodeo@1.0.0-beta9
+- pkg:composer/tderego/rodeo@1.0.1
+- pkg:composer/tderego/rodeo@1.0.10
+- pkg:composer/tderego/rodeo@1.0.11
+- pkg:composer/tderego/rodeo@1.0.2
+- pkg:composer/tderego/rodeo@1.0.3
+- pkg:composer/tderego/rodeo@1.0.4
+- pkg:composer/tderego/rodeo@1.0.5
+- pkg:composer/tderego/rodeo@1.0.6
+- pkg:composer/tderego/rodeo@1.0.7
+- pkg:composer/tderego/rodeo@1.0.8
+- pkg:composer/tderego/rodeo@1.0.9

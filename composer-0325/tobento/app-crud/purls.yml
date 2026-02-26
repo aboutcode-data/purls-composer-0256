@@ -10,6 +10,8 @@
 - pkg:composer/tobento/app-crud@1.0.9
 - pkg:composer/tobento/app-crud@2.0
 - pkg:composer/tobento/app-crud@2.0.1
+- pkg:composer/tobento/app-crud@2.0.10
+- pkg:composer/tobento/app-crud@2.0.11
 - pkg:composer/tobento/app-crud@2.0.2
 - pkg:composer/tobento/app-crud@2.0.3
 - pkg:composer/tobento/app-crud@2.0.4
