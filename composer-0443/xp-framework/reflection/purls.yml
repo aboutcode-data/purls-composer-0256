@@ -58,3 +58,4 @@
 - pkg:composer/xp-framework/reflection@v3.4.1
 - pkg:composer/xp-framework/reflection@v3.5.0
 - pkg:composer/xp-framework/reflection@v3.5.1
+- pkg:composer/xp-framework/reflection@v3.6.0

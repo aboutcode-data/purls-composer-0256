@@ -1,1 +1,2 @@
 - pkg:composer/zamzar/laravel-iam-db-auth@1.0.0
+- pkg:composer/zamzar/laravel-iam-db-auth@1.0.1

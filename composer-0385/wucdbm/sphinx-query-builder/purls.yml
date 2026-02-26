@@ -3,3 +3,4 @@
 - pkg:composer/wucdbm/sphinx-query-builder@v0.2.1
 - pkg:composer/wucdbm/sphinx-query-builder@v0.3.0
 - pkg:composer/wucdbm/sphinx-query-builder@v0.4.0
+- pkg:composer/wucdbm/sphinx-query-builder@v1.0.0

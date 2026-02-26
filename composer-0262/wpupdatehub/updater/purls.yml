@@ -8,3 +8,4 @@
 - pkg:composer/wpupdatehub/updater@1.3.8
 - pkg:composer/wpupdatehub/updater@1.4.10
 - pkg:composer/wpupdatehub/updater@2.0.0
+- pkg:composer/wpupdatehub/updater@v3.0.0

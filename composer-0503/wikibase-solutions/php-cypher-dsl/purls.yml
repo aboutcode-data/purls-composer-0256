@@ -36,3 +36,4 @@
 - pkg:composer/wikibase-solutions/php-cypher-dsl@4.4.1
 - pkg:composer/wikibase-solutions/php-cypher-dsl@5.0.0
 - pkg:composer/wikibase-solutions/php-cypher-dsl@6.0.0
+- pkg:composer/wikibase-solutions/php-cypher-dsl@7.0.0

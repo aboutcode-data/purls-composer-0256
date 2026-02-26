@@ -24,3 +24,4 @@
 - pkg:composer/wikimedia/remex-html@4.1.2
 - pkg:composer/wikimedia/remex-html@5.0.0
 - pkg:composer/wikimedia/remex-html@5.1.0
+- pkg:composer/wikimedia/remex-html@6.0.0
