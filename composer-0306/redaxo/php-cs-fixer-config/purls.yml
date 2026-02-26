@@ -23,3 +23,4 @@
 - pkg:composer/redaxo/php-cs-fixer-config@2.7.0
 - pkg:composer/redaxo/php-cs-fixer-config@2.8.0
 - pkg:composer/redaxo/php-cs-fixer-config@2.9.0
+- pkg:composer/redaxo/php-cs-fixer-config@3.0.0

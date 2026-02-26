@@ -249,3 +249,4 @@
 - pkg:composer/roadiz/jwt@v2.7.0
 - pkg:composer/roadiz/jwt@v2.7.1
 - pkg:composer/roadiz/jwt@v2.7.2
+- pkg:composer/roadiz/jwt@v2.7.3
