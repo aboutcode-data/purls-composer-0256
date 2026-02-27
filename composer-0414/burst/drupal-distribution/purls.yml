@@ -13,6 +13,7 @@
 - pkg:composer/burst/drupal-distribution@10.3.1
 - pkg:composer/burst/drupal-distribution@10.4.0
 - pkg:composer/burst/drupal-distribution@10.5.0
+- pkg:composer/burst/drupal-distribution@10.6.0
 - pkg:composer/burst/drupal-distribution@2.0.0
 - pkg:composer/burst/drupal-distribution@2.0.0-alpha1
 - pkg:composer/burst/drupal-distribution@2.0.0-alpha10

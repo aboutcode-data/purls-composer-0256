@@ -18,4 +18,5 @@
 - pkg:composer/barracudanetworks/expose@5.0.1
 - pkg:composer/barracudanetworks/expose@5.0.2
 - pkg:composer/barracudanetworks/expose@6.0.0
+- pkg:composer/barracudanetworks/expose@7.0.0
 - pkg:composer/barracudanetworks/expose@v2.0

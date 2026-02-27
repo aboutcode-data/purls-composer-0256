@@ -11,3 +11,4 @@
 - pkg:composer/blitz-php/session@1.4.0
 - pkg:composer/blitz-php/session@1.4.1
 - pkg:composer/blitz-php/session@1.4.2
+- pkg:composer/blitz-php/session@1.5.0

@@ -16,3 +16,5 @@
 - pkg:composer/biostate/filament-menu-builder@v4.0.4
 - pkg:composer/biostate/filament-menu-builder@v4.0.5
 - pkg:composer/biostate/filament-menu-builder@v4.0.6
+- pkg:composer/biostate/filament-menu-builder@v5.0.0
+- pkg:composer/biostate/filament-menu-builder@v5.0.1

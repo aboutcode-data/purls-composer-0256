@@ -98,3 +98,5 @@
 - pkg:composer/baks-dev/auth-email@v7.3.7
 - pkg:composer/baks-dev/auth-email@v7.3.8
 - pkg:composer/baks-dev/auth-email@v7.3.9
+- pkg:composer/baks-dev/auth-email@v7.4.0
+- pkg:composer/baks-dev/auth-email@v7.4.1

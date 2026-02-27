@@ -69,3 +69,9 @@
 - pkg:composer/beecubu/php-foundation-api-rest@v1.8.0
 - pkg:composer/beecubu/php-foundation-api-rest@v1.9.0
 - pkg:composer/beecubu/php-foundation-api-rest@v1.9.1
+- pkg:composer/beecubu/php-foundation-api-rest@v2.0.0
+- pkg:composer/beecubu/php-foundation-api-rest@v2.1.0
+- pkg:composer/beecubu/php-foundation-api-rest@v2.1.0.1
+- pkg:composer/beecubu/php-foundation-api-rest@v2.2.0
+- pkg:composer/beecubu/php-foundation-api-rest@v2.2.1
+- pkg:composer/beecubu/php-foundation-api-rest@v2.3.0

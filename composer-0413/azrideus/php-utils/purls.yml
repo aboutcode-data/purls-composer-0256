@@ -104,6 +104,10 @@
 - pkg:composer/azrideus/php-utils@v1.1.189
 - pkg:composer/azrideus/php-utils@v1.1.19
 - pkg:composer/azrideus/php-utils@v1.1.190
+- pkg:composer/azrideus/php-utils@v1.1.191
+- pkg:composer/azrideus/php-utils@v1.1.192
+- pkg:composer/azrideus/php-utils@v1.1.193
+- pkg:composer/azrideus/php-utils@v1.1.194
 - pkg:composer/azrideus/php-utils@v1.1.2
 - pkg:composer/azrideus/php-utils@v1.1.20
 - pkg:composer/azrideus/php-utils@v1.1.21
