@@ -13,3 +13,5 @@
 - pkg:composer/tjdft/laravel@2.3
 - pkg:composer/tjdft/laravel@2.3.1
 - pkg:composer/tjdft/laravel@2.4.0
+- pkg:composer/tjdft/laravel@2.4.1
+- pkg:composer/tjdft/laravel@2.4.2
