@@ -37,6 +37,13 @@
 - pkg:composer/alcamo/dom@0.13.8
 - pkg:composer/alcamo/dom@0.13.9
 - pkg:composer/alcamo/dom@0.14.0
+- pkg:composer/alcamo/dom@0.14.1
+- pkg:composer/alcamo/dom@0.14.2
+- pkg:composer/alcamo/dom@0.14.3
+- pkg:composer/alcamo/dom@0.14.4
+- pkg:composer/alcamo/dom@0.14.5
+- pkg:composer/alcamo/dom@0.14.6
+- pkg:composer/alcamo/dom@0.14.7
 - pkg:composer/alcamo/dom@0.2
 - pkg:composer/alcamo/dom@0.2.1
 - pkg:composer/alcamo/dom@0.3

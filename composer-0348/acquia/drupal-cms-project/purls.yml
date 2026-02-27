@@ -8,3 +8,4 @@
 - pkg:composer/acquia/drupal-cms-project@1.1.5
 - pkg:composer/acquia/drupal-cms-project@2.0.0
 - pkg:composer/acquia/drupal-cms-project@2.0.1
+- pkg:composer/acquia/drupal-cms-project@2.1.0

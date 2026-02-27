@@ -94,6 +94,8 @@
 - pkg:composer/aedart/athenaeum-flysystem-db@9.20.0
 - pkg:composer/aedart/athenaeum-flysystem-db@9.21.0
 - pkg:composer/aedart/athenaeum-flysystem-db@9.22.0
+- pkg:composer/aedart/athenaeum-flysystem-db@9.23.0
+- pkg:composer/aedart/athenaeum-flysystem-db@9.24.0
 - pkg:composer/aedart/athenaeum-flysystem-db@9.3.0
 - pkg:composer/aedart/athenaeum-flysystem-db@9.4.0
 - pkg:composer/aedart/athenaeum-flysystem-db@9.5.0

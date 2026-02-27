@@ -8,3 +8,6 @@
 - pkg:composer/activecollab/baseline@3.0.1
 - pkg:composer/activecollab/baseline@3.1.0
 - pkg:composer/activecollab/baseline@3.1.1
+- pkg:composer/activecollab/baseline@3.2.0
+- pkg:composer/activecollab/baseline@3.2.1
+- pkg:composer/activecollab/baseline@4.0.0

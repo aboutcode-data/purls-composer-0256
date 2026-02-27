@@ -8,3 +8,5 @@
 - pkg:composer/acdh-oeaw/uri-normalizer@3.1.0
 - pkg:composer/acdh-oeaw/uri-normalizer@3.2.0
 - pkg:composer/acdh-oeaw/uri-normalizer@3.3.0
+- pkg:composer/acdh-oeaw/uri-normalizer@3.3.1
+- pkg:composer/acdh-oeaw/uri-normalizer@3.4.0

@@ -168,3 +168,6 @@
 - pkg:composer/afeefa/api-resources-server@0.2.7
 - pkg:composer/afeefa/api-resources-server@0.2.8
 - pkg:composer/afeefa/api-resources-server@0.2.9
+- pkg:composer/afeefa/api-resources-server@0.3.0
+- pkg:composer/afeefa/api-resources-server@0.3.1
+- pkg:composer/afeefa/api-resources-server@0.3.2

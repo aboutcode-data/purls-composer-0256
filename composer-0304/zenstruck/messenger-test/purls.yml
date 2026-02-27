@@ -12,6 +12,7 @@
 - pkg:composer/zenstruck/messenger-test@v1.11.1
 - pkg:composer/zenstruck/messenger-test@v1.12.0
 - pkg:composer/zenstruck/messenger-test@v1.13.0
+- pkg:composer/zenstruck/messenger-test@v1.14.0
 - pkg:composer/zenstruck/messenger-test@v1.2.0
 - pkg:composer/zenstruck/messenger-test@v1.2.1
 - pkg:composer/zenstruck/messenger-test@v1.3.0

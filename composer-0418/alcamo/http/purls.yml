@@ -2,6 +2,8 @@
 - pkg:composer/alcamo/http@0.1.1
 - pkg:composer/alcamo/http@0.10.0
 - pkg:composer/alcamo/http@0.11.0
+- pkg:composer/alcamo/http@0.11.1
+- pkg:composer/alcamo/http@0.11.2
 - pkg:composer/alcamo/http@0.2
 - pkg:composer/alcamo/http@0.2.1
 - pkg:composer/alcamo/http@0.3

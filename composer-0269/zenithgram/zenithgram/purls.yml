@@ -1,4 +1,9 @@
 - pkg:composer/zenithgram/zenithgram@v0.10.0
+- pkg:composer/zenithgram/zenithgram@v0.11.0
+- pkg:composer/zenithgram/zenithgram@v0.11.1
+- pkg:composer/zenithgram/zenithgram@v0.11.2
+- pkg:composer/zenithgram/zenithgram@v0.12.0
+- pkg:composer/zenithgram/zenithgram@v0.12.1
 - pkg:composer/zenithgram/zenithgram@v0.4.1
 - pkg:composer/zenithgram/zenithgram@v0.4.2
 - pkg:composer/zenithgram/zenithgram@v0.4.3
