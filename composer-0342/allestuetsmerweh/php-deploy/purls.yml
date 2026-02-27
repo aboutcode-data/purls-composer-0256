@@ -18,3 +18,5 @@
 - pkg:composer/allestuetsmerweh/php-deploy@2.5.0
 - pkg:composer/allestuetsmerweh/php-deploy@2.6.0
 - pkg:composer/allestuetsmerweh/php-deploy@2.7.0
+- pkg:composer/allestuetsmerweh/php-deploy@2.8.1
+- pkg:composer/allestuetsmerweh/php-deploy@2.9

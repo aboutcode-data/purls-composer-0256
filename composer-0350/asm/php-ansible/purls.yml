@@ -13,4 +13,6 @@
 - pkg:composer/asm/php-ansible@v3.0.1
 - pkg:composer/asm/php-ansible@v4.0.0
 - pkg:composer/asm/php-ansible@v4.1.0
+- pkg:composer/asm/php-ansible@v5.0.0
 - pkg:composer/asm/php-ansible@v5.0.0-rc
+- pkg:composer/asm/php-ansible@v6.0.0

@@ -24,3 +24,6 @@
 - pkg:composer/alibabacloud/iqs-20241111@1.6.2
 - pkg:composer/alibabacloud/iqs-20241111@1.6.3
 - pkg:composer/alibabacloud/iqs-20241111@1.6.4
+- pkg:composer/alibabacloud/iqs-20241111@1.7.0
+- pkg:composer/alibabacloud/iqs-20241111@1.7.1
+- pkg:composer/alibabacloud/iqs-20241111@1.7.2

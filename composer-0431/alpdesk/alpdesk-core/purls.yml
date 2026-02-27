@@ -75,3 +75,6 @@
 - pkg:composer/alpdesk/alpdesk-core@3.2.7
 - pkg:composer/alpdesk/alpdesk-core@3.2.8
 - pkg:composer/alpdesk/alpdesk-core@3.2.9
+- pkg:composer/alpdesk/alpdesk-core@4.0.0
+- pkg:composer/alpdesk/alpdesk-core@4.0.1
+- pkg:composer/alpdesk/alpdesk-core@4.0.2

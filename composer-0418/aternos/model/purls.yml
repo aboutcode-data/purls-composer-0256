@@ -35,3 +35,4 @@
 - pkg:composer/aternos/model@v4.1.1
 - pkg:composer/aternos/model@v4.2.0
 - pkg:composer/aternos/model@v4.3.0
+- pkg:composer/aternos/model@v5.0.0

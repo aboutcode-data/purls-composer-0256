@@ -132,6 +132,9 @@
 - pkg:composer/altis/media@24.0.3
 - pkg:composer/altis/media@25.0.0
 - pkg:composer/altis/media@25.0.0-beta.1
+- pkg:composer/altis/media@26.0.0
+- pkg:composer/altis/media@26.0.0-beta.1
+- pkg:composer/altis/media@26.0.0-beta.2
 - pkg:composer/altis/media@3.0.0
 - pkg:composer/altis/media@3.0.0-beta1
 - pkg:composer/altis/media@3.0.0-beta2

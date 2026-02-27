@@ -22,3 +22,4 @@
 - pkg:composer/async-aws/cloud-watch-logs@2.7.0
 - pkg:composer/async-aws/cloud-watch-logs@2.7.1
 - pkg:composer/async-aws/cloud-watch-logs@2.8.0
+- pkg:composer/async-aws/cloud-watch-logs@2.8.1

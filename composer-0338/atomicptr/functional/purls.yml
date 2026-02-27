@@ -21,6 +21,7 @@
 - pkg:composer/atomicptr/functional@v0.21.0
 - pkg:composer/atomicptr/functional@v0.22.0
 - pkg:composer/atomicptr/functional@v0.22.1
+- pkg:composer/atomicptr/functional@v0.22.2
 - pkg:composer/atomicptr/functional@v0.3.0
 - pkg:composer/atomicptr/functional@v0.3.1
 - pkg:composer/atomicptr/functional@v0.4.0

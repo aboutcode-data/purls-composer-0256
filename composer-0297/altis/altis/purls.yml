@@ -40,9 +40,12 @@
 - pkg:composer/altis/altis@23.0.0-beta.1
 - pkg:composer/altis/altis@24.0.0
 - pkg:composer/altis/altis@24.0.0-beta.1
+- pkg:composer/altis/altis@25.0.0
 - pkg:composer/altis/altis@25.0.0-beta.1
 - pkg:composer/altis/altis@25.0.1
 - pkg:composer/altis/altis@25.0.2
+- pkg:composer/altis/altis@26.0.0
+- pkg:composer/altis/altis@26.0.0-beta.1
 - pkg:composer/altis/altis@3.0.0
 - pkg:composer/altis/altis@3.0.0-beta1
 - pkg:composer/altis/altis@3.0.0-beta2

@@ -32,6 +32,9 @@
 - pkg:composer/apideck-libraries/sdk-php@v0.16.0
 - pkg:composer/apideck-libraries/sdk-php@v0.17.0
 - pkg:composer/apideck-libraries/sdk-php@v0.17.1
+- pkg:composer/apideck-libraries/sdk-php@v0.17.2
+- pkg:composer/apideck-libraries/sdk-php@v0.17.3
+- pkg:composer/apideck-libraries/sdk-php@v0.17.4
 - pkg:composer/apideck-libraries/sdk-php@v0.2.0
 - pkg:composer/apideck-libraries/sdk-php@v0.2.1
 - pkg:composer/apideck-libraries/sdk-php@v0.2.2

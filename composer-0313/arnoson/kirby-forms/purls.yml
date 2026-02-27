@@ -22,5 +22,7 @@
 - pkg:composer/arnoson/kirby-forms@0.7.3
 - pkg:composer/arnoson/kirby-forms@0.8.0
 - pkg:composer/arnoson/kirby-forms@0.8.1
+- pkg:composer/arnoson/kirby-forms@0.9.0
+- pkg:composer/arnoson/kirby-forms@0.9.1
 - pkg:composer/arnoson/kirby-forms@v0.1.0
 - pkg:composer/arnoson/kirby-forms@v0.1.1

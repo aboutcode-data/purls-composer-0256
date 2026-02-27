@@ -77,7 +77,7 @@
 - pkg:composer/assertis/util-lib@5.0.4
 - pkg:composer/assertis/util-lib@5.0.5
 - pkg:composer/assertis/util-lib@5.0.6
-- pkg:composer/assertis/util-lib@6.0.0
+- pkg:composer/assertis/util-lib@5.0.7
 - pkg:composer/assertis/util-lib@v1.0.1
 - pkg:composer/assertis/util-lib@v1.0.2
 - pkg:composer/assertis/util-lib@v1.1.0

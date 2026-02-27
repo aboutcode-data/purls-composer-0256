@@ -45,3 +45,5 @@
 - pkg:composer/atomicsmash/launchpad@6.0.1
 - pkg:composer/atomicsmash/launchpad@6.0.2
 - pkg:composer/atomicsmash/launchpad@7.0.0
+- pkg:composer/atomicsmash/launchpad@7.0.1
+- pkg:composer/atomicsmash/launchpad@7.1.0
