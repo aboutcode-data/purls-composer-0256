@@ -14,3 +14,4 @@
 - pkg:composer/nunomaduro/laravel-console-menu@v3.4.0
 - pkg:composer/nunomaduro/laravel-console-menu@v3.5.0
 - pkg:composer/nunomaduro/laravel-console-menu@v3.6.0
+- pkg:composer/nunomaduro/laravel-console-menu@v3.7.0
