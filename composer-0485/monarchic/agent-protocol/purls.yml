@@ -2,6 +2,9 @@
 - pkg:composer/monarchic/agent-protocol@0.1.10
 - pkg:composer/monarchic/agent-protocol@0.1.11
 - pkg:composer/monarchic/agent-protocol@0.1.12
+- pkg:composer/monarchic/agent-protocol@0.1.13
+- pkg:composer/monarchic/agent-protocol@0.1.14
+- pkg:composer/monarchic/agent-protocol@0.1.15
 - pkg:composer/monarchic/agent-protocol@0.1.4
 - pkg:composer/monarchic/agent-protocol@0.1.6
 - pkg:composer/monarchic/agent-protocol@0.1.7
