@@ -24,3 +24,5 @@
 - pkg:composer/rodrigopedra/laravel-record-processor@v3.0.0
 - pkg:composer/rodrigopedra/laravel-record-processor@v4.0.0
 - pkg:composer/rodrigopedra/laravel-record-processor@v5.0.0
+- pkg:composer/rodrigopedra/laravel-record-processor@v5.0.1
+- pkg:composer/rodrigopedra/laravel-record-processor@v5.1.0
