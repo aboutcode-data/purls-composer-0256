@@ -17,6 +17,8 @@
 - pkg:composer/cesargb/laravel-logs-rotate@2.5.0
 - pkg:composer/cesargb/laravel-logs-rotate@2.6.0
 - pkg:composer/cesargb/laravel-logs-rotate@2.7.0
+- pkg:composer/cesargb/laravel-logs-rotate@2.8.0
+- pkg:composer/cesargb/laravel-logs-rotate@2.9.0
 - pkg:composer/cesargb/laravel-logs-rotate@v1.2.0
 - pkg:composer/cesargb/laravel-logs-rotate@v1.6.0
 - pkg:composer/cesargb/laravel-logs-rotate@v1.7.0

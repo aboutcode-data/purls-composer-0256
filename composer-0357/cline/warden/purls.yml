@@ -47,4 +47,7 @@
 - pkg:composer/cline/warden@4.1.0
 - pkg:composer/cline/warden@4.1.1
 - pkg:composer/cline/warden@4.1.2
+- pkg:composer/cline/warden@4.2.0
+- pkg:composer/cline/warden@4.3.0
+- pkg:composer/cline/warden@4.4.0
 - pkg:composer/cline/warden@v1.3.14

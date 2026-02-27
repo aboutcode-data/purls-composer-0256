@@ -1,3 +1,4 @@
 - pkg:composer/bytes-commerce/zabbix-api@1.0
 - pkg:composer/bytes-commerce/zabbix-api@1.1
 - pkg:composer/bytes-commerce/zabbix-api@1.2
+- pkg:composer/bytes-commerce/zabbix-api@1.2.1

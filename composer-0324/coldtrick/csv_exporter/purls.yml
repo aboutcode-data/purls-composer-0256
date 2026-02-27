@@ -13,6 +13,7 @@
 - pkg:composer/coldtrick/csv_exporter@v13.2.1
 - pkg:composer/coldtrick/csv_exporter@v13.2.2
 - pkg:composer/coldtrick/csv_exporter@v14.0
+- pkg:composer/coldtrick/csv_exporter@v14.0.1
 - pkg:composer/coldtrick/csv_exporter@v2.1
 - pkg:composer/coldtrick/csv_exporter@v3.0
 - pkg:composer/coldtrick/csv_exporter@v3.0.1

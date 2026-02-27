@@ -10,3 +10,4 @@
 - pkg:composer/causal/oidc@v4.0.0
 - pkg:composer/causal/oidc@v4.0.1
 - pkg:composer/causal/oidc@v4.0.2
+- pkg:composer/causal/oidc@v4.0.3

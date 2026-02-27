@@ -15,3 +15,4 @@
 - pkg:composer/cirrusidentity/simplesamlphp-module-authoauth2@v5.0.0
 - pkg:composer/cirrusidentity/simplesamlphp-module-authoauth2@v5.0.0-beta.1
 - pkg:composer/cirrusidentity/simplesamlphp-module-authoauth2@v5.1.0
+- pkg:composer/cirrusidentity/simplesamlphp-module-authoauth2@v5.2.0

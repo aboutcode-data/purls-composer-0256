@@ -16,3 +16,4 @@
 - pkg:composer/code-lts/doctum@v5.5.2
 - pkg:composer/code-lts/doctum@v5.5.3
 - pkg:composer/code-lts/doctum@v5.5.4
+- pkg:composer/code-lts/doctum@v5.6.0

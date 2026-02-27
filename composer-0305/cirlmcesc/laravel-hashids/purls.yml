@@ -1,3 +1,4 @@
+- pkg:composer/cirlmcesc/laravel-hashids@4.0.1
 - pkg:composer/cirlmcesc/laravel-hashids@v1.0
 - pkg:composer/cirlmcesc/laravel-hashids@v1.1
 - pkg:composer/cirlmcesc/laravel-hashids@v1.10
@@ -9,3 +10,4 @@
 - pkg:composer/cirlmcesc/laravel-hashids@v3.0
 - pkg:composer/cirlmcesc/laravel-hashids@v3.0.1
 - pkg:composer/cirlmcesc/laravel-hashids@v3.0.2
+- pkg:composer/cirlmcesc/laravel-hashids@v4.0.0

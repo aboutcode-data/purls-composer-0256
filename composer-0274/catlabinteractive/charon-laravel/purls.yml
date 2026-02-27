@@ -1,4 +1,6 @@
 - pkg:composer/catlabinteractive/charon-laravel@1.7.3
+- pkg:composer/catlabinteractive/charon-laravel@1.8.0
+- pkg:composer/catlabinteractive/charon-laravel@1.8.1
 - pkg:composer/catlabinteractive/charon-laravel@v1.0.15
 - pkg:composer/catlabinteractive/charon-laravel@v1.1.10
 - pkg:composer/catlabinteractive/charon-laravel@v1.2.8

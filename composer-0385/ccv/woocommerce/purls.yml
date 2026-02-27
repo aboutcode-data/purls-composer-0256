@@ -5,6 +5,7 @@
 - pkg:composer/ccv/woocommerce@1.1.1
 - pkg:composer/ccv/woocommerce@1.10.0
 - pkg:composer/ccv/woocommerce@1.10.2
+- pkg:composer/ccv/woocommerce@1.11.0
 - pkg:composer/ccv/woocommerce@1.2.1
 - pkg:composer/ccv/woocommerce@1.2.2
 - pkg:composer/ccv/woocommerce@1.2.3

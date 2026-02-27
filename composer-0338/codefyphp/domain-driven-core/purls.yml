@@ -12,3 +12,6 @@
 - pkg:composer/codefyphp/domain-driven-core@v3.0.0-beta.2
 - pkg:composer/codefyphp/domain-driven-core@v3.0.0-beta.3
 - pkg:composer/codefyphp/domain-driven-core@v3.1.0
+- pkg:composer/codefyphp/domain-driven-core@v3.1.1
+- pkg:composer/codefyphp/domain-driven-core@v3.1.2
+- pkg:composer/codefyphp/domain-driven-core@v3.1.3
