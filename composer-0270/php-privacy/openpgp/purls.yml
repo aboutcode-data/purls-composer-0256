@@ -27,6 +27,7 @@
 - pkg:composer/php-privacy/openpgp@1.2.6
 - pkg:composer/php-privacy/openpgp@1.2.7
 - pkg:composer/php-privacy/openpgp@1.2.8
+- pkg:composer/php-privacy/openpgp@1.2.9
 - pkg:composer/php-privacy/openpgp@2.0.0
 - pkg:composer/php-privacy/openpgp@2.0.1
 - pkg:composer/php-privacy/openpgp@2.0.2
@@ -39,3 +40,4 @@
 - pkg:composer/php-privacy/openpgp@2.2.1
 - pkg:composer/php-privacy/openpgp@2.2.2
 - pkg:composer/php-privacy/openpgp@2.2.3
+- pkg:composer/php-privacy/openpgp@2.2.4

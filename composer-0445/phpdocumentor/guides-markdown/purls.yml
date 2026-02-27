@@ -18,3 +18,4 @@
 - pkg:composer/phpdocumentor/guides-markdown@1.7.3
 - pkg:composer/phpdocumentor/guides-markdown@1.9.1
 - pkg:composer/phpdocumentor/guides-markdown@1.9.5
+- pkg:composer/phpdocumentor/guides-markdown@1.9.6

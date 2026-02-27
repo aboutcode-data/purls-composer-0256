@@ -65,3 +65,4 @@
 - pkg:composer/php-extended/php-data-finder-array@8.0.8
 - pkg:composer/php-extended/php-data-finder-array@8.0.9
 - pkg:composer/php-extended/php-data-finder-array@9.0.0
+- pkg:composer/php-extended/php-data-finder-array@9.0.1
