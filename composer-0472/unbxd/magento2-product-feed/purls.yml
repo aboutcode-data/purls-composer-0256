@@ -130,6 +130,7 @@
 - pkg:composer/unbxd/magento2-product-feed@2.0.43
 - pkg:composer/unbxd/magento2-product-feed@2.0.44
 - pkg:composer/unbxd/magento2-product-feed@2.0.45
+- pkg:composer/unbxd/magento2-product-feed@2.0.46
 - pkg:composer/unbxd/magento2-product-feed@2.0.5
 - pkg:composer/unbxd/magento2-product-feed@2.0.6
 - pkg:composer/unbxd/magento2-product-feed@2.0.7
