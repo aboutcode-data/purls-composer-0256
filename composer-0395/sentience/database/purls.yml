@@ -7,3 +7,4 @@
 - pkg:composer/sentience/database@v2.2.3
 - pkg:composer/sentience/database@v2.3.0
 - pkg:composer/sentience/database@v2.3.1
+- pkg:composer/sentience/database@v2.4.0
