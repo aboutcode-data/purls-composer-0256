@@ -66,3 +66,4 @@
 - pkg:composer/php-mtg/php-mana-bridge@8.1.8
 - pkg:composer/php-mtg/php-mana-bridge@8.1.9
 - pkg:composer/php-mtg/php-mana-bridge@9.0.0
+- pkg:composer/php-mtg/php-mana-bridge@9.0.1
