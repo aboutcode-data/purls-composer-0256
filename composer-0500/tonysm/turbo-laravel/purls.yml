@@ -62,3 +62,4 @@
 - pkg:composer/tonysm/turbo-laravel@2.4.0
 - pkg:composer/tonysm/turbo-laravel@2.5.0
 - pkg:composer/tonysm/turbo-laravel@2.5.1
+- pkg:composer/tonysm/turbo-laravel@2.6.0

@@ -1,4 +1,5 @@
 - pkg:composer/vormkracht10/laravel-minify-html-middleware@v1.0
+- pkg:composer/vormkracht10/laravel-minify-html-middleware@v2.0.0
 - pkg:composer/vormkracht10/laravel-minify-html-middleware@v2.0.0-beta100
 - pkg:composer/vormkracht10/laravel-minify-html-middleware@v2.0.0-beta101
 - pkg:composer/vormkracht10/laravel-minify-html-middleware@v2.0.0-beta102
@@ -11,6 +12,11 @@
 - pkg:composer/vormkracht10/laravel-minify-html-middleware@v2.0.0-beta109
 - pkg:composer/vormkracht10/laravel-minify-html-middleware@v2.0.0-beta110
 - pkg:composer/vormkracht10/laravel-minify-html-middleware@v2.0.0-beta111
+- pkg:composer/vormkracht10/laravel-minify-html-middleware@v2.0.0-beta115
+- pkg:composer/vormkracht10/laravel-minify-html-middleware@v2.0.0-beta117
+- pkg:composer/vormkracht10/laravel-minify-html-middleware@v2.0.0-beta118
+- pkg:composer/vormkracht10/laravel-minify-html-middleware@v2.0.0-beta119
+- pkg:composer/vormkracht10/laravel-minify-html-middleware@v2.0.0-beta120
 - pkg:composer/vormkracht10/laravel-minify-html-middleware@v2.0.0-beta31
 - pkg:composer/vormkracht10/laravel-minify-html-middleware@v2.0.0-beta32
 - pkg:composer/vormkracht10/laravel-minify-html-middleware@v2.0.0-beta33
