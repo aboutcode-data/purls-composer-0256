@@ -3,3 +3,4 @@
 - pkg:composer/tentapress/static-deploy@v0.1.4
 - pkg:composer/tentapress/static-deploy@v0.1.6
 - pkg:composer/tentapress/static-deploy@v0.1.7
+- pkg:composer/tentapress/static-deploy@v0.6.0
