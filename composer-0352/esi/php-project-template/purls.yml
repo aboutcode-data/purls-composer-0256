@@ -2,3 +2,5 @@
 - pkg:composer/esi/php-project-template@v1.1.0
 - pkg:composer/esi/php-project-template@v2.0.0
 - pkg:composer/esi/php-project-template@v2.0.1
+- pkg:composer/esi/php-project-template@v3.0.0
+- pkg:composer/esi/php-project-template@v3.0.1

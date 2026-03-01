@@ -59,3 +59,5 @@
 - pkg:composer/fredbradley/socs-php@v1.4.1
 - pkg:composer/fredbradley/socs-php@v1.4.2
 - pkg:composer/fredbradley/socs-php@v1.4.3
+- pkg:composer/fredbradley/socs-php@v1.4.4
+- pkg:composer/fredbradley/socs-php@v1.4.5

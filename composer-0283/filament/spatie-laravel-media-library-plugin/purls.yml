@@ -1113,6 +1113,8 @@
 - pkg:composer/filament/spatie-laravel-media-library-plugin@v4.7.1
 - pkg:composer/filament/spatie-laravel-media-library-plugin@v4.7.2
 - pkg:composer/filament/spatie-laravel-media-library-plugin@v4.7.3
+- pkg:composer/filament/spatie-laravel-media-library-plugin@v4.7.4
+- pkg:composer/filament/spatie-laravel-media-library-plugin@v4.8.0
 - pkg:composer/filament/spatie-laravel-media-library-plugin@v5.0.0
 - pkg:composer/filament/spatie-laravel-media-library-plugin@v5.0.0-beta1
 - pkg:composer/filament/spatie-laravel-media-library-plugin@v5.0.0-beta2
@@ -1131,3 +1133,5 @@
 - pkg:composer/filament/spatie-laravel-media-library-plugin@v5.2.1
 - pkg:composer/filament/spatie-laravel-media-library-plugin@v5.2.2
 - pkg:composer/filament/spatie-laravel-media-library-plugin@v5.2.3
+- pkg:composer/filament/spatie-laravel-media-library-plugin@v5.2.4
+- pkg:composer/filament/spatie-laravel-media-library-plugin@v5.3.0

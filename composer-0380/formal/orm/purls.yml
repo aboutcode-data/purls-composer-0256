@@ -19,3 +19,4 @@
 - pkg:composer/formal/orm@5.0.0
 - pkg:composer/formal/orm@5.1.0
 - pkg:composer/formal/orm@5.1.1
+- pkg:composer/formal/orm@6.0.0

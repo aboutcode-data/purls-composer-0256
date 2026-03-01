@@ -49,3 +49,4 @@
 - pkg:composer/flowpack/media-ui@3.0.2
 - pkg:composer/flowpack/media-ui@3.0.3
 - pkg:composer/flowpack/media-ui@3.1.0
+- pkg:composer/flowpack/media-ui@3.1.1

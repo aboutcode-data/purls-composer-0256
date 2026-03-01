@@ -24,3 +24,4 @@
 - pkg:composer/flowpack/neos-matomo@4.0.0
 - pkg:composer/flowpack/neos-matomo@4.0.1
 - pkg:composer/flowpack/neos-matomo@4.0.2
+- pkg:composer/flowpack/neos-matomo@4.0.3
