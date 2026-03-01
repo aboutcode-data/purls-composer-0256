@@ -20,3 +20,4 @@
 - pkg:composer/wiremock-php/wiremock-php@2.35.1
 - pkg:composer/wiremock-php/wiremock-php@2.35.2
 - pkg:composer/wiremock-php/wiremock-php@2.35.3
+- pkg:composer/wiremock-php/wiremock-php@2.35.4
