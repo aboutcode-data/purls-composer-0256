@@ -17,6 +17,8 @@
 - pkg:composer/staudenmeir/eloquent-json-relations@v1.13.3
 - pkg:composer/staudenmeir/eloquent-json-relations@v1.14
 - pkg:composer/staudenmeir/eloquent-json-relations@v1.14.1
+- pkg:composer/staudenmeir/eloquent-json-relations@v1.14.2
+- pkg:composer/staudenmeir/eloquent-json-relations@v1.15
 - pkg:composer/staudenmeir/eloquent-json-relations@v1.2
 - pkg:composer/staudenmeir/eloquent-json-relations@v1.2.1
 - pkg:composer/staudenmeir/eloquent-json-relations@v1.2.2
