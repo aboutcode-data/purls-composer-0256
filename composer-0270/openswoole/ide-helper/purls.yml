@@ -1,6 +1,7 @@
 - pkg:composer/openswoole/ide-helper@22.0.0
 - pkg:composer/openswoole/ide-helper@22.0.1
 - pkg:composer/openswoole/ide-helper@22.1.5
+- pkg:composer/openswoole/ide-helper@26.2.0
 - pkg:composer/openswoole/ide-helper@4.10.0
 - pkg:composer/openswoole/ide-helper@4.10.1
 - pkg:composer/openswoole/ide-helper@4.10.2

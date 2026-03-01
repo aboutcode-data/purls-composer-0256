@@ -147,6 +147,9 @@
 - pkg:composer/nextdeveloper/iaas@v1.1.7
 - pkg:composer/nextdeveloper/iaas@v1.1.8
 - pkg:composer/nextdeveloper/iaas@v1.1.9
+- pkg:composer/nextdeveloper/iaas@v1.10.0
+- pkg:composer/nextdeveloper/iaas@v1.10.1
+- pkg:composer/nextdeveloper/iaas@v1.10.2
 - pkg:composer/nextdeveloper/iaas@v1.2.0
 - pkg:composer/nextdeveloper/iaas@v1.2.1
 - pkg:composer/nextdeveloper/iaas@v1.2.2
@@ -440,3 +443,5 @@
 - pkg:composer/nextdeveloper/iaas@v1.9.4
 - pkg:composer/nextdeveloper/iaas@v1.9.5
 - pkg:composer/nextdeveloper/iaas@v1.9.6
+- pkg:composer/nextdeveloper/iaas@v1.9.7
+- pkg:composer/nextdeveloper/iaas@v1.9.8
