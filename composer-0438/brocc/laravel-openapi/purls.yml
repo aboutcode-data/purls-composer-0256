@@ -1,3 +1,4 @@
 - pkg:composer/brocc/laravel-openapi@v0.1.0
 - pkg:composer/brocc/laravel-openapi@v1.0.0
 - pkg:composer/brocc/laravel-openapi@v1.0.1
+- pkg:composer/brocc/laravel-openapi@v1.0.2
