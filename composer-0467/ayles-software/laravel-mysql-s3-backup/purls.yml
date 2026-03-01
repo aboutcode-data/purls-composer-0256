@@ -2,6 +2,7 @@
 - pkg:composer/ayles-software/laravel-mysql-s3-backup@4.0.1
 - pkg:composer/ayles-software/laravel-mysql-s3-backup@4.0.2
 - pkg:composer/ayles-software/laravel-mysql-s3-backup@4.1.0
+- pkg:composer/ayles-software/laravel-mysql-s3-backup@4.10.0
 - pkg:composer/ayles-software/laravel-mysql-s3-backup@4.2.0
 - pkg:composer/ayles-software/laravel-mysql-s3-backup@4.2.1
 - pkg:composer/ayles-software/laravel-mysql-s3-backup@4.3.0
