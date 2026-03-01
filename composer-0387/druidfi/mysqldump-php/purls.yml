@@ -11,3 +11,4 @@
 - pkg:composer/druidfi/mysqldump-php@2.0.0-beta1
 - pkg:composer/druidfi/mysqldump-php@2.0.0-rc1
 - pkg:composer/druidfi/mysqldump-php@2.0.1
+- pkg:composer/druidfi/mysqldump-php@2.0.2

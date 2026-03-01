@@ -90,3 +90,4 @@
 - pkg:composer/eloquent-filter/filter@4.5.3
 - pkg:composer/eloquent-filter/filter@4.5.4
 - pkg:composer/eloquent-filter/filter@4.5.5
+- pkg:composer/eloquent-filter/filter@4.5.6

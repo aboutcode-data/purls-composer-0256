@@ -22,6 +22,7 @@
 - pkg:composer/dreamfactory/df-azure@0.16.2
 - pkg:composer/dreamfactory/df-azure@0.17.0
 - pkg:composer/dreamfactory/df-azure@0.18.0
+- pkg:composer/dreamfactory/df-azure@0.19.0
 - pkg:composer/dreamfactory/df-azure@0.2.0
 - pkg:composer/dreamfactory/df-azure@0.2.1
 - pkg:composer/dreamfactory/df-azure@0.3.0

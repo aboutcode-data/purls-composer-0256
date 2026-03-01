@@ -6,4 +6,5 @@
 - pkg:composer/drewlabs/txn-contracts@v0.1.5
 - pkg:composer/drewlabs/txn-contracts@v0.2.0
 - pkg:composer/drewlabs/txn-contracts@v0.2.1
+- pkg:composer/drewlabs/txn-contracts@v0.2.10
 - pkg:composer/drewlabs/txn-contracts@v0.2.2

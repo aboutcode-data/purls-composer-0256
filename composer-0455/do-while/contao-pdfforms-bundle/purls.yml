@@ -31,3 +31,6 @@
 - pkg:composer/do-while/contao-pdfforms-bundle@2.1.4
 - pkg:composer/do-while/contao-pdfforms-bundle@2.1.5
 - pkg:composer/do-while/contao-pdfforms-bundle@2.2.0
+- pkg:composer/do-while/contao-pdfforms-bundle@2.3.0
+- pkg:composer/do-while/contao-pdfforms-bundle@2.3.1
+- pkg:composer/do-while/contao-pdfforms-bundle@2.4.0

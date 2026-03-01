@@ -1,1 +1,2 @@
 - pkg:composer/drupal/commerce_recipe_shipping@1.0.0
+- pkg:composer/drupal/commerce_recipe_shipping@1.1.0

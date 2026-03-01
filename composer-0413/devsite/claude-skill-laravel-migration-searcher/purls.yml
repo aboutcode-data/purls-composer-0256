@@ -1,0 +1,13 @@
+- pkg:composer/devsite/claude-skill-laravel-migration-searcher@v1.1.0
+- pkg:composer/devsite/claude-skill-laravel-migration-searcher@v1.1.1
+- pkg:composer/devsite/claude-skill-laravel-migration-searcher@v1.2.0
+- pkg:composer/devsite/claude-skill-laravel-migration-searcher@v1.2.1
+- pkg:composer/devsite/claude-skill-laravel-migration-searcher@v1.2.2
+- pkg:composer/devsite/claude-skill-laravel-migration-searcher@v1.3.0
+- pkg:composer/devsite/claude-skill-laravel-migration-searcher@v2.0.0
+- pkg:composer/devsite/claude-skill-laravel-migration-searcher@v2.1.0
+- pkg:composer/devsite/claude-skill-laravel-migration-searcher@v2.2.0
+- pkg:composer/devsite/claude-skill-laravel-migration-searcher@v2.3.0
+- pkg:composer/devsite/claude-skill-laravel-migration-searcher@v2.4.0
+- pkg:composer/devsite/claude-skill-laravel-migration-searcher@v2.5.0
+- pkg:composer/devsite/claude-skill-laravel-migration-searcher@v2.6.0

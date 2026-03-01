@@ -7,3 +7,5 @@
 - pkg:composer/digitalclaim/azure-queue-laravel@v1.0.0-alpha7
 - pkg:composer/digitalclaim/azure-queue-laravel@v1.0.0-alpha8
 - pkg:composer/digitalclaim/azure-queue-laravel@v1.0.0-alpha9
+- pkg:composer/digitalclaim/azure-queue-laravel@v1.0.0-beta1
+- pkg:composer/digitalclaim/azure-queue-laravel@v1.0.0-beta2

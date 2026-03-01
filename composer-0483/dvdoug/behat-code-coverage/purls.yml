@@ -29,3 +29,4 @@
 - pkg:composer/dvdoug/behat-code-coverage@v5.3.6
 - pkg:composer/dvdoug/behat-code-coverage@v5.3.7
 - pkg:composer/dvdoug/behat-code-coverage@v5.4.0
+- pkg:composer/dvdoug/behat-code-coverage@v5.4.1

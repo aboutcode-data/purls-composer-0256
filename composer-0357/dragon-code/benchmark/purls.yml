@@ -1,6 +1,16 @@
 - pkg:composer/dragon-code/benchmark@2.6.0
 - pkg:composer/dragon-code/benchmark@3.0.0
 - pkg:composer/dragon-code/benchmark@3.1.0
+- pkg:composer/dragon-code/benchmark@4.0.0
+- pkg:composer/dragon-code/benchmark@4.1.0
+- pkg:composer/dragon-code/benchmark@4.1.1
+- pkg:composer/dragon-code/benchmark@4.2.0
+- pkg:composer/dragon-code/benchmark@4.3.0
+- pkg:composer/dragon-code/benchmark@4.4.0
+- pkg:composer/dragon-code/benchmark@4.4.1
+- pkg:composer/dragon-code/benchmark@4.4.2
+- pkg:composer/dragon-code/benchmark@4.5.0
+- pkg:composer/dragon-code/benchmark@4.5.1
 - pkg:composer/dragon-code/benchmark@v1.0.0
 - pkg:composer/dragon-code/benchmark@v1.1.0
 - pkg:composer/dragon-code/benchmark@v1.1.1
