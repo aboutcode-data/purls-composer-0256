@@ -2,3 +2,5 @@
 - pkg:composer/deegitalbe/server-authorization@v1.1.0
 - pkg:composer/deegitalbe/server-authorization@v1.1.1
 - pkg:composer/deegitalbe/server-authorization@v1.2.0
+- pkg:composer/deegitalbe/server-authorization@v2.0.0
+- pkg:composer/deegitalbe/server-authorization@v2.0.1

@@ -34,3 +34,4 @@
 - pkg:composer/cybercog/laravel-eloquent-flag@6.0.1
 - pkg:composer/cybercog/laravel-eloquent-flag@6.1.0
 - pkg:composer/cybercog/laravel-eloquent-flag@6.2.0
+- pkg:composer/cybercog/laravel-eloquent-flag@6.3.0

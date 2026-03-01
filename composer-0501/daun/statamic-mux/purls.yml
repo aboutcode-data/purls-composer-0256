@@ -23,3 +23,8 @@
 - pkg:composer/daun/statamic-mux@1.8.0
 - pkg:composer/daun/statamic-mux@2.0.0
 - pkg:composer/daun/statamic-mux@2.1.0
+- pkg:composer/daun/statamic-mux@2.1.1
+- pkg:composer/daun/statamic-mux@3.0.0
+- pkg:composer/daun/statamic-mux@3.1.0
+- pkg:composer/daun/statamic-mux@3.1.1
+- pkg:composer/daun/statamic-mux@3.1.2

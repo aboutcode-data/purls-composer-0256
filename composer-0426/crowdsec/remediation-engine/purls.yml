@@ -26,3 +26,4 @@
 - pkg:composer/crowdsec/remediation-engine@v4.2.0
 - pkg:composer/crowdsec/remediation-engine@v4.3.0
 - pkg:composer/crowdsec/remediation-engine@v4.3.1
+- pkg:composer/crowdsec/remediation-engine@v4.3.2

@@ -24,3 +24,4 @@
 - pkg:composer/crowdsec/capi-client@v3.4.0
 - pkg:composer/crowdsec/capi-client@v3.5.0
 - pkg:composer/crowdsec/capi-client@v3.5.1
+- pkg:composer/crowdsec/capi-client@v3.5.2

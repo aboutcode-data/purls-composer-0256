@@ -1,1 +1,3 @@
 - pkg:composer/cyberspectrum/i18n-contao-bundle@1.0.0
+- pkg:composer/cyberspectrum/i18n-contao-bundle@1.0.1
+- pkg:composer/cyberspectrum/i18n-contao-bundle@1.0.2

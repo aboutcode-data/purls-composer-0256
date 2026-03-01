@@ -21,3 +21,4 @@
 - pkg:composer/deegitalbe/laravel-trustup-io-notifier@v1.4.2
 - pkg:composer/deegitalbe/laravel-trustup-io-notifier@v1.5.0
 - pkg:composer/deegitalbe/laravel-trustup-io-notifier@v1.5.1
+- pkg:composer/deegitalbe/laravel-trustup-io-notifier@v2.0.0

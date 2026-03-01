@@ -161,8 +161,13 @@
 - pkg:composer/creativestyle/magesuite-frontend@v3.5.9
 - pkg:composer/creativestyle/magesuite-frontend@v3.6.0
 - pkg:composer/creativestyle/magesuite-frontend@v3.6.1
+- pkg:composer/creativestyle/magesuite-frontend@v3.6.10
+- pkg:composer/creativestyle/magesuite-frontend@v3.6.11
 - pkg:composer/creativestyle/magesuite-frontend@v3.6.2
 - pkg:composer/creativestyle/magesuite-frontend@v3.6.3
 - pkg:composer/creativestyle/magesuite-frontend@v3.6.4
 - pkg:composer/creativestyle/magesuite-frontend@v3.6.5
 - pkg:composer/creativestyle/magesuite-frontend@v3.6.6
+- pkg:composer/creativestyle/magesuite-frontend@v3.6.7
+- pkg:composer/creativestyle/magesuite-frontend@v3.6.8
+- pkg:composer/creativestyle/magesuite-frontend@v3.6.9

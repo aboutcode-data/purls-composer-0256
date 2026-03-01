@@ -1,5 +1,7 @@
 - pkg:composer/dev-toolbelt/laravel-eloquent-plus@1.0.0
 - pkg:composer/dev-toolbelt/laravel-eloquent-plus@1.0.1
+- pkg:composer/dev-toolbelt/laravel-eloquent-plus@1.0.10
+- pkg:composer/dev-toolbelt/laravel-eloquent-plus@1.0.11
 - pkg:composer/dev-toolbelt/laravel-eloquent-plus@1.0.2
 - pkg:composer/dev-toolbelt/laravel-eloquent-plus@1.0.3
 - pkg:composer/dev-toolbelt/laravel-eloquent-plus@1.0.4
@@ -7,3 +9,10 @@
 - pkg:composer/dev-toolbelt/laravel-eloquent-plus@1.0.6
 - pkg:composer/dev-toolbelt/laravel-eloquent-plus@1.0.7
 - pkg:composer/dev-toolbelt/laravel-eloquent-plus@1.0.8
+- pkg:composer/dev-toolbelt/laravel-eloquent-plus@1.0.9
+- pkg:composer/dev-toolbelt/laravel-eloquent-plus@1.1.0
+- pkg:composer/dev-toolbelt/laravel-eloquent-plus@1.1.1
+- pkg:composer/dev-toolbelt/laravel-eloquent-plus@1.2.0
+- pkg:composer/dev-toolbelt/laravel-eloquent-plus@1.2.1
+- pkg:composer/dev-toolbelt/laravel-eloquent-plus@1.2.2
+- pkg:composer/dev-toolbelt/laravel-eloquent-plus@1.3.0

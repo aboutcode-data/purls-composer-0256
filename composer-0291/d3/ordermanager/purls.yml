@@ -59,3 +59,5 @@
 - pkg:composer/d3/ordermanager@6.0.1.081
 - pkg:composer/d3/ordermanager@6.1.0.080
 - pkg:composer/d3/ordermanager@6.1.1.080
+- pkg:composer/d3/ordermanager@6.2.0.080
+- pkg:composer/d3/ordermanager@6.2.1.080
