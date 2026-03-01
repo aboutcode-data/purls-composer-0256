@@ -14,5 +14,9 @@
 - pkg:composer/profibro/magento2-module-paystack@2.3.5
 - pkg:composer/profibro/magento2-module-paystack@2.4.1
 - pkg:composer/profibro/magento2-module-paystack@2.5.0
+- pkg:composer/profibro/magento2-module-paystack@3.0.0
+- pkg:composer/profibro/magento2-module-paystack@3.0.1
+- pkg:composer/profibro/magento2-module-paystack@3.0.2
+- pkg:composer/profibro/magento2-module-paystack@3.0.3
 - pkg:composer/profibro/magento2-module-paystack@v1.0.2
 - pkg:composer/profibro/magento2-module-paystack@v2.0.0
