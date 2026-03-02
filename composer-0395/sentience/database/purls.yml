@@ -8,3 +8,5 @@
 - pkg:composer/sentience/database@v2.3.0
 - pkg:composer/sentience/database@v2.3.1
 - pkg:composer/sentience/database@v2.4.0
+- pkg:composer/sentience/database@v2.5.0
+- pkg:composer/sentience/database@v2.5.1
