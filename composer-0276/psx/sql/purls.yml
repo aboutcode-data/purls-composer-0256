@@ -60,3 +60,4 @@
 - pkg:composer/psx/sql@v4.2.4
 - pkg:composer/psx/sql@v4.2.5
 - pkg:composer/psx/sql@v4.3.0
+- pkg:composer/psx/sql@v4.4.0

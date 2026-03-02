@@ -1,1 +1,2 @@
 - pkg:composer/probe/database@v1
+- pkg:composer/probe/database@v1.1
