@@ -25,3 +25,6 @@
 - pkg:composer/shieldci/laravel@v1.0.7
 - pkg:composer/shieldci/laravel@v1.0.8
 - pkg:composer/shieldci/laravel@v1.0.9
+- pkg:composer/shieldci/laravel@v1.1.0
+- pkg:composer/shieldci/laravel@v1.2.0
+- pkg:composer/shieldci/laravel@v1.3.0

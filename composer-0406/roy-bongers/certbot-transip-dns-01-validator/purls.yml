@@ -18,3 +18,5 @@
 - pkg:composer/roy-bongers/certbot-transip-dns-01-validator@v4.0.1
 - pkg:composer/roy-bongers/certbot-transip-dns-01-validator@v4.1.0
 - pkg:composer/roy-bongers/certbot-transip-dns-01-validator@v4.2.0
+- pkg:composer/roy-bongers/certbot-transip-dns-01-validator@v4.2.1
+- pkg:composer/roy-bongers/certbot-transip-dns-01-validator@v4.2.2

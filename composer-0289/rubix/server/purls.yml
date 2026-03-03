@@ -21,3 +21,4 @@
 - pkg:composer/rubix/server@2.0.4
 - pkg:composer/rubix/server@2.0.5
 - pkg:composer/rubix/server@2.0.6
+- pkg:composer/rubix/server@2.0.7
