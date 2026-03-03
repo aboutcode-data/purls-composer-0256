@@ -2,3 +2,4 @@
 - pkg:composer/clue/reactphp-eventsource@v1.1.0
 - pkg:composer/clue/reactphp-eventsource@v1.2.0
 - pkg:composer/clue/reactphp-eventsource@v1.3.0
+- pkg:composer/clue/reactphp-eventsource@v1.4.0
