@@ -72,6 +72,8 @@
 - pkg:composer/draw/fixer@0.36.0
 - pkg:composer/draw/fixer@0.37.0
 - pkg:composer/draw/fixer@0.38.0
+- pkg:composer/draw/fixer@0.39.0
+- pkg:composer/draw/fixer@0.39.1
 - pkg:composer/draw/fixer@0.9.31
 - pkg:composer/draw/fixer@0.9.32
 - pkg:composer/draw/fixer@0.9.33
