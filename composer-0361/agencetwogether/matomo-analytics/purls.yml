@@ -1,1 +1,3 @@
 - pkg:composer/agencetwogether/matomo-analytics@1.0.0
+- pkg:composer/agencetwogether/matomo-analytics@1.0.1
+- pkg:composer/agencetwogether/matomo-analytics@1.0.2
