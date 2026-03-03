@@ -137,3 +137,4 @@
 - pkg:composer/api-platform/jsonld@v4.2.9
 - pkg:composer/api-platform/jsonld@v4.3.0-alpha.1
 - pkg:composer/api-platform/jsonld@v4.3.0-alpha.2
+- pkg:composer/api-platform/jsonld@v4.3.0-beta.1
