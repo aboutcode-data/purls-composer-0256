@@ -27,3 +27,4 @@
 - pkg:composer/spatie/laravel-site-search@2.6.0
 - pkg:composer/spatie/laravel-site-search@2.6.1
 - pkg:composer/spatie/laravel-site-search@2.7.0
+- pkg:composer/spatie/laravel-site-search@3.0.0
