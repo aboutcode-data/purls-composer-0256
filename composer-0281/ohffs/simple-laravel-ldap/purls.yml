@@ -14,3 +14,4 @@
 - pkg:composer/ohffs/simple-laravel-ldap@2.0
 - pkg:composer/ohffs/simple-laravel-ldap@2.0.1
 - pkg:composer/ohffs/simple-laravel-ldap@2.0.2
+- pkg:composer/ohffs/simple-laravel-ldap@2.0.3
