@@ -2,3 +2,4 @@
 - pkg:composer/yfsns/laravel-wechat-login@v1.0.1
 - pkg:composer/yfsns/laravel-wechat-login@v1.0.2
 - pkg:composer/yfsns/laravel-wechat-login@v1.0.3
+- pkg:composer/yfsns/laravel-wechat-login@v2.1.0
