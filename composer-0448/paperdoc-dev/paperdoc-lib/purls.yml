@@ -1,2 +1,5 @@
 - pkg:composer/paperdoc-dev/paperdoc-lib@v0.1.0
 - pkg:composer/paperdoc-dev/paperdoc-lib@v0.2.0
+- pkg:composer/paperdoc-dev/paperdoc-lib@v0.3.0
+- pkg:composer/paperdoc-dev/paperdoc-lib@v0.3.1
+- pkg:composer/paperdoc-dev/paperdoc-lib@v0.3.2
