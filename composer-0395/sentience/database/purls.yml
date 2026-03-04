@@ -11,3 +11,5 @@
 - pkg:composer/sentience/database@v2.5.0
 - pkg:composer/sentience/database@v2.5.1
 - pkg:composer/sentience/database@v2.5.2
+- pkg:composer/sentience/database@v2.6.0
+- pkg:composer/sentience/database@v2.6.1
