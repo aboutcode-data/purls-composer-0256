@@ -82,3 +82,7 @@
 - pkg:composer/enjoyscms/core@6.3.0
 - pkg:composer/enjoyscms/core@6.4.0
 - pkg:composer/enjoyscms/core@6.5.0
+- pkg:composer/enjoyscms/core@6.6.0
+- pkg:composer/enjoyscms/core@6.7.0
+- pkg:composer/enjoyscms/core@6.8.0
+- pkg:composer/enjoyscms/core@7.0.0
