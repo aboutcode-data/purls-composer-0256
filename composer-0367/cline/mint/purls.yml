@@ -1,3 +1,5 @@
 - pkg:composer/cline/mint@1.0.0
 - pkg:composer/cline/mint@1.0.1
 - pkg:composer/cline/mint@1.2.0
+- pkg:composer/cline/mint@2.0.0
+- pkg:composer/cline/mint@2.0.1

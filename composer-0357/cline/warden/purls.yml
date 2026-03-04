@@ -50,4 +50,6 @@
 - pkg:composer/cline/warden@4.2.0
 - pkg:composer/cline/warden@4.3.0
 - pkg:composer/cline/warden@4.4.0
+- pkg:composer/cline/warden@5.0.0
+- pkg:composer/cline/warden@5.0.1
 - pkg:composer/cline/warden@v1.3.14

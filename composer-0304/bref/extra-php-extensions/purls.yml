@@ -124,3 +124,4 @@
 - pkg:composer/bref/extra-php-extensions@1.8.6
 - pkg:composer/bref/extra-php-extensions@3.0.0
 - pkg:composer/bref/extra-php-extensions@3.0.1
+- pkg:composer/bref/extra-php-extensions@3.0.2
