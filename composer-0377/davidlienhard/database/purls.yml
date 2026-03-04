@@ -26,3 +26,4 @@
 - pkg:composer/davidlienhard/database@3.0.4
 - pkg:composer/davidlienhard/database@3.0.5
 - pkg:composer/davidlienhard/database@3.0.6
+- pkg:composer/davidlienhard/database@3.1.0
