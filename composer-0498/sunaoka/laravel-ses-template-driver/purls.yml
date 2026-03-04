@@ -40,3 +40,4 @@
 - pkg:composer/sunaoka/laravel-ses-template-driver@v4.2.0
 - pkg:composer/sunaoka/laravel-ses-template-driver@v4.2.1
 - pkg:composer/sunaoka/laravel-ses-template-driver@v4.2.2
+- pkg:composer/sunaoka/laravel-ses-template-driver@v4.3.0
