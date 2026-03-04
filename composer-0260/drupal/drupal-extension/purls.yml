@@ -58,3 +58,4 @@
 - pkg:composer/drupal/drupal-extension@v5.0.0alpha1
 - pkg:composer/drupal/drupal-extension@v5.0.0rc1
 - pkg:composer/drupal/drupal-extension@v5.1.0
+- pkg:composer/drupal/drupal-extension@v5.2.0
