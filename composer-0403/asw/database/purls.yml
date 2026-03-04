@@ -3,3 +3,4 @@
 - pkg:composer/asw/database@0.3-alpha
 - pkg:composer/asw/database@0.4-alpha
 - pkg:composer/asw/database@0.5-alpha
+- pkg:composer/asw/database@0.6-beta
