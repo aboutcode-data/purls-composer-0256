@@ -63,6 +63,7 @@
 - pkg:composer/artgris/filemanager-bundle@2.10.4
 - pkg:composer/artgris/filemanager-bundle@2.10.5
 - pkg:composer/artgris/filemanager-bundle@2.10.6
+- pkg:composer/artgris/filemanager-bundle@2.11.0
 - pkg:composer/artgris/filemanager-bundle@2.2.0
 - pkg:composer/artgris/filemanager-bundle@2.2.1
 - pkg:composer/artgris/filemanager-bundle@2.2.2
