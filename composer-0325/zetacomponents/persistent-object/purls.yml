@@ -29,3 +29,4 @@
 - pkg:composer/zetacomponents/persistent-object@1.7rc1
 - pkg:composer/zetacomponents/persistent-object@1.8
 - pkg:composer/zetacomponents/persistent-object@1.8.1
+- pkg:composer/zetacomponents/persistent-object@1.8.2
