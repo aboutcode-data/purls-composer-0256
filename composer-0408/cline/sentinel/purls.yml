@@ -4,3 +4,4 @@
 - pkg:composer/cline/sentinel@1.0.3
 - pkg:composer/cline/sentinel@2.0.0
 - pkg:composer/cline/sentinel@2.0.1
+- pkg:composer/cline/sentinel@2.0.2
