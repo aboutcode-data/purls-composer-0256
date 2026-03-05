@@ -6,3 +6,4 @@
 - pkg:composer/graycore/magento2-stdlogging@v1.1.1
 - pkg:composer/graycore/magento2-stdlogging@v2.0.0
 - pkg:composer/graycore/magento2-stdlogging@v2.1.0
+- pkg:composer/graycore/magento2-stdlogging@v2.1.1

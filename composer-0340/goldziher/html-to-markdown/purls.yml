@@ -33,6 +33,13 @@
 - pkg:composer/goldziher/html-to-markdown@2.25.1
 - pkg:composer/goldziher/html-to-markdown@2.25.2
 - pkg:composer/goldziher/html-to-markdown@2.26.0
+- pkg:composer/goldziher/html-to-markdown@2.26.1
+- pkg:composer/goldziher/html-to-markdown@2.26.2
+- pkg:composer/goldziher/html-to-markdown@2.26.3
+- pkg:composer/goldziher/html-to-markdown@2.27.0
+- pkg:composer/goldziher/html-to-markdown@2.27.1
+- pkg:composer/goldziher/html-to-markdown@2.27.2
+- pkg:composer/goldziher/html-to-markdown@2.27.3
 - pkg:composer/goldziher/html-to-markdown@v2.10.0
 - pkg:composer/goldziher/html-to-markdown@v2.10.1
 - pkg:composer/goldziher/html-to-markdown@v2.11.0

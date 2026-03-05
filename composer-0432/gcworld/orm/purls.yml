@@ -209,6 +209,13 @@
 - pkg:composer/gcworld/orm@6.4.2
 - pkg:composer/gcworld/orm@6.4.20
 - pkg:composer/gcworld/orm@6.4.21
+- pkg:composer/gcworld/orm@6.4.22
+- pkg:composer/gcworld/orm@6.4.23
+- pkg:composer/gcworld/orm@6.4.24
+- pkg:composer/gcworld/orm@6.4.25
+- pkg:composer/gcworld/orm@6.4.26
+- pkg:composer/gcworld/orm@6.4.27
+- pkg:composer/gcworld/orm@6.4.28
 - pkg:composer/gcworld/orm@6.4.3
 - pkg:composer/gcworld/orm@6.4.4
 - pkg:composer/gcworld/orm@6.4.5

@@ -5,3 +5,4 @@
 - pkg:composer/freyr/identity@1.0.0
 - pkg:composer/freyr/identity@v0.2.0
 - pkg:composer/freyr/identity@v0.2.1
+- pkg:composer/freyr/identity@v1.0.1
