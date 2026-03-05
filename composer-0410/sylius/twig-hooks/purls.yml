@@ -1,5 +1,6 @@
 - pkg:composer/sylius/twig-hooks@0.1
 - pkg:composer/sylius/twig-hooks@v0.10.0
+- pkg:composer/sylius/twig-hooks@v0.11.0
 - pkg:composer/sylius/twig-hooks@v0.2.0
 - pkg:composer/sylius/twig-hooks@v0.2.1
 - pkg:composer/sylius/twig-hooks@v0.2.2
