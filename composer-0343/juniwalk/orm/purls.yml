@@ -112,3 +112,4 @@
 - pkg:composer/juniwalk/orm@v3.2.1
 - pkg:composer/juniwalk/orm@v3.2.2
 - pkg:composer/juniwalk/orm@v3.2.3
+- pkg:composer/juniwalk/orm@v3.2.4

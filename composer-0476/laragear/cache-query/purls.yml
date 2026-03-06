@@ -15,3 +15,5 @@
 - pkg:composer/laragear/cache-query@v4.2.2
 - pkg:composer/laragear/cache-query@v5.0.0
 - pkg:composer/laragear/cache-query@v5.0.1
+- pkg:composer/laragear/cache-query@v5.0.2
+- pkg:composer/laragear/cache-query@v6.0.0
