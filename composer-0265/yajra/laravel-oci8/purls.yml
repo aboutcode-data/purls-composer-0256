@@ -140,6 +140,7 @@
 - pkg:composer/yajra/laravel-oci8@v12.1.8
 - pkg:composer/yajra/laravel-oci8@v12.1.9
 - pkg:composer/yajra/laravel-oci8@v12.10.0
+- pkg:composer/yajra/laravel-oci8@v12.10.1
 - pkg:composer/yajra/laravel-oci8@v12.2.0
 - pkg:composer/yajra/laravel-oci8@v12.3.0
 - pkg:composer/yajra/laravel-oci8@v12.3.1
