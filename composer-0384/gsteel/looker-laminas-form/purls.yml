@@ -5,3 +5,4 @@
 - pkg:composer/gsteel/looker-laminas-form@0.4.0
 - pkg:composer/gsteel/looker-laminas-form@0.5.0
 - pkg:composer/gsteel/looker-laminas-form@0.5.1
+- pkg:composer/gsteel/looker-laminas-form@0.6.0
