@@ -16,3 +16,4 @@
 - pkg:composer/openclassrooms/use-case-bundle@v2.3.1
 - pkg:composer/openclassrooms/use-case-bundle@v3.0.1
 - pkg:composer/openclassrooms/use-case-bundle@v4.0.0
+- pkg:composer/openclassrooms/use-case-bundle@v5.0.0

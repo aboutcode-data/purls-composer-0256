@@ -30,6 +30,7 @@
 - pkg:composer/open-runtimes/executor@0.2.0
 - pkg:composer/open-runtimes/executor@0.20.0
 - pkg:composer/open-runtimes/executor@0.21.0
+- pkg:composer/open-runtimes/executor@0.21.1
 - pkg:composer/open-runtimes/executor@0.3.0
 - pkg:composer/open-runtimes/executor@0.3.1
 - pkg:composer/open-runtimes/executor@0.3.2

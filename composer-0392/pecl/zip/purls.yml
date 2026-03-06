@@ -1,3 +1,4 @@
 - pkg:composer/pecl/zip@1.22.5
 - pkg:composer/pecl/zip@1.22.6
 - pkg:composer/pecl/zip@1.22.7
+- pkg:composer/pecl/zip@1.22.8

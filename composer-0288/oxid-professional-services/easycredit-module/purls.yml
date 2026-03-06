@@ -1,3 +1,4 @@
+- pkg:composer/oxid-professional-services/easycredit-module@4.0.2-rc.1
 - pkg:composer/oxid-professional-services/easycredit-module@v2.0.0
 - pkg:composer/oxid-professional-services/easycredit-module@v2.0.1
 - pkg:composer/oxid-professional-services/easycredit-module@v2.0.2
@@ -15,6 +16,7 @@
 - pkg:composer/oxid-professional-services/easycredit-module@v3.0.7
 - pkg:composer/oxid-professional-services/easycredit-module@v3.0.8
 - pkg:composer/oxid-professional-services/easycredit-module@v3.0.9
+- pkg:composer/oxid-professional-services/easycredit-module@v3.0.9-rc.1
 - pkg:composer/oxid-professional-services/easycredit-module@v4.0.0
 - pkg:composer/oxid-professional-services/easycredit-module@v4.0.0-rc.3
 - pkg:composer/oxid-professional-services/easycredit-module@v4.0.0-rc1
