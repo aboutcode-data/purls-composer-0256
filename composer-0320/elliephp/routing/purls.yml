@@ -11,6 +11,7 @@
 - pkg:composer/elliephp/routing@1.0.21
 - pkg:composer/elliephp/routing@1.0.22
 - pkg:composer/elliephp/routing@1.0.23
+- pkg:composer/elliephp/routing@1.0.24
 - pkg:composer/elliephp/routing@1.0.3
 - pkg:composer/elliephp/routing@1.0.4
 - pkg:composer/elliephp/routing@1.0.5
