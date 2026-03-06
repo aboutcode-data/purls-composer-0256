@@ -29,7 +29,13 @@
 - pkg:composer/lfphp/pls@0.0.35
 - pkg:composer/lfphp/pls@0.0.36
 - pkg:composer/lfphp/pls@0.0.37
+- pkg:composer/lfphp/pls@0.0.39
 - pkg:composer/lfphp/pls@0.0.4
+- pkg:composer/lfphp/pls@0.0.40
+- pkg:composer/lfphp/pls@0.0.41
+- pkg:composer/lfphp/pls@0.0.42
+- pkg:composer/lfphp/pls@0.0.43
+- pkg:composer/lfphp/pls@0.0.44
 - pkg:composer/lfphp/pls@0.0.5
 - pkg:composer/lfphp/pls@0.0.6
 - pkg:composer/lfphp/pls@0.0.7
