@@ -12,6 +12,7 @@
 - pkg:composer/integration-helper/integration-version@1.0.21
 - pkg:composer/integration-helper/integration-version@1.0.22
 - pkg:composer/integration-helper/integration-version@1.0.23
+- pkg:composer/integration-helper/integration-version@1.0.24
 - pkg:composer/integration-helper/integration-version@1.0.5
 - pkg:composer/integration-helper/integration-version@v1.0.0
 - pkg:composer/integration-helper/integration-version@v1.0.1

@@ -96,3 +96,4 @@
 - pkg:composer/jobrouter/sdk@2025.2.6-stable
 - pkg:composer/jobrouter/sdk@2025.2.7-beta.1
 - pkg:composer/jobrouter/sdk@2025.2.7-stable
+- pkg:composer/jobrouter/sdk@2026.1.0-beta.1

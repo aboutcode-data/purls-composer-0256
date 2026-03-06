@@ -51,3 +51,5 @@
 - pkg:composer/internetguru/laravel-feedback@v6.1.8
 - pkg:composer/internetguru/laravel-feedback@v6.1.9
 - pkg:composer/internetguru/laravel-feedback@v7.0.0
+- pkg:composer/internetguru/laravel-feedback@v7.1.0
+- pkg:composer/internetguru/laravel-feedback@v7.1.1

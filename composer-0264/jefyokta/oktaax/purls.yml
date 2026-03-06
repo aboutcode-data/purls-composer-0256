@@ -32,3 +32,4 @@
 - pkg:composer/jefyokta/oktaax@v3.5.0
 - pkg:composer/jefyokta/oktaax@v3.6.0
 - pkg:composer/jefyokta/oktaax@v3.7.0
+- pkg:composer/jefyokta/oktaax@v4.0.0-beta

@@ -29,3 +29,6 @@
 - pkg:composer/jonasarts/registry2-bundle@v6.3.1
 - pkg:composer/jonasarts/registry2-bundle@v7.0.0
 - pkg:composer/jonasarts/registry2-bundle@v7.0.1
+- pkg:composer/jonasarts/registry2-bundle@v7.0.2
+- pkg:composer/jonasarts/registry2-bundle@v7.0.3
+- pkg:composer/jonasarts/registry2-bundle@v7.0.4
