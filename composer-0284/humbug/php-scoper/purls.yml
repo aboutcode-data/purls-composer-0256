@@ -50,6 +50,7 @@
 - pkg:composer/humbug/php-scoper@0.18.16
 - pkg:composer/humbug/php-scoper@0.18.17
 - pkg:composer/humbug/php-scoper@0.18.18
+- pkg:composer/humbug/php-scoper@0.18.19
 - pkg:composer/humbug/php-scoper@0.18.2
 - pkg:composer/humbug/php-scoper@0.18.3
 - pkg:composer/humbug/php-scoper@0.18.4

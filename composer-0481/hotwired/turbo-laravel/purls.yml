@@ -62,3 +62,4 @@
 - pkg:composer/hotwired/turbo-laravel@2.4.0
 - pkg:composer/hotwired/turbo-laravel@2.5.0
 - pkg:composer/hotwired/turbo-laravel@2.5.1
+- pkg:composer/hotwired/turbo-laravel@2.6.0
