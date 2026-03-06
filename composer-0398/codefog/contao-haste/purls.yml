@@ -167,3 +167,4 @@
 - pkg:composer/codefog/contao-haste@5.3.5
 - pkg:composer/codefog/contao-haste@5.3.6
 - pkg:composer/codefog/contao-haste@5.4.0
+- pkg:composer/codefog/contao-haste@5.4.1
