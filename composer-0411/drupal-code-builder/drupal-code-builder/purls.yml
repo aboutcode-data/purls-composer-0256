@@ -129,3 +129,4 @@
 - pkg:composer/drupal-code-builder/drupal-code-builder@4.5.7
 - pkg:composer/drupal-code-builder/drupal-code-builder@4.6.0
 - pkg:composer/drupal-code-builder/drupal-code-builder@4.6.1
+- pkg:composer/drupal-code-builder/drupal-code-builder@4.6.2

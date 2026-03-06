@@ -61,3 +61,4 @@
 - pkg:composer/devgiants/docker-wordpress@3.5.0
 - pkg:composer/devgiants/docker-wordpress@3.6.0
 - pkg:composer/devgiants/docker-wordpress@3.6.1
+- pkg:composer/devgiants/docker-wordpress@3.6.2
