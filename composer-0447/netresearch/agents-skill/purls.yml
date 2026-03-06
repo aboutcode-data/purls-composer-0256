@@ -15,6 +15,8 @@
 - pkg:composer/netresearch/agents-skill@v2.12.0
 - pkg:composer/netresearch/agents-skill@v2.12.1
 - pkg:composer/netresearch/agents-skill@v2.12.2
+- pkg:composer/netresearch/agents-skill@v2.12.3
+- pkg:composer/netresearch/agents-skill@v2.12.4
 - pkg:composer/netresearch/agents-skill@v2.2.0
 - pkg:composer/netresearch/agents-skill@v2.2.1
 - pkg:composer/netresearch/agents-skill@v2.3.0
@@ -25,3 +27,5 @@
 - pkg:composer/netresearch/agents-skill@v2.7.0
 - pkg:composer/netresearch/agents-skill@v2.8.0
 - pkg:composer/netresearch/agents-skill@v2.9.0
+- pkg:composer/netresearch/agents-skill@v3.0.0
+- pkg:composer/netresearch/agents-skill@v3.0.1

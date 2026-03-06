@@ -23,6 +23,7 @@
 - pkg:composer/neat/object@0.12.1
 - pkg:composer/neat/object@0.12.2
 - pkg:composer/neat/object@0.12.3
+- pkg:composer/neat/object@0.12.4
 - pkg:composer/neat/object@0.2.0
 - pkg:composer/neat/object@0.3.0
 - pkg:composer/neat/object@0.4.0
