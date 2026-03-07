@@ -13,3 +13,4 @@
 - pkg:composer/firehed/container@0.8.0
 - pkg:composer/firehed/container@0.9.0
 - pkg:composer/firehed/container@0.9.1
+- pkg:composer/firehed/container@1.0.0
