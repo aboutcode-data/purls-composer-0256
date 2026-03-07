@@ -55,3 +55,4 @@
 - pkg:composer/hyperf/logger@v3.2.0-alpha.1
 - pkg:composer/hyperf/logger@v3.2.0-alpha.3
 - pkg:composer/hyperf/logger@v3.2.0-alpha.4
+- pkg:composer/hyperf/logger@v3.2.0-beta.3
