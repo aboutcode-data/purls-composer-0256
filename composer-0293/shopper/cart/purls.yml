@@ -1,1 +1,3 @@
 - pkg:composer/shopper/cart@v2.6.0
+- pkg:composer/shopper/cart@v2.6.1
+- pkg:composer/shopper/cart@v2.6.2

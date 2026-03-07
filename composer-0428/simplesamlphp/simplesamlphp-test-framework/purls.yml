@@ -59,6 +59,7 @@
 - pkg:composer/simplesamlphp/simplesamlphp-test-framework@v1.10.6
 - pkg:composer/simplesamlphp/simplesamlphp-test-framework@v1.10.7
 - pkg:composer/simplesamlphp/simplesamlphp-test-framework@v1.11.0
+- pkg:composer/simplesamlphp/simplesamlphp-test-framework@v1.11.1
 - pkg:composer/simplesamlphp/simplesamlphp-test-framework@v1.2.0
 - pkg:composer/simplesamlphp/simplesamlphp-test-framework@v1.2.1
 - pkg:composer/simplesamlphp/simplesamlphp-test-framework@v1.2.2

@@ -13,3 +13,4 @@
 - pkg:composer/saucebase/auth@v0.0.7
 - pkg:composer/saucebase/auth@v0.0.8
 - pkg:composer/saucebase/auth@v0.0.9
+- pkg:composer/saucebase/auth@v1.0.0
