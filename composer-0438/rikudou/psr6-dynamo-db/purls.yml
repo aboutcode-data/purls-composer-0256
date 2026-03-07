@@ -15,3 +15,4 @@
 - pkg:composer/rikudou/psr6-dynamo-db@v3.1.0
 - pkg:composer/rikudou/psr6-dynamo-db@v3.1.1
 - pkg:composer/rikudou/psr6-dynamo-db@v3.2.0
+- pkg:composer/rikudou/psr6-dynamo-db@v3.2.1

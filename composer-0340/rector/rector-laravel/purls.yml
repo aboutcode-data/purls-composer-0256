@@ -67,6 +67,9 @@
 - pkg:composer/rector/rector-laravel@2.0.7
 - pkg:composer/rector/rector-laravel@2.1.0
 - pkg:composer/rector/rector-laravel@2.1.1
+- pkg:composer/rector/rector-laravel@2.1.10
+- pkg:composer/rector/rector-laravel@2.1.11
+- pkg:composer/rector/rector-laravel@2.1.12
 - pkg:composer/rector/rector-laravel@2.1.2
 - pkg:composer/rector/rector-laravel@2.1.3
 - pkg:composer/rector/rector-laravel@2.1.4
