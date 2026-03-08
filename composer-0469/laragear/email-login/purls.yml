@@ -5,3 +5,4 @@
 - pkg:composer/laragear/email-login@v3.0.0
 - pkg:composer/laragear/email-login@v3.1.0
 - pkg:composer/laragear/email-login@v3.1.1
+- pkg:composer/laragear/email-login@v4.0.0

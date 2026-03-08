@@ -53,3 +53,5 @@
 - pkg:composer/lumynus/kernel@v1.6.1
 - pkg:composer/lumynus/kernel@v1.6.2
 - pkg:composer/lumynus/kernel@v1.6.3
+- pkg:composer/lumynus/kernel@v1.6.4
+- pkg:composer/lumynus/kernel@v1.6.5
