@@ -147,3 +147,5 @@
 - pkg:composer/laravel-liberu/laravel-gedcom@v7.1.0
 - pkg:composer/laravel-liberu/laravel-gedcom@v7.1.1
 - pkg:composer/laravel-liberu/laravel-gedcom@v8.0.0
+- pkg:composer/laravel-liberu/laravel-gedcom@v8.1.0
+- pkg:composer/laravel-liberu/laravel-gedcom@v8.2.0
