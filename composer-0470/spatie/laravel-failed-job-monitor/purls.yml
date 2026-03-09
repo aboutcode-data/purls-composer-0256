@@ -30,3 +30,4 @@
 - pkg:composer/spatie/laravel-failed-job-monitor@4.3.4
 - pkg:composer/spatie/laravel-failed-job-monitor@4.3.5
 - pkg:composer/spatie/laravel-failed-job-monitor@4.3.6
+- pkg:composer/spatie/laravel-failed-job-monitor@4.4.0

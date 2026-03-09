@@ -9,3 +9,5 @@
 - pkg:composer/sopheos/pebble_cron@0.0.8
 - pkg:composer/sopheos/pebble_cron@0.0.9
 - pkg:composer/sopheos/pebble_cron@1.0.1
+- pkg:composer/sopheos/pebble_cron@1.1.0
+- pkg:composer/sopheos/pebble_cron@1.1.1
