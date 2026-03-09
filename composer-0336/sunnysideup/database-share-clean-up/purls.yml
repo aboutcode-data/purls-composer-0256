@@ -5,3 +5,5 @@
 - pkg:composer/sunnysideup/database-share-clean-up@4.1.0
 - pkg:composer/sunnysideup/database-share-clean-up@4.1.1
 - pkg:composer/sunnysideup/database-share-clean-up@4.1.2
+- pkg:composer/sunnysideup/database-share-clean-up@5.0.0
+- pkg:composer/sunnysideup/database-share-clean-up@5.0.1

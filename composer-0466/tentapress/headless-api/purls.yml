@@ -1,2 +1,3 @@
+- pkg:composer/tentapress/headless-api@0.2.0
 - pkg:composer/tentapress/headless-api@v0.1.0
 - pkg:composer/tentapress/headless-api@v0.1.1

@@ -153,3 +153,5 @@
 - pkg:composer/tigress/core@2026.02.11.5
 - pkg:composer/tigress/core@2026.03.02.0
 - pkg:composer/tigress/core@2026.03.02.1
+- pkg:composer/tigress/core@2026.03.02.2
+- pkg:composer/tigress/core@2026.03.02.3
