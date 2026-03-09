@@ -1,2 +1,5 @@
 - pkg:composer/vluzrmos/ollama@v0.0.1
 - pkg:composer/vluzrmos/ollama@v0.0.2
+- pkg:composer/vluzrmos/ollama@v1.0.0
+- pkg:composer/vluzrmos/ollama@v1.0.1
+- pkg:composer/vluzrmos/ollama@v1.0.2
