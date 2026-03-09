@@ -124,3 +124,4 @@
 - pkg:composer/oat-sa/extension-tao-test-runner-plugins@v3.8.2
 - pkg:composer/oat-sa/extension-tao-test-runner-plugins@v3.8.3
 - pkg:composer/oat-sa/extension-tao-test-runner-plugins@v3.8.4
+- pkg:composer/oat-sa/extension-tao-test-runner-plugins@v4.0.0
