@@ -217,3 +217,5 @@
 - pkg:composer/fruitcake/laravel-debugbar@v4.0.9
 - pkg:composer/fruitcake/laravel-debugbar@v4.1.0
 - pkg:composer/fruitcake/laravel-debugbar@v4.1.1
+- pkg:composer/fruitcake/laravel-debugbar@v4.1.2
+- pkg:composer/fruitcake/laravel-debugbar@v4.1.3
