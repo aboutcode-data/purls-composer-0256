@@ -110,3 +110,4 @@
 - pkg:composer/phug/lexer@1.8.2
 - pkg:composer/phug/lexer@1.8.3
 - pkg:composer/phug/lexer@1.9.0
+- pkg:composer/phug/lexer@2.0.0
