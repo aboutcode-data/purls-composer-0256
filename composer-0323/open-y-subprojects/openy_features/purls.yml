@@ -102,3 +102,5 @@
 - pkg:composer/open-y-subprojects/openy_features@5.0.5
 - pkg:composer/open-y-subprojects/openy_features@5.1.0
 - pkg:composer/open-y-subprojects/openy_features@5.1.1
+- pkg:composer/open-y-subprojects/openy_features@5.1.2
+- pkg:composer/open-y-subprojects/openy_features@5.1.3
