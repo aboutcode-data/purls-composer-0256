@@ -74,6 +74,7 @@
 - pkg:composer/draw/entity-migrator@0.38.0
 - pkg:composer/draw/entity-migrator@0.39.0
 - pkg:composer/draw/entity-migrator@0.39.1
+- pkg:composer/draw/entity-migrator@0.39.2
 - pkg:composer/draw/entity-migrator@0.9.80
 - pkg:composer/draw/entity-migrator@0.9.81
 - pkg:composer/draw/entity-migrator@0.9.82

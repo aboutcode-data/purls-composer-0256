@@ -28,3 +28,4 @@
 - pkg:composer/ethanhann/redisearch-php@2.0.0-ALPHA2
 - pkg:composer/ethanhann/redisearch-php@2.0.0-ALPHA3
 - pkg:composer/ethanhann/redisearch-php@2.1.0
+- pkg:composer/ethanhann/redisearch-php@3.0.0
