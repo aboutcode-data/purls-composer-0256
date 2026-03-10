@@ -45,3 +45,4 @@
 - pkg:composer/adt/doctrine-authenticator@v2.5.1
 - pkg:composer/adt/doctrine-authenticator@v2.5.2
 - pkg:composer/adt/doctrine-authenticator@v2.5.3
+- pkg:composer/adt/doctrine-authenticator@v2.5.4
