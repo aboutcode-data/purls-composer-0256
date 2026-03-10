@@ -9,6 +9,7 @@
 - pkg:composer/florianv/swap-bundle@5.2
 - pkg:composer/florianv/swap-bundle@5.3.0
 - pkg:composer/florianv/swap-bundle@5.3.1
+- pkg:composer/florianv/swap-bundle@6.0.0
 - pkg:composer/florianv/swap-bundle@v1.0.0
 - pkg:composer/florianv/swap-bundle@v1.1.0
 - pkg:composer/florianv/swap-bundle@v2.0.0

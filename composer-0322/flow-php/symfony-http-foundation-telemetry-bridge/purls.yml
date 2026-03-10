@@ -1,1 +1,2 @@
 - pkg:composer/flow-php/symfony-http-foundation-telemetry-bridge@0.32.0
+- pkg:composer/flow-php/symfony-http-foundation-telemetry-bridge@0.33.0
