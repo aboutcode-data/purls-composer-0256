@@ -31,3 +31,4 @@
 - pkg:composer/iqbalatma/laravel-jwt-authentication@3.5.1
 - pkg:composer/iqbalatma/laravel-jwt-authentication@3.5.2
 - pkg:composer/iqbalatma/laravel-jwt-authentication@4.0.0
+- pkg:composer/iqbalatma/laravel-jwt-authentication@4.1.0
