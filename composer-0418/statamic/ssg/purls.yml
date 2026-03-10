@@ -21,3 +21,4 @@
 - pkg:composer/statamic/ssg@3.1.0
 - pkg:composer/statamic/ssg@3.1.1
 - pkg:composer/statamic/ssg@4.0.0
+- pkg:composer/statamic/ssg@4.1.0

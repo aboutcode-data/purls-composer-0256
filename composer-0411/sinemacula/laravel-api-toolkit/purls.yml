@@ -36,7 +36,6 @@
 - pkg:composer/sinemacula/laravel-api-toolkit@v1.16.0
 - pkg:composer/sinemacula/laravel-api-toolkit@v1.16.1
 - pkg:composer/sinemacula/laravel-api-toolkit@v1.16.2
-- pkg:composer/sinemacula/laravel-api-toolkit@v1.16.3
 - pkg:composer/sinemacula/laravel-api-toolkit@v1.16.4
 - pkg:composer/sinemacula/laravel-api-toolkit@v1.2
 - pkg:composer/sinemacula/laravel-api-toolkit@v1.3.0
