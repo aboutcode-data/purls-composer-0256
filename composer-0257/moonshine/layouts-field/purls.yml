@@ -17,4 +17,5 @@
 - pkg:composer/moonshine/layouts-field@2.0.5
 - pkg:composer/moonshine/layouts-field@3.0.0
 - pkg:composer/moonshine/layouts-field@3.0.1
+- pkg:composer/moonshine/layouts-field@3.1.0
 - pkg:composer/moonshine/layouts-field@v0.1.0
