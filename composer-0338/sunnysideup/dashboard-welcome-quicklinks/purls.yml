@@ -37,3 +37,5 @@
 - pkg:composer/sunnysideup/dashboard-welcome-quicklinks@2.1.7
 - pkg:composer/sunnysideup/dashboard-welcome-quicklinks@2.2.0
 - pkg:composer/sunnysideup/dashboard-welcome-quicklinks@2.3.0
+- pkg:composer/sunnysideup/dashboard-welcome-quicklinks@3.0.0
+- pkg:composer/sunnysideup/dashboard-welcome-quicklinks@3.0.1

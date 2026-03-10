@@ -28,6 +28,7 @@
 - pkg:composer/tig/postnl-magento2@1.21.0
 - pkg:composer/tig/postnl-magento2@1.22.0
 - pkg:composer/tig/postnl-magento2@1.23.0
+- pkg:composer/tig/postnl-magento2@1.24.1
 - pkg:composer/tig/postnl-magento2@1.4.0
 - pkg:composer/tig/postnl-magento2@1.4.2
 - pkg:composer/tig/postnl-magento2@1.4.3

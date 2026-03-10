@@ -101,6 +101,8 @@
 - pkg:composer/telnyx/telnyx-php@v6.66.0
 - pkg:composer/telnyx/telnyx-php@v6.67.0
 - pkg:composer/telnyx/telnyx-php@v6.68.0
+- pkg:composer/telnyx/telnyx-php@v6.69.0
 - pkg:composer/telnyx/telnyx-php@v6.7.0
+- pkg:composer/telnyx/telnyx-php@v6.70.0
 - pkg:composer/telnyx/telnyx-php@v6.8.0
 - pkg:composer/telnyx/telnyx-php@v6.9.0
