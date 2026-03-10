@@ -110,3 +110,4 @@
 - pkg:composer/utopia-php/migration@1.6.1
 - pkg:composer/utopia-php/migration@1.6.2
 - pkg:composer/utopia-php/migration@1.6.3
+- pkg:composer/utopia-php/migration@1.7.0
