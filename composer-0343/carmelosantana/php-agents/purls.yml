@@ -10,3 +10,6 @@
 - pkg:composer/carmelosantana/php-agents@v0.5.0
 - pkg:composer/carmelosantana/php-agents@v0.7.3
 - pkg:composer/carmelosantana/php-agents@v0.8.0
+- pkg:composer/carmelosantana/php-agents@v0.8.1
+- pkg:composer/carmelosantana/php-agents@v0.8.2
+- pkg:composer/carmelosantana/php-agents@v0.8.3
