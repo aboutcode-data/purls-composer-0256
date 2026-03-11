@@ -44,3 +44,4 @@
 - pkg:composer/jfelder/oracledb@9.0.0
 - pkg:composer/jfelder/oracledb@9.0.1
 - pkg:composer/jfelder/oracledb@v12.0.0
+- pkg:composer/jfelder/oracledb@v12.1.0
