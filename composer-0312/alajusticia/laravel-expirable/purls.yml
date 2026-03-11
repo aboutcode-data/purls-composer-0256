@@ -20,3 +20,4 @@
 - pkg:composer/alajusticia/laravel-expirable@v2.3
 - pkg:composer/alajusticia/laravel-expirable@v2.4
 - pkg:composer/alajusticia/laravel-expirable@v2.4.1
+- pkg:composer/alajusticia/laravel-expirable@v2.5.0
