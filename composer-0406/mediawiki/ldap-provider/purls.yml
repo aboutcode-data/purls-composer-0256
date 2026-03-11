@@ -25,3 +25,4 @@
 - pkg:composer/mediawiki/ldap-provider@3.0.4
 - pkg:composer/mediawiki/ldap-provider@3.0.5
 - pkg:composer/mediawiki/ldap-provider@3.0.6
+- pkg:composer/mediawiki/ldap-provider@3.0.7
