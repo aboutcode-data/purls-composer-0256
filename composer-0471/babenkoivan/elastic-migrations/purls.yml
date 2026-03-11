@@ -13,6 +13,7 @@
 - pkg:composer/babenkoivan/elastic-migrations@v1.6.2
 - pkg:composer/babenkoivan/elastic-migrations@v2.0.0
 - pkg:composer/babenkoivan/elastic-migrations@v2.0.1
+- pkg:composer/babenkoivan/elastic-migrations@v2.0.2
 - pkg:composer/babenkoivan/elastic-migrations@v3.0.0
 - pkg:composer/babenkoivan/elastic-migrations@v3.1.0
 - pkg:composer/babenkoivan/elastic-migrations@v3.2.0

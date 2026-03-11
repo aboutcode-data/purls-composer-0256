@@ -75,3 +75,4 @@
 - pkg:composer/beecubu/php-foundation-api-rest@v2.2.0
 - pkg:composer/beecubu/php-foundation-api-rest@v2.2.1
 - pkg:composer/beecubu/php-foundation-api-rest@v2.3.0
+- pkg:composer/beecubu/php-foundation-api-rest@v2.4.0

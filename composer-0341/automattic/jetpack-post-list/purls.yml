@@ -70,3 +70,4 @@
 - pkg:composer/automattic/jetpack-post-list@v0.9.6
 - pkg:composer/automattic/jetpack-post-list@v0.9.7
 - pkg:composer/automattic/jetpack-post-list@v0.9.8
+- pkg:composer/automattic/jetpack-post-list@v0.9.9
