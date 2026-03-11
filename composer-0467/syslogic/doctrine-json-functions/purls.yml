@@ -27,3 +27,4 @@
 - pkg:composer/syslogic/doctrine-json-functions@6.2.0
 - pkg:composer/syslogic/doctrine-json-functions@6.3.0
 - pkg:composer/syslogic/doctrine-json-functions@6.4.0
+- pkg:composer/syslogic/doctrine-json-functions@6.5.0
