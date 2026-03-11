@@ -72,6 +72,8 @@
 - pkg:composer/laravel/fortify@v1.34.0
 - pkg:composer/laravel/fortify@v1.34.1
 - pkg:composer/laravel/fortify@v1.35.0
+- pkg:composer/laravel/fortify@v1.36.0
+- pkg:composer/laravel/fortify@v1.36.1
 - pkg:composer/laravel/fortify@v1.4.0
 - pkg:composer/laravel/fortify@v1.4.1
 - pkg:composer/laravel/fortify@v1.4.2

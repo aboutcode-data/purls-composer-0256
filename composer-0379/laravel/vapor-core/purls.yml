@@ -99,6 +99,7 @@
 - pkg:composer/laravel/vapor-core@v2.43.0
 - pkg:composer/laravel/vapor-core@v2.43.1
 - pkg:composer/laravel/vapor-core@v2.43.2
+- pkg:composer/laravel/vapor-core@v2.43.3
 - pkg:composer/laravel/vapor-core@v2.5.0
 - pkg:composer/laravel/vapor-core@v2.5.1
 - pkg:composer/laravel/vapor-core@v2.5.2
