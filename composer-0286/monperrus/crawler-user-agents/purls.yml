@@ -20,3 +20,5 @@
 - pkg:composer/monperrus/crawler-user-agents@v1.31.0
 - pkg:composer/monperrus/crawler-user-agents@v1.32.0
 - pkg:composer/monperrus/crawler-user-agents@v1.33.0
+- pkg:composer/monperrus/crawler-user-agents@v1.34.0
+- pkg:composer/monperrus/crawler-user-agents@v1.35.0

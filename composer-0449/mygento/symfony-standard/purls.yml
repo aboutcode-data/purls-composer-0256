@@ -5,3 +5,4 @@
 - pkg:composer/mygento/symfony-standard@6.1.0
 - pkg:composer/mygento/symfony-standard@7.0.0
 - pkg:composer/mygento/symfony-standard@7.1.0
+- pkg:composer/mygento/symfony-standard@8.0.0
