@@ -262,6 +262,7 @@
 - pkg:composer/rapidez/core@4.10.0
 - pkg:composer/rapidez/core@4.10.1
 - pkg:composer/rapidez/core@4.10.2
+- pkg:composer/rapidez/core@4.11.0
 - pkg:composer/rapidez/core@4.2.0
 - pkg:composer/rapidez/core@4.3.0
 - pkg:composer/rapidez/core@4.4.0
