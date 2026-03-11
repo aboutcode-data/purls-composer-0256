@@ -361,6 +361,7 @@
 - pkg:composer/ory/client@v1.22.25
 - pkg:composer/ory/client@v1.22.26
 - pkg:composer/ory/client@v1.22.27
+- pkg:composer/ory/client@v1.22.28
 - pkg:composer/ory/client@v1.22.3
 - pkg:composer/ory/client@v1.22.4
 - pkg:composer/ory/client@v1.22.5
