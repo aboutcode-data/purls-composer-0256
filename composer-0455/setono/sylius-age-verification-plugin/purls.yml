@@ -1,1 +1,2 @@
 - pkg:composer/setono/sylius-age-verification-plugin@v1.0.0
+- pkg:composer/setono/sylius-age-verification-plugin@v2.0.0-alpha

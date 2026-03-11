@@ -12,3 +12,4 @@
 - pkg:composer/scriptfusion/phpunit-immediate-exception-printer@3.5.0
 - pkg:composer/scriptfusion/phpunit-immediate-exception-printer@3.5.1
 - pkg:composer/scriptfusion/phpunit-immediate-exception-printer@3.5.2
+- pkg:composer/scriptfusion/phpunit-immediate-exception-printer@3.6.0
