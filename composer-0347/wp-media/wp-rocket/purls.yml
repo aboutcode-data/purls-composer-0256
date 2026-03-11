@@ -329,6 +329,7 @@
 - pkg:composer/wp-media/wp-rocket@v3.20.5-alpha2
 - pkg:composer/wp-media/wp-rocket@v3.20.5-alpha3
 - pkg:composer/wp-media/wp-rocket@v3.20.5-beta
+- pkg:composer/wp-media/wp-rocket@v3.20.6
 - pkg:composer/wp-media/wp-rocket@v3.20.6-alpha
 - pkg:composer/wp-media/wp-rocket@v3.20.6-alpha2
 - pkg:composer/wp-media/wp-rocket@v3.20.6-beta
