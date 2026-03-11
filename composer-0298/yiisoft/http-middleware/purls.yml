@@ -1,2 +1,3 @@
 - pkg:composer/yiisoft/http-middleware@1.0.0
 - pkg:composer/yiisoft/http-middleware@1.1.0
+- pkg:composer/yiisoft/http-middleware@1.2.0
