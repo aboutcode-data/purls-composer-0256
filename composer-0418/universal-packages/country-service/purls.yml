@@ -2,4 +2,6 @@
 - pkg:composer/universal-packages/country-service@v1.0.1
 - pkg:composer/universal-packages/country-service@v1.0.2
 - pkg:composer/universal-packages/country-service@v1.1.0
-- pkg:composer/universal-packages/country-service@v1.2.0
+- pkg:composer/universal-packages/country-service@v1.2.1
+- pkg:composer/universal-packages/country-service@v1.3.0
+- pkg:composer/universal-packages/country-service@v1.3.1
