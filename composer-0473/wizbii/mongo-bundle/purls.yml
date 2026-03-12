@@ -30,3 +30,4 @@
 - pkg:composer/wizbii/mongo-bundle@4.0.0
 - pkg:composer/wizbii/mongo-bundle@4.1.0
 - pkg:composer/wizbii/mongo-bundle@4.1.1
+- pkg:composer/wizbii/mongo-bundle@4.2.0

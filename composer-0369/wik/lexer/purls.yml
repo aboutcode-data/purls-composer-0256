@@ -1,5 +1,7 @@
 - pkg:composer/wik/lexer@v0.0.1
 - pkg:composer/wik/lexer@v0.0.10
+- pkg:composer/wik/lexer@v0.0.11
+- pkg:composer/wik/lexer@v0.0.12
 - pkg:composer/wik/lexer@v0.0.2
 - pkg:composer/wik/lexer@v0.0.3
 - pkg:composer/wik/lexer@v0.0.4

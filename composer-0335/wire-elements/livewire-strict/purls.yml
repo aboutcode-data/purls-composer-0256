@@ -1,3 +1,4 @@
 - pkg:composer/wire-elements/livewire-strict@1.0.0
 - pkg:composer/wire-elements/livewire-strict@2.0.0
 - pkg:composer/wire-elements/livewire-strict@2.0.1
+- pkg:composer/wire-elements/livewire-strict@2.0.2
