@@ -70,3 +70,4 @@
 - pkg:composer/laravel/boost@v2.2.1
 - pkg:composer/laravel/boost@v2.2.2
 - pkg:composer/laravel/boost@v2.2.3
+- pkg:composer/laravel/boost@v2.3.0
