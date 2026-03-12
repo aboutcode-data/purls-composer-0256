@@ -1,2 +1,4 @@
+- pkg:composer/mradder/filament-logger@v0.10.0
 - pkg:composer/mradder/filament-logger@v0.8.1
 - pkg:composer/mradder/filament-logger@v0.8.2
+- pkg:composer/mradder/filament-logger@v0.9.0
