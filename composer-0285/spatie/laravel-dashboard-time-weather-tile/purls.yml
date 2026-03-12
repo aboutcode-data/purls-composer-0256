@@ -10,3 +10,4 @@
 - pkg:composer/spatie/laravel-dashboard-time-weather-tile@2.0.1
 - pkg:composer/spatie/laravel-dashboard-time-weather-tile@2.0.2
 - pkg:composer/spatie/laravel-dashboard-time-weather-tile@3.0.0
+- pkg:composer/spatie/laravel-dashboard-time-weather-tile@4.0.0
