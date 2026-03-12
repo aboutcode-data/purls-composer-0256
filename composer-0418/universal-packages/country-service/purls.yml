@@ -5,3 +5,4 @@
 - pkg:composer/universal-packages/country-service@v1.2.1
 - pkg:composer/universal-packages/country-service@v1.3.0
 - pkg:composer/universal-packages/country-service@v1.3.1
+- pkg:composer/universal-packages/country-service@v2.0.0
