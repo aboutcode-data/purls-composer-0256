@@ -9,6 +9,7 @@
 - pkg:composer/spryker/glossary-storage@1.11.1
 - pkg:composer/spryker/glossary-storage@1.11.2
 - pkg:composer/spryker/glossary-storage@1.12.0
+- pkg:composer/spryker/glossary-storage@1.13.0
 - pkg:composer/spryker/glossary-storage@1.2.0
 - pkg:composer/spryker/glossary-storage@1.3.0
 - pkg:composer/spryker/glossary-storage@1.4.0

@@ -2,3 +2,4 @@
 - pkg:composer/sproutcms/module@v4.0.1
 - pkg:composer/sproutcms/module@v4.0.2
 - pkg:composer/sproutcms/module@v4.0.3
+- pkg:composer/sproutcms/module@v4.4.0
