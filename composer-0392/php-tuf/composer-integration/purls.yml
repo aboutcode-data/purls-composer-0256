@@ -6,6 +6,7 @@
 - pkg:composer/php-tuf/composer-integration@1.0.0-alpha11
 - pkg:composer/php-tuf/composer-integration@1.0.0-alpha12
 - pkg:composer/php-tuf/composer-integration@1.0.0-alpha13
+- pkg:composer/php-tuf/composer-integration@1.0.0-alpha14
 - pkg:composer/php-tuf/composer-integration@1.0.0-alpha2
 - pkg:composer/php-tuf/composer-integration@1.0.0-alpha3
 - pkg:composer/php-tuf/composer-integration@1.0.0-alpha4
