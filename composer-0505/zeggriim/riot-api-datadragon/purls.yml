@@ -15,3 +15,5 @@
 - pkg:composer/zeggriim/riot-api-datadragon@v0.0.1
 - pkg:composer/zeggriim/riot-api-datadragon@v0.0.2
 - pkg:composer/zeggriim/riot-api-datadragon@v0.0.3
+- pkg:composer/zeggriim/riot-api-datadragon@v2.0.7
+- pkg:composer/zeggriim/riot-api-datadragon@v3.0.8-beta
