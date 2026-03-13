@@ -1,1 +1,2 @@
 - pkg:composer/lullabot/twig-cs-fixer-drupal@2.1.0
+- pkg:composer/lullabot/twig-cs-fixer-drupal@v2.2.0
