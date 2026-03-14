@@ -60,3 +60,4 @@
 - pkg:composer/tempest/database@v3.3.0
 - pkg:composer/tempest/database@v3.3.1
 - pkg:composer/tempest/database@v3.4.0
+- pkg:composer/tempest/database@v3.4.1
