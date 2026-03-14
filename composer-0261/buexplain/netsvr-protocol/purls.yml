@@ -10,3 +10,4 @@
 - pkg:composer/buexplain/netsvr-protocol@v5.0.0
 - pkg:composer/buexplain/netsvr-protocol@v5.1.0
 - pkg:composer/buexplain/netsvr-protocol@v6.0.0
+- pkg:composer/buexplain/netsvr-protocol@v6.0.1

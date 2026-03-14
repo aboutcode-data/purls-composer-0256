@@ -8,3 +8,4 @@
 - pkg:composer/buexplain/netsvr-protocol-php@v4.0.0
 - pkg:composer/buexplain/netsvr-protocol-php@v5.0.0
 - pkg:composer/buexplain/netsvr-protocol-php@v5.1.0
+- pkg:composer/buexplain/netsvr-protocol-php@v6.0.0

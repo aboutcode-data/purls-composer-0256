@@ -1,5 +1,6 @@
 - pkg:composer/berlioz/twig-package@v1.0.0
 - pkg:composer/berlioz/twig-package@v1.1.0
+- pkg:composer/berlioz/twig-package@v1.1.1
 - pkg:composer/berlioz/twig-package@v2.0.0
 - pkg:composer/berlioz/twig-package@v2.0.0-beta1
 - pkg:composer/berlioz/twig-package@v2.0.1
