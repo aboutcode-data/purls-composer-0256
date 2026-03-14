@@ -4,6 +4,7 @@
 - pkg:composer/versaorm/versaorm-php@1.8.6
 - pkg:composer/versaorm/versaorm-php@1.8.7
 - pkg:composer/versaorm/versaorm-php@1.8.8
+- pkg:composer/versaorm/versaorm-php@1.9.0
 - pkg:composer/versaorm/versaorm-php@v1.2
 - pkg:composer/versaorm/versaorm-php@v1.3.0
 - pkg:composer/versaorm/versaorm-php@v1.4.0
