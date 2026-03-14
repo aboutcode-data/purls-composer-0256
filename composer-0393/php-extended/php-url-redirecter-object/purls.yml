@@ -51,3 +51,4 @@
 - pkg:composer/php-extended/php-url-redirecter-object@8.0.9
 - pkg:composer/php-extended/php-url-redirecter-object@9.0.0
 - pkg:composer/php-extended/php-url-redirecter-object@9.0.1
+- pkg:composer/php-extended/php-url-redirecter-object@9.0.2

@@ -24,3 +24,4 @@
 - pkg:composer/phpexperts/rest-speaker@v2.8.0
 - pkg:composer/phpexperts/rest-speaker@v3.0.0
 - pkg:composer/phpexperts/rest-speaker@v3.0.1
+- pkg:composer/phpexperts/rest-speaker@v3.0.2

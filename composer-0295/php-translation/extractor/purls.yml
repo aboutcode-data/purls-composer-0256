@@ -25,3 +25,4 @@
 - pkg:composer/php-translation/extractor@2.2.1
 - pkg:composer/php-translation/extractor@2.2.2
 - pkg:composer/php-translation/extractor@2.2.3
+- pkg:composer/php-translation/extractor@2.3.0
