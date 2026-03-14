@@ -49,6 +49,7 @@
 - pkg:composer/splash/phpcore@2.3.10
 - pkg:composer/splash/phpcore@2.3.11
 - pkg:composer/splash/phpcore@2.3.12
+- pkg:composer/splash/phpcore@2.3.13
 - pkg:composer/splash/phpcore@2.3.2
 - pkg:composer/splash/phpcore@2.3.4
 - pkg:composer/splash/phpcore@2.3.5

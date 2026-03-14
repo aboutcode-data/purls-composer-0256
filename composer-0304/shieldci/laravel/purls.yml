@@ -49,3 +49,5 @@
 - pkg:composer/shieldci/laravel@v1.5.7
 - pkg:composer/shieldci/laravel@v1.5.8
 - pkg:composer/shieldci/laravel@v1.5.9
+- pkg:composer/shieldci/laravel@v1.6.0
+- pkg:composer/shieldci/laravel@v1.6.1
