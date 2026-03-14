@@ -84,6 +84,8 @@
 - pkg:composer/argws/laravel-updater@v0.1.173
 - pkg:composer/argws/laravel-updater@v0.1.174
 - pkg:composer/argws/laravel-updater@v0.1.175
+- pkg:composer/argws/laravel-updater@v0.1.176
+- pkg:composer/argws/laravel-updater@v0.1.177
 - pkg:composer/argws/laravel-updater@v0.1.18
 - pkg:composer/argws/laravel-updater@v0.1.19
 - pkg:composer/argws/laravel-updater@v0.1.2

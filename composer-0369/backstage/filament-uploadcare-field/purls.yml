@@ -201,6 +201,7 @@
 - pkg:composer/backstage/filament-uploadcare-field@v2.0.10
 - pkg:composer/backstage/filament-uploadcare-field@v2.0.11
 - pkg:composer/backstage/filament-uploadcare-field@v2.0.12
+- pkg:composer/backstage/filament-uploadcare-field@v2.0.18
 - pkg:composer/backstage/filament-uploadcare-field@v2.0.2
 - pkg:composer/backstage/filament-uploadcare-field@v2.0.3
 - pkg:composer/backstage/filament-uploadcare-field@v2.0.4

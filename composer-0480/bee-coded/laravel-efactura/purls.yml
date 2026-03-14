@@ -11,3 +11,6 @@
 - pkg:composer/bee-coded/laravel-efactura@v1.1
 - pkg:composer/bee-coded/laravel-efactura@v1.2
 - pkg:composer/bee-coded/laravel-efactura@v1.3
+- pkg:composer/bee-coded/laravel-efactura@v2.0.0
+- pkg:composer/bee-coded/laravel-efactura@v2.1.0
+- pkg:composer/bee-coded/laravel-efactura@v2.1.1

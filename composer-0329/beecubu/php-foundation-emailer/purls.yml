@@ -6,3 +6,4 @@
 - pkg:composer/beecubu/php-foundation-emailer@v1.1.0.3
 - pkg:composer/beecubu/php-foundation-emailer@v1.1.1
 - pkg:composer/beecubu/php-foundation-emailer@v2.0.0
+- pkg:composer/beecubu/php-foundation-emailer@v2.1.0

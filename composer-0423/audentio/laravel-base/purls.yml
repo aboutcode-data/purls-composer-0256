@@ -39,3 +39,4 @@
 - pkg:composer/audentio/laravel-base@2.0.2
 - pkg:composer/audentio/laravel-base@2.0.3
 - pkg:composer/audentio/laravel-base@2.0.4
+- pkg:composer/audentio/laravel-base@2.1.0
