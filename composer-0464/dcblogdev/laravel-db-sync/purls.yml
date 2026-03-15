@@ -12,3 +12,4 @@
 - pkg:composer/dcblogdev/laravel-db-sync@v1.1.5
 - pkg:composer/dcblogdev/laravel-db-sync@v1.1.6
 - pkg:composer/dcblogdev/laravel-db-sync@v1.1.7
+- pkg:composer/dcblogdev/laravel-db-sync@v1.1.8

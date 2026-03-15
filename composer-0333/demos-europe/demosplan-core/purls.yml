@@ -123,10 +123,12 @@
 - pkg:composer/demos-europe/demosplan-core@v4.28.0
 - pkg:composer/demos-europe/demosplan-core@v4.28.1
 - pkg:composer/demos-europe/demosplan-core@v4.29.0
+- pkg:composer/demos-europe/demosplan-core@v4.29.2
 - pkg:composer/demos-europe/demosplan-core@v4.3.0
 - pkg:composer/demos-europe/demosplan-core@v4.3.3
 - pkg:composer/demos-europe/demosplan-core@v4.3.5
 - pkg:composer/demos-europe/demosplan-core@v4.3.7
+- pkg:composer/demos-europe/demosplan-core@v4.3.8
 - pkg:composer/demos-europe/demosplan-core@v4.30.0
 - pkg:composer/demos-europe/demosplan-core@v4.30.2
 - pkg:composer/demos-europe/demosplan-core@v4.30.3
