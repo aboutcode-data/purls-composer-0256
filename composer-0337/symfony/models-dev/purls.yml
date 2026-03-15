@@ -10,3 +10,4 @@
 - pkg:composer/symfony/models-dev@v6.0
 - pkg:composer/symfony/models-dev@v7.0
 - pkg:composer/symfony/models-dev@v8.0
+- pkg:composer/symfony/models-dev@v9.0
