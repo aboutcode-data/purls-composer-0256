@@ -10,3 +10,4 @@
 - pkg:composer/codelieutenant/laravel-crypto@v1.0.1
 - pkg:composer/codelieutenant/laravel-crypto@v1.2.0
 - pkg:composer/codelieutenant/laravel-crypto@v2.0.0
+- pkg:composer/codelieutenant/laravel-crypto@v3.0.0-alpha1

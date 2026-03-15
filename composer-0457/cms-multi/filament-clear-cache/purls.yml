@@ -20,3 +20,4 @@
 - pkg:composer/cms-multi/filament-clear-cache@2.1.0
 - pkg:composer/cms-multi/filament-clear-cache@2.1.1
 - pkg:composer/cms-multi/filament-clear-cache@3.0.0
+- pkg:composer/cms-multi/filament-clear-cache@3.0.1
