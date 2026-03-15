@@ -70,6 +70,7 @@
 - pkg:composer/rubenarakelyan/laravel-session-files-to-redis@v12.11.2
 - pkg:composer/rubenarakelyan/laravel-session-files-to-redis@v12.12.0
 - pkg:composer/rubenarakelyan/laravel-session-files-to-redis@v12.12.1
+- pkg:composer/rubenarakelyan/laravel-session-files-to-redis@v12.12.2
 - pkg:composer/rubenarakelyan/laravel-session-files-to-redis@v12.2.0
 - pkg:composer/rubenarakelyan/laravel-session-files-to-redis@v12.3.0
 - pkg:composer/rubenarakelyan/laravel-session-files-to-redis@v12.3.1
