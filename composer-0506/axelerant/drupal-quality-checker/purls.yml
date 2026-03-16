@@ -14,3 +14,6 @@
 - pkg:composer/axelerant/drupal-quality-checker@v1.4.0
 - pkg:composer/axelerant/drupal-quality-checker@v1.4.1
 - pkg:composer/axelerant/drupal-quality-checker@v1.5.0
+- pkg:composer/axelerant/drupal-quality-checker@v2.0.0
+- pkg:composer/axelerant/drupal-quality-checker@v2.0.1
+- pkg:composer/axelerant/drupal-quality-checker@v2.0.2
