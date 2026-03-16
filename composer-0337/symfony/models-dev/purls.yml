@@ -3,6 +3,7 @@
 - pkg:composer/symfony/models-dev@v1.2
 - pkg:composer/symfony/models-dev@v1.3
 - pkg:composer/symfony/models-dev@v1.4
+- pkg:composer/symfony/models-dev@v10.0
 - pkg:composer/symfony/models-dev@v2.0
 - pkg:composer/symfony/models-dev@v3.0
 - pkg:composer/symfony/models-dev@v4.0
