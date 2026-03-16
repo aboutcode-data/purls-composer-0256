@@ -12,3 +12,4 @@
 - pkg:composer/ekino/phpstan-banned-code@v2.1.0
 - pkg:composer/ekino/phpstan-banned-code@v3.0.0
 - pkg:composer/ekino/phpstan-banned-code@v3.1.0
+- pkg:composer/ekino/phpstan-banned-code@v3.2.0

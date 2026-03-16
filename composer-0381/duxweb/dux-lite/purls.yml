@@ -47,3 +47,6 @@
 - pkg:composer/duxweb/dux-lite@v2.3.7
 - pkg:composer/duxweb/dux-lite@v2.3.8
 - pkg:composer/duxweb/dux-lite@v2.3.9
+- pkg:composer/duxweb/dux-lite@v2.4.0
+- pkg:composer/duxweb/dux-lite@v2.4.1
+- pkg:composer/duxweb/dux-lite@v2.4.2

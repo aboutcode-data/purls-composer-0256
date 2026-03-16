@@ -1,3 +1,4 @@
 - pkg:composer/drupalwxt/wxt_library@10.6.0
 - pkg:composer/drupalwxt/wxt_library@11.1.0
 - pkg:composer/drupalwxt/wxt_library@11.2.0
+- pkg:composer/drupalwxt/wxt_library@11.3.0
