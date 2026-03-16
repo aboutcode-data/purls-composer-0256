@@ -63,3 +63,4 @@
 - pkg:composer/formancehq/formance-sdk-php@v4.2.0
 - pkg:composer/formancehq/formance-sdk-php@v4.2.1
 - pkg:composer/formancehq/formance-sdk-php@v4.2.2
+- pkg:composer/formancehq/formance-sdk-php@v5.0.0

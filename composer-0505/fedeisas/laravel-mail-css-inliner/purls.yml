@@ -20,3 +20,4 @@
 - pkg:composer/fedeisas/laravel-mail-css-inliner@5.3.0
 - pkg:composer/fedeisas/laravel-mail-css-inliner@5.4.0
 - pkg:composer/fedeisas/laravel-mail-css-inliner@5.4.1
+- pkg:composer/fedeisas/laravel-mail-css-inliner@6.0.0
