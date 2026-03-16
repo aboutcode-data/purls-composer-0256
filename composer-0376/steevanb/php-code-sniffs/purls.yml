@@ -30,3 +30,4 @@
 - pkg:composer/steevanb/php-code-sniffs@4.5.0
 - pkg:composer/steevanb/php-code-sniffs@4.5.1
 - pkg:composer/steevanb/php-code-sniffs@5.0.0
+- pkg:composer/steevanb/php-code-sniffs@6.0.0
