@@ -150,3 +150,4 @@
 - pkg:composer/wallee/magento-2@2.1.7
 - pkg:composer/wallee/magento-2@2.1.8
 - pkg:composer/wallee/magento-2@2.1.9
+- pkg:composer/wallee/magento-2@3.0.0-beta
