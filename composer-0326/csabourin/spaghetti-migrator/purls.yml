@@ -247,3 +247,4 @@
 - pkg:composer/csabourin/spaghetti-migrator@v5.2.307.6
 - pkg:composer/csabourin/spaghetti-migrator@v5.2.308
 - pkg:composer/csabourin/spaghetti-migrator@v5.3.0
+- pkg:composer/csabourin/spaghetti-migrator@v5.3.1
