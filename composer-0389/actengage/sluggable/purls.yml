@@ -19,3 +19,5 @@
 - pkg:composer/actengage/sluggable@v6.0.0
 - pkg:composer/actengage/sluggable@v6.1.0
 - pkg:composer/actengage/sluggable@v6.1.1
+- pkg:composer/actengage/sluggable@v7.0.0
+- pkg:composer/actengage/sluggable@v7.0.1
