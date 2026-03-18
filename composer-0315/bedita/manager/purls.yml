@@ -377,3 +377,4 @@
 - pkg:composer/bedita/manager@v6.6.1
 - pkg:composer/bedita/manager@v6.7.0
 - pkg:composer/bedita/manager@v6.7.1
+- pkg:composer/bedita/manager@v6.7.2
