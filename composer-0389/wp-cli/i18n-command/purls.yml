@@ -33,3 +33,4 @@
 - pkg:composer/wp-cli/i18n-command@v2.6.4
 - pkg:composer/wp-cli/i18n-command@v2.6.5
 - pkg:composer/wp-cli/i18n-command@v2.6.6
+- pkg:composer/wp-cli/i18n-command@v2.7.0
