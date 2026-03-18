@@ -37,6 +37,7 @@
 - pkg:composer/google/cloud-dataplex@v1.1.1
 - pkg:composer/google/cloud-dataplex@v1.10.0
 - pkg:composer/google/cloud-dataplex@v1.11.0
+- pkg:composer/google/cloud-dataplex@v1.12.0
 - pkg:composer/google/cloud-dataplex@v1.2.0
 - pkg:composer/google/cloud-dataplex@v1.2.1
 - pkg:composer/google/cloud-dataplex@v1.3.0
