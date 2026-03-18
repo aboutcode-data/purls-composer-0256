@@ -3,3 +3,4 @@
 - pkg:composer/datomatic/laravel-enum-state-machine@v0.1.2
 - pkg:composer/datomatic/laravel-enum-state-machine@v0.2.0
 - pkg:composer/datomatic/laravel-enum-state-machine@v0.3.0
+- pkg:composer/datomatic/laravel-enum-state-machine@v0.3.1

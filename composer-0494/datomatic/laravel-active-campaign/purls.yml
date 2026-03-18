@@ -6,6 +6,7 @@
 - pkg:composer/datomatic/laravel-active-campaign@v0.2.1
 - pkg:composer/datomatic/laravel-active-campaign@v0.2.2
 - pkg:composer/datomatic/laravel-active-campaign@v0.2.3
+- pkg:composer/datomatic/laravel-active-campaign@v0.3.0
 - pkg:composer/datomatic/laravel-active-campaign@v1.0.0
 - pkg:composer/datomatic/laravel-active-campaign@v1.0.1
 - pkg:composer/datomatic/laravel-active-campaign@v1.1.0
