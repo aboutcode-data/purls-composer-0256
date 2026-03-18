@@ -176,6 +176,7 @@
 - pkg:composer/clarifai/clarifai-php-grpc@12.2.6
 - pkg:composer/clarifai/clarifai-php-grpc@12.2.7
 - pkg:composer/clarifai/clarifai-php-grpc@12.2.8
+- pkg:composer/clarifai/clarifai-php-grpc@12.2.9
 - pkg:composer/clarifai/clarifai-php-grpc@6.10.0
 - pkg:composer/clarifai/clarifai-php-grpc@6.11.0
 - pkg:composer/clarifai/clarifai-php-grpc@6.11.1

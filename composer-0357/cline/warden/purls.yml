@@ -22,4 +22,5 @@
 - pkg:composer/cline/warden@5.0.0
 - pkg:composer/cline/warden@5.0.1
 - pkg:composer/cline/warden@5.0.2
+- pkg:composer/cline/warden@5.0.3
 - pkg:composer/cline/warden@v1.3.14
