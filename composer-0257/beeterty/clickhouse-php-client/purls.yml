@@ -1,0 +1,2 @@
+- pkg:composer/beeterty/clickhouse-php-client@1.0.0
+- pkg:composer/beeterty/clickhouse-php-client@v0.1.0-alpha.1
