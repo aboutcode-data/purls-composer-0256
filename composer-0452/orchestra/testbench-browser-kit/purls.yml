@@ -1,5 +1,6 @@
 - pkg:composer/orchestra/testbench-browser-kit@v10.0.0
 - pkg:composer/orchestra/testbench-browser-kit@v10.1.0
+- pkg:composer/orchestra/testbench-browser-kit@v11.0.0
 - pkg:composer/orchestra/testbench-browser-kit@v3.1.0
 - pkg:composer/orchestra/testbench-browser-kit@v3.2.0
 - pkg:composer/orchestra/testbench-browser-kit@v3.3.0

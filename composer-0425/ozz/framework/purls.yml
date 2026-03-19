@@ -54,6 +54,7 @@
 - pkg:composer/ozz/framework@1.0.5
 - pkg:composer/ozz/framework@1.0.7
 - pkg:composer/ozz/framework@1.0.8
+- pkg:composer/ozz/framework@1.0.9
 - pkg:composer/ozz/framework@v0.1.0
 - pkg:composer/ozz/framework@v0.1.1
 - pkg:composer/ozz/framework@v0.1.10

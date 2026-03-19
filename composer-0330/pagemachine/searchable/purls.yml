@@ -50,3 +50,5 @@
 - pkg:composer/pagemachine/searchable@6.0.0
 - pkg:composer/pagemachine/searchable@6.1.0
 - pkg:composer/pagemachine/searchable@6.2.0
+- pkg:composer/pagemachine/searchable@6.3.0
+- pkg:composer/pagemachine/searchable@6.3.1

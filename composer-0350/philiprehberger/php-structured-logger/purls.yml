@@ -1,1 +1,2 @@
 - pkg:composer/philiprehberger/php-structured-logger@1.0.0
+- pkg:composer/philiprehberger/php-structured-logger@v1.0.2

@@ -1293,6 +1293,10 @@
 - pkg:composer/paycore/openfintech-data@v0.2.362
 - pkg:composer/paycore/openfintech-data@v0.2.363
 - pkg:composer/paycore/openfintech-data@v0.2.364
+- pkg:composer/paycore/openfintech-data@v0.2.365
+- pkg:composer/paycore/openfintech-data@v0.2.366
+- pkg:composer/paycore/openfintech-data@v0.2.367
+- pkg:composer/paycore/openfintech-data@v0.2.368
 - pkg:composer/paycore/openfintech-data@v0.2.37
 - pkg:composer/paycore/openfintech-data@v0.2.38
 - pkg:composer/paycore/openfintech-data@v0.2.39
