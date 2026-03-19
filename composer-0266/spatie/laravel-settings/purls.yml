@@ -64,3 +64,4 @@
 - pkg:composer/spatie/laravel-settings@3.6.0
 - pkg:composer/spatie/laravel-settings@3.7.0
 - pkg:composer/spatie/laravel-settings@3.7.1
+- pkg:composer/spatie/laravel-settings@3.7.2

@@ -12,3 +12,4 @@
 - pkg:composer/spryker/dataset@1.5.1
 - pkg:composer/spryker/dataset@1.6.0
 - pkg:composer/spryker/dataset@1.6.1
+- pkg:composer/spryker/dataset@1.7.0

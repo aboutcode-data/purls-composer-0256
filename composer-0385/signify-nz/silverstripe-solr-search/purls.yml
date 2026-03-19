@@ -22,3 +22,4 @@
 - pkg:composer/signify-nz/silverstripe-solr-search@4.0.0-alpha.2
 - pkg:composer/signify-nz/silverstripe-solr-search@4.1.0-alpha
 - pkg:composer/signify-nz/silverstripe-solr-search@4.2.0-alpha
+- pkg:composer/signify-nz/silverstripe-solr-search@4.2.0-alpha.1
