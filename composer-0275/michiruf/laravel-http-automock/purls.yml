@@ -7,3 +7,4 @@
 - pkg:composer/michiruf/laravel-http-automock@0.2-rc5
 - pkg:composer/michiruf/laravel-http-automock@0.2-rc6
 - pkg:composer/michiruf/laravel-http-automock@0.2-rc7
+- pkg:composer/michiruf/laravel-http-automock@0.3

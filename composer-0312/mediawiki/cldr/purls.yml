@@ -69,3 +69,4 @@
 - pkg:composer/mediawiki/cldr@2024.07
 - pkg:composer/mediawiki/cldr@2025.03
 - pkg:composer/mediawiki/cldr@2025.07
+- pkg:composer/mediawiki/cldr@2026.02

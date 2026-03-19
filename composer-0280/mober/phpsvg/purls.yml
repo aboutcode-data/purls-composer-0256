@@ -22,3 +22,5 @@
 - pkg:composer/mober/phpsvg@v4.0.1
 - pkg:composer/mober/phpsvg@v5.0.0
 - pkg:composer/mober/phpsvg@v5.0.1
+- pkg:composer/mober/phpsvg@v6.0.0-beta.1
+- pkg:composer/mober/phpsvg@v6.0.0-beta.2

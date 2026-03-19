@@ -58,3 +58,4 @@
 - pkg:composer/multisafepay/magento2-frontend@2.8.1
 - pkg:composer/multisafepay/magento2-frontend@2.8.2
 - pkg:composer/multisafepay/magento2-frontend@2.9.0
+- pkg:composer/multisafepay/magento2-frontend@3.0.0
