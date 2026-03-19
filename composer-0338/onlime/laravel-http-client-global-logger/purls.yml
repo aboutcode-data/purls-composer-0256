@@ -16,3 +16,4 @@
 - pkg:composer/onlime/laravel-http-client-global-logger@v1.2.6
 - pkg:composer/onlime/laravel-http-client-global-logger@v1.2.7
 - pkg:composer/onlime/laravel-http-client-global-logger@v1.2.8
+- pkg:composer/onlime/laravel-http-client-global-logger@v1.3.0

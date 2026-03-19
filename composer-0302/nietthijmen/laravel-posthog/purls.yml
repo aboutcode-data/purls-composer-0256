@@ -1,1 +1,2 @@
 - pkg:composer/nietthijmen/laravel-posthog@v0.0.2
+- pkg:composer/nietthijmen/laravel-posthog@v1.0.0

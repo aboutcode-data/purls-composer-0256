@@ -34,3 +34,6 @@
 - pkg:composer/ndestates/laravel-model-schema-checker@v3.0.9
 - pkg:composer/ndestates/laravel-model-schema-checker@v3.1.0
 - pkg:composer/ndestates/laravel-model-schema-checker@v3.2.0
+- pkg:composer/ndestates/laravel-model-schema-checker@v3.2.1
+- pkg:composer/ndestates/laravel-model-schema-checker@v3.2.2
+- pkg:composer/ndestates/laravel-model-schema-checker@v3.2.3

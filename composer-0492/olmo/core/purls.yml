@@ -430,6 +430,14 @@
 - pkg:composer/olmo/core@v2.2.0
 - pkg:composer/olmo/core@v3.0.0
 - pkg:composer/olmo/core@v3.0.1
+- pkg:composer/olmo/core@v3.0.10
+- pkg:composer/olmo/core@v3.0.11
+- pkg:composer/olmo/core@v3.0.12
+- pkg:composer/olmo/core@v3.0.13
+- pkg:composer/olmo/core@v3.0.14
+- pkg:composer/olmo/core@v3.0.15
+- pkg:composer/olmo/core@v3.0.16
+- pkg:composer/olmo/core@v3.0.17
 - pkg:composer/olmo/core@v3.0.2
 - pkg:composer/olmo/core@v3.0.3
 - pkg:composer/olmo/core@v3.0.4
@@ -437,3 +445,4 @@
 - pkg:composer/olmo/core@v3.0.6
 - pkg:composer/olmo/core@v3.0.7
 - pkg:composer/olmo/core@v3.0.8
+- pkg:composer/olmo/core@v3.0.9
