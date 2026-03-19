@@ -1,2 +1,4 @@
 - pkg:composer/gianfriaur/opcua-php-client@v1.0.0
 - pkg:composer/gianfriaur/opcua-php-client@v1.0.1
+- pkg:composer/gianfriaur/opcua-php-client@v1.1.0
+- pkg:composer/gianfriaur/opcua-php-client@v1.1.1

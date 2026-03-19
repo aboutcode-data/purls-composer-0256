@@ -20,3 +20,4 @@
 - pkg:composer/heimrichhannot/contao-ajax-bundle@1.5.0
 - pkg:composer/heimrichhannot/contao-ajax-bundle@1.5.0-beta0
 - pkg:composer/heimrichhannot/contao-ajax-bundle@1.5.1
+- pkg:composer/heimrichhannot/contao-ajax-bundle@1.5.2
