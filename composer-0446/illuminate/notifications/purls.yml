@@ -302,6 +302,7 @@
 - pkg:composer/illuminate/notifications@v12.54.0
 - pkg:composer/illuminate/notifications@v12.54.1
 - pkg:composer/illuminate/notifications@v12.55.0
+- pkg:composer/illuminate/notifications@v12.55.1
 - pkg:composer/illuminate/notifications@v12.6.0
 - pkg:composer/illuminate/notifications@v12.7.0
 - pkg:composer/illuminate/notifications@v12.7.1
@@ -312,6 +313,8 @@
 - pkg:composer/illuminate/notifications@v12.9.1
 - pkg:composer/illuminate/notifications@v12.9.2
 - pkg:composer/illuminate/notifications@v13.0.0
+- pkg:composer/illuminate/notifications@v13.1.0
+- pkg:composer/illuminate/notifications@v13.1.1
 - pkg:composer/illuminate/notifications@v5.3.0
 - pkg:composer/illuminate/notifications@v5.3.16
 - pkg:composer/illuminate/notifications@v5.3.23

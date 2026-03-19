@@ -298,6 +298,7 @@
 - pkg:composer/illuminate/testing@v12.54.0
 - pkg:composer/illuminate/testing@v12.54.1
 - pkg:composer/illuminate/testing@v12.55.0
+- pkg:composer/illuminate/testing@v12.55.1
 - pkg:composer/illuminate/testing@v12.6.0
 - pkg:composer/illuminate/testing@v12.7.0
 - pkg:composer/illuminate/testing@v12.7.1
@@ -308,6 +309,8 @@
 - pkg:composer/illuminate/testing@v12.9.1
 - pkg:composer/illuminate/testing@v12.9.2
 - pkg:composer/illuminate/testing@v13.0.0
+- pkg:composer/illuminate/testing@v13.1.0
+- pkg:composer/illuminate/testing@v13.1.1
 - pkg:composer/illuminate/testing@v7.0.0
 - pkg:composer/illuminate/testing@v7.0.1
 - pkg:composer/illuminate/testing@v7.0.2
