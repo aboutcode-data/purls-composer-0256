@@ -27,3 +27,4 @@
 - pkg:composer/fdsn/webservice-library@4.6.3
 - pkg:composer/fdsn/webservice-library@5.0.0
 - pkg:composer/fdsn/webservice-library@5.0.1
+- pkg:composer/fdsn/webservice-library@5.0.2

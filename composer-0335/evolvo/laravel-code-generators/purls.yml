@@ -5,6 +5,7 @@
 - pkg:composer/evolvo/laravel-code-generators@11
 - pkg:composer/evolvo/laravel-code-generators@12.0
 - pkg:composer/evolvo/laravel-code-generators@12.1
+- pkg:composer/evolvo/laravel-code-generators@13.0
 - pkg:composer/evolvo/laravel-code-generators@2.0
 - pkg:composer/evolvo/laravel-code-generators@2.1
 - pkg:composer/evolvo/laravel-code-generators@2.2
