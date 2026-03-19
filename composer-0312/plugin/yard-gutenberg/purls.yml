@@ -43,3 +43,4 @@
 - pkg:composer/plugin/yard-gutenberg@v1.4.6
 - pkg:composer/plugin/yard-gutenberg@v1.4.7
 - pkg:composer/plugin/yard-gutenberg@v1.5.0
+- pkg:composer/plugin/yard-gutenberg@v1.5.1

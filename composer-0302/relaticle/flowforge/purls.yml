@@ -34,9 +34,13 @@
 - pkg:composer/relaticle/flowforge@v3.0.1
 - pkg:composer/relaticle/flowforge@v3.0.2
 - pkg:composer/relaticle/flowforge@v3.0.3
+- pkg:composer/relaticle/flowforge@v3.0.4
 - pkg:composer/relaticle/flowforge@v4.0.0
 - pkg:composer/relaticle/flowforge@v4.0.1
 - pkg:composer/relaticle/flowforge@v4.0.2
 - pkg:composer/relaticle/flowforge@v4.0.3
 - pkg:composer/relaticle/flowforge@v4.0.4
 - pkg:composer/relaticle/flowforge@v4.0.5
+- pkg:composer/relaticle/flowforge@v4.0.6
+- pkg:composer/relaticle/flowforge@v4.0.7
+- pkg:composer/relaticle/flowforge@v4.0.8
