@@ -2,6 +2,7 @@
 - pkg:composer/laravel-notification-channels/discord@1.1.1
 - pkg:composer/laravel-notification-channels/discord@1.1.2
 - pkg:composer/laravel-notification-channels/discord@1.7.0
+- pkg:composer/laravel-notification-channels/discord@1.8.0
 - pkg:composer/laravel-notification-channels/discord@v1.0.0
 - pkg:composer/laravel-notification-channels/discord@v1.0.1
 - pkg:composer/laravel-notification-channels/discord@v1.0.2

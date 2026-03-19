@@ -3,5 +3,6 @@
 - pkg:composer/laravel-lang/json-fallback-hotfix@2.1.0
 - pkg:composer/laravel-lang/json-fallback-hotfix@2.2.0
 - pkg:composer/laravel-lang/json-fallback-hotfix@2.2.1
+- pkg:composer/laravel-lang/json-fallback-hotfix@2.3.0
 - pkg:composer/laravel-lang/json-fallback-hotfix@v1.0.0
 - pkg:composer/laravel-lang/json-fallback-hotfix@v1.1.0

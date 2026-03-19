@@ -28,3 +28,4 @@
 - pkg:composer/laravel-interaction/support@3.2.0
 - pkg:composer/laravel-interaction/support@3.3.0
 - pkg:composer/laravel-interaction/support@3.4.0
+- pkg:composer/laravel-interaction/support@3.5.0

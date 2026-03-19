@@ -1,3 +1,7 @@
 - pkg:composer/kwaadpepper/chronopost-api-php@3.0.0
 - pkg:composer/kwaadpepper/chronopost-api-php@3.0.1
 - pkg:composer/kwaadpepper/chronopost-api-php@3.1.0
+- pkg:composer/kwaadpepper/chronopost-api-php@4.0.0
+- pkg:composer/kwaadpepper/chronopost-api-php@4.0.1
+- pkg:composer/kwaadpepper/chronopost-api-php@4.0.2
+- pkg:composer/kwaadpepper/chronopost-api-php@4.0.3

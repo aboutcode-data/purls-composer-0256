@@ -61,3 +61,4 @@
 - pkg:composer/klapaudius/oauth-server-bundle@5.2.0
 - pkg:composer/klapaudius/oauth-server-bundle@5.2.1
 - pkg:composer/klapaudius/oauth-server-bundle@5.2.2
+- pkg:composer/klapaudius/oauth-server-bundle@5.2.3

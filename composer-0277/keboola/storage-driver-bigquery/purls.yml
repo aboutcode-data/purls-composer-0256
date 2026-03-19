@@ -114,6 +114,8 @@
 - pkg:composer/keboola/storage-driver-bigquery@v8.19.1
 - pkg:composer/keboola/storage-driver-bigquery@v8.2.0
 - pkg:composer/keboola/storage-driver-bigquery@v8.20.0
+- pkg:composer/keboola/storage-driver-bigquery@v8.21.0
+- pkg:composer/keboola/storage-driver-bigquery@v8.22.0
 - pkg:composer/keboola/storage-driver-bigquery@v8.3.0
 - pkg:composer/keboola/storage-driver-bigquery@v8.3.1
 - pkg:composer/keboola/storage-driver-bigquery@v8.3.2

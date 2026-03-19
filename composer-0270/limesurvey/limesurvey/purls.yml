@@ -656,6 +656,12 @@
 - pkg:composer/limesurvey/limesurvey@6.16.1%2B251125
 - pkg:composer/limesurvey/limesurvey@6.16.2%2B251209
 - pkg:composer/limesurvey/limesurvey@6.16.3%2B251215
+- pkg:composer/limesurvey/limesurvey@6.16.4%2B260113
+- pkg:composer/limesurvey/limesurvey@6.16.5%2B260127
+- pkg:composer/limesurvey/limesurvey@6.16.6%2B260204
+- pkg:composer/limesurvey/limesurvey@6.16.7%2B260205
+- pkg:composer/limesurvey/limesurvey@6.16.8%2B260209
+- pkg:composer/limesurvey/limesurvey@6.16.9%2B260217
 - pkg:composer/limesurvey/limesurvey@6.2.0%2B230732
 - pkg:composer/limesurvey/limesurvey@6.2.1%2B230807
 - pkg:composer/limesurvey/limesurvey@6.2.10%2B231004
@@ -724,3 +730,4 @@
 - pkg:composer/limesurvey/limesurvey@6.8.1%2B241120
 - pkg:composer/limesurvey/limesurvey@6.8.2%2B241203
 - pkg:composer/limesurvey/limesurvey@6.9.0%2B241218
+- pkg:composer/limesurvey/limesurvey@7.0.0-beta1%2B260113
