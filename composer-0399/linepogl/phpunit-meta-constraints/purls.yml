@@ -8,3 +8,4 @@
 - pkg:composer/linepogl/phpunit-meta-constraints@0.4.4
 - pkg:composer/linepogl/phpunit-meta-constraints@0.5.0
 - pkg:composer/linepogl/phpunit-meta-constraints@0.5.1
+- pkg:composer/linepogl/phpunit-meta-constraints@1.0.0

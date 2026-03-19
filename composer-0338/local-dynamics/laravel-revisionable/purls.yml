@@ -10,6 +10,7 @@
 - pkg:composer/local-dynamics/laravel-revisionable@v11.0.3
 - pkg:composer/local-dynamics/laravel-revisionable@v11.0.4
 - pkg:composer/local-dynamics/laravel-revisionable@v12.0.0
+- pkg:composer/local-dynamics/laravel-revisionable@v13.0.0
 - pkg:composer/local-dynamics/laravel-revisionable@v7.0.0
 - pkg:composer/local-dynamics/laravel-revisionable@v8.0
 - pkg:composer/local-dynamics/laravel-revisionable@v8.1.0
