@@ -25,3 +25,5 @@
 - pkg:composer/lettr/lettr-laravel@v0.9.3
 - pkg:composer/lettr/lettr-laravel@v1.0.0
 - pkg:composer/lettr/lettr-laravel@v1.1.0
+- pkg:composer/lettr/lettr-laravel@v1.2.0
+- pkg:composer/lettr/lettr-laravel@v1.3.0
