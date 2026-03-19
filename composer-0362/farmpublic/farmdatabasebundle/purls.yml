@@ -135,3 +135,4 @@
 - pkg:composer/farmpublic/farmdatabasebundle@2.2.4
 - pkg:composer/farmpublic/farmdatabasebundle@2.3.0
 - pkg:composer/farmpublic/farmdatabasebundle@2.3.1
+- pkg:composer/farmpublic/farmdatabasebundle@3.0.0
