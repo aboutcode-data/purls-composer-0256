@@ -1,4 +1,5 @@
 - pkg:composer/roomies/phonable@0.1.0
+- pkg:composer/roomies/phonable@0.10.0
 - pkg:composer/roomies/phonable@0.2.0
 - pkg:composer/roomies/phonable@0.3.0
 - pkg:composer/roomies/phonable@0.4.0

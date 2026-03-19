@@ -10,6 +10,7 @@
 - pkg:composer/sebastiaanluca/laravel-boolean-dates@1.1.0
 - pkg:composer/sebastiaanluca/laravel-boolean-dates@1.1.1
 - pkg:composer/sebastiaanluca/laravel-boolean-dates@10.0.0
+- pkg:composer/sebastiaanluca/laravel-boolean-dates@11.0.0
 - pkg:composer/sebastiaanluca/laravel-boolean-dates@2.0.0
 - pkg:composer/sebastiaanluca/laravel-boolean-dates@2.0.1
 - pkg:composer/sebastiaanluca/laravel-boolean-dates@2.0.2
