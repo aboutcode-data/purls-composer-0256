@@ -14,3 +14,4 @@
 - pkg:composer/marshmallow/redirectable@v2.3.0
 - pkg:composer/marshmallow/redirectable@v5.0.0
 - pkg:composer/marshmallow/redirectable@v5.0.1
+- pkg:composer/marshmallow/redirectable@v5.1.0
