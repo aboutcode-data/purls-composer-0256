@@ -12,3 +12,6 @@
 - pkg:composer/dcplibrary/entra-sso@v1.6.1
 - pkg:composer/dcplibrary/entra-sso@v1.6.2
 - pkg:composer/dcplibrary/entra-sso@v1.6.3
+- pkg:composer/dcplibrary/entra-sso@v1.6.4
+- pkg:composer/dcplibrary/entra-sso@v1.6.5
+- pkg:composer/dcplibrary/entra-sso@v1.6.6
