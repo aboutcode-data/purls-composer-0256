@@ -17,6 +17,7 @@
 - pkg:composer/biigle/user-storage@v1.11.1
 - pkg:composer/biigle/user-storage@v1.12.0
 - pkg:composer/biigle/user-storage@v1.12.1
+- pkg:composer/biigle/user-storage@v1.13.0
 - pkg:composer/biigle/user-storage@v1.2.0
 - pkg:composer/biigle/user-storage@v1.2.1
 - pkg:composer/biigle/user-storage@v1.2.2
