@@ -26,3 +26,4 @@
 - pkg:composer/elvenstar/statamic-meilisearch@v3.3.0
 - pkg:composer/elvenstar/statamic-meilisearch@v3.4.0
 - pkg:composer/elvenstar/statamic-meilisearch@v4.0.0
+- pkg:composer/elvenstar/statamic-meilisearch@v4.1.0
