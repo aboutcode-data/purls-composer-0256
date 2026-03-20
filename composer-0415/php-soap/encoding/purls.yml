@@ -19,6 +19,7 @@
 - pkg:composer/php-soap/encoding@0.25.0
 - pkg:composer/php-soap/encoding@0.26.0
 - pkg:composer/php-soap/encoding@0.27.0
+- pkg:composer/php-soap/encoding@0.28.0
 - pkg:composer/php-soap/encoding@0.3.0
 - pkg:composer/php-soap/encoding@0.4.0
 - pkg:composer/php-soap/encoding@0.4.1
