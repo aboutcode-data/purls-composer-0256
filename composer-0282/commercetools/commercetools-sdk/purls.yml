@@ -37,6 +37,7 @@
 - pkg:composer/commercetools/commercetools-sdk@10.7.0
 - pkg:composer/commercetools/commercetools-sdk@10.8.0
 - pkg:composer/commercetools/commercetools-sdk@10.9.0
+- pkg:composer/commercetools/commercetools-sdk@11.0.0
 - pkg:composer/commercetools/commercetools-sdk@2.0.0
 - pkg:composer/commercetools/commercetools-sdk@2.1.0
 - pkg:composer/commercetools/commercetools-sdk@2.1.1
