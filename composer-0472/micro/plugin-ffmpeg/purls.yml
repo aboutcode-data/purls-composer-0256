@@ -1,2 +1,3 @@
 - pkg:composer/micro/plugin-ffmpeg@1.0
 - pkg:composer/micro/plugin-ffmpeg@2.0.0-alpha
+- pkg:composer/micro/plugin-ffmpeg@v2.0.0-alpha1

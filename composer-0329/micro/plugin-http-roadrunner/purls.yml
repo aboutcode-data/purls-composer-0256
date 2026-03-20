@@ -6,3 +6,4 @@
 - pkg:composer/micro/plugin-http-roadrunner@v1.6.4
 - pkg:composer/micro/plugin-http-roadrunner@v1.6.4.1
 - pkg:composer/micro/plugin-http-roadrunner@v1.6.5
+- pkg:composer/micro/plugin-http-roadrunner@v2.0.0-alpha1

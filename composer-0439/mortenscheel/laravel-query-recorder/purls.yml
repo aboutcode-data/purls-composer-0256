@@ -2,3 +2,4 @@
 - pkg:composer/mortenscheel/laravel-query-recorder@1.0.0
 - pkg:composer/mortenscheel/laravel-query-recorder@1.1.0
 - pkg:composer/mortenscheel/laravel-query-recorder@2.0.0
+- pkg:composer/mortenscheel/laravel-query-recorder@3.0.0
