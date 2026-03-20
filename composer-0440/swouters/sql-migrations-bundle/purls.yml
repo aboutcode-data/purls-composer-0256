@@ -9,3 +9,4 @@
 - pkg:composer/swouters/sql-migrations-bundle@1.1.0
 - pkg:composer/swouters/sql-migrations-bundle@1.2.0
 - pkg:composer/swouters/sql-migrations-bundle@1.2.1
+- pkg:composer/swouters/sql-migrations-bundle@2.0

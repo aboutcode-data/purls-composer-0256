@@ -32,6 +32,7 @@
 - pkg:composer/symfony/ux-svelte@v2.30.0
 - pkg:composer/symfony/ux-svelte@v2.31.0
 - pkg:composer/symfony/ux-svelte@v2.32.0
+- pkg:composer/symfony/ux-svelte@v2.33.0
 - pkg:composer/symfony/ux-svelte@v2.8.0
 - pkg:composer/symfony/ux-svelte@v2.8.1
 - pkg:composer/symfony/ux-svelte@v2.9.0

@@ -31,6 +31,7 @@
 - pkg:composer/spryker/tax@5.16.0
 - pkg:composer/spryker/tax@5.17.0
 - pkg:composer/spryker/tax@5.18.0
+- pkg:composer/spryker/tax@5.19.0
 - pkg:composer/spryker/tax@5.2.0
 - pkg:composer/spryker/tax@5.3.0
 - pkg:composer/spryker/tax@5.3.1

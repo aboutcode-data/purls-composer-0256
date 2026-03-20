@@ -19,3 +19,4 @@
 - pkg:composer/sweetrdf/rdf-helpers@2.0.0-RC1
 - pkg:composer/sweetrdf/rdf-helpers@2.1.0
 - pkg:composer/sweetrdf/rdf-helpers@2.1.1
+- pkg:composer/sweetrdf/rdf-helpers@2.1.2

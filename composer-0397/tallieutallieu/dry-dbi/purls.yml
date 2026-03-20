@@ -15,6 +15,7 @@
 - pkg:composer/tallieutallieu/dry-dbi@1.0.21
 - pkg:composer/tallieutallieu/dry-dbi@1.0.22
 - pkg:composer/tallieutallieu/dry-dbi@1.0.23
+- pkg:composer/tallieutallieu/dry-dbi@1.0.24
 - pkg:composer/tallieutallieu/dry-dbi@1.0.3
 - pkg:composer/tallieutallieu/dry-dbi@1.0.4
 - pkg:composer/tallieutallieu/dry-dbi@1.0.5
@@ -28,6 +29,7 @@
 - pkg:composer/tallieutallieu/dry-dbi@3.10.0
 - pkg:composer/tallieutallieu/dry-dbi@3.11.0
 - pkg:composer/tallieutallieu/dry-dbi@3.11.1
+- pkg:composer/tallieutallieu/dry-dbi@3.11.2
 - pkg:composer/tallieutallieu/dry-dbi@3.2.1
 - pkg:composer/tallieutallieu/dry-dbi@3.3.0
 - pkg:composer/tallieutallieu/dry-dbi@3.4.0
