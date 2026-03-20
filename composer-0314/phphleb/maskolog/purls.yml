@@ -2,6 +2,7 @@
 - pkg:composer/phphleb/maskolog@v0.1.1
 - pkg:composer/phphleb/maskolog@v0.1.2
 - pkg:composer/phphleb/maskolog@v0.1.3
+- pkg:composer/phphleb/maskolog@v0.1.4
 - pkg:composer/phphleb/maskolog@v1.0.1
 - pkg:composer/phphleb/maskolog@v1.0.2
 - pkg:composer/phphleb/maskolog@v1.0.3
@@ -14,6 +15,7 @@
 - pkg:composer/phphleb/maskolog@v1.1.1
 - pkg:composer/phphleb/maskolog@v1.1.2
 - pkg:composer/phphleb/maskolog@v1.1.3
+- pkg:composer/phphleb/maskolog@v1.1.4
 - pkg:composer/phphleb/maskolog@v2.0.0
 - pkg:composer/phphleb/maskolog@v2.0.1
 - pkg:composer/phphleb/maskolog@v2.0.2
@@ -27,3 +29,4 @@
 - pkg:composer/phphleb/maskolog@v2.1.0
 - pkg:composer/phphleb/maskolog@v2.1.1
 - pkg:composer/phphleb/maskolog@v2.1.3
+- pkg:composer/phphleb/maskolog@v2.1.4

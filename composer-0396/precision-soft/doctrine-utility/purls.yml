@@ -6,3 +6,5 @@
 - pkg:composer/precision-soft/doctrine-utility@v3.1.0
 - pkg:composer/precision-soft/doctrine-utility@v3.2.0
 - pkg:composer/precision-soft/doctrine-utility@v3.2.1
+- pkg:composer/precision-soft/doctrine-utility@v3.2.2
+- pkg:composer/precision-soft/doctrine-utility@v3.2.3
