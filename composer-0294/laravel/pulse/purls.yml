@@ -41,3 +41,4 @@
 - pkg:composer/laravel/pulse@v1.6.0
 - pkg:composer/laravel/pulse@v1.7.0
 - pkg:composer/laravel/pulse@v1.7.1
+- pkg:composer/laravel/pulse@v1.7.2

@@ -43,3 +43,4 @@
 - pkg:composer/league/container@5.0.0
 - pkg:composer/league/container@5.0.1
 - pkg:composer/league/container@5.1.0
+- pkg:composer/league/container@5.2.0
