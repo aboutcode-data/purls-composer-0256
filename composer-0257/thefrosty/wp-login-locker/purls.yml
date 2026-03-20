@@ -24,3 +24,5 @@
 - pkg:composer/thefrosty/wp-login-locker@v2.6.0.2
 - pkg:composer/thefrosty/wp-login-locker@v2.6.7
 - pkg:composer/thefrosty/wp-login-locker@v2.7.0
+- pkg:composer/thefrosty/wp-login-locker@v2.8.0
+- pkg:composer/thefrosty/wp-login-locker@v2.8.1

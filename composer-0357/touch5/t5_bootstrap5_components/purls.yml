@@ -49,3 +49,7 @@
 - pkg:composer/touch5/t5_bootstrap5_components@1.4.7
 - pkg:composer/touch5/t5_bootstrap5_components@1.4.8
 - pkg:composer/touch5/t5_bootstrap5_components@1.4.9
+- pkg:composer/touch5/t5_bootstrap5_components@13.4.0
+- pkg:composer/touch5/t5_bootstrap5_components@13.4.1
+- pkg:composer/touch5/t5_bootstrap5_components@13.4.2
+- pkg:composer/touch5/t5_bootstrap5_components@13.4.3

@@ -14,3 +14,4 @@
 - pkg:composer/terminal42/contao-password-validation@1.1.0
 - pkg:composer/terminal42/contao-password-validation@1.1.1
 - pkg:composer/terminal42/contao-password-validation@1.2.0
+- pkg:composer/terminal42/contao-password-validation@1.2.1

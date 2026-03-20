@@ -409,6 +409,8 @@
 - pkg:composer/tencentcloud/lcic@3.0.1538
 - pkg:composer/tencentcloud/lcic@3.0.1539
 - pkg:composer/tencentcloud/lcic@3.0.1541
+- pkg:composer/tencentcloud/lcic@3.0.1550
+- pkg:composer/tencentcloud/lcic@3.0.1551
 - pkg:composer/tencentcloud/lcic@3.0.733
 - pkg:composer/tencentcloud/lcic@3.0.734
 - pkg:composer/tencentcloud/lcic@3.0.735
