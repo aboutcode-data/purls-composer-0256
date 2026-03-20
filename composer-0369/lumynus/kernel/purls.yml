@@ -60,3 +60,4 @@
 - pkg:composer/lumynus/kernel@v1.6.8
 - pkg:composer/lumynus/kernel@v1.6.9
 - pkg:composer/lumynus/kernel@v1.7.0
+- pkg:composer/lumynus/kernel@v1.7.1
