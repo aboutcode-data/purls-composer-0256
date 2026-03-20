@@ -48,3 +48,4 @@
 - pkg:composer/ristekusdi/sso-php@v3.3.0
 - pkg:composer/ristekusdi/sso-php@v3.3.1
 - pkg:composer/ristekusdi/sso-php@v3.3.2
+- pkg:composer/ristekusdi/sso-php@v3.4
