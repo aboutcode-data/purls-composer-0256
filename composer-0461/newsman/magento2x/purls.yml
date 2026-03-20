@@ -54,6 +54,7 @@
 - pkg:composer/newsman/magento2x@2.4.13
 - pkg:composer/newsman/magento2x@2.4.14
 - pkg:composer/newsman/magento2x@2.4.15
+- pkg:composer/newsman/magento2x@2.4.150
 - pkg:composer/newsman/magento2x@2.4.16
 - pkg:composer/newsman/magento2x@2.4.17
 - pkg:composer/newsman/magento2x@2.4.18
@@ -70,6 +71,7 @@
 - pkg:composer/newsman/magento2x@2.4.3
 - pkg:composer/newsman/magento2x@2.4.4
 - pkg:composer/newsman/magento2x@2.4.5
+- pkg:composer/newsman/magento2x@2.4.50
 - pkg:composer/newsman/magento2x@2.4.6
 - pkg:composer/newsman/magento2x@2.4.7
 - pkg:composer/newsman/magento2x@2.4.8
@@ -104,3 +106,4 @@
 - pkg:composer/newsman/magento2x@2.5.9
 - pkg:composer/newsman/magento2x@2.6.0
 - pkg:composer/newsman/magento2x@2.6.1
+- pkg:composer/newsman/magento2x@2.7.0
