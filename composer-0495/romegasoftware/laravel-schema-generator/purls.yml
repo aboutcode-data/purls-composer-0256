@@ -4,6 +4,7 @@
 - pkg:composer/romegasoftware/laravel-schema-generator@v0.4.0
 - pkg:composer/romegasoftware/laravel-schema-generator@v1.0.0
 - pkg:composer/romegasoftware/laravel-schema-generator@v1.0.1
+- pkg:composer/romegasoftware/laravel-schema-generator@v1.0.10
 - pkg:composer/romegasoftware/laravel-schema-generator@v1.0.2
 - pkg:composer/romegasoftware/laravel-schema-generator@v1.0.3
 - pkg:composer/romegasoftware/laravel-schema-generator@v1.0.4

@@ -19,3 +19,11 @@
 - pkg:composer/satwareag/php-firebird-stubs@v7.3.2
 - pkg:composer/satwareag/php-firebird-stubs@v7.3.3
 - pkg:composer/satwareag/php-firebird-stubs@v7.3.4
+- pkg:composer/satwareag/php-firebird-stubs@v7.3.5-RC1
+- pkg:composer/satwareag/php-firebird-stubs@v7.3.5-RC2
+- pkg:composer/satwareag/php-firebird-stubs@v7.3.5-RC3
+- pkg:composer/satwareag/php-firebird-stubs@v7.3.5-RC4
+- pkg:composer/satwareag/php-firebird-stubs@v7.3.5-RC5
+- pkg:composer/satwareag/php-firebird-stubs@v7.3.5-RC6
+- pkg:composer/satwareag/php-firebird-stubs@v7.3.5-RC7
+- pkg:composer/satwareag/php-firebird-stubs@v7.3.5-RC8
