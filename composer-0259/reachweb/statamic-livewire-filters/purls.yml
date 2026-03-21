@@ -33,3 +33,5 @@
 - pkg:composer/reachweb/statamic-livewire-filters@v4.0.0
 - pkg:composer/reachweb/statamic-livewire-filters@v4.1.0
 - pkg:composer/reachweb/statamic-livewire-filters@v4.1.1
+- pkg:composer/reachweb/statamic-livewire-filters@v4.2.0
+- pkg:composer/reachweb/statamic-livewire-filters@v4.3.0
