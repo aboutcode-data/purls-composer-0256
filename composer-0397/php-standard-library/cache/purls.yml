@@ -1,1 +1,2 @@
 - pkg:composer/php-standard-library/cache@6.1.0
+- pkg:composer/php-standard-library/cache@6.1.1

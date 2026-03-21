@@ -24,3 +24,4 @@
 - pkg:composer/phpsysinfo/phpsysinfo@v3.4.2
 - pkg:composer/phpsysinfo/phpsysinfo@v3.4.3
 - pkg:composer/phpsysinfo/phpsysinfo@v3.4.4
+- pkg:composer/phpsysinfo/phpsysinfo@v3.4.5
