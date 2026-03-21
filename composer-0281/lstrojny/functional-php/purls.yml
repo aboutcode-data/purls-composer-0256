@@ -12,6 +12,7 @@
 - pkg:composer/lstrojny/functional-php@1.15.0
 - pkg:composer/lstrojny/functional-php@1.16.0
 - pkg:composer/lstrojny/functional-php@1.17.0
+- pkg:composer/lstrojny/functional-php@1.18.0
 - pkg:composer/lstrojny/functional-php@1.2.0
 - pkg:composer/lstrojny/functional-php@1.2.1
 - pkg:composer/lstrojny/functional-php@1.2.3
