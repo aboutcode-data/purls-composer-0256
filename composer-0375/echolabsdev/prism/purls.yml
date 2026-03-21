@@ -1,5 +1,7 @@
 - pkg:composer/echolabsdev/prism@v0.1.0
 - pkg:composer/echolabsdev/prism@v0.10.0
+- pkg:composer/echolabsdev/prism@v0.100.0
+- pkg:composer/echolabsdev/prism@v0.100.1
 - pkg:composer/echolabsdev/prism@v0.11.0
 - pkg:composer/echolabsdev/prism@v0.12.0
 - pkg:composer/echolabsdev/prism@v0.13.0
