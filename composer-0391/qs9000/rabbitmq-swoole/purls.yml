@@ -1,0 +1,4 @@
+- pkg:composer/qs9000/rabbitmq-swoole@v1.0.0
+- pkg:composer/qs9000/rabbitmq-swoole@v1.0.1
+- pkg:composer/qs9000/rabbitmq-swoole@v1.0.2
+- pkg:composer/qs9000/rabbitmq-swoole@v1.0.3
