@@ -21,3 +21,6 @@
 - pkg:composer/overtrue/laravel-query-logger@3.2.0
 - pkg:composer/overtrue/laravel-query-logger@3.3.0
 - pkg:composer/overtrue/laravel-query-logger@3.4.0
+- pkg:composer/overtrue/laravel-query-logger@v4.0.0
+- pkg:composer/overtrue/laravel-query-logger@v5.0.0
+- pkg:composer/overtrue/laravel-query-logger@v5.1.0

@@ -56,3 +56,4 @@
 - pkg:composer/overtrue/laravel-versionable@5.3.3
 - pkg:composer/overtrue/laravel-versionable@5.4.0
 - pkg:composer/overtrue/laravel-versionable@5.5.0
+- pkg:composer/overtrue/laravel-versionable@v6.0.0
