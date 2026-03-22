@@ -11,3 +11,4 @@
 - pkg:composer/optigov/php-cmis-client@v1.3.2
 - pkg:composer/optigov/php-cmis-client@v1.3.3
 - pkg:composer/optigov/php-cmis-client@v1.3.4
+- pkg:composer/optigov/php-cmis-client@v1.3.5
