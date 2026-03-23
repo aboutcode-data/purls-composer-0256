@@ -1,1 +1,3 @@
 - pkg:composer/semitexa/storage@0.0.2
+- pkg:composer/semitexa/storage@0.0.4
+- pkg:composer/semitexa/storage@0.0.6

@@ -175,3 +175,4 @@
 - pkg:composer/silverstripe/asset-admin@3.1.7
 - pkg:composer/silverstripe/asset-admin@3.1.8
 - pkg:composer/silverstripe/asset-admin@3.2.0-beta1
+- pkg:composer/silverstripe/asset-admin@3.2.0-rc1

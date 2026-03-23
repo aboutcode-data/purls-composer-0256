@@ -129,6 +129,7 @@
 - pkg:composer/simpletools/db-cassandra@1.0.22
 - pkg:composer/simpletools/db-cassandra@1.0.23
 - pkg:composer/simpletools/db-cassandra@1.0.24
+- pkg:composer/simpletools/db-cassandra@1.0.25
 - pkg:composer/simpletools/db-cassandra@1.0.3
 - pkg:composer/simpletools/db-cassandra@1.0.4
 - pkg:composer/simpletools/db-cassandra@1.0.5
