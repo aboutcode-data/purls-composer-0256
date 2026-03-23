@@ -1,3 +1,4 @@
 - pkg:composer/piecesphp/geojson@v1.1
 - pkg:composer/piecesphp/geojson@v1.5
 - pkg:composer/piecesphp/geojson@v1.5.1
+- pkg:composer/piecesphp/geojson@v2.0.0
