@@ -2,3 +2,5 @@
 - pkg:composer/arrigoo/wp-block-control@1.1.0
 - pkg:composer/arrigoo/wp-block-control@1.2.0
 - pkg:composer/arrigoo/wp-block-control@1.2.1
+- pkg:composer/arrigoo/wp-block-control@1.2.2
+- pkg:composer/arrigoo/wp-block-control@1.2.3

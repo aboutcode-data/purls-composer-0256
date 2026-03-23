@@ -96,6 +96,7 @@
 - pkg:composer/anourvalar/laravel-atom@2.23.18
 - pkg:composer/anourvalar/laravel-atom@2.23.19
 - pkg:composer/anourvalar/laravel-atom@2.23.2
+- pkg:composer/anourvalar/laravel-atom@2.23.20
 - pkg:composer/anourvalar/laravel-atom@2.23.3
 - pkg:composer/anourvalar/laravel-atom@2.23.4
 - pkg:composer/anourvalar/laravel-atom@2.23.5
@@ -103,6 +104,8 @@
 - pkg:composer/anourvalar/laravel-atom@2.23.7
 - pkg:composer/anourvalar/laravel-atom@2.23.8
 - pkg:composer/anourvalar/laravel-atom@2.23.9
+- pkg:composer/anourvalar/laravel-atom@2.24.0
+- pkg:composer/anourvalar/laravel-atom@2.24.1
 - pkg:composer/anourvalar/laravel-atom@2.3.0
 - pkg:composer/anourvalar/laravel-atom@2.4.0
 - pkg:composer/anourvalar/laravel-atom@2.5.0

@@ -1,1 +1,2 @@
 - pkg:composer/appwrite/docker-geo@0.1.0
+- pkg:composer/appwrite/docker-geo@0.2.0

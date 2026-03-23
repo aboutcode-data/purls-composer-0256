@@ -20,3 +20,4 @@
 - pkg:composer/api-ecosystem-for-laravel/dingo-api@v4.6.0
 - pkg:composer/api-ecosystem-for-laravel/dingo-api@v4.7.0
 - pkg:composer/api-ecosystem-for-laravel/dingo-api@v4.7.1
+- pkg:composer/api-ecosystem-for-laravel/dingo-api@v4.8.0

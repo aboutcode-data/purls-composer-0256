@@ -95,3 +95,4 @@
 - pkg:composer/avalara/avataxclient@25.7.1
 - pkg:composer/avalara/avataxclient@25.9.0
 - pkg:composer/avalara/avataxclient@26.2.0
+- pkg:composer/avalara/avataxclient@26.3.2

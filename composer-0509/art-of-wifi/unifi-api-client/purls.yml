@@ -93,6 +93,7 @@
 - pkg:composer/art-of-wifi/unifi-api-client@v1.1.97
 - pkg:composer/art-of-wifi/unifi-api-client@v1.1.98
 - pkg:composer/art-of-wifi/unifi-api-client@v1.1.99
+- pkg:composer/art-of-wifi/unifi-api-client@v2.0.0
 - pkg:composer/art-of-wifi/unifi-api-client@v2.0.1
 - pkg:composer/art-of-wifi/unifi-api-client@v2.0.10
 - pkg:composer/art-of-wifi/unifi-api-client@v2.0.11
@@ -104,3 +105,5 @@
 - pkg:composer/art-of-wifi/unifi-api-client@v2.0.7
 - pkg:composer/art-of-wifi/unifi-api-client@v2.0.8
 - pkg:composer/art-of-wifi/unifi-api-client@v2.0.9
+- pkg:composer/art-of-wifi/unifi-api-client@v2.1.0
+- pkg:composer/art-of-wifi/unifi-api-client@v2.2.0
