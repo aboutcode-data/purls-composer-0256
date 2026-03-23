@@ -1,2 +1,4 @@
 - pkg:composer/rixetbd/flux-core@v1.0
 - pkg:composer/rixetbd/flux-core@v1.1
+- pkg:composer/rixetbd/flux-core@v1.2
+- pkg:composer/rixetbd/flux-core@v1.3
