@@ -1,5 +1,6 @@
 - pkg:composer/tracekit/laravel-apm@1.4.0
 - pkg:composer/tracekit/laravel-apm@1.4.1
+- pkg:composer/tracekit/laravel-apm@1.4.2
 - pkg:composer/tracekit/laravel-apm@v1.0.0
 - pkg:composer/tracekit/laravel-apm@v1.0.1
 - pkg:composer/tracekit/laravel-apm@v1.0.2

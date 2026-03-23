@@ -45,3 +45,4 @@
 - pkg:composer/tempest/mail@v3.4.1
 - pkg:composer/tempest/mail@v3.5.0
 - pkg:composer/tempest/mail@v3.6.0
+- pkg:composer/tempest/mail@v3.6.1
