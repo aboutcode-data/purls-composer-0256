@@ -1,3 +1,6 @@
 - pkg:composer/mahdisphp/laravel-hack-auditor@v1.0.0
 - pkg:composer/mahdisphp/laravel-hack-auditor@v1.1.0
 - pkg:composer/mahdisphp/laravel-hack-auditor@v1.2.0
+- pkg:composer/mahdisphp/laravel-hack-auditor@v1.3.0
+- pkg:composer/mahdisphp/laravel-hack-auditor@v1.3.1
+- pkg:composer/mahdisphp/laravel-hack-auditor@v1.3.2
