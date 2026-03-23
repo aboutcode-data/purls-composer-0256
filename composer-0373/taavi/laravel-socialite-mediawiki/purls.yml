@@ -7,3 +7,5 @@
 - pkg:composer/taavi/laravel-socialite-mediawiki@1.4.0
 - pkg:composer/taavi/laravel-socialite-mediawiki@1.5.0
 - pkg:composer/taavi/laravel-socialite-mediawiki@1.6.0
+- pkg:composer/taavi/laravel-socialite-mediawiki@v1.7.0
+- pkg:composer/taavi/laravel-socialite-mediawiki@v1.7.1

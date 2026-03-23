@@ -29,3 +29,4 @@
 - pkg:composer/swag-industries/doctrine-domain-events@v3.1.1
 - pkg:composer/swag-industries/doctrine-domain-events@v3.1.2
 - pkg:composer/swag-industries/doctrine-domain-events@v4.0.0
+- pkg:composer/swag-industries/doctrine-domain-events@v4.1.0

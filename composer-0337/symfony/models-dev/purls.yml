@@ -8,6 +8,8 @@
 - pkg:composer/symfony/models-dev@v12.0
 - pkg:composer/symfony/models-dev@v12.1
 - pkg:composer/symfony/models-dev@v12.2
+- pkg:composer/symfony/models-dev@v12.3
+- pkg:composer/symfony/models-dev@v13.0
 - pkg:composer/symfony/models-dev@v2.0
 - pkg:composer/symfony/models-dev@v3.0
 - pkg:composer/symfony/models-dev@v4.0

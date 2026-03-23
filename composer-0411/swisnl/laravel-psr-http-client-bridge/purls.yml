@@ -1,3 +1,4 @@
 - pkg:composer/swisnl/laravel-psr-http-client-bridge@0.1.0
 - pkg:composer/swisnl/laravel-psr-http-client-bridge@0.2.0
 - pkg:composer/swisnl/laravel-psr-http-client-bridge@0.2.1
+- pkg:composer/swisnl/laravel-psr-http-client-bridge@1.0.0

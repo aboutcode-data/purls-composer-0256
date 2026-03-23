@@ -17,3 +17,4 @@
 - pkg:composer/sopamo/laravel-filepond@v1.4.0
 - pkg:composer/sopamo/laravel-filepond@v1.5.0
 - pkg:composer/sopamo/laravel-filepond@v2.0.0-beta
+- pkg:composer/sopamo/laravel-filepond@v2.0.0-beta.2
