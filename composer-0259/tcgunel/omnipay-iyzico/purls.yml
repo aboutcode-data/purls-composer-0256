@@ -14,3 +14,4 @@
 - pkg:composer/tcgunel/omnipay-iyzico@v2.0.5
 - pkg:composer/tcgunel/omnipay-iyzico@v2.0.6
 - pkg:composer/tcgunel/omnipay-iyzico@v3.0.0
+- pkg:composer/tcgunel/omnipay-iyzico@v4.0.0

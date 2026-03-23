@@ -60,3 +60,5 @@
 - pkg:composer/tempest/generation@v3.5.0
 - pkg:composer/tempest/generation@v3.6.0
 - pkg:composer/tempest/generation@v3.6.1
+- pkg:composer/tempest/generation@v3.6.2
+- pkg:composer/tempest/generation@v3.6.3
