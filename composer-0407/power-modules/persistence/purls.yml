@@ -1,3 +1,4 @@
+- pkg:composer/power-modules/persistence@0.4.0
 - pkg:composer/power-modules/persistence@v0.1.0
 - pkg:composer/power-modules/persistence@v0.1.1
 - pkg:composer/power-modules/persistence@v0.1.2

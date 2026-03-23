@@ -1,3 +1,4 @@
 - pkg:composer/philiprehberger/http-retry-client@1.0.0
 - pkg:composer/philiprehberger/http-retry-client@v1.0.2
 - pkg:composer/philiprehberger/http-retry-client@v1.0.3
+- pkg:composer/philiprehberger/http-retry-client@v1.1.0

@@ -19,3 +19,4 @@
 - pkg:composer/pronamic/wp-datetime@v2.1.6
 - pkg:composer/pronamic/wp-datetime@v2.1.7
 - pkg:composer/pronamic/wp-datetime@v2.1.8
+- pkg:composer/pronamic/wp-datetime@v2.2.0
