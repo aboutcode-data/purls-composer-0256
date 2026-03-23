@@ -21,3 +21,4 @@
 - pkg:composer/zing/laravel-eloquent-view@3.2.0
 - pkg:composer/zing/laravel-eloquent-view@3.3.0
 - pkg:composer/zing/laravel-eloquent-view@3.4.0
+- pkg:composer/zing/laravel-eloquent-view@3.5.0

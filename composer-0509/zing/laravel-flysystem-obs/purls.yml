@@ -21,3 +21,4 @@
 - pkg:composer/zing/laravel-flysystem-obs@2.7.0
 - pkg:composer/zing/laravel-flysystem-obs@2.7.1
 - pkg:composer/zing/laravel-flysystem-obs@2.8.0
+- pkg:composer/zing/laravel-flysystem-obs@2.8.1

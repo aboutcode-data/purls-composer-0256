@@ -1,3 +1,4 @@
 - pkg:composer/ageekdev/vapor-http-logger@v1.0.0
 - pkg:composer/ageekdev/vapor-http-logger@v1.1.0
 - pkg:composer/ageekdev/vapor-http-logger@v1.2.0
+- pkg:composer/ageekdev/vapor-http-logger@v2.0.0

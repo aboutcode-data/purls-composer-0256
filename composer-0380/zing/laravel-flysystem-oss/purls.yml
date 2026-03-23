@@ -18,3 +18,4 @@
 - pkg:composer/zing/laravel-flysystem-oss@2.7.0
 - pkg:composer/zing/laravel-flysystem-oss@2.7.1
 - pkg:composer/zing/laravel-flysystem-oss@2.8.0
+- pkg:composer/zing/laravel-flysystem-oss@2.8.1
