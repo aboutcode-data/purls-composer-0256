@@ -14,6 +14,11 @@
 - pkg:composer/codebar-ag/laravel-zammad@v12.0.2
 - pkg:composer/codebar-ag/laravel-zammad@v12.1.0
 - pkg:composer/codebar-ag/laravel-zammad@v12.2.0
+- pkg:composer/codebar-ag/laravel-zammad@v12.3.0
+- pkg:composer/codebar-ag/laravel-zammad@v12.4.0
+- pkg:composer/codebar-ag/laravel-zammad@v12.5.0
+- pkg:composer/codebar-ag/laravel-zammad@v12.6.0
+- pkg:composer/codebar-ag/laravel-zammad@v12.7.0
 - pkg:composer/codebar-ag/laravel-zammad@v3.0.0
 - pkg:composer/codebar-ag/laravel-zammad@v3.1.0
 - pkg:composer/codebar-ag/laravel-zammad@v3.2

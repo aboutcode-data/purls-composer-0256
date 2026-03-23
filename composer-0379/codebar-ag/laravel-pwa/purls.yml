@@ -3,3 +3,7 @@
 - pkg:composer/codebar-ag/laravel-pwa@v12.0.1
 - pkg:composer/codebar-ag/laravel-pwa@v12.0.2
 - pkg:composer/codebar-ag/laravel-pwa@v12.1.0
+- pkg:composer/codebar-ag/laravel-pwa@v12.2.0
+- pkg:composer/codebar-ag/laravel-pwa@v12.3.0
+- pkg:composer/codebar-ag/laravel-pwa@v12.4.0
+- pkg:composer/codebar-ag/laravel-pwa@v12.5.0
