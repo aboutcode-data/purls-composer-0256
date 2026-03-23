@@ -10,3 +10,6 @@
 - pkg:composer/npabisz/laravel-monitoring@v1.0.8
 - pkg:composer/npabisz/laravel-monitoring@v1.0.9
 - pkg:composer/npabisz/laravel-monitoring@v1.1.0
+- pkg:composer/npabisz/laravel-monitoring@v1.1.1
+- pkg:composer/npabisz/laravel-monitoring@v1.1.2
+- pkg:composer/npabisz/laravel-monitoring@v1.1.3
