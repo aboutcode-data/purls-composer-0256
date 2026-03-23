@@ -33,6 +33,9 @@
 - pkg:composer/survos/tabler-bundle@2.0.168
 - pkg:composer/survos/tabler-bundle@2.0.169
 - pkg:composer/survos/tabler-bundle@2.0.170
+- pkg:composer/survos/tabler-bundle@2.0.171
+- pkg:composer/survos/tabler-bundle@2.0.172
+- pkg:composer/survos/tabler-bundle@2.0.173
 - pkg:composer/survos/tabler-bundle@2.0.95
 - pkg:composer/survos/tabler-bundle@2.0.96
 - pkg:composer/survos/tabler-bundle@2.0.97

@@ -70,3 +70,5 @@
 - pkg:composer/soderlind/virtual-media-folders@1.8.3
 - pkg:composer/soderlind/virtual-media-folders@1.9.0
 - pkg:composer/soderlind/virtual-media-folders@2.0.0
+- pkg:composer/soderlind/virtual-media-folders@2.0.1
+- pkg:composer/soderlind/virtual-media-folders@2.0.2

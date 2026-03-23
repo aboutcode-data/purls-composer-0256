@@ -7,3 +7,4 @@
 - pkg:composer/somework/cqrs-bundle@v0.2.3
 - pkg:composer/somework/cqrs-bundle@v0.2.4
 - pkg:composer/somework/cqrs-bundle@v0.3.0
+- pkg:composer/somework/cqrs-bundle@v0.4.0
