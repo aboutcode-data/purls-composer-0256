@@ -127,4 +127,6 @@
 - pkg:composer/elasticms/admin-ui-bundle@6.9.6
 - pkg:composer/elasticms/admin-ui-bundle@6.9.7
 - pkg:composer/elasticms/admin-ui-bundle@6.9.8
+- pkg:composer/elasticms/admin-ui-bundle@6.9.9
 - pkg:composer/elasticms/admin-ui-bundle@7.0.0
+- pkg:composer/elasticms/admin-ui-bundle@7.1.0
