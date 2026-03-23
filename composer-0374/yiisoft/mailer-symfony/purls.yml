@@ -5,3 +5,4 @@
 - pkg:composer/yiisoft/mailer-symfony@3.0.0
 - pkg:composer/yiisoft/mailer-symfony@3.0.1
 - pkg:composer/yiisoft/mailer-symfony@4.0.0
+- pkg:composer/yiisoft/mailer-symfony@4.0.1

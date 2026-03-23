@@ -37,3 +37,4 @@
 - pkg:composer/wp-pay-gateways/buckaroo@v4.3.5
 - pkg:composer/wp-pay-gateways/buckaroo@v4.4.0
 - pkg:composer/wp-pay-gateways/buckaroo@v4.4.1
+- pkg:composer/wp-pay-gateways/buckaroo@v4.5.0
