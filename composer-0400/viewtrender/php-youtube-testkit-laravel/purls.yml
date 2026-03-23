@@ -10,3 +10,4 @@
 - pkg:composer/viewtrender/php-youtube-testkit-laravel@0.6.1
 - pkg:composer/viewtrender/php-youtube-testkit-laravel@0.6.2
 - pkg:composer/viewtrender/php-youtube-testkit-laravel@0.6.3
+- pkg:composer/viewtrender/php-youtube-testkit-laravel@v0.7.0

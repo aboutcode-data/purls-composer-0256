@@ -12,3 +12,4 @@
 - pkg:composer/webgriffe/sylius-nexi-plugin@v3.0.0
 - pkg:composer/webgriffe/sylius-nexi-plugin@v4.0.0
 - pkg:composer/webgriffe/sylius-nexi-plugin@v4.0.1
+- pkg:composer/webgriffe/sylius-nexi-plugin@v4.0.2

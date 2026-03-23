@@ -2,3 +2,5 @@
 - pkg:composer/vdhicts/read-time@v2.0.0
 - pkg:composer/vdhicts/read-time@v3.0.0
 - pkg:composer/vdhicts/read-time@v4.0.0
+- pkg:composer/vdhicts/read-time@v4.1.0
+- pkg:composer/vdhicts/read-time@v4.1.1

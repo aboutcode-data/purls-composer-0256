@@ -2,3 +2,7 @@
 - pkg:composer/vulnerar/agent@v0.1.1
 - pkg:composer/vulnerar/agent@v0.2
 - pkg:composer/vulnerar/agent@v0.3
+- pkg:composer/vulnerar/agent@v0.4
+- pkg:composer/vulnerar/agent@v0.5
+- pkg:composer/vulnerar/agent@v0.5.1
+- pkg:composer/vulnerar/agent@v0.6
