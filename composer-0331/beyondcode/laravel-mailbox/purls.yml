@@ -16,3 +16,4 @@
 - pkg:composer/beyondcode/laravel-mailbox@5.0.0
 - pkg:composer/beyondcode/laravel-mailbox@5.0.1
 - pkg:composer/beyondcode/laravel-mailbox@5.0.2
+- pkg:composer/beyondcode/laravel-mailbox@6.0.0
