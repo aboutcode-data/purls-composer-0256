@@ -22,6 +22,7 @@
 - pkg:composer/piggy/piggy-php-sdk@3.12.0
 - pkg:composer/piggy/piggy-php-sdk@3.12.1
 - pkg:composer/piggy/piggy-php-sdk@3.12.2
+- pkg:composer/piggy/piggy-php-sdk@3.12.3
 - pkg:composer/piggy/piggy-php-sdk@3.2.0
 - pkg:composer/piggy/piggy-php-sdk@3.3.0
 - pkg:composer/piggy/piggy-php-sdk@3.3.1
