@@ -5,6 +5,7 @@
 - pkg:composer/datenkraft/bb-sku-usage-api-php-client@v1.3.0
 - pkg:composer/datenkraft/bb-sku-usage-api-php-client@v1.3.1
 - pkg:composer/datenkraft/bb-sku-usage-api-php-client@v1.3.10
+- pkg:composer/datenkraft/bb-sku-usage-api-php-client@v1.3.11
 - pkg:composer/datenkraft/bb-sku-usage-api-php-client@v1.3.2
 - pkg:composer/datenkraft/bb-sku-usage-api-php-client@v1.3.3
 - pkg:composer/datenkraft/bb-sku-usage-api-php-client@v1.3.4
@@ -16,6 +17,7 @@
 - pkg:composer/datenkraft/bb-sku-usage-api-php-client@v2.3.0
 - pkg:composer/datenkraft/bb-sku-usage-api-php-client@v2.3.1
 - pkg:composer/datenkraft/bb-sku-usage-api-php-client@v2.3.10
+- pkg:composer/datenkraft/bb-sku-usage-api-php-client@v2.3.11
 - pkg:composer/datenkraft/bb-sku-usage-api-php-client@v2.3.2
 - pkg:composer/datenkraft/bb-sku-usage-api-php-client@v2.3.3
 - pkg:composer/datenkraft/bb-sku-usage-api-php-client@v2.3.4

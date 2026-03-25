@@ -27,3 +27,4 @@
 - pkg:composer/corbosman/laravel-passport-claims@6.0.0
 - pkg:composer/corbosman/laravel-passport-claims@7.0.0
 - pkg:composer/corbosman/laravel-passport-claims@8.0.0
+- pkg:composer/corbosman/laravel-passport-claims@9.0.0
