@@ -60,3 +60,4 @@
 - pkg:composer/pdffiller/qless-php@v3.8.3
 - pkg:composer/pdffiller/qless-php@v3.9.0
 - pkg:composer/pdffiller/qless-php@v3.9.1
+- pkg:composer/pdffiller/qless-php@v4.0.0
