@@ -11,3 +11,4 @@
 - pkg:composer/web-fu/reflection@v2.3.2
 - pkg:composer/web-fu/reflection@v2.4.0
 - pkg:composer/web-fu/reflection@v2.5.0
+- pkg:composer/web-fu/reflection@v2.5.1
