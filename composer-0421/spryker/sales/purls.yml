@@ -152,6 +152,7 @@
 - pkg:composer/spryker/sales@11.8.0
 - pkg:composer/spryker/sales@11.8.1
 - pkg:composer/spryker/sales@11.80.0
+- pkg:composer/spryker/sales@11.81.0
 - pkg:composer/spryker/sales@11.9.0
 - pkg:composer/spryker/sales@11.9.1
 - pkg:composer/spryker/sales@2.0.0
