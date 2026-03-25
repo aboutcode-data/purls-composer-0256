@@ -29,6 +29,7 @@
 - pkg:composer/promphp/prometheus_client_php@v2.13.1
 - pkg:composer/promphp/prometheus_client_php@v2.14.0
 - pkg:composer/promphp/prometheus_client_php@v2.14.1
+- pkg:composer/promphp/prometheus_client_php@v2.15.0
 - pkg:composer/promphp/prometheus_client_php@v2.2.0
 - pkg:composer/promphp/prometheus_client_php@v2.2.1
 - pkg:composer/promphp/prometheus_client_php@v2.2.2
