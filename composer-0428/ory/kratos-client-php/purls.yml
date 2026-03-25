@@ -75,3 +75,4 @@
 - pkg:composer/ory/kratos-client-php@v1.3.7
 - pkg:composer/ory/kratos-client-php@v1.3.8
 - pkg:composer/ory/kratos-client-php@v25.4.0
+- pkg:composer/ory/kratos-client-php@v26.2.0
