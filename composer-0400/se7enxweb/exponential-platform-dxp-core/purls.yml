@@ -92,3 +92,4 @@
 - pkg:composer/se7enxweb/exponential-platform-dxp-core@v5.0.0-beta1
 - pkg:composer/se7enxweb/exponential-platform-dxp-core@v5.0.0-rc1
 - pkg:composer/se7enxweb/exponential-platform-dxp-core@v5.0.1.0
+- pkg:composer/se7enxweb/exponential-platform-dxp-core@v5.0.1.1

@@ -9,6 +9,9 @@
 - pkg:composer/sentience/database@v2.11.3
 - pkg:composer/sentience/database@v2.11.4
 - pkg:composer/sentience/database@v2.11.5
+- pkg:composer/sentience/database@v2.12.0
+- pkg:composer/sentience/database@v2.12.1
+- pkg:composer/sentience/database@v2.12.2
 - pkg:composer/sentience/database@v2.2.0
 - pkg:composer/sentience/database@v2.2.1
 - pkg:composer/sentience/database@v2.2.2

@@ -69,3 +69,4 @@
 - pkg:composer/roots/acorn@v5.0.6
 - pkg:composer/roots/acorn@v5.1.0
 - pkg:composer/roots/acorn@v5.1.1
+- pkg:composer/roots/acorn@v6.0.0
