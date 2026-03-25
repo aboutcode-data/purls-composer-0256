@@ -80,6 +80,8 @@
 - pkg:composer/visualbuilder/email-templates@4.0.1
 - pkg:composer/visualbuilder/email-templates@4.0.10
 - pkg:composer/visualbuilder/email-templates@4.0.11
+- pkg:composer/visualbuilder/email-templates@4.0.12
+- pkg:composer/visualbuilder/email-templates@4.0.13
 - pkg:composer/visualbuilder/email-templates@4.0.2
 - pkg:composer/visualbuilder/email-templates@4.0.3
 - pkg:composer/visualbuilder/email-templates@4.0.4

@@ -11,7 +11,6 @@
 - pkg:composer/typicms/nestablecollection@5.0.0
 - pkg:composer/typicms/nestablecollection@6.0.0
 - pkg:composer/typicms/nestablecollection@6.0.1
-- pkg:composer/typicms/nestablecollection@V1.1.13
 - pkg:composer/typicms/nestablecollection@V1.1.18
 - pkg:composer/typicms/nestablecollection@v1.0.0
 - pkg:composer/typicms/nestablecollection@v1.0.1
@@ -21,6 +20,7 @@
 - pkg:composer/typicms/nestablecollection@v1.1.10
 - pkg:composer/typicms/nestablecollection@v1.1.11
 - pkg:composer/typicms/nestablecollection@v1.1.12
+- pkg:composer/typicms/nestablecollection@v1.1.13
 - pkg:composer/typicms/nestablecollection@v1.1.14
 - pkg:composer/typicms/nestablecollection@v1.1.15
 - pkg:composer/typicms/nestablecollection@v1.1.16
