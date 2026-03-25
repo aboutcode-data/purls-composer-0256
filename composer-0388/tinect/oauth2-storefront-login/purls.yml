@@ -10,3 +10,4 @@
 - pkg:composer/tinect/oauth2-storefront-login@2.0.0
 - pkg:composer/tinect/oauth2-storefront-login@2.0.1
 - pkg:composer/tinect/oauth2-storefront-login@2.1.0
+- pkg:composer/tinect/oauth2-storefront-login@2.1.1
