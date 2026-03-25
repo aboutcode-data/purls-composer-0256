@@ -1,1 +1,2 @@
 - pkg:composer/foxen/laravel-model-activity-log@v1.0.0
+- pkg:composer/foxen/laravel-model-activity-log@v1.1.0

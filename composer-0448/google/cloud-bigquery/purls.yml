@@ -84,6 +84,7 @@
 - pkg:composer/google/cloud-bigquery@v1.35.0
 - pkg:composer/google/cloud-bigquery@v1.35.1
 - pkg:composer/google/cloud-bigquery@v1.35.2
+- pkg:composer/google/cloud-bigquery@v1.36.0
 - pkg:composer/google/cloud-bigquery@v1.4.0
 - pkg:composer/google/cloud-bigquery@v1.4.1
 - pkg:composer/google/cloud-bigquery@v1.4.2
