@@ -1,5 +1,11 @@
 - pkg:composer/resofire/discussion-participants@v0.1.0
+- pkg:composer/resofire/discussion-participants@v0.1.1
 - pkg:composer/resofire/discussion-participants@v1.0.0
 - pkg:composer/resofire/discussion-participants@v1.0.1
 - pkg:composer/resofire/discussion-participants@v1.0.2
 - pkg:composer/resofire/discussion-participants@v1.0.3
+- pkg:composer/resofire/discussion-participants@v2.0.0
+- pkg:composer/resofire/discussion-participants@v2.0.1
+- pkg:composer/resofire/discussion-participants@v2.0.2
+- pkg:composer/resofire/discussion-participants@v2.0.3
+- pkg:composer/resofire/discussion-participants@v2.0.4
