@@ -11,3 +11,5 @@
 - pkg:composer/typo3-themes/theme-bootstrap@9.0.1
 - pkg:composer/typo3-themes/theme-bootstrap@9.1.0
 - pkg:composer/typo3-themes/theme-bootstrap@9.2.0
+- pkg:composer/typo3-themes/theme-bootstrap@9.3.0
+- pkg:composer/typo3-themes/theme-bootstrap@9.3.1

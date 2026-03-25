@@ -1,3 +1,4 @@
 - pkg:composer/verdient/hyperf3-http-server@1.0.0
 - pkg:composer/verdient/hyperf3-http-server@1.0.1
 - pkg:composer/verdient/hyperf3-http-server@2.0.0
+- pkg:composer/verdient/hyperf3-http-server@2.0.1
