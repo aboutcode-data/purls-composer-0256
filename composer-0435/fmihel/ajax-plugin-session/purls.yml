@@ -20,3 +20,6 @@
 - pkg:composer/fmihel/ajax-plugin-session@v2.0.3
 - pkg:composer/fmihel/ajax-plugin-session@v2.1.0
 - pkg:composer/fmihel/ajax-plugin-session@v2.2.0
+- pkg:composer/fmihel/ajax-plugin-session@v3.0.0
+- pkg:composer/fmihel/ajax-plugin-session@v3.0.1
+- pkg:composer/fmihel/ajax-plugin-session@v3.0.2
