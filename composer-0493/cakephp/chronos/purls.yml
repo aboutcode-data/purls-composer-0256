@@ -72,3 +72,4 @@
 - pkg:composer/cakephp/chronos@3.3.1
 - pkg:composer/cakephp/chronos@3.3.2
 - pkg:composer/cakephp/chronos@3.3.3
+- pkg:composer/cakephp/chronos@3.4.0
