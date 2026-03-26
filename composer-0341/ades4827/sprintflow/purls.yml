@@ -161,6 +161,7 @@
 - pkg:composer/ades4827/sprintflow@4.1.9
 - pkg:composer/ades4827/sprintflow@4.2.0
 - pkg:composer/ades4827/sprintflow@4.2.1
+- pkg:composer/ades4827/sprintflow@4.2.2
 - pkg:composer/ades4827/sprintflow@5.0.0
 - pkg:composer/ades4827/sprintflow@5.0.1
 - pkg:composer/ades4827/sprintflow@5.0.2
@@ -171,3 +172,4 @@
 - pkg:composer/ades4827/sprintflow@5.1.0
 - pkg:composer/ades4827/sprintflow@5.1.1
 - pkg:composer/ades4827/sprintflow@5.1.2
+- pkg:composer/ades4827/sprintflow@5.1.3
