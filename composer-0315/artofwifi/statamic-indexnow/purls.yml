@@ -1,3 +1,5 @@
 - pkg:composer/artofwifi/statamic-indexnow@1.0.0
 - pkg:composer/artofwifi/statamic-indexnow@1.0.1
 - pkg:composer/artofwifi/statamic-indexnow@1.1.0
+- pkg:composer/artofwifi/statamic-indexnow@1.2.0
+- pkg:composer/artofwifi/statamic-indexnow@v1.2.1
