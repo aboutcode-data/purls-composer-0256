@@ -1,3 +1,4 @@
+- pkg:composer/webd/language@0.4
 - pkg:composer/webd/language@v0.1
 - pkg:composer/webd/language@v0.2
 - pkg:composer/webd/language@v0.3
