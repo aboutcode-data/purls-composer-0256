@@ -9,3 +9,5 @@
 - pkg:composer/smartness/traceflow-laravel@v2.3.7
 - pkg:composer/smartness/traceflow-laravel@v2.4.0
 - pkg:composer/smartness/traceflow-laravel@v2.5.0
+- pkg:composer/smartness/traceflow-laravel@v2.6.0
+- pkg:composer/smartness/traceflow-laravel@v2.6.1
