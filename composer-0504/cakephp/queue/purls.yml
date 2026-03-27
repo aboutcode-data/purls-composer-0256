@@ -19,3 +19,4 @@
 - pkg:composer/cakephp/queue@2.0.1
 - pkg:composer/cakephp/queue@2.1.0
 - pkg:composer/cakephp/queue@2.2.0
+- pkg:composer/cakephp/queue@2.3.0
