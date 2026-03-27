@@ -45,6 +45,7 @@
 - pkg:composer/se7enxweb/ezplatform-rest@v1.3.24
 - pkg:composer/se7enxweb/ezplatform-rest@v1.3.25
 - pkg:composer/se7enxweb/ezplatform-rest@v1.3.26
+- pkg:composer/se7enxweb/ezplatform-rest@v1.3.27
 - pkg:composer/se7enxweb/ezplatform-rest@v1.3.3
 - pkg:composer/se7enxweb/ezplatform-rest@v1.3.4
 - pkg:composer/se7enxweb/ezplatform-rest@v1.3.5
