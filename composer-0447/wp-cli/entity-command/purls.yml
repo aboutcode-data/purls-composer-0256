@@ -57,3 +57,4 @@
 - pkg:composer/wp-cli/entity-command@v2.8.5
 - pkg:composer/wp-cli/entity-command@v2.8.6
 - pkg:composer/wp-cli/entity-command@v2.8.7
+- pkg:composer/wp-cli/entity-command@v2.8.8
