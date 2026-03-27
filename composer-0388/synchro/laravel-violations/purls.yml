@@ -1,2 +1,4 @@
 - pkg:composer/synchro/laravel-violations@v0.1.0
 - pkg:composer/synchro/laravel-violations@v1.0.0
+- pkg:composer/synchro/laravel-violations@v1.1.0
+- pkg:composer/synchro/laravel-violations@v2.0.0
