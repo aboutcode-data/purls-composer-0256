@@ -8,5 +8,3 @@
 - pkg:composer/docnet/php-dbal@v2.2.1
 - pkg:composer/docnet/php-dbal@v2.3.0
 - pkg:composer/docnet/php-dbal@v2.3.1
-- pkg:composer/docnet/php-dbal@v2.4.0
-- pkg:composer/docnet/php-dbal@v2.4.1

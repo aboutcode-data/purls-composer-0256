@@ -55,3 +55,4 @@
 - pkg:composer/devuni/notifier-package@v2.4.2
 - pkg:composer/devuni/notifier-package@v2.4.3
 - pkg:composer/devuni/notifier-package@v2.5.0
+- pkg:composer/devuni/notifier-package@v2.6.0

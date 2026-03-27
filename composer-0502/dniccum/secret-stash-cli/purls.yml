@@ -9,3 +9,5 @@
 - pkg:composer/dniccum/secret-stash-cli@v0.6.2
 - pkg:composer/dniccum/secret-stash-cli@v0.6.3
 - pkg:composer/dniccum/secret-stash-cli@v0.7.0
+- pkg:composer/dniccum/secret-stash-cli@v0.8.0
+- pkg:composer/dniccum/secret-stash-cli@v0.8.1

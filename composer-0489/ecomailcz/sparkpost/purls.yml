@@ -1,1 +1,2 @@
 - pkg:composer/ecomailcz/sparkpost@v2.3.1
+- pkg:composer/ecomailcz/sparkpost@v3.0.0
