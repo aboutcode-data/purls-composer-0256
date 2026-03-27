@@ -1,5 +1,2 @@
-- pkg:composer/templite/cms@v1.0.3
-- pkg:composer/templite/cms@v1.0.4
-- pkg:composer/templite/cms@v1.0.5
-- pkg:composer/templite/cms@v1.0.6
-- pkg:composer/templite/cms@v1.0.7
+- pkg:composer/templite/cms@v2.0.0
+- pkg:composer/templite/cms@v2.0.1

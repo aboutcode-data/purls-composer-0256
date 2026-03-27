@@ -49,3 +49,4 @@
 - pkg:composer/tempest/kv-store@v3.6.3
 - pkg:composer/tempest/kv-store@v3.7.0
 - pkg:composer/tempest/kv-store@v3.7.1
+- pkg:composer/tempest/kv-store@v3.8.0
