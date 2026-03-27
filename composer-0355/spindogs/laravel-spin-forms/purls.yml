@@ -12,4 +12,5 @@
 - pkg:composer/spindogs/laravel-spin-forms@3.0.0
 - pkg:composer/spindogs/laravel-spin-forms@4.0.0
 - pkg:composer/spindogs/laravel-spin-forms@5.0.0
+- pkg:composer/spindogs/laravel-spin-forms@6.0.0
 - pkg:composer/spindogs/laravel-spin-forms@v1.0.0
