@@ -6,3 +6,5 @@
 - pkg:composer/cgoit/contao-megamenu-bundle@1.0.5
 - pkg:composer/cgoit/contao-megamenu-bundle@1.0.6
 - pkg:composer/cgoit/contao-megamenu-bundle@1.0.7
+- pkg:composer/cgoit/contao-megamenu-bundle@1.0.8
+- pkg:composer/cgoit/contao-megamenu-bundle@1.0.9
