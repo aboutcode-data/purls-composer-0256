@@ -42,3 +42,8 @@
 - pkg:composer/heimseiten/contao-custom-backend-settings-bundle@4.1.0
 - pkg:composer/heimseiten/contao-custom-backend-settings-bundle@4.1.1
 - pkg:composer/heimseiten/contao-custom-backend-settings-bundle@5.0.0
+- pkg:composer/heimseiten/contao-custom-backend-settings-bundle@5.0.1
+- pkg:composer/heimseiten/contao-custom-backend-settings-bundle@5.0.2
+- pkg:composer/heimseiten/contao-custom-backend-settings-bundle@5.0.3
+- pkg:composer/heimseiten/contao-custom-backend-settings-bundle@5.0.4
+- pkg:composer/heimseiten/contao-custom-backend-settings-bundle@5.0.5

@@ -1,4 +1,6 @@
 - pkg:composer/icmbio/xform@v0.0.1
+- pkg:composer/icmbio/xform@v0.0.10
+- pkg:composer/icmbio/xform@v0.0.11
 - pkg:composer/icmbio/xform@v0.0.2
 - pkg:composer/icmbio/xform@v0.0.3
 - pkg:composer/icmbio/xform@v0.0.4

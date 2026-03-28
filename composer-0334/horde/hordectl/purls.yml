@@ -1,5 +1,6 @@
 - pkg:composer/horde/hordectl@1.0.0alpha2
 - pkg:composer/horde/hordectl@v1.0.0alpha10
+- pkg:composer/horde/hordectl@v1.0.0alpha11
 - pkg:composer/horde/hordectl@v1.0.0alpha3
 - pkg:composer/horde/hordectl@v1.0.0alpha4
 - pkg:composer/horde/hordectl@v1.0.0alpha5
@@ -7,3 +8,4 @@
 - pkg:composer/horde/hordectl@v1.0.0alpha7
 - pkg:composer/horde/hordectl@v1.0.0alpha8
 - pkg:composer/horde/hordectl@v1.0.0alpha9
+- pkg:composer/horde/hordectl@v1.0.0beta1
