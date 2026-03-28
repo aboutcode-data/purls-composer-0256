@@ -13,3 +13,5 @@
 - pkg:composer/gollumsf/rest-doc-bundle@v2.8.1
 - pkg:composer/gollumsf/rest-doc-bundle@v2.8.2
 - pkg:composer/gollumsf/rest-doc-bundle@v2.8.3
+- pkg:composer/gollumsf/rest-doc-bundle@v3.0.0
+- pkg:composer/gollumsf/rest-doc-bundle@v3.1.0
