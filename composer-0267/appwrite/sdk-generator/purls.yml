@@ -277,6 +277,7 @@
 - pkg:composer/appwrite/sdk-generator@1.12.2
 - pkg:composer/appwrite/sdk-generator@1.13.0
 - pkg:composer/appwrite/sdk-generator@1.14.0
+- pkg:composer/appwrite/sdk-generator@1.14.1
 - pkg:composer/appwrite/sdk-generator@1.2.0
 - pkg:composer/appwrite/sdk-generator@1.2.1
 - pkg:composer/appwrite/sdk-generator@1.2.2
