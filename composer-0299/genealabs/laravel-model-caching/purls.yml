@@ -166,3 +166,4 @@
 - pkg:composer/genealabs/laravel-model-caching@13.0.1
 - pkg:composer/genealabs/laravel-model-caching@13.0.2
 - pkg:composer/genealabs/laravel-model-caching@13.0.3
+- pkg:composer/genealabs/laravel-model-caching@13.0.4
