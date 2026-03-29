@@ -1,0 +1,2 @@
+- pkg:composer/marko/pubsub-redis@0.0.1
+- pkg:composer/marko/pubsub-redis@0.0.2

@@ -4,3 +4,4 @@
 - pkg:composer/micro/plugin-twig@v1.0.1
 - pkg:composer/micro/plugin-twig@v1.6.0
 - pkg:composer/micro/plugin-twig@v1.6.1
+- pkg:composer/micro/plugin-twig@v2.0.0-alpha1
