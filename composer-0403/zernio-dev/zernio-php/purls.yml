@@ -1,5 +1,6 @@
 - pkg:composer/zernio-dev/zernio-php@0.0.1
 - pkg:composer/zernio-dev/zernio-php@0.0.10
+- pkg:composer/zernio-dev/zernio-php@0.0.100
 - pkg:composer/zernio-dev/zernio-php@0.0.11
 - pkg:composer/zernio-dev/zernio-php@0.0.12
 - pkg:composer/zernio-dev/zernio-php@0.0.13
