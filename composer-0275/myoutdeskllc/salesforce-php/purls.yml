@@ -13,3 +13,5 @@
 - pkg:composer/myoutdeskllc/salesforce-php@v2.0.6
 - pkg:composer/myoutdeskllc/salesforce-php@v2.1.0
 - pkg:composer/myoutdeskllc/salesforce-php@v2.2.0
+- pkg:composer/myoutdeskllc/salesforce-php@v3.0.0
+- pkg:composer/myoutdeskllc/salesforce-php@v3.0.1
