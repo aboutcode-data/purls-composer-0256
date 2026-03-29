@@ -20,3 +20,4 @@
 - pkg:composer/macpaw/behat-api-context@v2.0.0
 - pkg:composer/macpaw/behat-api-context@v3.0.0
 - pkg:composer/macpaw/behat-api-context@v3.0.1
+- pkg:composer/macpaw/behat-api-context@v3.1.0

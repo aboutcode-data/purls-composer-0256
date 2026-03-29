@@ -180,3 +180,4 @@
 - pkg:composer/laravel/jetstream@v5.4.0
 - pkg:composer/laravel/jetstream@v5.5.0
 - pkg:composer/laravel/jetstream@v5.5.1
+- pkg:composer/laravel/jetstream@v5.5.2

@@ -8,3 +8,4 @@
 - pkg:composer/larajs/core@1.0.6
 - pkg:composer/larajs/core@2.0.0
 - pkg:composer/larajs/core@2.1.0
+- pkg:composer/larajs/core@2.2.0
