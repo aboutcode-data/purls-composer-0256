@@ -1,0 +1,5 @@
+- pkg:composer/php-opcua/opcua-session-manager@v1.0.1
+- pkg:composer/php-opcua/opcua-session-manager@v1.1.0
+- pkg:composer/php-opcua/opcua-session-manager@v2.0.0
+- pkg:composer/php-opcua/opcua-session-manager@v3.0.0
+- pkg:composer/php-opcua/opcua-session-manager@v4.0.0
