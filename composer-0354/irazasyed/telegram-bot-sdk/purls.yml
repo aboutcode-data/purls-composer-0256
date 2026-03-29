@@ -19,6 +19,7 @@
 - pkg:composer/irazasyed/telegram-bot-sdk@v3.13.0
 - pkg:composer/irazasyed/telegram-bot-sdk@v3.14.0
 - pkg:composer/irazasyed/telegram-bot-sdk@v3.15.0
+- pkg:composer/irazasyed/telegram-bot-sdk@v3.16.0
 - pkg:composer/irazasyed/telegram-bot-sdk@v3.2.0
 - pkg:composer/irazasyed/telegram-bot-sdk@v3.3.0
 - pkg:composer/irazasyed/telegram-bot-sdk@v3.4.0

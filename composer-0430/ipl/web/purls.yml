@@ -5,6 +5,7 @@
 - pkg:composer/ipl/web@v0.10.2
 - pkg:composer/ipl/web@v0.11.1
 - pkg:composer/ipl/web@v0.12.0
+- pkg:composer/ipl/web@v0.13.0
 - pkg:composer/ipl/web@v0.2.0
 - pkg:composer/ipl/web@v0.2.1
 - pkg:composer/ipl/web@v0.3.0

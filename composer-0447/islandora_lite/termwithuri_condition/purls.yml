@@ -1,2 +1,4 @@
+- pkg:composer/islandora_lite/termwithuri_condition@1.0.0
 - pkg:composer/islandora_lite/termwithuri_condition@1.0.0-beta2
 - pkg:composer/islandora_lite/termwithuri_condition@1.0.0-beta3
+- pkg:composer/islandora_lite/termwithuri_condition@1.0.1

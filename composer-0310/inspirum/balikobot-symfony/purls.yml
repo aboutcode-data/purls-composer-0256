@@ -2,3 +2,5 @@
 - pkg:composer/inspirum/balikobot-symfony@v1.1.0
 - pkg:composer/inspirum/balikobot-symfony@v1.2.0
 - pkg:composer/inspirum/balikobot-symfony@v1.3.0
+- pkg:composer/inspirum/balikobot-symfony@v1.4.0
+- pkg:composer/inspirum/balikobot-symfony@v1.4.1
