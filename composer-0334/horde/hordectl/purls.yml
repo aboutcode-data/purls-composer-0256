@@ -9,3 +9,4 @@
 - pkg:composer/horde/hordectl@v1.0.0alpha8
 - pkg:composer/horde/hordectl@v1.0.0alpha9
 - pkg:composer/horde/hordectl@v1.0.0beta1
+- pkg:composer/horde/hordectl@v1.0.0beta2

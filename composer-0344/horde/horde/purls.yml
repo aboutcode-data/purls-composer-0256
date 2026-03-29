@@ -44,8 +44,13 @@
 - pkg:composer/horde/horde@v6.0.0alpha8
 - pkg:composer/horde/horde@v6.0.0alpha9
 - pkg:composer/horde/horde@v6.0.0beta1
+- pkg:composer/horde/horde@v6.0.0beta10
+- pkg:composer/horde/horde@v6.0.0beta11
 - pkg:composer/horde/horde@v6.0.0beta2
 - pkg:composer/horde/horde@v6.0.0beta3
 - pkg:composer/horde/horde@v6.0.0beta4
 - pkg:composer/horde/horde@v6.0.0beta5
 - pkg:composer/horde/horde@v6.0.0beta6
+- pkg:composer/horde/horde@v6.0.0beta7
+- pkg:composer/horde/horde@v6.0.0beta8
+- pkg:composer/horde/horde@v6.0.0beta9
