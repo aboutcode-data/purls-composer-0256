@@ -5,6 +5,7 @@
 - pkg:composer/froiden/laravel-rest-api@10.0.2
 - pkg:composer/froiden/laravel-rest-api@11.0.0
 - pkg:composer/froiden/laravel-rest-api@12.0.0
+- pkg:composer/froiden/laravel-rest-api@13.0.0
 - pkg:composer/froiden/laravel-rest-api@2.0.1
 - pkg:composer/froiden/laravel-rest-api@2.0.2
 - pkg:composer/froiden/laravel-rest-api@2.0.4
