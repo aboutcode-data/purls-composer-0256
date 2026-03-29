@@ -26,3 +26,4 @@
 - pkg:composer/axlon/laravel-postal-code-validation@v3.7.0
 - pkg:composer/axlon/laravel-postal-code-validation@v3.8.0
 - pkg:composer/axlon/laravel-postal-code-validation@v3.8.1
+- pkg:composer/axlon/laravel-postal-code-validation@v3.9.0

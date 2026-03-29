@@ -63,3 +63,4 @@
 - pkg:composer/backpack/backupmanager@v5.0.6
 - pkg:composer/backpack/backupmanager@v5.1.0
 - pkg:composer/backpack/backupmanager@v5.1.1
+- pkg:composer/backpack/backupmanager@v5.1.2
