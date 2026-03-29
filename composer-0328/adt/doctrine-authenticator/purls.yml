@@ -48,3 +48,4 @@
 - pkg:composer/adt/doctrine-authenticator@v2.5.4
 - pkg:composer/adt/doctrine-authenticator@v2.6.0
 - pkg:composer/adt/doctrine-authenticator@v2.6.1
+- pkg:composer/adt/doctrine-authenticator@v2.6.2
