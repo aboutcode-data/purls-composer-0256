@@ -21,3 +21,4 @@
 - pkg:composer/open-telemetry/opentelemetry-auto-pdo@0.1.1
 - pkg:composer/open-telemetry/opentelemetry-auto-pdo@0.2.0
 - pkg:composer/open-telemetry/opentelemetry-auto-pdo@0.3.0
+- pkg:composer/open-telemetry/opentelemetry-auto-pdo@0.4.0

@@ -2,6 +2,7 @@
 - pkg:composer/osiemsiedem/laravel-autolink@1.1.0
 - pkg:composer/osiemsiedem/laravel-autolink@1.2.0
 - pkg:composer/osiemsiedem/laravel-autolink@1.3.0
+- pkg:composer/osiemsiedem/laravel-autolink@10.0.0
 - pkg:composer/osiemsiedem/laravel-autolink@2.0.0
 - pkg:composer/osiemsiedem/laravel-autolink@2.0.1
 - pkg:composer/osiemsiedem/laravel-autolink@2.0.2

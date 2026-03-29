@@ -3,3 +3,5 @@
 - pkg:composer/pasaia-udala/auth-bundle@v1.2.0
 - pkg:composer/pasaia-udala/auth-bundle@v1.2.1
 - pkg:composer/pasaia-udala/auth-bundle@v1.2.2
+- pkg:composer/pasaia-udala/auth-bundle@v1.5.0
+- pkg:composer/pasaia-udala/auth-bundle@v1.5.1
