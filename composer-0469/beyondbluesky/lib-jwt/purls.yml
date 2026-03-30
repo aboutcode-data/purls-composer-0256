@@ -6,3 +6,4 @@
 - pkg:composer/beyondbluesky/lib-jwt@1.5
 - pkg:composer/beyondbluesky/lib-jwt@1.6
 - pkg:composer/beyondbluesky/lib-jwt@1.7
+- pkg:composer/beyondbluesky/lib-jwt@1.7.1
