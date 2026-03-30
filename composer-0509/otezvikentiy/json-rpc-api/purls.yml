@@ -44,3 +44,4 @@
 - pkg:composer/otezvikentiy/json-rpc-api@2.6
 - pkg:composer/otezvikentiy/json-rpc-api@2.7
 - pkg:composer/otezvikentiy/json-rpc-api@2.8
+- pkg:composer/otezvikentiy/json-rpc-api@3.0
