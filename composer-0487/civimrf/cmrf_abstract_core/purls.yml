@@ -5,6 +5,7 @@
 - pkg:composer/civimrf/cmrf_abstract_core@0.10.4
 - pkg:composer/civimrf/cmrf_abstract_core@0.10.5
 - pkg:composer/civimrf/cmrf_abstract_core@0.10.6
+- pkg:composer/civimrf/cmrf_abstract_core@0.10.7
 - pkg:composer/civimrf/cmrf_abstract_core@0.2
 - pkg:composer/civimrf/cmrf_abstract_core@0.3
 - pkg:composer/civimrf/cmrf_abstract_core@0.4
