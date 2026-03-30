@@ -16,3 +16,4 @@
 - pkg:composer/forrest79/phpfpm-request@v0.8.1
 - pkg:composer/forrest79/phpfpm-request@v0.8.2
 - pkg:composer/forrest79/phpfpm-request@v0.9.0
+- pkg:composer/forrest79/phpfpm-request@v1.0.0

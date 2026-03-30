@@ -1,3 +1,4 @@
 - pkg:composer/fredericpetit/pdfjs-composer@5.4.530
 - pkg:composer/fredericpetit/pdfjs-composer@5.4.624
 - pkg:composer/fredericpetit/pdfjs-composer@5.5.207
+- pkg:composer/fredericpetit/pdfjs-composer@5.6.205
