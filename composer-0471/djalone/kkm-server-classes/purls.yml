@@ -4,6 +4,9 @@
 - pkg:composer/djalone/kkm-server-classes@0.1.4
 - pkg:composer/djalone/kkm-server-classes@0.1.5
 - pkg:composer/djalone/kkm-server-classes@0.2.1
+- pkg:composer/djalone/kkm-server-classes@1.0.10
+- pkg:composer/djalone/kkm-server-classes@1.0.11
+- pkg:composer/djalone/kkm-server-classes@1.0.12
 - pkg:composer/djalone/kkm-server-classes@1.0.6
 - pkg:composer/djalone/kkm-server-classes@1.0.7
 - pkg:composer/djalone/kkm-server-classes@1.0.8
