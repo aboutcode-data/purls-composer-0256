@@ -25,6 +25,7 @@
 - pkg:composer/diglactic/laravel-breadcrumbs@5.3.1
 - pkg:composer/diglactic/laravel-breadcrumbs@5.3.2
 - pkg:composer/diglactic/laravel-breadcrumbs@v10.0.0
+- pkg:composer/diglactic/laravel-breadcrumbs@v10.1.0
 - pkg:composer/diglactic/laravel-breadcrumbs@v6.0.0
 - pkg:composer/diglactic/laravel-breadcrumbs@v6.0.1
 - pkg:composer/diglactic/laravel-breadcrumbs@v6.0.2
