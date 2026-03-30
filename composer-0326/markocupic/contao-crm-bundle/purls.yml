@@ -31,3 +31,4 @@
 - pkg:composer/markocupic/contao-crm-bundle@2.3.6
 - pkg:composer/markocupic/contao-crm-bundle@2.3.7
 - pkg:composer/markocupic/contao-crm-bundle@2.3.8
+- pkg:composer/markocupic/contao-crm-bundle@2.4.0
