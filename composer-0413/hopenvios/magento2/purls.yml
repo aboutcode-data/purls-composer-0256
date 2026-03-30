@@ -16,6 +16,7 @@
 - pkg:composer/hopenvios/magento2@1.16.0
 - pkg:composer/hopenvios/magento2@1.17.0
 - pkg:composer/hopenvios/magento2@1.18.0
+- pkg:composer/hopenvios/magento2@1.19.0
 - pkg:composer/hopenvios/magento2@1.2.0
 - pkg:composer/hopenvios/magento2@1.2.1
 - pkg:composer/hopenvios/magento2@1.2.2

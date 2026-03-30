@@ -244,6 +244,7 @@
 - pkg:composer/headercat/phpstan-extension-ide-helper@2.1.42
 - pkg:composer/headercat/phpstan-extension-ide-helper@2.1.43
 - pkg:composer/headercat/phpstan-extension-ide-helper@2.1.44
+- pkg:composer/headercat/phpstan-extension-ide-helper@2.1.45
 - pkg:composer/headercat/phpstan-extension-ide-helper@2.1.5
 - pkg:composer/headercat/phpstan-extension-ide-helper@2.1.6
 - pkg:composer/headercat/phpstan-extension-ide-helper@2.1.7
