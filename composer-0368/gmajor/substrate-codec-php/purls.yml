@@ -4,3 +4,4 @@
 - pkg:composer/gmajor/substrate-codec-php@v1.1.0
 - pkg:composer/gmajor/substrate-codec-php@v1.1.1
 - pkg:composer/gmajor/substrate-codec-php@v1.1.2
+- pkg:composer/gmajor/substrate-codec-php@v2.0.0
