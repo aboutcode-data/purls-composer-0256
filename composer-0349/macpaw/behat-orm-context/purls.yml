@@ -1,3 +1,4 @@
 - pkg:composer/macpaw/behat-orm-context@v1.0.0
 - pkg:composer/macpaw/behat-orm-context@v1.1.0
 - pkg:composer/macpaw/behat-orm-context@v1.2.0
+- pkg:composer/macpaw/behat-orm-context@v2.0.0
