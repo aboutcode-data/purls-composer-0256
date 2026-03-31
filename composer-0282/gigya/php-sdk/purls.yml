@@ -4,3 +4,4 @@
 - pkg:composer/gigya/php-sdk@3.0.5
 - pkg:composer/gigya/php-sdk@3.0.6
 - pkg:composer/gigya/php-sdk@3.0.7
+- pkg:composer/gigya/php-sdk@3.0.9
