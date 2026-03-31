@@ -67,6 +67,8 @@
 - pkg:composer/d3/unzer@6.4.4.080
 - pkg:composer/d3/unzer@6.5.0.071
 - pkg:composer/d3/unzer@6.5.0.080
+- pkg:composer/d3/unzer@6.5.1.071
+- pkg:composer/d3/unzer@6.5.1.080
 - pkg:composer/d3/unzer@7.0.0.080
 - pkg:composer/d3/unzer@7.0.0.180
 - pkg:composer/d3/unzer@7.0.0.280
