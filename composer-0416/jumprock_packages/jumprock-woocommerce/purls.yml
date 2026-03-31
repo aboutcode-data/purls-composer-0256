@@ -26,7 +26,6 @@
 - pkg:composer/jumprock_packages/jumprock-woocommerce@4.0.0
 - pkg:composer/jumprock_packages/jumprock-woocommerce@4.0.1
 - pkg:composer/jumprock_packages/jumprock-woocommerce@4.0.2
-- pkg:composer/jumprock_packages/jumprock-woocommerce@4.0.3
 - pkg:composer/jumprock_packages/jumprock-woocommerce@v1.0
 - pkg:composer/jumprock_packages/jumprock-woocommerce@v1.1
 - pkg:composer/jumprock_packages/jumprock-woocommerce@v1.10
