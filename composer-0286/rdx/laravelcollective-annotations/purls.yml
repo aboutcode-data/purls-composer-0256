@@ -2,6 +2,7 @@
 - pkg:composer/rdx/laravelcollective-annotations@8.3
 - pkg:composer/rdx/laravelcollective-annotations@9.1
 - pkg:composer/rdx/laravelcollective-annotations@9.2
+- pkg:composer/rdx/laravelcollective-annotations@9.3
 - pkg:composer/rdx/laravelcollective-annotations@v5.0.0
 - pkg:composer/rdx/laravelcollective-annotations@v5.0.1
 - pkg:composer/rdx/laravelcollective-annotations@v5.0.2

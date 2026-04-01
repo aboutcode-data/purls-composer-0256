@@ -27,3 +27,4 @@
 - pkg:composer/rancoud/http@4.0.0
 - pkg:composer/rancoud/http@4.0.1
 - pkg:composer/rancoud/http@5.0.0
+- pkg:composer/rancoud/http@5.0.1

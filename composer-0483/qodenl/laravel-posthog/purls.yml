@@ -9,3 +9,6 @@
 - pkg:composer/qodenl/laravel-posthog@1.2.2
 - pkg:composer/qodenl/laravel-posthog@1.2.3
 - pkg:composer/qodenl/laravel-posthog@1.2.4
+- pkg:composer/qodenl/laravel-posthog@1.3.0
+- pkg:composer/qodenl/laravel-posthog@1.3.1
+- pkg:composer/qodenl/laravel-posthog@1.3.2
