@@ -73,6 +73,8 @@
 - pkg:composer/emergentmethods/asknews-php-sdk@0.4.13
 - pkg:composer/emergentmethods/asknews-php-sdk@0.4.14
 - pkg:composer/emergentmethods/asknews-php-sdk@0.4.15
+- pkg:composer/emergentmethods/asknews-php-sdk@0.4.16
+- pkg:composer/emergentmethods/asknews-php-sdk@0.4.17
 - pkg:composer/emergentmethods/asknews-php-sdk@0.4.3
 - pkg:composer/emergentmethods/asknews-php-sdk@0.4.4
 - pkg:composer/emergentmethods/asknews-php-sdk@0.4.5
