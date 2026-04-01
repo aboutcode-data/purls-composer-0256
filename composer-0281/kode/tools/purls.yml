@@ -11,4 +11,6 @@
 - pkg:composer/kode/tools@1.5.0
 - pkg:composer/kode/tools@1.5.1
 - pkg:composer/kode/tools@1.6.0
+- pkg:composer/kode/tools@1.6.1
+- pkg:composer/kode/tools@1.7.0
 - pkg:composer/kode/tools@v1.0.0
