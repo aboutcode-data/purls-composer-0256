@@ -5,3 +5,4 @@
 - pkg:composer/philiprehberger/php-circuit-breaker@v1.1.1
 - pkg:composer/philiprehberger/php-circuit-breaker@v1.1.2
 - pkg:composer/philiprehberger/php-circuit-breaker@v1.2.0
+- pkg:composer/philiprehberger/php-circuit-breaker@v1.3.0
