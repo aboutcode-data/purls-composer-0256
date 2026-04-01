@@ -87,6 +87,7 @@
 - pkg:composer/fooman/tcpdf@6.0.099
 - pkg:composer/fooman/tcpdf@6.1.0
 - pkg:composer/fooman/tcpdf@6.1.1
+- pkg:composer/fooman/tcpdf@6.11.2-p1
 - pkg:composer/fooman/tcpdf@6.2.0
 - pkg:composer/fooman/tcpdf@6.2.1
 - pkg:composer/fooman/tcpdf@6.2.10
