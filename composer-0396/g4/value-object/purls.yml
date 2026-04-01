@@ -136,6 +136,7 @@
 - pkg:composer/g4/value-object@3.6.5
 - pkg:composer/g4/value-object@3.6.6
 - pkg:composer/g4/value-object@3.6.7
+- pkg:composer/g4/value-object@3.6.8
 - pkg:composer/g4/value-object@4.0.0
 - pkg:composer/g4/value-object@4.0.1
 - pkg:composer/g4/value-object@4.0.2
