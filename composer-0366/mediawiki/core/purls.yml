@@ -205,12 +205,17 @@
 - pkg:composer/mediawiki/core@1.43.4
 - pkg:composer/mediawiki/core@1.43.5
 - pkg:composer/mediawiki/core@1.43.6
+- pkg:composer/mediawiki/core@1.43.7
+- pkg:composer/mediawiki/core@1.43.8
 - pkg:composer/mediawiki/core@1.44.0
 - pkg:composer/mediawiki/core@1.44.0-rc.0
 - pkg:composer/mediawiki/core@1.44.1
 - pkg:composer/mediawiki/core@1.44.2
 - pkg:composer/mediawiki/core@1.44.3
+- pkg:composer/mediawiki/core@1.44.4
+- pkg:composer/mediawiki/core@1.44.5
 - pkg:composer/mediawiki/core@1.45.0
 - pkg:composer/mediawiki/core@1.45.0-rc.0
 - pkg:composer/mediawiki/core@1.45.1
 - pkg:composer/mediawiki/core@1.45.2
+- pkg:composer/mediawiki/core@1.45.3
