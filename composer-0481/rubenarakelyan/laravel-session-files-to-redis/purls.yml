@@ -84,6 +84,8 @@
 - pkg:composer/rubenarakelyan/laravel-session-files-to-redis@v12.9.1
 - pkg:composer/rubenarakelyan/laravel-session-files-to-redis@v13.0.0
 - pkg:composer/rubenarakelyan/laravel-session-files-to-redis@v13.1.0
+- pkg:composer/rubenarakelyan/laravel-session-files-to-redis@v13.1.1
+- pkg:composer/rubenarakelyan/laravel-session-files-to-redis@v13.1.2
 - pkg:composer/rubenarakelyan/laravel-session-files-to-redis@v4.0.0
 - pkg:composer/rubenarakelyan/laravel-session-files-to-redis@v4.0.0-BETA3
 - pkg:composer/rubenarakelyan/laravel-session-files-to-redis@v4.0.0-BETA4
