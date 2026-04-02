@@ -62,3 +62,5 @@
 - pkg:composer/lucinda/errors-mvc@v3.0.4
 - pkg:composer/lucinda/errors-mvc@v3.0.5
 - pkg:composer/lucinda/errors-mvc@v3.0.6
+- pkg:composer/lucinda/errors-mvc@v4.0.0
+- pkg:composer/lucinda/errors-mvc@v4.0.1
