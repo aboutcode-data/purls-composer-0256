@@ -3,6 +3,7 @@
 - pkg:composer/mitoop/laravel-query-builder@v2.10.0
 - pkg:composer/mitoop/laravel-query-builder@v2.10.1
 - pkg:composer/mitoop/laravel-query-builder@v2.10.2
+- pkg:composer/mitoop/laravel-query-builder@v2.11.0
 - pkg:composer/mitoop/laravel-query-builder@v2.2.0
 - pkg:composer/mitoop/laravel-query-builder@v2.2.1
 - pkg:composer/mitoop/laravel-query-builder@v2.3.0
