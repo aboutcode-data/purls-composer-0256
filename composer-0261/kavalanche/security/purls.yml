@@ -33,3 +33,4 @@
 - pkg:composer/kavalanche/security@v2.2.4
 - pkg:composer/kavalanche/security@v2.2.5
 - pkg:composer/kavalanche/security@v2.3.0
+- pkg:composer/kavalanche/security@v2.4.0
