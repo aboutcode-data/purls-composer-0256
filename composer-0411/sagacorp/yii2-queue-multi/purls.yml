@@ -1,3 +1,4 @@
 - pkg:composer/sagacorp/yii2-queue-multi@1.0.0
 - pkg:composer/sagacorp/yii2-queue-multi@1.0.1
 - pkg:composer/sagacorp/yii2-queue-multi@1.0.2
+- pkg:composer/sagacorp/yii2-queue-multi@2.0.0

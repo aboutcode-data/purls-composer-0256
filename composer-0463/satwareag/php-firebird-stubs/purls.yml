@@ -13,6 +13,7 @@
 - pkg:composer/satwareag/php-firebird-stubs@v10.3.8
 - pkg:composer/satwareag/php-firebird-stubs@v10.3.9
 - pkg:composer/satwareag/php-firebird-stubs@v10.6.0
+- pkg:composer/satwareag/php-firebird-stubs@v10.6.1
 - pkg:composer/satwareag/php-firebird-stubs@v7.0.0
 - pkg:composer/satwareag/php-firebird-stubs@v7.0.0-rc.40
 - pkg:composer/satwareag/php-firebird-stubs@v7.0.0-rc.41
