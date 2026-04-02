@@ -1,3 +1,4 @@
 - pkg:composer/skulich/laravel-user-token-management-cli@1.0.0
 - pkg:composer/skulich/laravel-user-token-management-cli@1.0.1
 - pkg:composer/skulich/laravel-user-token-management-cli@1.1.0
+- pkg:composer/skulich/laravel-user-token-management-cli@1.1.1

@@ -60,3 +60,4 @@
 - pkg:composer/shieldci/laravel@v1.6.7
 - pkg:composer/shieldci/laravel@v1.6.8
 - pkg:composer/shieldci/laravel@v1.6.9
+- pkg:composer/shieldci/laravel@v1.7.0
