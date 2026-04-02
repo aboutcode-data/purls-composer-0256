@@ -2,6 +2,8 @@
 - pkg:composer/qualimetrix/qualimetrix@v0.1.1
 - pkg:composer/qualimetrix/qualimetrix@v0.10.0
 - pkg:composer/qualimetrix/qualimetrix@v0.11.0
+- pkg:composer/qualimetrix/qualimetrix@v0.11.1
+- pkg:composer/qualimetrix/qualimetrix@v0.11.2
 - pkg:composer/qualimetrix/qualimetrix@v0.2.0
 - pkg:composer/qualimetrix/qualimetrix@v0.2.1
 - pkg:composer/qualimetrix/qualimetrix@v0.2.2
