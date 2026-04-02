@@ -12,3 +12,5 @@
 - pkg:composer/ngo-tools/sdk-laravel-starter@v0.8.1
 - pkg:composer/ngo-tools/sdk-laravel-starter@v0.8.2
 - pkg:composer/ngo-tools/sdk-laravel-starter@v0.8.3
+- pkg:composer/ngo-tools/sdk-laravel-starter@v0.8.4
+- pkg:composer/ngo-tools/sdk-laravel-starter@v0.8.5
