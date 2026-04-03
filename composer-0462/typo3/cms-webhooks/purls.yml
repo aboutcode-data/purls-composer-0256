@@ -84,3 +84,4 @@
 - pkg:composer/typo3/cms-webhooks@v14.0.2
 - pkg:composer/typo3/cms-webhooks@v14.1.0
 - pkg:composer/typo3/cms-webhooks@v14.1.1
+- pkg:composer/typo3/cms-webhooks@v14.2.0

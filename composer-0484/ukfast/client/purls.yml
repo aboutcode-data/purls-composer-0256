@@ -215,6 +215,7 @@
 - pkg:composer/ukfast/client@v1.3.7
 - pkg:composer/ukfast/client@v1.3.8
 - pkg:composer/ukfast/client@v1.3.9
+- pkg:composer/ukfast/client@v1.30.0
 - pkg:composer/ukfast/client@v1.4.0
 - pkg:composer/ukfast/client@v1.4.1
 - pkg:composer/ukfast/client@v1.4.10
@@ -337,3 +338,4 @@
 - pkg:composer/ukfast/client@v2.5.0
 - pkg:composer/ukfast/client@v2.6.0
 - pkg:composer/ukfast/client@v2.6.1
+- pkg:composer/ukfast/client@v2.7.0

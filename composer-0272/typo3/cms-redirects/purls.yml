@@ -184,6 +184,7 @@
 - pkg:composer/typo3/cms-redirects@v14.0.2
 - pkg:composer/typo3/cms-redirects@v14.1.0
 - pkg:composer/typo3/cms-redirects@v14.1.1
+- pkg:composer/typo3/cms-redirects@v14.2.0
 - pkg:composer/typo3/cms-redirects@v9.1.0
 - pkg:composer/typo3/cms-redirects@v9.2.0
 - pkg:composer/typo3/cms-redirects@v9.2.1
