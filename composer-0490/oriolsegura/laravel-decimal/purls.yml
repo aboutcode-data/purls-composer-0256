@@ -7,3 +7,5 @@
 - pkg:composer/oriolsegura/laravel-decimal@v0.5.0
 - pkg:composer/oriolsegura/laravel-decimal@v0.6.0
 - pkg:composer/oriolsegura/laravel-decimal@v0.7.0
+- pkg:composer/oriolsegura/laravel-decimal@v0.7.1
+- pkg:composer/oriolsegura/laravel-decimal@v0.8.0
