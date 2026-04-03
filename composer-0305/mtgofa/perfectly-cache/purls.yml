@@ -22,3 +22,4 @@
 - pkg:composer/mtgofa/perfectly-cache@v4.3
 - pkg:composer/mtgofa/perfectly-cache@v4.4
 - pkg:composer/mtgofa/perfectly-cache@v5.0.0
+- pkg:composer/mtgofa/perfectly-cache@v5.0.1
