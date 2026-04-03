@@ -280,6 +280,7 @@
 - pkg:composer/rapidez/core@4.7.6
 - pkg:composer/rapidez/core@4.8.0
 - pkg:composer/rapidez/core@4.9.0
+- pkg:composer/rapidez/core@5.0.0
 - pkg:composer/rapidez/core@5.0.0-alpha.1
 - pkg:composer/rapidez/core@5.0.0-alpha.2
 - pkg:composer/rapidez/core@5.0.0-alpha.3
