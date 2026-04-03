@@ -14,7 +14,14 @@
 - pkg:composer/symfony/models-dev@v15.0
 - pkg:composer/symfony/models-dev@v15.1
 - pkg:composer/symfony/models-dev@v15.2
+- pkg:composer/symfony/models-dev@v16.0
+- pkg:composer/symfony/models-dev@v17.0
+- pkg:composer/symfony/models-dev@v18.0
+- pkg:composer/symfony/models-dev@v19.0
 - pkg:composer/symfony/models-dev@v2.0
+- pkg:composer/symfony/models-dev@v20.0
+- pkg:composer/symfony/models-dev@v20.1
+- pkg:composer/symfony/models-dev@v21.0
 - pkg:composer/symfony/models-dev@v3.0
 - pkg:composer/symfony/models-dev@v4.0
 - pkg:composer/symfony/models-dev@v5.0

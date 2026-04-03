@@ -431,6 +431,8 @@
 - pkg:composer/tencentcloud/vpc@3.0.1542
 - pkg:composer/tencentcloud/vpc@3.0.1544
 - pkg:composer/tencentcloud/vpc@3.0.1551
+- pkg:composer/tencentcloud/vpc@3.0.1559
+- pkg:composer/tencentcloud/vpc@3.0.1560
 - pkg:composer/tencentcloud/vpc@3.0.248
 - pkg:composer/tencentcloud/vpc@3.0.249
 - pkg:composer/tencentcloud/vpc@3.0.250

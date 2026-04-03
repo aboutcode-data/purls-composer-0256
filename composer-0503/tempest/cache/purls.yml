@@ -68,3 +68,4 @@
 - pkg:composer/tempest/cache@v3.7.0
 - pkg:composer/tempest/cache@v3.7.1
 - pkg:composer/tempest/cache@v3.8.0
+- pkg:composer/tempest/cache@v3.9.0

@@ -33,3 +33,5 @@
 - pkg:composer/terminal42/contao-url-rewrite@1.8.2
 - pkg:composer/terminal42/contao-url-rewrite@1.8.3
 - pkg:composer/terminal42/contao-url-rewrite@1.8.4
+- pkg:composer/terminal42/contao-url-rewrite@1.8.5
+- pkg:composer/terminal42/contao-url-rewrite@1.8.6

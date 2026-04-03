@@ -80,3 +80,5 @@
 - pkg:composer/terminal42/contao-changelanguage@3.7.9
 - pkg:composer/terminal42/contao-changelanguage@3.8.0
 - pkg:composer/terminal42/contao-changelanguage@3.8.1
+- pkg:composer/terminal42/contao-changelanguage@3.8.2
+- pkg:composer/terminal42/contao-changelanguage@3.8.3

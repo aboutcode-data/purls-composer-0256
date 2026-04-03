@@ -16,3 +16,5 @@
 - pkg:composer/temant/auth-manager@v1.0.8-alpha
 - pkg:composer/temant/auth-manager@v1.0.9-alpha
 - pkg:composer/temant/auth-manager@v2.0.0
+- pkg:composer/temant/auth-manager@v2.0.1
+- pkg:composer/temant/auth-manager@v2.0.2
