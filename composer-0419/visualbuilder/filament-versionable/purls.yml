@@ -1,2 +1,5 @@
 - pkg:composer/visualbuilder/filament-versionable@4.0.0
 - pkg:composer/visualbuilder/filament-versionable@4.0.1
+- pkg:composer/visualbuilder/filament-versionable@5.0.0
+- pkg:composer/visualbuilder/filament-versionable@5.0.1
+- pkg:composer/visualbuilder/filament-versionable@5.0.2

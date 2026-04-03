@@ -70,4 +70,6 @@
 - pkg:composer/uxf/hydrator@3.77.3
 - pkg:composer/uxf/hydrator@3.77.4
 - pkg:composer/uxf/hydrator@3.77.9
+- pkg:composer/uxf/hydrator@3.78.0
+- pkg:composer/uxf/hydrator@3.78.2
 - pkg:composer/uxf/hydrator@3.8.0

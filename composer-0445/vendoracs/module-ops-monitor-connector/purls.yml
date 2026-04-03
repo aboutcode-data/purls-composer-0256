@@ -1,1 +1,3 @@
 - pkg:composer/vendoracs/module-ops-monitor-connector@1.0.0
+- pkg:composer/vendoracs/module-ops-monitor-connector@1.0.1
+- pkg:composer/vendoracs/module-ops-monitor-connector@1.0.2
