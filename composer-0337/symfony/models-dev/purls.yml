@@ -22,6 +22,7 @@
 - pkg:composer/symfony/models-dev@v20.0
 - pkg:composer/symfony/models-dev@v20.1
 - pkg:composer/symfony/models-dev@v21.0
+- pkg:composer/symfony/models-dev@v22.0
 - pkg:composer/symfony/models-dev@v3.0
 - pkg:composer/symfony/models-dev@v4.0
 - pkg:composer/symfony/models-dev@v5.0
