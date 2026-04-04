@@ -2,3 +2,5 @@
 - pkg:composer/revoltify/tenantify@1.0.1
 - pkg:composer/revoltify/tenantify@1.0.2
 - pkg:composer/revoltify/tenantify@1.1.0
+- pkg:composer/revoltify/tenantify@1.2.0
+- pkg:composer/revoltify/tenantify@2.0.0
