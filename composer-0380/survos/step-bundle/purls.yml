@@ -33,6 +33,7 @@
 - pkg:composer/survos/step-bundle@2.0.191
 - pkg:composer/survos/step-bundle@2.0.192
 - pkg:composer/survos/step-bundle@2.0.193
+- pkg:composer/survos/step-bundle@2.0.194
 - pkg:composer/survos/step-bundle@2.0.29
 - pkg:composer/survos/step-bundle@2.0.30
 - pkg:composer/survos/step-bundle@2.0.31
