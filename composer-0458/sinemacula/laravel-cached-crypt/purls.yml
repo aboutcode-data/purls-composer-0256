@@ -1,3 +1,4 @@
 - pkg:composer/sinemacula/laravel-cached-crypt@v1.0.0
 - pkg:composer/sinemacula/laravel-cached-crypt@v1.2.0
 - pkg:composer/sinemacula/laravel-cached-crypt@v1.3.0
+- pkg:composer/sinemacula/laravel-cached-crypt@v1.3.1
