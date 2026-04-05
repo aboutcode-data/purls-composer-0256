@@ -678,6 +678,7 @@
 - pkg:composer/nektria/php-sdk@2.0.108
 - pkg:composer/nektria/php-sdk@2.0.109
 - pkg:composer/nektria/php-sdk@2.0.11
+- pkg:composer/nektria/php-sdk@2.0.110
 - pkg:composer/nektria/php-sdk@2.0.12
 - pkg:composer/nektria/php-sdk@2.0.13
 - pkg:composer/nektria/php-sdk@2.0.14
