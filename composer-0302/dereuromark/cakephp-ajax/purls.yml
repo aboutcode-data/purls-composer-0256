@@ -17,3 +17,4 @@
 - pkg:composer/dereuromark/cakephp-ajax@3.0.0
 - pkg:composer/dereuromark/cakephp-ajax@3.0.0-RC
 - pkg:composer/dereuromark/cakephp-ajax@3.1.0
+- pkg:composer/dereuromark/cakephp-ajax@3.1.1

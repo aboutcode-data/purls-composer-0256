@@ -19,3 +19,4 @@
 - pkg:composer/cyberfusion/core-api-client@3.0.0
 - pkg:composer/cyberfusion/core-api-client@3.1.0
 - pkg:composer/cyberfusion/core-api-client@3.2.0
+- pkg:composer/cyberfusion/core-api-client@4.0
