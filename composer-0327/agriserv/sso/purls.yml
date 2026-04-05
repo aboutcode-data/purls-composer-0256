@@ -10,3 +10,4 @@
 - pkg:composer/agriserv/sso@v1.1.4-stable
 - pkg:composer/agriserv/sso@v1.1.5-stable
 - pkg:composer/agriserv/sso@v1.1.6-stable
+- pkg:composer/agriserv/sso@v1.1.7
