@@ -94,7 +94,6 @@
 - pkg:composer/rsvp-system/rsvp-recipes@v1.0.89
 - pkg:composer/rsvp-system/rsvp-recipes@v1.0.9
 - pkg:composer/rsvp-system/rsvp-recipes@v1.0.90
-- pkg:composer/rsvp-system/rsvp-recipes@v1.0.99
 - pkg:composer/rsvp-system/rsvp-recipes@v1.1.10
 - pkg:composer/rsvp-system/rsvp-recipes@v1.1.11
 - pkg:composer/rsvp-system/rsvp-recipes@v1.1.12
@@ -105,6 +104,7 @@
 - pkg:composer/rsvp-system/rsvp-recipes@v1.1.17
 - pkg:composer/rsvp-system/rsvp-recipes@v1.1.18
 - pkg:composer/rsvp-system/rsvp-recipes@v1.1.19
+- pkg:composer/rsvp-system/rsvp-recipes@v1.1.20
 - pkg:composer/rsvp-system/rsvp-recipes@v1.1.5
 - pkg:composer/rsvp-system/rsvp-recipes@v1.1.6
 - pkg:composer/rsvp-system/rsvp-recipes@v1.1.7
