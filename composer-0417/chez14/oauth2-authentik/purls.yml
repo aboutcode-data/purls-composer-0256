@@ -1,3 +1,4 @@
 - pkg:composer/chez14/oauth2-authentik@v1.0.0
 - pkg:composer/chez14/oauth2-authentik@v1.1.0
 - pkg:composer/chez14/oauth2-authentik@v1.1.1
+- pkg:composer/chez14/oauth2-authentik@v1.1.2
