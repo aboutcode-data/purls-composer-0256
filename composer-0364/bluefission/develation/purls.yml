@@ -1,6 +1,7 @@
 - pkg:composer/bluefission/develation@1.2.2-alpha
 - pkg:composer/bluefission/develation@1.2.3-alpha
 - pkg:composer/bluefission/develation@1.2.4-alpha
+- pkg:composer/bluefission/develation@1.3.25-alpha
 - pkg:composer/bluefission/develation@v0.4.0-alpha
 - pkg:composer/bluefission/develation@v1.0.0-alpha
 - pkg:composer/bluefission/develation@v1.0.1-alpha
@@ -26,6 +27,12 @@
 - pkg:composer/bluefission/develation@v1.3.19-alpha
 - pkg:composer/bluefission/develation@v1.3.2-alpha
 - pkg:composer/bluefission/develation@v1.3.20-alpha
+- pkg:composer/bluefission/develation@v1.3.21-alpha
+- pkg:composer/bluefission/develation@v1.3.22-alpha
+- pkg:composer/bluefission/develation@v1.3.23-alpha
+- pkg:composer/bluefission/develation@v1.3.24-alpha
+- pkg:composer/bluefission/develation@v1.3.26-alpha
+- pkg:composer/bluefission/develation@v1.3.27-alpha
 - pkg:composer/bluefission/develation@v1.3.3-alpha
 - pkg:composer/bluefission/develation@v1.3.4-alpha
 - pkg:composer/bluefission/develation@v1.3.5-alpha

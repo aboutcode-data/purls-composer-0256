@@ -16,3 +16,4 @@
 - pkg:composer/binarcode/laravel-tenantable@2.4.3
 - pkg:composer/binarcode/laravel-tenantable@2.5.0
 - pkg:composer/binarcode/laravel-tenantable@2.6.0
+- pkg:composer/binarcode/laravel-tenantable@2.7.0

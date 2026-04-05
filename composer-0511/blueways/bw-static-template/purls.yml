@@ -1,6 +1,8 @@
 - pkg:composer/blueways/bw-static-template@1.0.1
 - pkg:composer/blueways/bw-static-template@1.0.2
 - pkg:composer/blueways/bw-static-template@4.0.0
+- pkg:composer/blueways/bw-static-template@4.1.0
+- pkg:composer/blueways/bw-static-template@5.0.0
 - pkg:composer/blueways/bw-static-template@v1.0.10
 - pkg:composer/blueways/bw-static-template@v1.0.5
 - pkg:composer/blueways/bw-static-template@v1.0.6

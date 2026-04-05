@@ -79,3 +79,6 @@
 - pkg:composer/bowphp/framework@5.2.7
 - pkg:composer/bowphp/framework@5.2.8
 - pkg:composer/bowphp/framework@5.2.90
+- pkg:composer/bowphp/framework@5.2.91
+- pkg:composer/bowphp/framework@5.2.92
+- pkg:composer/bowphp/framework@5.2.93
