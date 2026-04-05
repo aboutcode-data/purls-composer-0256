@@ -3,3 +3,4 @@
 - pkg:composer/andreasnij/laravel-sms-notification-channel@1.0
 - pkg:composer/andreasnij/laravel-sms-notification-channel@1.1
 - pkg:composer/andreasnij/laravel-sms-notification-channel@1.2
+- pkg:composer/andreasnij/laravel-sms-notification-channel@2.0

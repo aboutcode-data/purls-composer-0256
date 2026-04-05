@@ -49,3 +49,4 @@
 - pkg:composer/automattic/jetpack-admin-ui@v0.5.7
 - pkg:composer/automattic/jetpack-admin-ui@v0.5.8
 - pkg:composer/automattic/jetpack-admin-ui@v0.5.9
+- pkg:composer/automattic/jetpack-admin-ui@v0.6.0

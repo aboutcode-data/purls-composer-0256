@@ -3,6 +3,10 @@
 - pkg:composer/aslamhus/wordpress-hmr@2.1.2
 - pkg:composer/aslamhus/wordpress-hmr@3.0.10
 - pkg:composer/aslamhus/wordpress-hmr@3.0.11
+- pkg:composer/aslamhus/wordpress-hmr@3.0.12
+- pkg:composer/aslamhus/wordpress-hmr@3.0.13
+- pkg:composer/aslamhus/wordpress-hmr@3.0.14
+- pkg:composer/aslamhus/wordpress-hmr@3.0.15
 - pkg:composer/aslamhus/wordpress-hmr@3.0.7
 - pkg:composer/aslamhus/wordpress-hmr@3.0.8
 - pkg:composer/aslamhus/wordpress-hmr@3.0.9

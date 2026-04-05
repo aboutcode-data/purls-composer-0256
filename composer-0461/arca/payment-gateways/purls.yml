@@ -1,6 +1,8 @@
 - pkg:composer/arca/payment-gateways@1.0.0
 - pkg:composer/arca/payment-gateways@1.0.1
 - pkg:composer/arca/payment-gateways@1.0.2
+- pkg:composer/arca/payment-gateways@1.2.0
+- pkg:composer/arca/payment-gateways@1.2.1
 - pkg:composer/arca/payment-gateways@v0.1.0-beta
 - pkg:composer/arca/payment-gateways@v0.1.1-beta
 - pkg:composer/arca/payment-gateways@v0.1.12-beta

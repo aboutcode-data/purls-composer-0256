@@ -5,3 +5,4 @@
 - pkg:composer/augusl/laravel-feishu-logging@v1.4
 - pkg:composer/augusl/laravel-feishu-logging@v1.5
 - pkg:composer/augusl/laravel-feishu-logging@v2.0
+- pkg:composer/augusl/laravel-feishu-logging@v2.1

@@ -25,6 +25,7 @@
 - pkg:composer/appwrite/php-runtimes@0.19.2
 - pkg:composer/appwrite/php-runtimes@0.19.3
 - pkg:composer/appwrite/php-runtimes@0.19.4
+- pkg:composer/appwrite/php-runtimes@0.19.5
 - pkg:composer/appwrite/php-runtimes@0.2.0
 - pkg:composer/appwrite/php-runtimes@0.3.0
 - pkg:composer/appwrite/php-runtimes@0.4.0

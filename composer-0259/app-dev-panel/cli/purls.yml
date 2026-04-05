@@ -1,0 +1,4 @@
+- pkg:composer/app-dev-panel/cli@0.0.1
+- pkg:composer/app-dev-panel/cli@0.0.2
+- pkg:composer/app-dev-panel/cli@v0.0.4
+- pkg:composer/app-dev-panel/cli@v0.1
