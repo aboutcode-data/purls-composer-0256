@@ -218,7 +218,6 @@
 - pkg:composer/se7enxweb/symfony-flex@v2.1.8
 - pkg:composer/se7enxweb/symfony-flex@v2.10.0
 - pkg:composer/se7enxweb/symfony-flex@v2.10.1
-- pkg:composer/se7enxweb/symfony-flex@v2.10.2
 - pkg:composer/se7enxweb/symfony-flex@v2.2.0
 - pkg:composer/se7enxweb/symfony-flex@v2.2.1
 - pkg:composer/se7enxweb/symfony-flex@v2.2.2
