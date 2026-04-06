@@ -4,3 +4,4 @@
 - pkg:composer/solophp/router@v2.1.0
 - pkg:composer/solophp/router@v3.0.0
 - pkg:composer/solophp/router@v3.1.0
+- pkg:composer/solophp/router@v3.2.0
