@@ -17,3 +17,9 @@
 - pkg:composer/sandermuller/laravel-fluent-validation@0.4.0
 - pkg:composer/sandermuller/laravel-fluent-validation@0.4.1
 - pkg:composer/sandermuller/laravel-fluent-validation@0.4.2
+- pkg:composer/sandermuller/laravel-fluent-validation@0.4.3
+- pkg:composer/sandermuller/laravel-fluent-validation@0.4.4
+- pkg:composer/sandermuller/laravel-fluent-validation@0.4.5
+- pkg:composer/sandermuller/laravel-fluent-validation@0.5.0
+- pkg:composer/sandermuller/laravel-fluent-validation@0.5.1
+- pkg:composer/sandermuller/laravel-fluent-validation@0.5.2
