@@ -12,3 +12,4 @@
 - pkg:composer/precision-soft/doctrine-utility@v3.2.5
 - pkg:composer/precision-soft/doctrine-utility@v4.0.0
 - pkg:composer/precision-soft/doctrine-utility@v4.0.1
+- pkg:composer/precision-soft/doctrine-utility@v4.0.2
