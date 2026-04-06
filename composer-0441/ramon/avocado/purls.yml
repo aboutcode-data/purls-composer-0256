@@ -12,7 +12,16 @@
 - pkg:composer/ramon/avocado@2.0.13-beta
 - pkg:composer/ramon/avocado@2.0.14-beta
 - pkg:composer/ramon/avocado@2.0.15-beta
+- pkg:composer/ramon/avocado@2.0.16-beta
+- pkg:composer/ramon/avocado@2.0.17-beta
+- pkg:composer/ramon/avocado@2.0.18-beta
+- pkg:composer/ramon/avocado@2.0.19-beta
 - pkg:composer/ramon/avocado@2.0.2-beta
+- pkg:composer/ramon/avocado@2.0.20-beta
+- pkg:composer/ramon/avocado@2.0.21-beta
+- pkg:composer/ramon/avocado@2.0.22-beta
+- pkg:composer/ramon/avocado@2.0.23-beta
+- pkg:composer/ramon/avocado@2.0.24-beta
 - pkg:composer/ramon/avocado@2.0.3-beta
 - pkg:composer/ramon/avocado@2.0.4-beta
 - pkg:composer/ramon/avocado@2.0.5-beta
