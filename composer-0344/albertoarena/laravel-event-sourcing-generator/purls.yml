@@ -31,6 +31,7 @@
 - pkg:composer/albertoarena/laravel-event-sourcing-generator@v1.0.10
 - pkg:composer/albertoarena/laravel-event-sourcing-generator@v1.0.11
 - pkg:composer/albertoarena/laravel-event-sourcing-generator@v1.0.12
+- pkg:composer/albertoarena/laravel-event-sourcing-generator@v1.0.13
 - pkg:composer/albertoarena/laravel-event-sourcing-generator@v1.0.2
 - pkg:composer/albertoarena/laravel-event-sourcing-generator@v1.0.3
 - pkg:composer/albertoarena/laravel-event-sourcing-generator@v1.0.4
