@@ -43,6 +43,7 @@
 - pkg:composer/tallcms/cms@3.1.0
 - pkg:composer/tallcms/cms@3.1.1
 - pkg:composer/tallcms/cms@3.1.2
+- pkg:composer/tallcms/cms@3.10.0
 - pkg:composer/tallcms/cms@3.2.0
 - pkg:composer/tallcms/cms@3.2.1
 - pkg:composer/tallcms/cms@3.2.2
