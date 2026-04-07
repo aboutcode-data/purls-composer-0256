@@ -50,3 +50,5 @@
 - pkg:composer/remp/crm-clv-module@4.2.0
 - pkg:composer/remp/crm-clv-module@4.3.0
 - pkg:composer/remp/crm-clv-module@4.4.0
+- pkg:composer/remp/crm-clv-module@5.0.0
+- pkg:composer/remp/crm-clv-module@5.0.1
