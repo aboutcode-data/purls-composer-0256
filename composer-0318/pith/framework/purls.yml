@@ -13,6 +13,7 @@
 - pkg:composer/pith/framework@0.41.0
 - pkg:composer/pith/framework@0.42.0
 - pkg:composer/pith/framework@0.43.0
+- pkg:composer/pith/framework@0.44.0
 - pkg:composer/pith/framework@v0.1.0
 - pkg:composer/pith/framework@v0.10.0
 - pkg:composer/pith/framework@v0.11.0
