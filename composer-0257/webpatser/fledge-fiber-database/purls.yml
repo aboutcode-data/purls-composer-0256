@@ -1,3 +1,5 @@
 - pkg:composer/webpatser/fledge-fiber-database@v0.1.0
 - pkg:composer/webpatser/fledge-fiber-database@v0.1.1
 - pkg:composer/webpatser/fledge-fiber-database@v13.3.0.0
+- pkg:composer/webpatser/fledge-fiber-database@v13.3.0.1
+- pkg:composer/webpatser/fledge-fiber-database@v13.4.0.0
