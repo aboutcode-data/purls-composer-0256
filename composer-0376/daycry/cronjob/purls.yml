@@ -48,5 +48,6 @@
 - pkg:composer/daycry/cronjob@v2.2.3
 - pkg:composer/daycry/cronjob@v2.2.30
 - pkg:composer/daycry/cronjob@v2.2.31
+- pkg:composer/daycry/cronjob@v2.2.32
 - pkg:composer/daycry/cronjob@v2.2.4
 - pkg:composer/daycry/cronjob@v2.2.5
