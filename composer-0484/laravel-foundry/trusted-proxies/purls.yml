@@ -1,1 +1,2 @@
 - pkg:composer/laravel-foundry/trusted-proxies@v0.1.0
+- pkg:composer/laravel-foundry/trusted-proxies@v0.2.0

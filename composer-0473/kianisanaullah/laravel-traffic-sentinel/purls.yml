@@ -93,3 +93,5 @@
 - pkg:composer/kianisanaullah/laravel-traffic-sentinel@v2.7.9
 - pkg:composer/kianisanaullah/laravel-traffic-sentinel@v2.8.0
 - pkg:composer/kianisanaullah/laravel-traffic-sentinel@v2.8.1
+- pkg:composer/kianisanaullah/laravel-traffic-sentinel@v2.8.2
+- pkg:composer/kianisanaullah/laravel-traffic-sentinel@v2.8.3
