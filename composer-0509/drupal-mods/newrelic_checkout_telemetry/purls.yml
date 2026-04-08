@@ -1,0 +1,5 @@
+- pkg:composer/drupal-mods/newrelic_checkout_telemetry@1.0.0
+- pkg:composer/drupal-mods/newrelic_checkout_telemetry@1.1.0
+- pkg:composer/drupal-mods/newrelic_checkout_telemetry@2.0.0
+- pkg:composer/drupal-mods/newrelic_checkout_telemetry@2.0.1
+- pkg:composer/drupal-mods/newrelic_checkout_telemetry@2.1.0

@@ -28,6 +28,7 @@
 - pkg:composer/doctrine/data-fixtures@2.1.0
 - pkg:composer/doctrine/data-fixtures@2.1.1
 - pkg:composer/doctrine/data-fixtures@2.2.0
+- pkg:composer/doctrine/data-fixtures@2.2.1
 - pkg:composer/doctrine/data-fixtures@v1.0.0
 - pkg:composer/doctrine/data-fixtures@v1.0.0-ALPHA1
 - pkg:composer/doctrine/data-fixtures@v1.0.0-ALPHA2

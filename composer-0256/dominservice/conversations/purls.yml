@@ -63,3 +63,4 @@
 - pkg:composer/dominservice/conversations@3.5.7
 - pkg:composer/dominservice/conversations@3.5.8
 - pkg:composer/dominservice/conversations@3.5.9
+- pkg:composer/dominservice/conversations@3.6.0

@@ -3,3 +3,4 @@
 - pkg:composer/dmp/transactional-bundle@0.2.0
 - pkg:composer/dmp/transactional-bundle@0.2.1
 - pkg:composer/dmp/transactional-bundle@1.0.0
+- pkg:composer/dmp/transactional-bundle@2.0.0

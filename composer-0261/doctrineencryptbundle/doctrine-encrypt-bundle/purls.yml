@@ -8,3 +8,4 @@
 - pkg:composer/doctrineencryptbundle/doctrine-encrypt-bundle@7.0.0
 - pkg:composer/doctrineencryptbundle/doctrine-encrypt-bundle@7.0.1
 - pkg:composer/doctrineencryptbundle/doctrine-encrypt-bundle@7.0.2
+- pkg:composer/doctrineencryptbundle/doctrine-encrypt-bundle@7.0.3

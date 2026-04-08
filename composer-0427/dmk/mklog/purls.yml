@@ -80,6 +80,7 @@
 - pkg:composer/dmk/mklog@v12.1.0
 - pkg:composer/dmk/mklog@v12.1.1
 - pkg:composer/dmk/mklog@v12.1.2
+- pkg:composer/dmk/mklog@v12.1.3
 - pkg:composer/dmk/mklog@v13.0.0
 - pkg:composer/dmk/mklog@v13.0.1
 - pkg:composer/dmk/mklog@v13.0.2
