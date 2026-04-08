@@ -6,3 +6,4 @@
 - pkg:composer/invit/plivo-bundle@2.3
 - pkg:composer/invit/plivo-bundle@2.4
 - pkg:composer/invit/plivo-bundle@2.5
+- pkg:composer/invit/plivo-bundle@3.0

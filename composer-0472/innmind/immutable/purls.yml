@@ -118,3 +118,4 @@
 - pkg:composer/innmind/immutable@5.8.0
 - pkg:composer/innmind/immutable@5.9.0
 - pkg:composer/innmind/immutable@6.0.0
+- pkg:composer/innmind/immutable@6.1.0

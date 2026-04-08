@@ -323,6 +323,7 @@
 - pkg:composer/illuminate/queue@v13.1.1
 - pkg:composer/illuminate/queue@v13.2.0
 - pkg:composer/illuminate/queue@v13.3.0
+- pkg:composer/illuminate/queue@v13.4.0
 - pkg:composer/illuminate/queue@v4.0.0
 - pkg:composer/illuminate/queue@v4.0.0-BETA2
 - pkg:composer/illuminate/queue@v4.0.0-BETA3

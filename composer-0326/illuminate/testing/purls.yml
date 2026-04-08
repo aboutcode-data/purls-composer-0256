@@ -315,6 +315,7 @@
 - pkg:composer/illuminate/testing@v13.1.1
 - pkg:composer/illuminate/testing@v13.2.0
 - pkg:composer/illuminate/testing@v13.3.0
+- pkg:composer/illuminate/testing@v13.4.0
 - pkg:composer/illuminate/testing@v7.0.0
 - pkg:composer/illuminate/testing@v7.0.1
 - pkg:composer/illuminate/testing@v7.0.2

@@ -17,6 +17,7 @@
 - pkg:composer/infabo/typo3api@3.2.7
 - pkg:composer/infabo/typo3api@3.2.8
 - pkg:composer/infabo/typo3api@3.2.9
+- pkg:composer/infabo/typo3api@4.0.0
 - pkg:composer/infabo/typo3api@4.0.0-rc.1
 - pkg:composer/infabo/typo3api@4.0.0-rc.2
 - pkg:composer/infabo/typo3api@4.0.0-rc.6

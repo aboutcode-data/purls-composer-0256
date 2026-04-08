@@ -16,5 +16,6 @@
 - pkg:composer/hugofara/lwt@2.9.1
 - pkg:composer/hugofara/lwt@3.0.0
 - pkg:composer/hugofara/lwt@3.0.1
+- pkg:composer/hugofara/lwt@3.0.2
 - pkg:composer/hugofara/lwt@v2.1.0
 - pkg:composer/hugofara/lwt@v2.2.0
