@@ -64,3 +64,4 @@
 - pkg:composer/statamic/statamic@v6.1.0
 - pkg:composer/statamic/statamic@v6.1.1
 - pkg:composer/statamic/statamic@v6.2.0
+- pkg:composer/statamic/statamic@v6.3.0

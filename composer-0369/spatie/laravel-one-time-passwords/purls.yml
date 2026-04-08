@@ -14,3 +14,4 @@
 - pkg:composer/spatie/laravel-one-time-passwords@1.0.7
 - pkg:composer/spatie/laravel-one-time-passwords@1.0.8
 - pkg:composer/spatie/laravel-one-time-passwords@1.0.9
+- pkg:composer/spatie/laravel-one-time-passwords@1.1.0
