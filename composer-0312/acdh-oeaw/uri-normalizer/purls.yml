@@ -12,5 +12,5 @@
 - pkg:composer/acdh-oeaw/uri-normalizer@3.4.0
 - pkg:composer/acdh-oeaw/uri-normalizer@3.5.0
 - pkg:composer/acdh-oeaw/uri-normalizer@3.5.1
-- pkg:composer/acdh-oeaw/uri-normalizer@3.6.0
 - pkg:composer/acdh-oeaw/uri-normalizer@4.0.0
+- pkg:composer/acdh-oeaw/uri-normalizer@4.0.1

@@ -1,4 +1,5 @@
 - pkg:composer/aedart/athenaeum-flysystem-db@10.0.0
+- pkg:composer/aedart/athenaeum-flysystem-db@10.1.0
 - pkg:composer/aedart/athenaeum-flysystem-db@6.2.0
 - pkg:composer/aedart/athenaeum-flysystem-db@6.2.1
 - pkg:composer/aedart/athenaeum-flysystem-db@6.3.0
