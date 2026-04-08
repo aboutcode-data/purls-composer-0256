@@ -98,3 +98,4 @@
 - pkg:composer/firefly-iii/data-importer@v2.2.0
 - pkg:composer/firefly-iii/data-importer@v2.2.1
 - pkg:composer/firefly-iii/data-importer@v2.2.2
+- pkg:composer/firefly-iii/data-importer@v2.2.3

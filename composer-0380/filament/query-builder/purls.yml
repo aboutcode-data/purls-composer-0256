@@ -29,6 +29,8 @@
 - pkg:composer/filament/query-builder@v4.9.1
 - pkg:composer/filament/query-builder@v4.9.2
 - pkg:composer/filament/query-builder@v4.9.3
+- pkg:composer/filament/query-builder@v4.9.4
+- pkg:composer/filament/query-builder@v4.9.5
 - pkg:composer/filament/query-builder@v5.0.0
 - pkg:composer/filament/query-builder@v5.0.0-beta2
 - pkg:composer/filament/query-builder@v5.0.0-beta3
@@ -57,3 +59,5 @@
 - pkg:composer/filament/query-builder@v5.4.1
 - pkg:composer/filament/query-builder@v5.4.2
 - pkg:composer/filament/query-builder@v5.4.3
+- pkg:composer/filament/query-builder@v5.4.4
+- pkg:composer/filament/query-builder@v5.4.5
