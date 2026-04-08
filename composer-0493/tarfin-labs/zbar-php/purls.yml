@@ -8,3 +8,4 @@
 - pkg:composer/tarfin-labs/zbar-php@1.6.0
 - pkg:composer/tarfin-labs/zbar-php@1.7.0
 - pkg:composer/tarfin-labs/zbar-php@2.0.0
+- pkg:composer/tarfin-labs/zbar-php@2.1.0

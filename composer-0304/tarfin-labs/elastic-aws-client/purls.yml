@@ -1,3 +1,4 @@
+- pkg:composer/tarfin-labs/elastic-aws-client@3.0.0
 - pkg:composer/tarfin-labs/elastic-aws-client@v1.0.0
 - pkg:composer/tarfin-labs/elastic-aws-client@v1.0.1
 - pkg:composer/tarfin-labs/elastic-aws-client@v2.0.0

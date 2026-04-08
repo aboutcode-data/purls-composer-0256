@@ -12,3 +12,4 @@
 - pkg:composer/tochka-developers/openrpc@v1.5.0
 - pkg:composer/tochka-developers/openrpc@v1.6.0
 - pkg:composer/tochka-developers/openrpc@v1.6.1
+- pkg:composer/tochka-developers/openrpc@v2.0.0-beta.2
