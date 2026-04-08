@@ -5,6 +5,7 @@
 - pkg:composer/gecche/laravel-policy-builder@v10.0
 - pkg:composer/gecche/laravel-policy-builder@v11.0
 - pkg:composer/gecche/laravel-policy-builder@v12.0
+- pkg:composer/gecche/laravel-policy-builder@v13.0
 - pkg:composer/gecche/laravel-policy-builder@v2.0
 - pkg:composer/gecche/laravel-policy-builder@v3.0
 - pkg:composer/gecche/laravel-policy-builder@v4.0

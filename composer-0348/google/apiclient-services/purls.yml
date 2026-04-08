@@ -366,6 +366,7 @@
 - pkg:composer/google/apiclient-services@v0.433.0
 - pkg:composer/google/apiclient-services@v0.434.0
 - pkg:composer/google/apiclient-services@v0.435.0
+- pkg:composer/google/apiclient-services@v0.436.0
 - pkg:composer/google/apiclient-services@v0.44
 - pkg:composer/google/apiclient-services@v0.45
 - pkg:composer/google/apiclient-services@v0.46

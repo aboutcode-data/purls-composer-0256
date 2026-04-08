@@ -95,6 +95,7 @@
 - pkg:composer/graphql-by-pop/graphql-voyager@17.0.1
 - pkg:composer/graphql-by-pop/graphql-voyager@17.1.0
 - pkg:composer/graphql-by-pop/graphql-voyager@17.1.1
+- pkg:composer/graphql-by-pop/graphql-voyager@17.1.2
 - pkg:composer/graphql-by-pop/graphql-voyager@2.0.1
 - pkg:composer/graphql-by-pop/graphql-voyager@2.1.0
 - pkg:composer/graphql-by-pop/graphql-voyager@2.1.1

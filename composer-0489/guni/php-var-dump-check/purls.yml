@@ -1,3 +1,4 @@
 - pkg:composer/guni/php-var-dump-check@0.6.0
 - pkg:composer/guni/php-var-dump-check@0.6.1
 - pkg:composer/guni/php-var-dump-check@1.0.0
+- pkg:composer/guni/php-var-dump-check@1.0.1

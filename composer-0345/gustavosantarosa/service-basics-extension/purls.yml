@@ -82,6 +82,12 @@
 - pkg:composer/gustavosantarosa/service-basics-extension@3.0.0
 - pkg:composer/gustavosantarosa/service-basics-extension@3.0.1
 - pkg:composer/gustavosantarosa/service-basics-extension@3.0.10
+- pkg:composer/gustavosantarosa/service-basics-extension@3.0.11
+- pkg:composer/gustavosantarosa/service-basics-extension@3.0.12
+- pkg:composer/gustavosantarosa/service-basics-extension@3.0.13
+- pkg:composer/gustavosantarosa/service-basics-extension@3.0.14
+- pkg:composer/gustavosantarosa/service-basics-extension@3.0.15
+- pkg:composer/gustavosantarosa/service-basics-extension@3.0.16
 - pkg:composer/gustavosantarosa/service-basics-extension@3.0.2
 - pkg:composer/gustavosantarosa/service-basics-extension@3.0.3
 - pkg:composer/gustavosantarosa/service-basics-extension@3.0.4
