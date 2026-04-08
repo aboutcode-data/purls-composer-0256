@@ -139,3 +139,4 @@
 - pkg:composer/itzbund/gsb-clustered-caching@v2.2.5
 - pkg:composer/itzbund/gsb-clustered-caching@v2.2.5-rc.1
 - pkg:composer/itzbund/gsb-clustered-caching@v2.2.6
+- pkg:composer/itzbund/gsb-clustered-caching@v2.2.7

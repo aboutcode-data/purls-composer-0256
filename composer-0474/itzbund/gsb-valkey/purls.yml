@@ -105,3 +105,4 @@
 - pkg:composer/itzbund/gsb-valkey@v2.5.0-rc.1
 - pkg:composer/itzbund/gsb-valkey@v2.5.1
 - pkg:composer/itzbund/gsb-valkey@v2.5.2
+- pkg:composer/itzbund/gsb-valkey@v2.5.3

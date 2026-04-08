@@ -144,5 +144,6 @@
 - pkg:composer/jfcherng/php-diff@6.7.7
 - pkg:composer/jfcherng/php-diff@6.8.0
 - pkg:composer/jfcherng/php-diff@6.9.0
+- pkg:composer/jfcherng/php-diff@7.0.0
 - pkg:composer/jfcherng/php-diff@7.0.0-alpha.1
 - pkg:composer/jfcherng/php-diff@7.0.0-alpha.2
