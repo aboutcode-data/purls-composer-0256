@@ -1,3 +1,4 @@
+- pkg:composer/yayasanvitka/azure-oauth2-validator@4.1.0
 - pkg:composer/yayasanvitka/azure-oauth2-validator@v1.0.0
 - pkg:composer/yayasanvitka/azure-oauth2-validator@v1.1.0
 - pkg:composer/yayasanvitka/azure-oauth2-validator@v1.1.1
