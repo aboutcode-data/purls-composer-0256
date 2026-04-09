@@ -34,3 +34,4 @@
 - pkg:composer/anthonyedmonds/laravel-form-builder@1.8.1
 - pkg:composer/anthonyedmonds/laravel-form-builder@2.0.0
 - pkg:composer/anthonyedmonds/laravel-form-builder@2.0.1
+- pkg:composer/anthonyedmonds/laravel-form-builder@2.0.2

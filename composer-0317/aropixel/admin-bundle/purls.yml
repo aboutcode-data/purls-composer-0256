@@ -107,3 +107,4 @@
 - pkg:composer/aropixel/admin-bundle@v1.3.9
 - pkg:composer/aropixel/admin-bundle@v1.4.0
 - pkg:composer/aropixel/admin-bundle@v1.4.1
+- pkg:composer/aropixel/admin-bundle@v3.0.0-alpha1

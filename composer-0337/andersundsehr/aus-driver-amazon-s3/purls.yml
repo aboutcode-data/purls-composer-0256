@@ -24,4 +24,5 @@
 - pkg:composer/andersundsehr/aus-driver-amazon-s3@1.8.0
 - pkg:composer/andersundsehr/aus-driver-amazon-s3@1.9.0
 - pkg:composer/andersundsehr/aus-driver-amazon-s3@2.0.0
+- pkg:composer/andersundsehr/aus-driver-amazon-s3@2.1.0
 - pkg:composer/andersundsehr/aus-driver-amazon-s3@v1.13.0beta1
