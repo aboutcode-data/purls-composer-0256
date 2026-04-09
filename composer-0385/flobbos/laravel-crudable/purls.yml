@@ -69,6 +69,7 @@
 - pkg:composer/flobbos/laravel-crudable@6.0.0
 - pkg:composer/flobbos/laravel-crudable@6.1.0
 - pkg:composer/flobbos/laravel-crudable@6.2.0
+- pkg:composer/flobbos/laravel-crudable@6.2.1
 - pkg:composer/flobbos/laravel-crudable@v1.0
 - pkg:composer/flobbos/laravel-crudable@v1.1
 - pkg:composer/flobbos/laravel-crudable@v2.0
