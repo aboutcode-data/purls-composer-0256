@@ -2,3 +2,4 @@
 - pkg:composer/descom/aws-sns-notification@1.0.1
 - pkg:composer/descom/aws-sns-notification@1.1.0
 - pkg:composer/descom/aws-sns-notification@1.2.0
+- pkg:composer/descom/aws-sns-notification@1.3.0
