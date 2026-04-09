@@ -153,3 +153,4 @@
 - pkg:composer/cego/request-insurance@3.4.3
 - pkg:composer/cego/request-insurance@3.4.4
 - pkg:composer/cego/request-insurance@3.4.5
+- pkg:composer/cego/request-insurance@3.5.0

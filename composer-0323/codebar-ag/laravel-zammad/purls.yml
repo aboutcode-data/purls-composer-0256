@@ -20,6 +20,7 @@
 - pkg:composer/codebar-ag/laravel-zammad@v12.6.0
 - pkg:composer/codebar-ag/laravel-zammad@v12.7.0
 - pkg:composer/codebar-ag/laravel-zammad@v12.8.0
+- pkg:composer/codebar-ag/laravel-zammad@v12.9.0
 - pkg:composer/codebar-ag/laravel-zammad@v3.0.0
 - pkg:composer/codebar-ag/laravel-zammad@v3.1.0
 - pkg:composer/codebar-ag/laravel-zammad@v3.2
