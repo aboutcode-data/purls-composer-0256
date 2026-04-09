@@ -30,3 +30,4 @@
 - pkg:composer/tapp/filament-google-autocomplete-field@v4.0.6
 - pkg:composer/tapp/filament-google-autocomplete-field@v4.0.7
 - pkg:composer/tapp/filament-google-autocomplete-field@v4.0.8
+- pkg:composer/tapp/filament-google-autocomplete-field@v4.1.0
