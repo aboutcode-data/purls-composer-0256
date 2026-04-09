@@ -1,2 +1,3 @@
 - pkg:composer/v16studios/graphql-laravel-bootstrapper@1.0.0
 - pkg:composer/v16studios/graphql-laravel-bootstrapper@1.0.1
+- pkg:composer/v16studios/graphql-laravel-bootstrapper@v1.1.0
