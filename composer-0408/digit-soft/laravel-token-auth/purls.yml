@@ -15,3 +15,5 @@
 - pkg:composer/digit-soft/laravel-token-auth@2.2.0
 - pkg:composer/digit-soft/laravel-token-auth@2.3.0
 - pkg:composer/digit-soft/laravel-token-auth@2.3.2
+- pkg:composer/digit-soft/laravel-token-auth@2.3.3
+- pkg:composer/digit-soft/laravel-token-auth@2.3.4
