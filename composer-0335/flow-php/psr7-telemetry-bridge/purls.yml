@@ -5,3 +5,4 @@
 - pkg:composer/flow-php/psr7-telemetry-bridge@0.34.2
 - pkg:composer/flow-php/psr7-telemetry-bridge@0.34.3
 - pkg:composer/flow-php/psr7-telemetry-bridge@0.35.0
+- pkg:composer/flow-php/psr7-telemetry-bridge@0.35.1
