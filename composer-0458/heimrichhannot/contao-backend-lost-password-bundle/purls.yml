@@ -22,3 +22,4 @@
 - pkg:composer/heimrichhannot/contao-backend-lost-password-bundle@1.7.0
 - pkg:composer/heimrichhannot/contao-backend-lost-password-bundle@1.7.1
 - pkg:composer/heimrichhannot/contao-backend-lost-password-bundle@1.8.0
+- pkg:composer/heimrichhannot/contao-backend-lost-password-bundle@2.0.0

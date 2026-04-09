@@ -5,3 +5,4 @@
 - pkg:composer/horde/constraint@v3.0.0alpha3
 - pkg:composer/horde/constraint@v3.0.0alpha4
 - pkg:composer/horde/constraint@v3.0.0alpha8
+- pkg:composer/horde/constraint@v3.0.0beta1

@@ -1,1 +1,2 @@
 - pkg:composer/honcho/craft-queue-bouncer@0.0.1
+- pkg:composer/honcho/craft-queue-bouncer@0.0.2
