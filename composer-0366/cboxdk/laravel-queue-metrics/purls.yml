@@ -1,6 +1,17 @@
+- pkg:composer/cboxdk/laravel-queue-metrics@v0.0.1
+- pkg:composer/cboxdk/laravel-queue-metrics@v1.0.0
+- pkg:composer/cboxdk/laravel-queue-metrics@v1.1.0
+- pkg:composer/cboxdk/laravel-queue-metrics@v1.2.0
+- pkg:composer/cboxdk/laravel-queue-metrics@v1.3.0
+- pkg:composer/cboxdk/laravel-queue-metrics@v1.3.1
+- pkg:composer/cboxdk/laravel-queue-metrics@v1.4.0
+- pkg:composer/cboxdk/laravel-queue-metrics@v1.4.1
+- pkg:composer/cboxdk/laravel-queue-metrics@v1.4.2
+- pkg:composer/cboxdk/laravel-queue-metrics@v1.5.0
 - pkg:composer/cboxdk/laravel-queue-metrics@v2.0.0
 - pkg:composer/cboxdk/laravel-queue-metrics@v2.1.0
 - pkg:composer/cboxdk/laravel-queue-metrics@v2.1.1
 - pkg:composer/cboxdk/laravel-queue-metrics@v2.2.0
 - pkg:composer/cboxdk/laravel-queue-metrics@v2.3.0
 - pkg:composer/cboxdk/laravel-queue-metrics@v2.4.0
+- pkg:composer/cboxdk/laravel-queue-metrics@v2.5.0
