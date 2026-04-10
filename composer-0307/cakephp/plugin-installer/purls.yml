@@ -23,3 +23,4 @@
 - pkg:composer/cakephp/plugin-installer@2.0.0
 - pkg:composer/cakephp/plugin-installer@2.0.0-beta1
 - pkg:composer/cakephp/plugin-installer@2.0.1
+- pkg:composer/cakephp/plugin-installer@2.0.2
