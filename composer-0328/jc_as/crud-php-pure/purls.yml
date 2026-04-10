@@ -1,2 +1,4 @@
+- pkg:composer/jc_as/crud-php-pure@v1.0.0
 - pkg:composer/jc_as/crud-php-pure@v1.0.1
+- pkg:composer/jc_as/crud-php-pure@v1.0.2
 - pkg:composer/jc_as/crud-php-pure@v1.0.4

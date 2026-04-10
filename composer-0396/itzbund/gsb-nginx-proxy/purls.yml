@@ -55,6 +55,7 @@
 - pkg:composer/itzbund/gsb-nginx-proxy@v1.2.33-rc.1
 - pkg:composer/itzbund/gsb-nginx-proxy@v1.2.34
 - pkg:composer/itzbund/gsb-nginx-proxy@v1.2.35
+- pkg:composer/itzbund/gsb-nginx-proxy@v1.2.36
 - pkg:composer/itzbund/gsb-nginx-proxy@v1.2.4
 - pkg:composer/itzbund/gsb-nginx-proxy@v1.2.4-rc.1
 - pkg:composer/itzbund/gsb-nginx-proxy@v1.2.5

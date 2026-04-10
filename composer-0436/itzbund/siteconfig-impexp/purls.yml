@@ -42,6 +42,7 @@
 - pkg:composer/itzbund/siteconfig-impexp@v1.1.31-rc.1
 - pkg:composer/itzbund/siteconfig-impexp@v1.1.32
 - pkg:composer/itzbund/siteconfig-impexp@v1.1.33
+- pkg:composer/itzbund/siteconfig-impexp@v1.1.34
 - pkg:composer/itzbund/siteconfig-impexp@v1.1.4
 - pkg:composer/itzbund/siteconfig-impexp@v1.1.5
 - pkg:composer/itzbund/siteconfig-impexp@v1.1.5-rc.1

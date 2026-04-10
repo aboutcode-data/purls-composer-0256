@@ -40,3 +40,5 @@
 - pkg:composer/inspiredminds/contao-extended-form-fields@2.8.5
 - pkg:composer/inspiredminds/contao-extended-form-fields@2.8.6
 - pkg:composer/inspiredminds/contao-extended-form-fields@2.8.7
+- pkg:composer/inspiredminds/contao-extended-form-fields@2.8.8
+- pkg:composer/inspiredminds/contao-extended-form-fields@2.8.9

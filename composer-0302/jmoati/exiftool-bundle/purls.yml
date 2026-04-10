@@ -34,3 +34,4 @@
 - pkg:composer/jmoati/exiftool-bundle@3.0.0
 - pkg:composer/jmoati/exiftool-bundle@4.0.0
 - pkg:composer/jmoati/exiftool-bundle@5.0.0
+- pkg:composer/jmoati/exiftool-bundle@5.0.1
