@@ -3,3 +3,5 @@
 - pkg:composer/atlasflow/order-bridge@v1.0.1
 - pkg:composer/atlasflow/order-bridge@v1.1.0
 - pkg:composer/atlasflow/order-bridge@v1.2.0
+- pkg:composer/atlasflow/order-bridge@v1.3.1
+- pkg:composer/atlasflow/order-bridge@v1.3.2
