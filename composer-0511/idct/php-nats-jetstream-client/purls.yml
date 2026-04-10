@@ -1,1 +1,2 @@
 - pkg:composer/idct/php-nats-jetstream-client@v1.0.0
+- pkg:composer/idct/php-nats-jetstream-client@v1.0.1
