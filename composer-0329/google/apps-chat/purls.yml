@@ -16,6 +16,7 @@
 - pkg:composer/google/apps-chat@v0.16.1
 - pkg:composer/google/apps-chat@v0.17.0
 - pkg:composer/google/apps-chat@v0.17.1
+- pkg:composer/google/apps-chat@v0.18.0
 - pkg:composer/google/apps-chat@v0.2.0
 - pkg:composer/google/apps-chat@v0.3.0
 - pkg:composer/google/apps-chat@v0.4.0
