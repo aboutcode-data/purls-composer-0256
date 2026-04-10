@@ -14,6 +14,7 @@
 - pkg:composer/aliirfaan/laravel-simple-otp@5.2.2
 - pkg:composer/aliirfaan/laravel-simple-otp@6.0.0
 - pkg:composer/aliirfaan/laravel-simple-otp@6.0.1
+- pkg:composer/aliirfaan/laravel-simple-otp@6.0.2
 - pkg:composer/aliirfaan/laravel-simple-otp@v1.0.0
 - pkg:composer/aliirfaan/laravel-simple-otp@v1.0.1
 - pkg:composer/aliirfaan/laravel-simple-otp@v1.0.2
