@@ -11,3 +11,4 @@
 - pkg:composer/glance-project/keycloak-middleware@v1.2.2
 - pkg:composer/glance-project/keycloak-middleware@v1.2.3
 - pkg:composer/glance-project/keycloak-middleware@v2.0.0
+- pkg:composer/glance-project/keycloak-middleware@v2.0.1
