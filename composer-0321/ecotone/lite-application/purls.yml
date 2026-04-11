@@ -214,6 +214,7 @@
 - pkg:composer/ecotone/lite-application@1.306.0
 - pkg:composer/ecotone/lite-application@1.306.1
 - pkg:composer/ecotone/lite-application@1.307.0
+- pkg:composer/ecotone/lite-application@1.308.0
 - pkg:composer/ecotone/lite-application@1.47.0
 - pkg:composer/ecotone/lite-application@1.47.1
 - pkg:composer/ecotone/lite-application@1.47.2
