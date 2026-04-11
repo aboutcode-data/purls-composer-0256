@@ -6,3 +6,4 @@
 - pkg:composer/s3tech/laravel-auth-kit@v1.0.5
 - pkg:composer/s3tech/laravel-auth-kit@v1.0.6
 - pkg:composer/s3tech/laravel-auth-kit@v1.0.7
+- pkg:composer/s3tech/laravel-auth-kit@v1.1.0
