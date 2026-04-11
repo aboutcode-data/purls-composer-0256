@@ -1,4 +1,3 @@
-- pkg:composer/ancalagon/netbox@0.0.9
 - pkg:composer/ancalagon/netbox@v0.0.1
 - pkg:composer/ancalagon/netbox@v0.0.2
 - pkg:composer/ancalagon/netbox@v0.0.3
@@ -7,3 +6,4 @@
 - pkg:composer/ancalagon/netbox@v0.0.6
 - pkg:composer/ancalagon/netbox@v0.0.7
 - pkg:composer/ancalagon/netbox@v0.0.8
+- pkg:composer/ancalagon/netbox@v0.0.9
