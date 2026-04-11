@@ -3,3 +3,4 @@
 - pkg:composer/mailodds/mailodds-php@v1.2.0
 - pkg:composer/mailodds/mailodds-php@v2.0.0
 - pkg:composer/mailodds/mailodds-php@v2.1.0
+- pkg:composer/mailodds/mailodds-php@v2.1.1

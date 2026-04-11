@@ -7,3 +7,4 @@
 - pkg:composer/league/glide-symfony@1.1.1
 - pkg:composer/league/glide-symfony@2.0.0
 - pkg:composer/league/glide-symfony@2.0.1
+- pkg:composer/league/glide-symfony@2.1.0

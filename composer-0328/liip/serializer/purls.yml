@@ -17,3 +17,4 @@
 - pkg:composer/liip/serializer@2.6.1
 - pkg:composer/liip/serializer@2.6.2
 - pkg:composer/liip/serializer@3.0.0
+- pkg:composer/liip/serializer@3.1.0
