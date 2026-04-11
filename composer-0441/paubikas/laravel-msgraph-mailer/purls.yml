@@ -8,3 +8,4 @@
 - pkg:composer/paubikas/laravel-msgraph-mailer@1.2.3
 - pkg:composer/paubikas/laravel-msgraph-mailer@1.2.4
 - pkg:composer/paubikas/laravel-msgraph-mailer@1.2.5
+- pkg:composer/paubikas/laravel-msgraph-mailer@1.2.6

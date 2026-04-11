@@ -17,3 +17,4 @@
 - pkg:composer/ntanduy/cloudflare-d1-database@v0.5.1
 - pkg:composer/ntanduy/cloudflare-d1-database@v0.5.2
 - pkg:composer/ntanduy/cloudflare-d1-database@v0.5.3
+- pkg:composer/ntanduy/cloudflare-d1-database@v0.6.0

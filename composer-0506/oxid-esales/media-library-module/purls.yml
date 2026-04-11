@@ -6,3 +6,4 @@
 - pkg:composer/oxid-esales/media-library-module@v3.0.0
 - pkg:composer/oxid-esales/media-library-module@v4.0.0
 - pkg:composer/oxid-esales/media-library-module@v4.1.0
+- pkg:composer/oxid-esales/media-library-module@v5.0.0

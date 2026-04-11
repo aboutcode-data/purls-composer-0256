@@ -267,6 +267,8 @@
 - pkg:composer/october/october@v4.2.11
 - pkg:composer/october/october@v4.2.12
 - pkg:composer/october/october@v4.2.13
+- pkg:composer/october/october@v4.2.14
+- pkg:composer/october/october@v4.2.15
 - pkg:composer/october/october@v4.2.4
 - pkg:composer/october/october@v4.2.5
 - pkg:composer/october/october@v4.2.9
