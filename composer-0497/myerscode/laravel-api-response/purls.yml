@@ -5,4 +5,5 @@
 - pkg:composer/myerscode/laravel-api-response@1.1.1
 - pkg:composer/myerscode/laravel-api-response@1.1.2
 - pkg:composer/myerscode/laravel-api-response@11.0.0
+- pkg:composer/myerscode/laravel-api-response@13.0.0
 - pkg:composer/myerscode/laravel-api-response@8.0.0
