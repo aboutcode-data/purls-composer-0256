@@ -6,6 +6,7 @@
 - pkg:composer/mediawiki/phpunit-patch-coverage@0.0.14
 - pkg:composer/mediawiki/phpunit-patch-coverage@0.0.15
 - pkg:composer/mediawiki/phpunit-patch-coverage@0.0.16
+- pkg:composer/mediawiki/phpunit-patch-coverage@0.0.17
 - pkg:composer/mediawiki/phpunit-patch-coverage@0.0.2
 - pkg:composer/mediawiki/phpunit-patch-coverage@0.0.3
 - pkg:composer/mediawiki/phpunit-patch-coverage@0.0.4

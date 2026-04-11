@@ -9,3 +9,4 @@
 - pkg:composer/mcustiel/phiremock-codeception-module@v1.1.4
 - pkg:composer/mcustiel/phiremock-codeception-module@v1.2.0
 - pkg:composer/mcustiel/phiremock-codeception-module@v2.0.0
+- pkg:composer/mcustiel/phiremock-codeception-module@v3.0.0

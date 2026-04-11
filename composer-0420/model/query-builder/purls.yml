@@ -66,6 +66,7 @@
 - pkg:composer/model/query-builder@v0.5.8
 - pkg:composer/model/query-builder@v0.6.0
 - pkg:composer/model/query-builder@v0.6.1
+- pkg:composer/model/query-builder@v0.6.10
 - pkg:composer/model/query-builder@v0.6.2
 - pkg:composer/model/query-builder@v0.6.3
 - pkg:composer/model/query-builder@v0.6.4
@@ -73,3 +74,4 @@
 - pkg:composer/model/query-builder@v0.6.6
 - pkg:composer/model/query-builder@v0.6.7
 - pkg:composer/model/query-builder@v0.6.8
+- pkg:composer/model/query-builder@v0.6.9
