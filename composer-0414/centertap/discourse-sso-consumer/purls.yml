@@ -8,3 +8,4 @@
 - pkg:composer/centertap/discourse-sso-consumer@5.0.0
 - pkg:composer/centertap/discourse-sso-consumer@5.0.1
 - pkg:composer/centertap/discourse-sso-consumer@5.0.2
+- pkg:composer/centertap/discourse-sso-consumer@6.0.0
