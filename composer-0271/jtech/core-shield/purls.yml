@@ -1,14 +1,2 @@
-- pkg:composer/jtech/core-shield@v1.0
-- pkg:composer/jtech/core-shield@v1.1
-- pkg:composer/jtech/core-shield@v1.2
-- pkg:composer/jtech/core-shield@v1.3
-- pkg:composer/jtech/core-shield@v1.4
-- pkg:composer/jtech/core-shield@v1.5
-- pkg:composer/jtech/core-shield@v1.6
-- pkg:composer/jtech/core-shield@v1.7
-- pkg:composer/jtech/core-shield@v1.8
-- pkg:composer/jtech/core-shield@v1.9
-- pkg:composer/jtech/core-shield@v2.0
-- pkg:composer/jtech/core-shield@v2.1
-- pkg:composer/jtech/core-shield@v2.2
 - pkg:composer/jtech/core-shield@v2.3
+- pkg:composer/jtech/core-shield@v2.4
