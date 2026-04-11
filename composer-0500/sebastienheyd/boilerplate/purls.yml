@@ -210,4 +210,7 @@
 - pkg:composer/sebastienheyd/boilerplate@8.5.0
 - pkg:composer/sebastienheyd/boilerplate@8.6.0
 - pkg:composer/sebastienheyd/boilerplate@8.6.1
+- pkg:composer/sebastienheyd/boilerplate@8.8.0
+- pkg:composer/sebastienheyd/boilerplate@8.8.1
+- pkg:composer/sebastienheyd/boilerplate@8.8.2
 - pkg:composer/sebastienheyd/boilerplate@v8.7.0

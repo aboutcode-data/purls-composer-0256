@@ -8,3 +8,4 @@
 - pkg:composer/shoppress/wp-skeleton@v1.0.3
 - pkg:composer/shoppress/wp-skeleton@v3
 - pkg:composer/shoppress/wp-skeleton@v4
+- pkg:composer/shoppress/wp-skeleton@v5
