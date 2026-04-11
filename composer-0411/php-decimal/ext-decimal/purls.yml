@@ -1,0 +1,3 @@
+- pkg:composer/php-decimal/ext-decimal@v1.5.1
+- pkg:composer/php-decimal/ext-decimal@v1.5.2
+- pkg:composer/php-decimal/ext-decimal@v1.5.3
