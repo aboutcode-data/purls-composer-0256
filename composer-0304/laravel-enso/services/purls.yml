@@ -38,3 +38,4 @@
 - pkg:composer/laravel-enso/services@3.4.2
 - pkg:composer/laravel-enso/services@3.5.0
 - pkg:composer/laravel-enso/services@3.5.1
+- pkg:composer/laravel-enso/services@3.6.0
