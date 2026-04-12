@@ -409,6 +409,8 @@
 - pkg:composer/dashed/dashed-core@v4.0.115
 - pkg:composer/dashed/dashed-core@v4.0.116
 - pkg:composer/dashed/dashed-core@v4.0.117
+- pkg:composer/dashed/dashed-core@v4.0.118
+- pkg:composer/dashed/dashed-core@v4.0.119
 - pkg:composer/dashed/dashed-core@v4.0.12
 - pkg:composer/dashed/dashed-core@v4.0.13
 - pkg:composer/dashed/dashed-core@v4.0.14
