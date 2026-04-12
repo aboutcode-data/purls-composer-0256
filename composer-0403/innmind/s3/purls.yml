@@ -12,3 +12,4 @@
 - pkg:composer/innmind/s3@4.1.3
 - pkg:composer/innmind/s3@4.1.4
 - pkg:composer/innmind/s3@5.0.0
+- pkg:composer/innmind/s3@6.0.0
