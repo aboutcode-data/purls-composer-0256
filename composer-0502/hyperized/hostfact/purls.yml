@@ -18,3 +18,4 @@
 - pkg:composer/hyperized/hostfact@v3.0.1
 - pkg:composer/hyperized/hostfact@v3.0.2
 - pkg:composer/hyperized/hostfact@v4.0.0
+- pkg:composer/hyperized/hostfact@v5.0.0
