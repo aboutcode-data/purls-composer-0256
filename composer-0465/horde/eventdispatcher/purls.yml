@@ -2,3 +2,4 @@
 - pkg:composer/horde/eventdispatcher@v1.0.0alpha2
 - pkg:composer/horde/eventdispatcher@v1.0.0beta1
 - pkg:composer/horde/eventdispatcher@v1.0.0beta2
+- pkg:composer/horde/eventdispatcher@v1.0.0beta3
