@@ -153,7 +153,6 @@
 - pkg:composer/drupal/core-transliteration@11.3.3
 - pkg:composer/drupal/core-transliteration@11.3.4
 - pkg:composer/drupal/core-transliteration@11.3.5
-- pkg:composer/drupal/core-transliteration@11.3.6
 - pkg:composer/drupal/core-transliteration@8.1.0
 - pkg:composer/drupal/core-transliteration@8.1.1
 - pkg:composer/drupal/core-transliteration@8.1.10
