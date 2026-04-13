@@ -20,5 +20,6 @@
 - pkg:composer/drupal/openculturas_project@2.4.1
 - pkg:composer/drupal/openculturas_project@2.5.0
 - pkg:composer/drupal/openculturas_project@2.5.1
+- pkg:composer/drupal/openculturas_project@2.6.0
 - pkg:composer/drupal/openculturas_project@2.6.0-rc1
 - pkg:composer/drupal/openculturas_project@2.6.0-rc2

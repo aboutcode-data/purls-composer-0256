@@ -54,3 +54,5 @@
 - pkg:composer/elao/enum@v2.5.1
 - pkg:composer/elao/enum@v2.5.2
 - pkg:composer/elao/enum@v2.5.3
+- pkg:composer/elao/enum@v2.6.0
+- pkg:composer/elao/enum@v3.0.0
