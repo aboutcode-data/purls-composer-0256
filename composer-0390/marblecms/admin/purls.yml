@@ -1,3 +1,6 @@
 - pkg:composer/marblecms/admin@0.6
 - pkg:composer/marblecms/admin@0.7
 - pkg:composer/marblecms/admin@0.7.1
+- pkg:composer/marblecms/admin@v1.0.0
+- pkg:composer/marblecms/admin@v1.0.1
+- pkg:composer/marblecms/admin@v1.1
