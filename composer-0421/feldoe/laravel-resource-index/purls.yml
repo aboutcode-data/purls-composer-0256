@@ -36,3 +36,5 @@
 - pkg:composer/feldoe/laravel-resource-index@v1.7.0
 - pkg:composer/feldoe/laravel-resource-index@v1.8.0
 - pkg:composer/feldoe/laravel-resource-index@v1.8.1
+- pkg:composer/feldoe/laravel-resource-index@v1.9.0
+- pkg:composer/feldoe/laravel-resource-index@v1.9.1
