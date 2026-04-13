@@ -12,3 +12,4 @@
 - pkg:composer/lingoda/domain-events@2.0.3
 - pkg:composer/lingoda/domain-events@2.1.0
 - pkg:composer/lingoda/domain-events@2.2.0
+- pkg:composer/lingoda/domain-events@2.3.0
