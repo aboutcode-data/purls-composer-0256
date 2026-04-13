@@ -18,3 +18,4 @@
 - pkg:composer/dev-toolbelt/laravel-eloquent-plus@1.3.0
 - pkg:composer/dev-toolbelt/laravel-eloquent-plus@1.3.1
 - pkg:composer/dev-toolbelt/laravel-eloquent-plus@1.3.2
+- pkg:composer/dev-toolbelt/laravel-eloquent-plus@1.4.0
