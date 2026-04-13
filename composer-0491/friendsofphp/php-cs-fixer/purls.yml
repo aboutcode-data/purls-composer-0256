@@ -365,3 +365,4 @@
 - pkg:composer/friendsofphp/php-cs-fixer@v3.94.1
 - pkg:composer/friendsofphp/php-cs-fixer@v3.94.2
 - pkg:composer/friendsofphp/php-cs-fixer@v3.95.0
+- pkg:composer/friendsofphp/php-cs-fixer@v3.95.1
