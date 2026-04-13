@@ -44,3 +44,4 @@
 - pkg:composer/nette/coding-standard@v3.4.4
 - pkg:composer/nette/coding-standard@v3.4.5
 - pkg:composer/nette/coding-standard@v3.5.0
+- pkg:composer/nette/coding-standard@v3.5.1
