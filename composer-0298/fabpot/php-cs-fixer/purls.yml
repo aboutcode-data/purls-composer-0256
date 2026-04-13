@@ -365,3 +365,4 @@
 - pkg:composer/fabpot/php-cs-fixer@v3.94.1
 - pkg:composer/fabpot/php-cs-fixer@v3.94.2
 - pkg:composer/fabpot/php-cs-fixer@v3.95.0
+- pkg:composer/fabpot/php-cs-fixer@v3.95.1
