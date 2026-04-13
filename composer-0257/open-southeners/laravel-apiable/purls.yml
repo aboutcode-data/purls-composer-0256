@@ -79,3 +79,4 @@
 - pkg:composer/open-southeners/laravel-apiable@3.9.0
 - pkg:composer/open-southeners/laravel-apiable@3.9.1
 - pkg:composer/open-southeners/laravel-apiable@3.9.2
+- pkg:composer/open-southeners/laravel-apiable@4.0.0
