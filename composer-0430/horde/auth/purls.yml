@@ -22,3 +22,4 @@
 - pkg:composer/horde/auth@v3.0.0alpha8
 - pkg:composer/horde/auth@v3.0.0alpha9
 - pkg:composer/horde/auth@v3.0.0beta1
+- pkg:composer/horde/auth@v3.0.0beta2
