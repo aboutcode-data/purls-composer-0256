@@ -9,3 +9,6 @@
 - pkg:composer/staabm/secure_dotenv@10.0.3
 - pkg:composer/staabm/secure_dotenv@10.0.4
 - pkg:composer/staabm/secure_dotenv@10.0.5
+- pkg:composer/staabm/secure_dotenv@10.1
+- pkg:composer/staabm/secure_dotenv@10.1.1
+- pkg:composer/staabm/secure_dotenv@10.1.2
