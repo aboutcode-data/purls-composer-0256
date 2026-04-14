@@ -26,3 +26,4 @@
 - pkg:composer/symfony/polyfill-intl-messageformatter@v1.31.0
 - pkg:composer/symfony/polyfill-intl-messageformatter@v1.32.0
 - pkg:composer/symfony/polyfill-intl-messageformatter@v1.33.0
+- pkg:composer/symfony/polyfill-intl-messageformatter@v1.34.0

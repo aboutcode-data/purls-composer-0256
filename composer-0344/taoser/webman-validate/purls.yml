@@ -7,3 +7,5 @@
 - pkg:composer/taoser/webman-validate@v1.7.0
 - pkg:composer/taoser/webman-validate@v1.7.1
 - pkg:composer/taoser/webman-validate@v1.7.2
+- pkg:composer/taoser/webman-validate@v1.7.3
+- pkg:composer/taoser/webman-validate@v2.0.0

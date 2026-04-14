@@ -34,6 +34,7 @@
 - pkg:composer/symfony/polyfill@v1.31.0
 - pkg:composer/symfony/polyfill@v1.32.0
 - pkg:composer/symfony/polyfill@v1.33.0
+- pkg:composer/symfony/polyfill@v1.34.0
 - pkg:composer/symfony/polyfill@v1.4.0
 - pkg:composer/symfony/polyfill@v1.5.0
 - pkg:composer/symfony/polyfill@v1.6.0

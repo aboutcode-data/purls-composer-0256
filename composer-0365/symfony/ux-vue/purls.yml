@@ -34,6 +34,7 @@
 - pkg:composer/symfony/ux-vue@v2.32.0
 - pkg:composer/symfony/ux-vue@v2.33.0
 - pkg:composer/symfony/ux-vue@v2.34.0
+- pkg:composer/symfony/ux-vue@v2.35.0
 - pkg:composer/symfony/ux-vue@v2.4.0
 - pkg:composer/symfony/ux-vue@v2.5.0
 - pkg:composer/symfony/ux-vue@v2.6.0
@@ -44,3 +45,4 @@
 - pkg:composer/symfony/ux-vue@v2.8.1
 - pkg:composer/symfony/ux-vue@v2.9.0
 - pkg:composer/symfony/ux-vue@v2.9.1
+- pkg:composer/symfony/ux-vue@v3.0.0

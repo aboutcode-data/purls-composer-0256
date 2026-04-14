@@ -36,6 +36,7 @@
 - pkg:composer/symfony/ux-typed@v2.32.0
 - pkg:composer/symfony/ux-typed@v2.33.0
 - pkg:composer/symfony/ux-typed@v2.34.0
+- pkg:composer/symfony/ux-typed@v2.35.0
 - pkg:composer/symfony/ux-typed@v2.4.0
 - pkg:composer/symfony/ux-typed@v2.5.0
 - pkg:composer/symfony/ux-typed@v2.6.0

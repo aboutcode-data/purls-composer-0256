@@ -407,6 +407,7 @@
 - pkg:composer/tiderjian/think-core@v14.3.0
 - pkg:composer/tiderjian/think-core@v14.4.0
 - pkg:composer/tiderjian/think-core@v14.5.0
+- pkg:composer/tiderjian/think-core@v15.0.0
 - pkg:composer/tiderjian/think-core@v2.0.0
 - pkg:composer/tiderjian/think-core@v2.0.1
 - pkg:composer/tiderjian/think-core@v2.0.10

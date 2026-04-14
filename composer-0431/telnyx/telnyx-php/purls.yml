@@ -133,7 +133,14 @@
 - pkg:composer/telnyx/telnyx-php@v7.25.0
 - pkg:composer/telnyx/telnyx-php@v7.26.0
 - pkg:composer/telnyx/telnyx-php@v7.27.0
+- pkg:composer/telnyx/telnyx-php@v7.28.0
+- pkg:composer/telnyx/telnyx-php@v7.29.0
 - pkg:composer/telnyx/telnyx-php@v7.3.0
+- pkg:composer/telnyx/telnyx-php@v7.30.0
+- pkg:composer/telnyx/telnyx-php@v7.31.0
+- pkg:composer/telnyx/telnyx-php@v7.32.0
+- pkg:composer/telnyx/telnyx-php@v7.32.1
+- pkg:composer/telnyx/telnyx-php@v7.33.0
 - pkg:composer/telnyx/telnyx-php@v7.4.0
 - pkg:composer/telnyx/telnyx-php@v7.5.0
 - pkg:composer/telnyx/telnyx-php@v7.6.0
