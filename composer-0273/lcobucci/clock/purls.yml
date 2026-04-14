@@ -15,3 +15,4 @@
 - pkg:composer/lcobucci/clock@3.3.1
 - pkg:composer/lcobucci/clock@3.4.0
 - pkg:composer/lcobucci/clock@3.5.0
+- pkg:composer/lcobucci/clock@3.6.0
