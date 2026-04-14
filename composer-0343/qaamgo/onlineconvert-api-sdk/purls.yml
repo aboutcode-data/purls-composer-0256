@@ -42,3 +42,5 @@
 - pkg:composer/qaamgo/onlineconvert-api-sdk@3.1.6
 - pkg:composer/qaamgo/onlineconvert-api-sdk@3.1.7
 - pkg:composer/qaamgo/onlineconvert-api-sdk@3.1.8
+- pkg:composer/qaamgo/onlineconvert-api-sdk@4.0
+- pkg:composer/qaamgo/onlineconvert-api-sdk@4.1
