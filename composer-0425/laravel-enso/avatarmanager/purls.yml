@@ -138,3 +138,5 @@
 - pkg:composer/laravel-enso/avatarmanager@4.3.0
 - pkg:composer/laravel-enso/avatarmanager@4.4.0
 - pkg:composer/laravel-enso/avatarmanager@4.5.0
+- pkg:composer/laravel-enso/avatarmanager@4.5.1
+- pkg:composer/laravel-enso/avatarmanager@4.5.2

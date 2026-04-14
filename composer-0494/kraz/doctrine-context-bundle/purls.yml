@@ -1,4 +1,5 @@
 - pkg:composer/kraz/doctrine-context-bundle@3.9.10
+- pkg:composer/kraz/doctrine-context-bundle@3.9.11
 - pkg:composer/kraz/doctrine-context-bundle@3.9.6
 - pkg:composer/kraz/doctrine-context-bundle@3.9.7
 - pkg:composer/kraz/doctrine-context-bundle@3.9.8
