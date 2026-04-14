@@ -115,6 +115,8 @@
 - pkg:composer/mgamadeus/ddd@2.1.6
 - pkg:composer/mgamadeus/ddd@2.1.7
 - pkg:composer/mgamadeus/ddd@2.1.9
+- pkg:composer/mgamadeus/ddd@2.10.0
+- pkg:composer/mgamadeus/ddd@2.10.1
 - pkg:composer/mgamadeus/ddd@2.2.0
 - pkg:composer/mgamadeus/ddd@2.2.1
 - pkg:composer/mgamadeus/ddd@2.2.2
