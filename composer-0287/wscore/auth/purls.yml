@@ -3,3 +3,4 @@
 - pkg:composer/wscore/auth@0.3.0
 - pkg:composer/wscore/auth@0.4.0
 - pkg:composer/wscore/auth@0.4.1
+- pkg:composer/wscore/auth@2.0.0-beta1

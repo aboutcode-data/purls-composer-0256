@@ -26,3 +26,6 @@
 - pkg:composer/vormkracht10/laravel-minify-html-middleware@v2.0.9
 - pkg:composer/vormkracht10/laravel-minify-html-middleware@v4.0.0
 - pkg:composer/vormkracht10/laravel-minify-html-middleware@v4.0.1
+- pkg:composer/vormkracht10/laravel-minify-html-middleware@v4.0.2
+- pkg:composer/vormkracht10/laravel-minify-html-middleware@v4.0.3
+- pkg:composer/vormkracht10/laravel-minify-html-middleware@v4.0.4

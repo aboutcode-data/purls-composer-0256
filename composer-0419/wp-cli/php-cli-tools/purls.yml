@@ -37,6 +37,7 @@
 - pkg:composer/wp-cli/php-cli-tools@v0.12.7
 - pkg:composer/wp-cli/php-cli-tools@v0.12.8
 - pkg:composer/wp-cli/php-cli-tools@v0.12.9
+- pkg:composer/wp-cli/php-cli-tools@v0.13.0
 - pkg:composer/wp-cli/php-cli-tools@v0.9
 - pkg:composer/wp-cli/php-cli-tools@v0.9.1
 - pkg:composer/wp-cli/php-cli-tools@v0.9.1.1

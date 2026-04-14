@@ -10,3 +10,4 @@
 - pkg:composer/wp-cli/profile-command@v2.1.4
 - pkg:composer/wp-cli/profile-command@v2.1.5
 - pkg:composer/wp-cli/profile-command@v2.1.6
+- pkg:composer/wp-cli/profile-command@v2.1.7

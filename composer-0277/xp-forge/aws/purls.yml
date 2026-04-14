@@ -22,3 +22,4 @@
 - pkg:composer/xp-forge/aws@v2.6.1
 - pkg:composer/xp-forge/aws@v2.7.0
 - pkg:composer/xp-forge/aws@v3.0.0
+- pkg:composer/xp-forge/aws@v3.1.0
