@@ -36,4 +36,3 @@
 - pkg:composer/phpgt/database@v1.6.1
 - pkg:composer/phpgt/database@v1.6.2
 - pkg:composer/phpgt/database@v1.6.3
-- pkg:composer/phpgt/database@v1.7.0
