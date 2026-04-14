@@ -1,4 +1,3 @@
-- pkg:composer/newism/craft-imgix@1.0.0
 - pkg:composer/newism/craft-imgix@5.0.0
 - pkg:composer/newism/craft-imgix@5.0.0-alpha.1
 - pkg:composer/newism/craft-imgix@5.0.0-alpha.2
@@ -8,3 +7,4 @@
 - pkg:composer/newism/craft-imgix@5.0.0-alpha.6
 - pkg:composer/newism/craft-imgix@5.0.0-alpha.7
 - pkg:composer/newism/craft-imgix@5.0.0-alpha.8
+- pkg:composer/newism/craft-imgix@5.0.1
