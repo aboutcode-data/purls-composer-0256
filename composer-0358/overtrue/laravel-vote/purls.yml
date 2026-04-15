@@ -9,3 +9,4 @@
 - pkg:composer/overtrue/laravel-vote@3.2.0
 - pkg:composer/overtrue/laravel-vote@3.3.0
 - pkg:composer/overtrue/laravel-vote@3.4.0
+- pkg:composer/overtrue/laravel-vote@4.0.0

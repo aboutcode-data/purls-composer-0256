@@ -12,6 +12,7 @@
 - pkg:composer/phpdocumentor/guides@1.0.0-rc
 - pkg:composer/phpdocumentor/guides@1.1.0
 - pkg:composer/phpdocumentor/guides@1.1.1
+- pkg:composer/phpdocumentor/guides@1.10.0
 - pkg:composer/phpdocumentor/guides@1.2.0
 - pkg:composer/phpdocumentor/guides@1.2.1
 - pkg:composer/phpdocumentor/guides@1.2.2

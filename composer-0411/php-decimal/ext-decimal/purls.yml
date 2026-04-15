@@ -3,3 +3,4 @@
 - pkg:composer/php-decimal/ext-decimal@v1.5.3
 - pkg:composer/php-decimal/ext-decimal@v2.0.0
 - pkg:composer/php-decimal/ext-decimal@v2.0.1
+- pkg:composer/php-decimal/ext-decimal@v2.0.2
