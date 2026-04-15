@@ -6,3 +6,4 @@
 - pkg:composer/prestashop/ps_featuredproducts@v2.1.4
 - pkg:composer/prestashop/ps_featuredproducts@v2.1.5
 - pkg:composer/prestashop/ps_featuredproducts@v2.1.6
+- pkg:composer/prestashop/ps_featuredproducts@v3.0.0
