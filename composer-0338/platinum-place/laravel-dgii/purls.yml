@@ -18,6 +18,7 @@
 - pkg:composer/platinum-place/laravel-dgii@v1.0.24
 - pkg:composer/platinum-place/laravel-dgii@v1.0.25
 - pkg:composer/platinum-place/laravel-dgii@v1.0.26
+- pkg:composer/platinum-place/laravel-dgii@v1.0.27
 - pkg:composer/platinum-place/laravel-dgii@v1.0.3
 - pkg:composer/platinum-place/laravel-dgii@v1.0.4
 - pkg:composer/platinum-place/laravel-dgii@v1.0.5
@@ -25,3 +26,4 @@
 - pkg:composer/platinum-place/laravel-dgii@v1.0.7
 - pkg:composer/platinum-place/laravel-dgii@v1.0.8
 - pkg:composer/platinum-place/laravel-dgii@v1.0.9
+- pkg:composer/platinum-place/laravel-dgii@v1.1.0

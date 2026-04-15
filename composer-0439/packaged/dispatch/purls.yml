@@ -64,6 +64,7 @@
 - pkg:composer/packaged/dispatch@2.2.0
 - pkg:composer/packaged/dispatch@2.20.0
 - pkg:composer/packaged/dispatch@2.21.0
+- pkg:composer/packaged/dispatch@2.21.1
 - pkg:composer/packaged/dispatch@2.3.0
 - pkg:composer/packaged/dispatch@2.4.0
 - pkg:composer/packaged/dispatch@2.4.1
