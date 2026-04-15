@@ -10,3 +10,4 @@
 - pkg:composer/maestrodimateo/laravel-workflow@v1.3.4
 - pkg:composer/maestrodimateo/laravel-workflow@v1.3.5
 - pkg:composer/maestrodimateo/laravel-workflow@v1.3.6
+- pkg:composer/maestrodimateo/laravel-workflow@v1.4.0

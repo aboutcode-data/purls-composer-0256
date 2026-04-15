@@ -155,3 +155,4 @@
 - pkg:composer/m2epro/magento1-extension@6.9.1
 - pkg:composer/m2epro/magento1-extension@6.9.2
 - pkg:composer/m2epro/magento1-extension@6.90.0
+- pkg:composer/m2epro/magento1-extension@6.90.1
