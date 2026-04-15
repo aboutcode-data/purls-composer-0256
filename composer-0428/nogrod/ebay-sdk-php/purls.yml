@@ -29,3 +29,4 @@
 - pkg:composer/nogrod/ebay-sdk-php@v0.5.4
 - pkg:composer/nogrod/ebay-sdk-php@v0.5.5
 - pkg:composer/nogrod/ebay-sdk-php@v0.5.6
+- pkg:composer/nogrod/ebay-sdk-php@v0.5.7

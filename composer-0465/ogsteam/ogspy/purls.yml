@@ -31,3 +31,5 @@
 - pkg:composer/ogsteam/ogspy@3.3.9-beta6
 - pkg:composer/ogsteam/ogspy@4.0.0
 - pkg:composer/ogsteam/ogspy@4.0.1
+- pkg:composer/ogsteam/ogspy@4.0.2
+- pkg:composer/ogsteam/ogspy@4.0.3
