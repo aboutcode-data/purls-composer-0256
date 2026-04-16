@@ -10,3 +10,4 @@
 - pkg:composer/tschueller/phpmysqlgrid@v0.5.8
 - pkg:composer/tschueller/phpmysqlgrid@v0.5.9
 - pkg:composer/tschueller/phpmysqlgrid@v1.0.0
+- pkg:composer/tschueller/phpmysqlgrid@v1.1.0
