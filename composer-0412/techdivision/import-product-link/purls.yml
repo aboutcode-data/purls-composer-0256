@@ -52,6 +52,7 @@
 - pkg:composer/techdivision/import-product-link@26.0.2
 - pkg:composer/techdivision/import-product-link@26.1.0
 - pkg:composer/techdivision/import-product-link@26.1.0-alpha
+- pkg:composer/techdivision/import-product-link@26.2.0-alpha
 - pkg:composer/techdivision/import-product-link@3.0.0
 - pkg:composer/techdivision/import-product-link@4.0.0
 - pkg:composer/techdivision/import-product-link@5.0.0

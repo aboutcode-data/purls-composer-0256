@@ -303,3 +303,4 @@
 - pkg:composer/techdivision/import-cli-simple@5.0.0
 - pkg:composer/techdivision/import-cli-simple@5.1.0
 - pkg:composer/techdivision/import-cli-simple@5.1.0-alpha
+- pkg:composer/techdivision/import-cli-simple@5.2.0-alpha

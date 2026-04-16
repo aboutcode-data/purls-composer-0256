@@ -18,6 +18,7 @@
 - pkg:composer/techdivision/import-product-msi@21.0.0
 - pkg:composer/techdivision/import-product-msi@21.1.0
 - pkg:composer/techdivision/import-product-msi@21.1.0-alpha
+- pkg:composer/techdivision/import-product-msi@21.2.0-alpha
 - pkg:composer/techdivision/import-product-msi@3.0.0
 - pkg:composer/techdivision/import-product-msi@4.0.0
 - pkg:composer/techdivision/import-product-msi@5.0.0

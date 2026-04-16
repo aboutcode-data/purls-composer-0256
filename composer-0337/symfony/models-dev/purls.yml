@@ -33,6 +33,8 @@
 - pkg:composer/symfony/models-dev@v3.0
 - pkg:composer/symfony/models-dev@v30.0
 - pkg:composer/symfony/models-dev@v31.0
+- pkg:composer/symfony/models-dev@v32.0
+- pkg:composer/symfony/models-dev@v32.1
 - pkg:composer/symfony/models-dev@v4.0
 - pkg:composer/symfony/models-dev@v5.0
 - pkg:composer/symfony/models-dev@v6.0

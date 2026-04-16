@@ -53,6 +53,7 @@
 - pkg:composer/techdivision/import-configuration-jms@18.1.0
 - pkg:composer/techdivision/import-configuration-jms@18.1.0-alpha
 - pkg:composer/techdivision/import-configuration-jms@18.1.1
+- pkg:composer/techdivision/import-configuration-jms@18.2.0-alpha
 - pkg:composer/techdivision/import-configuration-jms@2.0.0
 - pkg:composer/techdivision/import-configuration-jms@2.0.1
 - pkg:composer/techdivision/import-configuration-jms@3.0.0

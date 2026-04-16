@@ -35,6 +35,8 @@
 - pkg:composer/symfony/polyfill-mbstring@v1.32.0
 - pkg:composer/symfony/polyfill-mbstring@v1.33.0
 - pkg:composer/symfony/polyfill-mbstring@v1.34.0
+- pkg:composer/symfony/polyfill-mbstring@v1.35.0
+- pkg:composer/symfony/polyfill-mbstring@v1.36.0
 - pkg:composer/symfony/polyfill-mbstring@v1.4.0
 - pkg:composer/symfony/polyfill-mbstring@v1.5.0
 - pkg:composer/symfony/polyfill-mbstring@v1.6.0

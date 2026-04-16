@@ -22,6 +22,7 @@
 - pkg:composer/techdivision/import-ee@15.0.0
 - pkg:composer/techdivision/import-ee@16.0.0
 - pkg:composer/techdivision/import-ee@17.0.0
+- pkg:composer/techdivision/import-ee@17.1.0-alpha
 - pkg:composer/techdivision/import-ee@2.0.0
 - pkg:composer/techdivision/import-ee@3.0.0
 - pkg:composer/techdivision/import-ee@4.0.0

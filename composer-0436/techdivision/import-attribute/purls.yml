@@ -71,6 +71,7 @@
 - pkg:composer/techdivision/import-attribute@23.0.0
 - pkg:composer/techdivision/import-attribute@23.1.0
 - pkg:composer/techdivision/import-attribute@23.1.0-alpha
+- pkg:composer/techdivision/import-attribute@23.2.0-alpha
 - pkg:composer/techdivision/import-attribute@3.0.0
 - pkg:composer/techdivision/import-attribute@4.0.0
 - pkg:composer/techdivision/import-attribute@5.0.0
