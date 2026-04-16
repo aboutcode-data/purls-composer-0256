@@ -14,6 +14,7 @@
 - pkg:composer/kipchak/starter@2.20
 - pkg:composer/kipchak/starter@2.21
 - pkg:composer/kipchak/starter@2.22
+- pkg:composer/kipchak/starter@2.23
 - pkg:composer/kipchak/starter@2.3
 - pkg:composer/kipchak/starter@2.4
 - pkg:composer/kipchak/starter@2.5
