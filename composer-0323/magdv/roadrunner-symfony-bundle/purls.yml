@@ -11,6 +11,9 @@
 - pkg:composer/magdv/roadrunner-symfony-bundle@0.0.19
 - pkg:composer/magdv/roadrunner-symfony-bundle@0.0.2
 - pkg:composer/magdv/roadrunner-symfony-bundle@0.0.20
+- pkg:composer/magdv/roadrunner-symfony-bundle@0.0.21
+- pkg:composer/magdv/roadrunner-symfony-bundle@0.0.22
+- pkg:composer/magdv/roadrunner-symfony-bundle@0.0.23
 - pkg:composer/magdv/roadrunner-symfony-bundle@0.0.3
 - pkg:composer/magdv/roadrunner-symfony-bundle@0.0.4
 - pkg:composer/magdv/roadrunner-symfony-bundle@0.0.5
