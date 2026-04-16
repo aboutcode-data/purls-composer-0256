@@ -12,8 +12,11 @@
 - pkg:composer/sgalinski/sg-ai@1.2.2
 - pkg:composer/sgalinski/sg-ai@1.2.3
 - pkg:composer/sgalinski/sg-ai@1.3.0
+- pkg:composer/sgalinski/sg-ai@1.3.1
 - pkg:composer/sgalinski/sg-ai@1.4.0
+- pkg:composer/sgalinski/sg-ai@1.4.1
 - pkg:composer/sgalinski/sg-ai@2.0.0
 - pkg:composer/sgalinski/sg-ai@2.0.1
 - pkg:composer/sgalinski/sg-ai@2.0.2
 - pkg:composer/sgalinski/sg-ai@2.0.3
+- pkg:composer/sgalinski/sg-ai@2.0.4

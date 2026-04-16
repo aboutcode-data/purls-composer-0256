@@ -2,3 +2,4 @@
 - pkg:composer/splitit-dev/splitit-php-sdk@0.0.51
 - pkg:composer/splitit-dev/splitit-php-sdk@1.0.5
 - pkg:composer/splitit-dev/splitit-php-sdk@2.0.10
+- pkg:composer/splitit-dev/splitit-php-sdk@2.0.11
