@@ -72,6 +72,8 @@
 - pkg:composer/alibabacloud/aliding-20230426@2.40.1
 - pkg:composer/alibabacloud/aliding-20230426@2.40.2
 - pkg:composer/alibabacloud/aliding-20230426@2.40.3
+- pkg:composer/alibabacloud/aliding-20230426@2.41.0
+- pkg:composer/alibabacloud/aliding-20230426@2.42.0
 - pkg:composer/alibabacloud/aliding-20230426@2.5.0
 - pkg:composer/alibabacloud/aliding-20230426@2.6.0
 - pkg:composer/alibabacloud/aliding-20230426@2.7.0

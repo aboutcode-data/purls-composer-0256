@@ -36,7 +36,9 @@
 - pkg:composer/acdh-oeaw/arche-assets@3.26.0
 - pkg:composer/acdh-oeaw/arche-assets@3.26.1
 - pkg:composer/acdh-oeaw/arche-assets@3.27.0
+- pkg:composer/acdh-oeaw/arche-assets@3.27.1
 - pkg:composer/acdh-oeaw/arche-assets@3.28.0
+- pkg:composer/acdh-oeaw/arche-assets@3.28.1
 - pkg:composer/acdh-oeaw/arche-assets@3.3.0
 - pkg:composer/acdh-oeaw/arche-assets@3.3.1
 - pkg:composer/acdh-oeaw/arche-assets@3.4.0
