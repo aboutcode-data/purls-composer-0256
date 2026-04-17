@@ -41,6 +41,8 @@
 - pkg:composer/waaseyaa/deployer@v0.1.0-alpha.140
 - pkg:composer/waaseyaa/deployer@v0.1.0-alpha.141
 - pkg:composer/waaseyaa/deployer@v0.1.0-alpha.142
+- pkg:composer/waaseyaa/deployer@v0.1.0-alpha.144
+- pkg:composer/waaseyaa/deployer@v0.1.0-alpha.145
 - pkg:composer/waaseyaa/deployer@v0.1.0-alpha.44
 - pkg:composer/waaseyaa/deployer@v0.1.0-alpha.45
 - pkg:composer/waaseyaa/deployer@v0.1.0-alpha.46
