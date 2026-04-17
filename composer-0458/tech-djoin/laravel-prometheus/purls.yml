@@ -9,3 +9,5 @@
 - pkg:composer/tech-djoin/laravel-prometheus@0.2.6
 - pkg:composer/tech-djoin/laravel-prometheus@0.2.7
 - pkg:composer/tech-djoin/laravel-prometheus@0.2.8
+- pkg:composer/tech-djoin/laravel-prometheus@0.3.0
+- pkg:composer/tech-djoin/laravel-prometheus@0.4.0
