@@ -1,5 +1,8 @@
+- pkg:composer/semitexa/authorization@1.0.2
+- pkg:composer/semitexa/authorization@1.0.5
 - pkg:composer/semitexa/authorization@2026.04.03.1240
 - pkg:composer/semitexa/authorization@2026.04.03.1349
 - pkg:composer/semitexa/authorization@2026.04.05.0855
 - pkg:composer/semitexa/authorization@2026.04.07.1133
 - pkg:composer/semitexa/authorization@2026.04.09.1145
+- pkg:composer/semitexa/authorization@v1.0.4
