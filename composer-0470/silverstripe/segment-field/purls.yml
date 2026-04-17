@@ -55,5 +55,6 @@
 - pkg:composer/silverstripe/segment-field@4.0.2
 - pkg:composer/silverstripe/segment-field@4.0.3
 - pkg:composer/silverstripe/segment-field@4.0.4
+- pkg:composer/silverstripe/segment-field@4.1.0
 - pkg:composer/silverstripe/segment-field@4.1.0-beta1
 - pkg:composer/silverstripe/segment-field@4.1.0-rc1
