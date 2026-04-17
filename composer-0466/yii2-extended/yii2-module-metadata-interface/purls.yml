@@ -108,3 +108,4 @@
 - pkg:composer/yii2-extended/yii2-module-metadata-interface@9.0.0
 - pkg:composer/yii2-extended/yii2-module-metadata-interface@9.0.1
 - pkg:composer/yii2-extended/yii2-module-metadata-interface@9.0.2
+- pkg:composer/yii2-extended/yii2-module-metadata-interface@9.0.3
