@@ -1,6 +1,8 @@
 - pkg:composer/yannkuesthardt/laravel-spamprotect@2.0.0
 - pkg:composer/yannkuesthardt/laravel-spamprotect@2.0.1
 - pkg:composer/yannkuesthardt/laravel-spamprotect@2.0.2
+- pkg:composer/yannkuesthardt/laravel-spamprotect@3.0.0
+- pkg:composer/yannkuesthardt/laravel-spamprotect@3.1.0
 - pkg:composer/yannkuesthardt/laravel-spamprotect@v1.0.0
 - pkg:composer/yannkuesthardt/laravel-spamprotect@v1.0.1
 - pkg:composer/yannkuesthardt/laravel-spamprotect@v1.1.0
