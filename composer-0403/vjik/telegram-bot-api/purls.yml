@@ -10,6 +10,7 @@
 - pkg:composer/vjik/telegram-bot-api@0.17
 - pkg:composer/vjik/telegram-bot-api@0.18
 - pkg:composer/vjik/telegram-bot-api@0.18.1
+- pkg:composer/vjik/telegram-bot-api@0.19
 - pkg:composer/vjik/telegram-bot-api@0.2
 - pkg:composer/vjik/telegram-bot-api@0.2.1
 - pkg:composer/vjik/telegram-bot-api@0.3
