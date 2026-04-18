@@ -1,4 +1,3 @@
-- pkg:composer/snowsoft/geoip@0.1.0
 - pkg:composer/snowsoft/geoip@0.1.1
 - pkg:composer/snowsoft/geoip@0.2.0
 - pkg:composer/snowsoft/geoip@0.2.1
@@ -8,10 +7,6 @@
 - pkg:composer/snowsoft/geoip@0.2.5
 - pkg:composer/snowsoft/geoip@1.0.0
 - pkg:composer/snowsoft/geoip@1.0.1
-- pkg:composer/snowsoft/geoip@1.0.10
-- pkg:composer/snowsoft/geoip@1.0.11
-- pkg:composer/snowsoft/geoip@1.0.12
-- pkg:composer/snowsoft/geoip@1.0.13
 - pkg:composer/snowsoft/geoip@1.0.2
 - pkg:composer/snowsoft/geoip@1.0.3
 - pkg:composer/snowsoft/geoip@1.0.4
@@ -19,12 +14,6 @@
 - pkg:composer/snowsoft/geoip@1.0.6
 - pkg:composer/snowsoft/geoip@1.0.7
 - pkg:composer/snowsoft/geoip@1.0.8
-- pkg:composer/snowsoft/geoip@1.0.9
-- pkg:composer/snowsoft/geoip@1.1.0
-- pkg:composer/snowsoft/geoip@1.1.1
-- pkg:composer/snowsoft/geoip@1.2.0
-- pkg:composer/snowsoft/geoip@1.2.1
 - pkg:composer/snowsoft/geoip@3.0.0
-- pkg:composer/snowsoft/geoip@3.0.1
 - pkg:composer/snowsoft/geoip@4.00
 - pkg:composer/snowsoft/geoip@v0.01
