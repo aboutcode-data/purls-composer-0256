@@ -145,6 +145,7 @@
 - pkg:composer/telnyx/telnyx-php@v7.35.0
 - pkg:composer/telnyx/telnyx-php@v7.36.0
 - pkg:composer/telnyx/telnyx-php@v7.36.1
+- pkg:composer/telnyx/telnyx-php@v7.36.2
 - pkg:composer/telnyx/telnyx-php@v7.4.0
 - pkg:composer/telnyx/telnyx-php@v7.5.0
 - pkg:composer/telnyx/telnyx-php@v7.6.0
