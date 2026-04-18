@@ -4,3 +4,4 @@
 - pkg:composer/async-aws/sso-oidc@1.1.1
 - pkg:composer/async-aws/sso-oidc@1.2.0
 - pkg:composer/async-aws/sso-oidc@1.2.1
+- pkg:composer/async-aws/sso-oidc@1.3.0
