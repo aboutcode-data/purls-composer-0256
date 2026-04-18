@@ -1,1 +1,2 @@
 - pkg:composer/php-opcua/symfony-opcua@v4.1.0
+- pkg:composer/php-opcua/symfony-opcua@v4.2.0
