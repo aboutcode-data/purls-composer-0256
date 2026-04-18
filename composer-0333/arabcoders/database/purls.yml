@@ -1,1 +1,2 @@
 - pkg:composer/arabcoders/database@1.0.0
+- pkg:composer/arabcoders/database@v1.0.1

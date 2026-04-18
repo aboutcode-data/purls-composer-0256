@@ -4,3 +4,4 @@
 - pkg:composer/aubes/ecs-logging-bundle@v2.0.2
 - pkg:composer/aubes/ecs-logging-bundle@v3.0.0
 - pkg:composer/aubes/ecs-logging-bundle@v3.0.1
+- pkg:composer/aubes/ecs-logging-bundle@v3.1.0
