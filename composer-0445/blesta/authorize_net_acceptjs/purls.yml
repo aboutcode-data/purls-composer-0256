@@ -1,2 +1,3 @@
 - pkg:composer/blesta/authorize_net_acceptjs@1.0.0
 - pkg:composer/blesta/authorize_net_acceptjs@1.0.1
+- pkg:composer/blesta/authorize_net_acceptjs@2.0.0

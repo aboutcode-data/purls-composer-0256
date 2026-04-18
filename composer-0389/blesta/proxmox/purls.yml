@@ -11,3 +11,4 @@
 - pkg:composer/blesta/proxmox@2.8.0
 - pkg:composer/blesta/proxmox@2.9.0
 - pkg:composer/blesta/proxmox@3.0.0
+- pkg:composer/blesta/proxmox@4.0.0

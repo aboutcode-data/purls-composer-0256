@@ -51,3 +51,6 @@
 - pkg:composer/bradsearch/search-sync-sdk@v4.7.1
 - pkg:composer/bradsearch/search-sync-sdk@v4.8.0
 - pkg:composer/bradsearch/search-sync-sdk@v4.8.1
+- pkg:composer/bradsearch/search-sync-sdk@v4.9.0
+- pkg:composer/bradsearch/search-sync-sdk@v4.9.1
+- pkg:composer/bradsearch/search-sync-sdk@v4.9.2
