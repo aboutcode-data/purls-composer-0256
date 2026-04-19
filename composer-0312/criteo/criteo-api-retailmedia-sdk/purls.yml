@@ -86,6 +86,8 @@
 - pkg:composer/criteo/criteo-api-retailmedia-sdk@0.0.260323
 - pkg:composer/criteo/criteo-api-retailmedia-sdk@0.0.260330
 - pkg:composer/criteo/criteo-api-retailmedia-sdk@0.0.260406
+- pkg:composer/criteo/criteo-api-retailmedia-sdk@0.0.260413
+- pkg:composer/criteo/criteo-api-retailmedia-sdk@0.0.260415
 - pkg:composer/criteo/criteo-api-retailmedia-sdk@2021.07.0.220426
 - pkg:composer/criteo/criteo-api-retailmedia-sdk@2021.07.0.220520
 - pkg:composer/criteo/criteo-api-retailmedia-sdk@2021.07.0.220624
@@ -380,6 +382,8 @@
 - pkg:composer/criteo/criteo-api-retailmedia-sdk@2025.01.0.260323
 - pkg:composer/criteo/criteo-api-retailmedia-sdk@2025.01.0.260330
 - pkg:composer/criteo/criteo-api-retailmedia-sdk@2025.01.0.260406
+- pkg:composer/criteo/criteo-api-retailmedia-sdk@2025.01.0.260413
+- pkg:composer/criteo/criteo-api-retailmedia-sdk@2025.01.0.260415
 - pkg:composer/criteo/criteo-api-retailmedia-sdk@2025.04.0.250425
 - pkg:composer/criteo/criteo-api-retailmedia-sdk@2025.04.0.250606
 - pkg:composer/criteo/criteo-api-retailmedia-sdk@2025.04.0.250618
@@ -427,6 +431,8 @@
 - pkg:composer/criteo/criteo-api-retailmedia-sdk@2025.04.0.260323
 - pkg:composer/criteo/criteo-api-retailmedia-sdk@2025.04.0.260330
 - pkg:composer/criteo/criteo-api-retailmedia-sdk@2025.04.0.260406
+- pkg:composer/criteo/criteo-api-retailmedia-sdk@2025.04.0.260413
+- pkg:composer/criteo/criteo-api-retailmedia-sdk@2025.04.0.260415
 - pkg:composer/criteo/criteo-api-retailmedia-sdk@2025.07.0.250811
 - pkg:composer/criteo/criteo-api-retailmedia-sdk@2025.07.0.250819
 - pkg:composer/criteo/criteo-api-retailmedia-sdk@2025.07.0.250825
@@ -461,6 +467,8 @@
 - pkg:composer/criteo/criteo-api-retailmedia-sdk@2025.07.0.260323
 - pkg:composer/criteo/criteo-api-retailmedia-sdk@2025.07.0.260330
 - pkg:composer/criteo/criteo-api-retailmedia-sdk@2025.07.0.260406
+- pkg:composer/criteo/criteo-api-retailmedia-sdk@2025.07.0.260413
+- pkg:composer/criteo/criteo-api-retailmedia-sdk@2025.07.0.260415
 - pkg:composer/criteo/criteo-api-retailmedia-sdk@2025.10.0.251029
 - pkg:composer/criteo/criteo-api-retailmedia-sdk@2025.10.0.251030
 - pkg:composer/criteo/criteo-api-retailmedia-sdk@2025.10.0.251104
@@ -484,6 +492,8 @@
 - pkg:composer/criteo/criteo-api-retailmedia-sdk@2025.10.0.260323
 - pkg:composer/criteo/criteo-api-retailmedia-sdk@2025.10.0.260330
 - pkg:composer/criteo/criteo-api-retailmedia-sdk@2025.10.0.260406
+- pkg:composer/criteo/criteo-api-retailmedia-sdk@2025.10.0.260413
+- pkg:composer/criteo/criteo-api-retailmedia-sdk@2025.10.0.260415
 - pkg:composer/criteo/criteo-api-retailmedia-sdk@2026.01.0.260129
 - pkg:composer/criteo/criteo-api-retailmedia-sdk@2026.01.0.260202
 - pkg:composer/criteo/criteo-api-retailmedia-sdk@2026.01.0.260210
@@ -496,3 +506,5 @@
 - pkg:composer/criteo/criteo-api-retailmedia-sdk@2026.01.0.260323
 - pkg:composer/criteo/criteo-api-retailmedia-sdk@2026.01.0.260330
 - pkg:composer/criteo/criteo-api-retailmedia-sdk@2026.01.0.260406
+- pkg:composer/criteo/criteo-api-retailmedia-sdk@2026.01.0.260413
+- pkg:composer/criteo/criteo-api-retailmedia-sdk@2026.01.0.260415

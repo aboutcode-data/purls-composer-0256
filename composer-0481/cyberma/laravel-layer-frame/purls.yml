@@ -16,6 +16,8 @@
 - pkg:composer/cyberma/laravel-layer-frame@1.12.0
 - pkg:composer/cyberma/laravel-layer-frame@1.12.1
 - pkg:composer/cyberma/laravel-layer-frame@1.12.2
+- pkg:composer/cyberma/laravel-layer-frame@1.13.0
+- pkg:composer/cyberma/laravel-layer-frame@1.13.1
 - pkg:composer/cyberma/laravel-layer-frame@1.2.0
 - pkg:composer/cyberma/laravel-layer-frame@1.3.0
 - pkg:composer/cyberma/laravel-layer-frame@1.3.1
