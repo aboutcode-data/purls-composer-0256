@@ -67,3 +67,4 @@
 - pkg:composer/amphp/socket@v2.2.4
 - pkg:composer/amphp/socket@v2.3.0
 - pkg:composer/amphp/socket@v2.3.1
+- pkg:composer/amphp/socket@v2.4.0
