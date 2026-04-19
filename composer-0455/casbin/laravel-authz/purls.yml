@@ -38,5 +38,4 @@
 - pkg:composer/casbin/laravel-authz@v4.0.2
 - pkg:composer/casbin/laravel-authz@v4.1.0
 - pkg:composer/casbin/laravel-authz@v4.1.1
-- pkg:composer/casbin/laravel-authz@v4.2.0
 - pkg:composer/casbin/laravel-authz@v5.0.0
