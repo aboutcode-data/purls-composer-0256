@@ -3,3 +3,4 @@
 - pkg:composer/contao-components/tristen-tablesort@5.5.0
 - pkg:composer/contao-components/tristen-tablesort@5.6.0
 - pkg:composer/contao-components/tristen-tablesort@5.7.0
+- pkg:composer/contao-components/tristen-tablesort@5.7.1
