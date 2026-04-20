@@ -39,6 +39,7 @@
 - pkg:composer/coagus/php-api-builder@v2.0.0-alpha.19
 - pkg:composer/coagus/php-api-builder@v2.0.0-alpha.20
 - pkg:composer/coagus/php-api-builder@v2.0.0-alpha.21
+- pkg:composer/coagus/php-api-builder@v2.0.0-alpha.22
 - pkg:composer/coagus/php-api-builder@v2.0.0-alpha.6
 - pkg:composer/coagus/php-api-builder@v2.0.0-alpha.7
 - pkg:composer/coagus/php-api-builder@v2.0.0-alpha.8
