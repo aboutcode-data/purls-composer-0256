@@ -54,6 +54,7 @@
 - pkg:composer/silinternational/google-api-php-client-mock@2.16.5
 - pkg:composer/silinternational/google-api-php-client-mock@2.17.0
 - pkg:composer/silinternational/google-api-php-client-mock@2.17.1
+- pkg:composer/silinternational/google-api-php-client-mock@2.17.2
 - pkg:composer/silinternational/google-api-php-client-mock@2.2.0
 - pkg:composer/silinternational/google-api-php-client-mock@2.2.1
 - pkg:composer/silinternational/google-api-php-client-mock@2.3.0
@@ -64,4 +65,5 @@
 - pkg:composer/silinternational/google-api-php-client-mock@2.7.0
 - pkg:composer/silinternational/google-api-php-client-mock@2.8.0
 - pkg:composer/silinternational/google-api-php-client-mock@2.9.0
+- pkg:composer/silinternational/google-api-php-client-mock@2026.04.19
 - pkg:composer/silinternational/google-api-php-client-mock@v2.1.0
