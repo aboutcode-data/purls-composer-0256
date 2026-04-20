@@ -11,7 +11,7 @@
 - pkg:composer/uhi67/umvc@2.0.2
 - pkg:composer/uhi67/umvc@2.1
 - pkg:composer/uhi67/umvc@2.2
-- pkg:composer/uhi67/umvc@3.0.0
+- pkg:composer/uhi67/umvc@3.0.0%2Buhi67
 - pkg:composer/uhi67/umvc@3.0.0-alpha.1
 - pkg:composer/uhi67/umvc@3.0.0-alpha.2
 - pkg:composer/uhi67/umvc@3.0.0-alpha.3
@@ -19,5 +19,6 @@
 - pkg:composer/uhi67/umvc@3.0.0-alpha.5
 - pkg:composer/uhi67/umvc@3.0.0-alpha.6
 - pkg:composer/uhi67/umvc@3.0.0-alpha.7
-- pkg:composer/uhi67/umvc@3.0.1
+- pkg:composer/uhi67/umvc@3.0.1%2Buhi67
 - pkg:composer/uhi67/umvc@3.0.2%2Buhi67
+- pkg:composer/uhi67/umvc@3.1.0%2Buhi67
