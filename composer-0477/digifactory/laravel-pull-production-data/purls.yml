@@ -21,3 +21,4 @@
 - pkg:composer/digifactory/laravel-pull-production-data@v4.2.1
 - pkg:composer/digifactory/laravel-pull-production-data@v5.0.0
 - pkg:composer/digifactory/laravel-pull-production-data@v5.0.1
+- pkg:composer/digifactory/laravel-pull-production-data@v5.0.2
