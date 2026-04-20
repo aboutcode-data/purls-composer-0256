@@ -66,6 +66,7 @@
 - pkg:composer/anourvalar/eloquent-request@2.10.6
 - pkg:composer/anourvalar/eloquent-request@2.10.7
 - pkg:composer/anourvalar/eloquent-request@2.10.8
+- pkg:composer/anourvalar/eloquent-request@2.10.9
 - pkg:composer/anourvalar/eloquent-request@2.2.0
 - pkg:composer/anourvalar/eloquent-request@2.2.1
 - pkg:composer/anourvalar/eloquent-request@2.2.2
