@@ -1,5 +1,1 @@
-- pkg:composer/baseons/framework@v1.1
-- pkg:composer/baseons/framework@v1.2
-- pkg:composer/baseons/framework@v1.4
-- pkg:composer/baseons/framework@v1.5
-- pkg:composer/baseons/framework@v1.6
+- pkg:composer/baseons/framework@v1.0.0

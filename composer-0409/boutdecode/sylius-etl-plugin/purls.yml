@@ -8,3 +8,4 @@
 - pkg:composer/boutdecode/sylius-etl-plugin@v0.9.7
 - pkg:composer/boutdecode/sylius-etl-plugin@v0.9.8
 - pkg:composer/boutdecode/sylius-etl-plugin@v1.0.0
+- pkg:composer/boutdecode/sylius-etl-plugin@v1.0.1
