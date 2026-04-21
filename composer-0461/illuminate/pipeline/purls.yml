@@ -321,6 +321,7 @@
 - pkg:composer/illuminate/pipeline@v13.3.0
 - pkg:composer/illuminate/pipeline@v13.4.0
 - pkg:composer/illuminate/pipeline@v13.5.0
+- pkg:composer/illuminate/pipeline@v13.6.0
 - pkg:composer/illuminate/pipeline@v5.0.0
 - pkg:composer/illuminate/pipeline@v5.0.22
 - pkg:composer/illuminate/pipeline@v5.0.25

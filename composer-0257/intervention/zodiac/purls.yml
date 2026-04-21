@@ -42,3 +42,4 @@
 - pkg:composer/intervention/zodiac@6.0.0-rc.3
 - pkg:composer/intervention/zodiac@6.0.0-rc.4
 - pkg:composer/intervention/zodiac@6.0.1
+- pkg:composer/intervention/zodiac@7.0.0
