@@ -1,3 +1,4 @@
 - pkg:composer/webfiori/cache@1.0.0
 - pkg:composer/webfiori/cache@1.1.0
 - pkg:composer/webfiori/cache@2.0.0
+- pkg:composer/webfiori/cache@3.0.0
