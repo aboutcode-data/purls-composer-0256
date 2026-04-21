@@ -30,6 +30,7 @@
 - pkg:composer/wearerequired/coding-standards@6.0.0-RC.0
 - pkg:composer/wearerequired/coding-standards@6.0.0-alpha.0
 - pkg:composer/wearerequired/coding-standards@6.0.0-alpha.1
+- pkg:composer/wearerequired/coding-standards@6.0.1
 - pkg:composer/wearerequired/coding-standards@6.0.1-alpha.0
 - pkg:composer/wearerequired/coding-standards@6.0.1-alpha.1
 - pkg:composer/wearerequired/coding-standards@6.0.1-alpha.2
