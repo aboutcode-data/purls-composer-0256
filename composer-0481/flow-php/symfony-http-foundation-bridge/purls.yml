@@ -34,3 +34,4 @@
 - pkg:composer/flow-php/symfony-http-foundation-bridge@0.34.3
 - pkg:composer/flow-php/symfony-http-foundation-bridge@0.35.0
 - pkg:composer/flow-php/symfony-http-foundation-bridge@0.35.1
+- pkg:composer/flow-php/symfony-http-foundation-bridge@0.36.0
