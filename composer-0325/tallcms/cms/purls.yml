@@ -80,3 +80,6 @@
 - pkg:composer/tallcms/cms@3.9.1
 - pkg:composer/tallcms/cms@3.9.2
 - pkg:composer/tallcms/cms@4.0.0
+- pkg:composer/tallcms/cms@4.0.1
+- pkg:composer/tallcms/cms@4.0.2
+- pkg:composer/tallcms/cms@4.0.3
