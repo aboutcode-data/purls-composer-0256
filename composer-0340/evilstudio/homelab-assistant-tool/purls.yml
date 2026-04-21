@@ -25,3 +25,7 @@
 - pkg:composer/evilstudio/homelab-assistant-tool@v2.2.3
 - pkg:composer/evilstudio/homelab-assistant-tool@v2.3.0
 - pkg:composer/evilstudio/homelab-assistant-tool@v2.3.1
+- pkg:composer/evilstudio/homelab-assistant-tool@v2.4.0
+- pkg:composer/evilstudio/homelab-assistant-tool@v2.4.1
+- pkg:composer/evilstudio/homelab-assistant-tool@v2.4.2
+- pkg:composer/evilstudio/homelab-assistant-tool@v2.4.3

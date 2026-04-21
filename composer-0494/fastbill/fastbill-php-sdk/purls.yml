@@ -29,3 +29,6 @@
 - pkg:composer/fastbill/fastbill-php-sdk@0.2.5
 - pkg:composer/fastbill/fastbill-php-sdk@0.2.6
 - pkg:composer/fastbill/fastbill-php-sdk@0.2.7
+- pkg:composer/fastbill/fastbill-php-sdk@0.2.8
+- pkg:composer/fastbill/fastbill-php-sdk@0.2.9
+- pkg:composer/fastbill/fastbill-php-sdk@0.3.0

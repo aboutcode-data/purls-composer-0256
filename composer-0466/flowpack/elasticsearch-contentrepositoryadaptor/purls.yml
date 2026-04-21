@@ -77,3 +77,4 @@
 - pkg:composer/flowpack/elasticsearch-contentrepositoryadaptor@9.0.1
 - pkg:composer/flowpack/elasticsearch-contentrepositoryadaptor@9.0.2
 - pkg:composer/flowpack/elasticsearch-contentrepositoryadaptor@9.0.3
+- pkg:composer/flowpack/elasticsearch-contentrepositoryadaptor@9.0.4
