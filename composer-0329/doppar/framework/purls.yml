@@ -242,8 +242,10 @@
 - pkg:composer/doppar/framework@v3.17.0
 - pkg:composer/doppar/framework@v3.18.0
 - pkg:composer/doppar/framework@v3.18.1
+- pkg:composer/doppar/framework@v3.19.0
 - pkg:composer/doppar/framework@v3.2.0
 - pkg:composer/doppar/framework@v3.2.1
+- pkg:composer/doppar/framework@v3.20.0
 - pkg:composer/doppar/framework@v3.3.0
 - pkg:composer/doppar/framework@v3.4.0
 - pkg:composer/doppar/framework@v3.4.1

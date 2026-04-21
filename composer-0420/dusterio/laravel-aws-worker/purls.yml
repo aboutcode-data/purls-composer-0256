@@ -44,3 +44,4 @@
 - pkg:composer/dusterio/laravel-aws-worker@v1.0.02
 - pkg:composer/dusterio/laravel-aws-worker@v1.0.03
 - pkg:composer/dusterio/laravel-aws-worker@v1.0.04
+- pkg:composer/dusterio/laravel-aws-worker@v1.0.05

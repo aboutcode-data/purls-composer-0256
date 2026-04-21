@@ -18,3 +18,4 @@
 - pkg:composer/enflow/laravel-svg@3.3.0
 - pkg:composer/enflow/laravel-svg@3.4.0
 - pkg:composer/enflow/laravel-svg@3.5.0
+- pkg:composer/enflow/laravel-svg@3.6.0
