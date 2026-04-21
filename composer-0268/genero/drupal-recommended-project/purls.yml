@@ -58,6 +58,7 @@
 - pkg:composer/genero/drupal-recommended-project@v1.60.0
 - pkg:composer/genero/drupal-recommended-project@v1.61.0
 - pkg:composer/genero/drupal-recommended-project@v1.62.0
+- pkg:composer/genero/drupal-recommended-project@v1.63.0
 - pkg:composer/genero/drupal-recommended-project@v1.7.0
 - pkg:composer/genero/drupal-recommended-project@v1.8.0
 - pkg:composer/genero/drupal-recommended-project@v1.9.0

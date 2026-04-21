@@ -1,2 +1,4 @@
 - pkg:composer/gosuperscript/monads@v1.0.0
 - pkg:composer/gosuperscript/monads@v1.1.0
+- pkg:composer/gosuperscript/monads@v1.1.1
+- pkg:composer/gosuperscript/monads@v1.2.0

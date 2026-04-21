@@ -8,3 +8,6 @@
 - pkg:composer/govorun/framework@v1.0.7
 - pkg:composer/govorun/framework@v1.0.8
 - pkg:composer/govorun/framework@v1.0.9
+- pkg:composer/govorun/framework@v1.1.0
+- pkg:composer/govorun/framework@v2.0.0
+- pkg:composer/govorun/framework@v2.1.0
