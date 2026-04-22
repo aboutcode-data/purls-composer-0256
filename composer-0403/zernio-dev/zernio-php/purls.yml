@@ -80,6 +80,9 @@
 - pkg:composer/zernio-dev/zernio-php@0.0.170
 - pkg:composer/zernio-dev/zernio-php@0.0.171
 - pkg:composer/zernio-dev/zernio-php@0.0.172
+- pkg:composer/zernio-dev/zernio-php@0.0.173
+- pkg:composer/zernio-dev/zernio-php@0.0.174
+- pkg:composer/zernio-dev/zernio-php@0.0.175
 - pkg:composer/zernio-dev/zernio-php@0.0.18
 - pkg:composer/zernio-dev/zernio-php@0.0.19
 - pkg:composer/zernio-dev/zernio-php@0.0.2
