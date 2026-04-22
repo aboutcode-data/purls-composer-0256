@@ -72,3 +72,4 @@
 - pkg:composer/flarum-lang/french@v4.8.0
 - pkg:composer/flarum-lang/french@v4.8.1
 - pkg:composer/flarum-lang/french@v4.9.0
+- pkg:composer/flarum-lang/french@v5.0.0
