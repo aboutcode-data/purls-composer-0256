@@ -12,3 +12,4 @@
 - pkg:composer/justbetter/statamic-postcodeservice@2.2.0
 - pkg:composer/justbetter/statamic-postcodeservice@2.3.0
 - pkg:composer/justbetter/statamic-postcodeservice@2.3.1
+- pkg:composer/justbetter/statamic-postcodeservice@3.0.0

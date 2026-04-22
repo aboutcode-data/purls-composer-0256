@@ -22,3 +22,4 @@
 - pkg:composer/jobrouter/typo3-connector@v3.0.1
 - pkg:composer/jobrouter/typo3-connector@v4.0.0
 - pkg:composer/jobrouter/typo3-connector@v4.0.1
+- pkg:composer/jobrouter/typo3-connector@v5.0.0

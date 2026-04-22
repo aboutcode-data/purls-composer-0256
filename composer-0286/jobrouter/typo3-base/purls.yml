@@ -8,3 +8,4 @@
 - pkg:composer/jobrouter/typo3-base@v2.0.0
 - pkg:composer/jobrouter/typo3-base@v3.0.0
 - pkg:composer/jobrouter/typo3-base@v4.0.0
+- pkg:composer/jobrouter/typo3-base@v5.0.0
