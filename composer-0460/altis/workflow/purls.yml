@@ -35,8 +35,10 @@
 - pkg:composer/altis/workflow@13.0.5
 - pkg:composer/altis/workflow@13.0.6
 - pkg:composer/altis/workflow@13.0.7
+- pkg:composer/altis/workflow@13.0.8
 - pkg:composer/altis/workflow@15.0.0
 - pkg:composer/altis/workflow@15.0.0-beta.1
+- pkg:composer/altis/workflow@15.0.1
 - pkg:composer/altis/workflow@2.0.0
 - pkg:composer/altis/workflow@2.0.0-beta1
 - pkg:composer/altis/workflow@2.0.0-beta2
