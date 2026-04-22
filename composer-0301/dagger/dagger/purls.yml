@@ -79,7 +79,6 @@
 - pkg:composer/dagger/dagger@v0.20.3
 - pkg:composer/dagger/dagger@v0.20.4
 - pkg:composer/dagger/dagger@v0.20.5
-- pkg:composer/dagger/dagger@v0.20.6
 - pkg:composer/dagger/dagger@v0.9.10
 - pkg:composer/dagger/dagger@v0.9.11
 - pkg:composer/dagger/dagger@v0.9.5
