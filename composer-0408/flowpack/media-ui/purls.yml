@@ -43,6 +43,7 @@
 - pkg:composer/flowpack/media-ui@2.0.1
 - pkg:composer/flowpack/media-ui@2.0.2
 - pkg:composer/flowpack/media-ui@2.0.3
+- pkg:composer/flowpack/media-ui@2.1.0-rc1
 - pkg:composer/flowpack/media-ui@3.0.0
 - pkg:composer/flowpack/media-ui@3.0.0-beta1
 - pkg:composer/flowpack/media-ui@3.0.1
