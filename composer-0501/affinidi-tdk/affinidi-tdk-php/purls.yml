@@ -16,6 +16,7 @@
 - pkg:composer/affinidi-tdk/affinidi-tdk-php@v1.2.0
 - pkg:composer/affinidi-tdk/affinidi-tdk-php@v1.2.1
 - pkg:composer/affinidi-tdk/affinidi-tdk-php@v1.20.0
+- pkg:composer/affinidi-tdk/affinidi-tdk-php@v1.21.0
 - pkg:composer/affinidi-tdk/affinidi-tdk-php@v1.3.0
 - pkg:composer/affinidi-tdk/affinidi-tdk-php@v1.4.0
 - pkg:composer/affinidi-tdk/affinidi-tdk-php@v1.5.0
