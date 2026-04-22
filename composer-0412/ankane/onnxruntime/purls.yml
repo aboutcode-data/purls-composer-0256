@@ -19,3 +19,4 @@
 - pkg:composer/ankane/onnxruntime@v0.2.9
 - pkg:composer/ankane/onnxruntime@v0.3.0
 - pkg:composer/ankane/onnxruntime@v0.3.1
+- pkg:composer/ankane/onnxruntime@v0.3.2
