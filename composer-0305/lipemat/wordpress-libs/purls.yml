@@ -170,6 +170,8 @@
 - pkg:composer/lipemat/wordpress-libs@5.1.3
 - pkg:composer/lipemat/wordpress-libs@5.1.4
 - pkg:composer/lipemat/wordpress-libs@5.10.1
+- pkg:composer/lipemat/wordpress-libs@5.10.2
+- pkg:composer/lipemat/wordpress-libs@5.10.3
 - pkg:composer/lipemat/wordpress-libs@5.2.0
 - pkg:composer/lipemat/wordpress-libs@5.2.1
 - pkg:composer/lipemat/wordpress-libs@5.2.2
@@ -184,6 +186,7 @@
 - pkg:composer/lipemat/wordpress-libs@5.7.0-beta.1
 - pkg:composer/lipemat/wordpress-libs@5.8.0
 - pkg:composer/lipemat/wordpress-libs@5.9.0
+- pkg:composer/lipemat/wordpress-libs@6.0.0-beta.1
 - pkg:composer/lipemat/wordpress-libs@v2.15.0
 - pkg:composer/lipemat/wordpress-libs@v2.15.1
 - pkg:composer/lipemat/wordpress-libs@v2.16.0

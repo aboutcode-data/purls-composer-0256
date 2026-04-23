@@ -63,3 +63,5 @@
 - pkg:composer/lesjoursfr/mandrill-api-php@2.1.5
 - pkg:composer/lesjoursfr/mandrill-api-php@2.1.6
 - pkg:composer/lesjoursfr/mandrill-api-php@2.1.7
+- pkg:composer/lesjoursfr/mandrill-api-php@2.1.8
+- pkg:composer/lesjoursfr/mandrill-api-php@2.2.0
