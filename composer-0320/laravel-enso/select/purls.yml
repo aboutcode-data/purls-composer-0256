@@ -185,3 +185,4 @@
 - pkg:composer/laravel-enso/select@5.1.0
 - pkg:composer/laravel-enso/select@5.1.1
 - pkg:composer/laravel-enso/select@5.1.2
+- pkg:composer/laravel-enso/select@5.1.3

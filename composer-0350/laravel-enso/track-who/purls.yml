@@ -66,3 +66,4 @@
 - pkg:composer/laravel-enso/track-who@2.3.0
 - pkg:composer/laravel-enso/track-who@2.4.0
 - pkg:composer/laravel-enso/track-who@3.0.0
+- pkg:composer/laravel-enso/track-who@3.0.1

@@ -110,6 +110,8 @@
 - pkg:composer/laravel/installer@v5.25.1
 - pkg:composer/laravel/installer@v5.25.2
 - pkg:composer/laravel/installer@v5.25.3
+- pkg:composer/laravel/installer@v5.26.0
+- pkg:composer/laravel/installer@v5.26.1
 - pkg:composer/laravel/installer@v5.3.0
 - pkg:composer/laravel/installer@v5.4.0
 - pkg:composer/laravel/installer@v5.5.0
