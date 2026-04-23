@@ -68,6 +68,7 @@
 - pkg:composer/aplazo/aplazopayment@3.4.2
 - pkg:composer/aplazo/aplazopayment@4.0.0
 - pkg:composer/aplazo/aplazopayment@4.0.1
+- pkg:composer/aplazo/aplazopayment@4.0.10
 - pkg:composer/aplazo/aplazopayment@4.0.2
 - pkg:composer/aplazo/aplazopayment@4.0.3
 - pkg:composer/aplazo/aplazopayment@4.0.4
