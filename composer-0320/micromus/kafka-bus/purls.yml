@@ -24,3 +24,6 @@
 - pkg:composer/micromus/kafka-bus@v0.6.7
 - pkg:composer/micromus/kafka-bus@v0.6.8
 - pkg:composer/micromus/kafka-bus@v1.0.0-RC1
+- pkg:composer/micromus/kafka-bus@v1.0.0-RC2
+- pkg:composer/micromus/kafka-bus@v1.0.0-RC3
+- pkg:composer/micromus/kafka-bus@v1.0.0-RC4

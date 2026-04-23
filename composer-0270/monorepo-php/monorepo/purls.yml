@@ -5,3 +5,6 @@
 - pkg:composer/monorepo-php/monorepo@12.4.5
 - pkg:composer/monorepo-php/monorepo@12.5.1
 - pkg:composer/monorepo-php/monorepo@12.5.2
+- pkg:composer/monorepo-php/monorepo@12.6.0
+- pkg:composer/monorepo-php/monorepo@12.6.1
+- pkg:composer/monorepo-php/monorepo@12.6.2

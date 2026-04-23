@@ -6,3 +6,4 @@
 - pkg:composer/microsoft/kiota-serialization-form@1.5.2
 - pkg:composer/microsoft/kiota-serialization-form@2.0.0
 - pkg:composer/microsoft/kiota-serialization-form@2.0.1
+- pkg:composer/microsoft/kiota-serialization-form@2.0.2

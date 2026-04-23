@@ -31,3 +31,5 @@
 - pkg:composer/medienbaecker/kirby-modules@2.8.4
 - pkg:composer/medienbaecker/kirby-modules@2.9.3
 - pkg:composer/medienbaecker/kirby-modules@3.0.0
+- pkg:composer/medienbaecker/kirby-modules@5.0.0-rc.2
+- pkg:composer/medienbaecker/kirby-modules@5.0.0-rc.3
