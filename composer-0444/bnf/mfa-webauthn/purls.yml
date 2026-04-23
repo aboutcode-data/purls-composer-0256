@@ -16,3 +16,5 @@
 - pkg:composer/bnf/mfa-webauthn@1.2.3
 - pkg:composer/bnf/mfa-webauthn@1.2.4
 - pkg:composer/bnf/mfa-webauthn@1.2.5
+- pkg:composer/bnf/mfa-webauthn@1.2.6
+- pkg:composer/bnf/mfa-webauthn@1.3.0
