@@ -21,6 +21,8 @@
 - pkg:composer/idetik/coretik@v1.13.1
 - pkg:composer/idetik/coretik@v1.13.2
 - pkg:composer/idetik/coretik@v1.13.3
+- pkg:composer/idetik/coretik@v1.13.4
+- pkg:composer/idetik/coretik@v1.13.5
 - pkg:composer/idetik/coretik@v1.2.0
 - pkg:composer/idetik/coretik@v1.2.1
 - pkg:composer/idetik/coretik@v1.2.10

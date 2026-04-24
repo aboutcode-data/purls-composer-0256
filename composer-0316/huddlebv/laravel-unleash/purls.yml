@@ -8,3 +8,5 @@
 - pkg:composer/huddlebv/laravel-unleash@3.0.0
 - pkg:composer/huddlebv/laravel-unleash@v2.3.1
 - pkg:composer/huddlebv/laravel-unleash@v4.0.0
+- pkg:composer/huddlebv/laravel-unleash@v4.1.0
+- pkg:composer/huddlebv/laravel-unleash@v4.1.1
