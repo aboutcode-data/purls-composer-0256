@@ -72,3 +72,4 @@
 - pkg:composer/friendsofsymfony/elastica-bundle@v6.5.1
 - pkg:composer/friendsofsymfony/elastica-bundle@v6.6.0
 - pkg:composer/friendsofsymfony/elastica-bundle@v7.0.0
+- pkg:composer/friendsofsymfony/elastica-bundle@v7.1.0
