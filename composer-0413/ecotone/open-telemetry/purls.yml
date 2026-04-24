@@ -199,3 +199,4 @@
 - pkg:composer/ecotone/open-telemetry@1.309.0
 - pkg:composer/ecotone/open-telemetry@1.309.1
 - pkg:composer/ecotone/open-telemetry@1.309.2
+- pkg:composer/ecotone/open-telemetry@1.309.3
