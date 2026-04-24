@@ -970,6 +970,7 @@
 - pkg:composer/craftcms/cms@4.17.12
 - pkg:composer/craftcms/cms@4.17.13
 - pkg:composer/craftcms/cms@4.17.13.1
+- pkg:composer/craftcms/cms@4.17.14
 - pkg:composer/craftcms/cms@4.17.2
 - pkg:composer/craftcms/cms@4.17.3
 - pkg:composer/craftcms/cms@4.17.4
