@@ -8,3 +8,4 @@
 - pkg:composer/monorepo-php/monorepo@12.6.0
 - pkg:composer/monorepo-php/monorepo@12.6.1
 - pkg:composer/monorepo-php/monorepo@12.6.2
+- pkg:composer/monorepo-php/monorepo@12.7.0

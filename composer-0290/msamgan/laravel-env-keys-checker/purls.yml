@@ -10,3 +10,4 @@
 - pkg:composer/msamgan/laravel-env-keys-checker@v1.8.0
 - pkg:composer/msamgan/laravel-env-keys-checker@v1.9.0
 - pkg:composer/msamgan/laravel-env-keys-checker@v1.9.1
+- pkg:composer/msamgan/laravel-env-keys-checker@v2.0.0

@@ -14,3 +14,4 @@
 - pkg:composer/mozex/laravel-scout-bulk-actions@1.5.1
 - pkg:composer/mozex/laravel-scout-bulk-actions@1.5.2
 - pkg:composer/mozex/laravel-scout-bulk-actions@1.6.0
+- pkg:composer/mozex/laravel-scout-bulk-actions@1.7.0

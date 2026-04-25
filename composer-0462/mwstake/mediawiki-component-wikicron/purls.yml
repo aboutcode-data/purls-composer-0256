@@ -13,3 +13,6 @@
 - pkg:composer/mwstake/mediawiki-component-wikicron@2.0.4
 - pkg:composer/mwstake/mediawiki-component-wikicron@3.0.0
 - pkg:composer/mwstake/mediawiki-component-wikicron@3.0.1
+- pkg:composer/mwstake/mediawiki-component-wikicron@3.1.0
+- pkg:composer/mwstake/mediawiki-component-wikicron@3.1.1
+- pkg:composer/mwstake/mediawiki-component-wikicron@4.0.0
