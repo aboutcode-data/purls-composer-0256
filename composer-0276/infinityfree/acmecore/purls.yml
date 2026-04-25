@@ -24,3 +24,6 @@
 - pkg:composer/infinityfree/acmecore@3.1.1
 - pkg:composer/infinityfree/acmecore@3.2.0
 - pkg:composer/infinityfree/acmecore@4.0.0
+- pkg:composer/infinityfree/acmecore@4.1.0
+- pkg:composer/infinityfree/acmecore@4.1.1
+- pkg:composer/infinityfree/acmecore@4.1.2
