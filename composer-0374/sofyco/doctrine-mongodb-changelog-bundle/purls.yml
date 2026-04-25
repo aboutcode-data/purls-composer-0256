@@ -7,3 +7,4 @@
 - pkg:composer/sofyco/doctrine-mongodb-changelog-bundle@1.2.3
 - pkg:composer/sofyco/doctrine-mongodb-changelog-bundle@2.0.0
 - pkg:composer/sofyco/doctrine-mongodb-changelog-bundle@3.0.0
+- pkg:composer/sofyco/doctrine-mongodb-changelog-bundle@4.0.0

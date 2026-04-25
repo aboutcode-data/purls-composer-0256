@@ -49,6 +49,8 @@
 - pkg:composer/spryker/product-category@4.30.0
 - pkg:composer/spryker/product-category@4.31.0
 - pkg:composer/spryker/product-category@4.32.0
+- pkg:composer/spryker/product-category@4.33.0
+- pkg:composer/spryker/product-category@4.33.1
 - pkg:composer/spryker/product-category@4.4.0
 - pkg:composer/spryker/product-category@4.4.1
 - pkg:composer/spryker/product-category@4.4.2
