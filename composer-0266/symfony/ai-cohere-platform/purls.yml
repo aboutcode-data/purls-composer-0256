@@ -1,1 +1,2 @@
 - pkg:composer/symfony/ai-cohere-platform@v0.7.0
+- pkg:composer/symfony/ai-cohere-platform@v0.8.0

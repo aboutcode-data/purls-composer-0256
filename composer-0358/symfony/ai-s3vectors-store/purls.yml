@@ -1,2 +1,3 @@
 - pkg:composer/symfony/ai-s3vectors-store@v0.6.0
 - pkg:composer/symfony/ai-s3vectors-store@v0.7.0
+- pkg:composer/symfony/ai-s3vectors-store@v0.8.0
