@@ -39,3 +39,4 @@
 - pkg:composer/johnshopkins/http-exchange@v1.0.1
 - pkg:composer/johnshopkins/http-exchange@v1.0.2
 - pkg:composer/johnshopkins/http-exchange@v1.0.3
+- pkg:composer/johnshopkins/http-exchange@v1.0.4
