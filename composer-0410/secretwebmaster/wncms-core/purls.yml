@@ -108,5 +108,6 @@
 - pkg:composer/secretwebmaster/wncms-core@v6.3.5
 - pkg:composer/secretwebmaster/wncms-core@v6.3.6
 - pkg:composer/secretwebmaster/wncms-core@v6.3.7
+- pkg:composer/secretwebmaster/wncms-core@v6.3.8
 - pkg:composer/secretwebmaster/wncms-core@v6.3.8-alpha1
 - pkg:composer/secretwebmaster/wncms-core@v6.3.8-alpha2

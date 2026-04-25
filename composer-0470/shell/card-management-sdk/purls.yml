@@ -5,3 +5,4 @@
 - pkg:composer/shell/card-management-sdk@1.4.0
 - pkg:composer/shell/card-management-sdk@2.0.0
 - pkg:composer/shell/card-management-sdk@2.0.1
+- pkg:composer/shell/card-management-sdk@3.0.0

@@ -10,3 +10,4 @@
 - pkg:composer/silverstripe/silverstripe-forager-bifrost@1.2.1
 - pkg:composer/silverstripe/silverstripe-forager-bifrost@2.0.0
 - pkg:composer/silverstripe/silverstripe-forager-bifrost@2.0.1
+- pkg:composer/silverstripe/silverstripe-forager-bifrost@2.0.2
