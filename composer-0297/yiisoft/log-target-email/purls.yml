@@ -5,3 +5,4 @@
 - pkg:composer/yiisoft/log-target-email@3.1.0
 - pkg:composer/yiisoft/log-target-email@4.0.0
 - pkg:composer/yiisoft/log-target-email@4.1.0
+- pkg:composer/yiisoft/log-target-email@4.2.0
