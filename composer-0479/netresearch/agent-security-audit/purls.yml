@@ -20,3 +20,4 @@
 - pkg:composer/netresearch/agent-security-audit@v2.6.0
 - pkg:composer/netresearch/agent-security-audit@v2.7.0
 - pkg:composer/netresearch/agent-security-audit@v2.8.0
+- pkg:composer/netresearch/agent-security-audit@v2.8.1
