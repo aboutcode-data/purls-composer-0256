@@ -76,6 +76,7 @@
 - pkg:composer/qbnk/jobqueue-protocol@5.0.7
 - pkg:composer/qbnk/jobqueue-protocol@5.0.8
 - pkg:composer/qbnk/jobqueue-protocol@5.0.9
+- pkg:composer/qbnk/jobqueue-protocol@5.1.0
 - pkg:composer/qbnk/jobqueue-protocol@v0.1.0
 - pkg:composer/qbnk/jobqueue-protocol@v0.1.1
 - pkg:composer/qbnk/jobqueue-protocol@v0.1.10

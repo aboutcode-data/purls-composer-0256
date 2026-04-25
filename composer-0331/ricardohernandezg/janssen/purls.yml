@@ -1,3 +1,4 @@
+- pkg:composer/ricardohernandezg/janssen@v0
 - pkg:composer/ricardohernandezg/janssen@v0.1-beta
 - pkg:composer/ricardohernandezg/janssen@v0.2-beta
 - pkg:composer/ricardohernandezg/janssen@v0.3-beta
@@ -53,3 +54,5 @@
 - pkg:composer/ricardohernandezg/janssen@v0.8.81
 - pkg:composer/ricardohernandezg/janssen@v0.8.82
 - pkg:composer/ricardohernandezg/janssen@v0.8.83
+- pkg:composer/ricardohernandezg/janssen@v0.8.84
+- pkg:composer/ricardohernandezg/janssen@v0.8.85

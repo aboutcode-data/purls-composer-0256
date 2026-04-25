@@ -5,3 +5,5 @@
 - pkg:composer/rubricate/element@v0.4.0
 - pkg:composer/rubricate/element@v1.0.0
 - pkg:composer/rubricate/element@v2.2.0
+- pkg:composer/rubricate/element@v2.2.1
+- pkg:composer/rubricate/element@v3.0.0

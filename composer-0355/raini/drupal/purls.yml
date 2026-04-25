@@ -10,6 +10,8 @@
 - pkg:composer/raini/drupal@1.0.0-beta9
 - pkg:composer/raini/drupal@1.0.0-rc1
 - pkg:composer/raini/drupal@1.0.0-rc10
+- pkg:composer/raini/drupal@1.0.0-rc11
+- pkg:composer/raini/drupal@1.0.0-rc12
 - pkg:composer/raini/drupal@1.0.0-rc2
 - pkg:composer/raini/drupal@1.0.0-rc3
 - pkg:composer/raini/drupal@1.0.0-rc4

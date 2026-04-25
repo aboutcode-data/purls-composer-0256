@@ -11,3 +11,5 @@
 - pkg:composer/pvariablis/sql2func@0.8.3
 - pkg:composer/pvariablis/sql2func@0.8.4
 - pkg:composer/pvariablis/sql2func@0.9.0
+- pkg:composer/pvariablis/sql2func@0.9.42
+- pkg:composer/pvariablis/sql2func@1.0.0

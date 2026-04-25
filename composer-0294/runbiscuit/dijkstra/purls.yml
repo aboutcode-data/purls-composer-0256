@@ -1,3 +1,4 @@
 - pkg:composer/runbiscuit/dijkstra@v1.0.0
 - pkg:composer/runbiscuit/dijkstra@v1.1.0
 - pkg:composer/runbiscuit/dijkstra@v1.1.1
+- pkg:composer/runbiscuit/dijkstra@v2.0.0

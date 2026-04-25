@@ -42,3 +42,4 @@
 - pkg:composer/rodrigopedra/record-processor@v5.1.0
 - pkg:composer/rodrigopedra/record-processor@v6.0.0
 - pkg:composer/rodrigopedra/record-processor@v6.0.1
+- pkg:composer/rodrigopedra/record-processor@v6.0.2
