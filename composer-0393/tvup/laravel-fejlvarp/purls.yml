@@ -24,6 +24,8 @@
 - pkg:composer/tvup/laravel-fejlvarp@v12.0.0
 - pkg:composer/tvup/laravel-fejlvarp@v12.1.0
 - pkg:composer/tvup/laravel-fejlvarp@v12.1.1
+- pkg:composer/tvup/laravel-fejlvarp@v12.2.0
+- pkg:composer/tvup/laravel-fejlvarp@v12.2.1
 - pkg:composer/tvup/laravel-fejlvarp@v9.0.0
 - pkg:composer/tvup/laravel-fejlvarp@v9.0.1
 - pkg:composer/tvup/laravel-fejlvarp@v9.0.2

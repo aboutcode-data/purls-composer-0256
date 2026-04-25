@@ -15,6 +15,7 @@
 - pkg:composer/typo3/minimal@v13.1.0
 - pkg:composer/typo3/minimal@v13.4.0
 - pkg:composer/typo3/minimal@v14.0.0
+- pkg:composer/typo3/minimal@v14.3.0
 - pkg:composer/typo3/minimal@v7.0.0
 - pkg:composer/typo3/minimal@v7.6.0
 - pkg:composer/typo3/minimal@v8.0.0

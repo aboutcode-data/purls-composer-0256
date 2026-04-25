@@ -1,5 +1,8 @@
 - pkg:composer/upassist/neos-mcp@0.2.0
 - pkg:composer/upassist/neos-mcp@1.0.0
+- pkg:composer/upassist/neos-mcp@1.0.1
 - pkg:composer/upassist/neos-mcp@2.0.0
 - pkg:composer/upassist/neos-mcp@2.0.1
 - pkg:composer/upassist/neos-mcp@2.0.2
+- pkg:composer/upassist/neos-mcp@2.0.3
+- pkg:composer/upassist/neos-mcp@2.0.4

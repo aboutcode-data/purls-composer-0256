@@ -50,3 +50,4 @@
 - pkg:composer/voku/simple-cache@4.1.0
 - pkg:composer/voku/simple-cache@5.0.0
 - pkg:composer/voku/simple-cache@6.0.0
+- pkg:composer/voku/simple-cache@6.1.0

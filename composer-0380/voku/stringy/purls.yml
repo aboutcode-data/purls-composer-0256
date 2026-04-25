@@ -92,3 +92,5 @@
 - pkg:composer/voku/stringy@6.5.1
 - pkg:composer/voku/stringy@6.5.2
 - pkg:composer/voku/stringy@6.5.3
+- pkg:composer/voku/stringy@7.0.0
+- pkg:composer/voku/stringy@7.0.1

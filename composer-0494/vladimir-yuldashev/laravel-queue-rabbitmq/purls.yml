@@ -43,6 +43,7 @@
 - pkg:composer/vladimir-yuldashev/laravel-queue-rabbitmq@v14.2.0
 - pkg:composer/vladimir-yuldashev/laravel-queue-rabbitmq@v14.3.0
 - pkg:composer/vladimir-yuldashev/laravel-queue-rabbitmq@v14.4.0
+- pkg:composer/vladimir-yuldashev/laravel-queue-rabbitmq@v14.5.0
 - pkg:composer/vladimir-yuldashev/laravel-queue-rabbitmq@v6.0.0
 - pkg:composer/vladimir-yuldashev/laravel-queue-rabbitmq@v6.0.1
 - pkg:composer/vladimir-yuldashev/laravel-queue-rabbitmq@v6.0.2
