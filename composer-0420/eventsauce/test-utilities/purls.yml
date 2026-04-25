@@ -13,3 +13,4 @@
 - pkg:composer/eventsauce/test-utilities@3.4.0
 - pkg:composer/eventsauce/test-utilities@3.6.1
 - pkg:composer/eventsauce/test-utilities@3.6.2
+- pkg:composer/eventsauce/test-utilities@3.9.0

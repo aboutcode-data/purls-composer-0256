@@ -6,3 +6,5 @@
 - pkg:composer/ez-php/bignum@1.7.0
 - pkg:composer/ez-php/bignum@1.7.1
 - pkg:composer/ez-php/bignum@1.8.0
+- pkg:composer/ez-php/bignum@1.9.0
+- pkg:composer/ez-php/bignum@1.9.1
