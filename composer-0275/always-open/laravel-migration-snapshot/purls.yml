@@ -28,3 +28,4 @@
 - pkg:composer/always-open/laravel-migration-snapshot@v4.6.3
 - pkg:composer/always-open/laravel-migration-snapshot@v4.6.4
 - pkg:composer/always-open/laravel-migration-snapshot@v4.6.5
+- pkg:composer/always-open/laravel-migration-snapshot@v5.0

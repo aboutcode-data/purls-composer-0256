@@ -1,3 +1,4 @@
 - pkg:composer/app-dev-panel/adapter-yiisoft@0.0.1
 - pkg:composer/app-dev-panel/adapter-yiisoft@v0.0.4
 - pkg:composer/app-dev-panel/adapter-yiisoft@v0.1
+- pkg:composer/app-dev-panel/adapter-yiisoft@v0.2
