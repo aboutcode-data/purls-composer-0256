@@ -10,3 +10,4 @@
 - pkg:composer/oxid-esales/geo-blocking-module@v2.3.0
 - pkg:composer/oxid-esales/geo-blocking-module@v2.3.0-rc.1
 - pkg:composer/oxid-esales/geo-blocking-module@v2.4.0
+- pkg:composer/oxid-esales/geo-blocking-module@v2.5.0

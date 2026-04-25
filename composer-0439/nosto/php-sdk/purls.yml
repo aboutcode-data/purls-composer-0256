@@ -169,3 +169,4 @@
 - pkg:composer/nosto/php-sdk@7.7.1
 - pkg:composer/nosto/php-sdk@7.7.2
 - pkg:composer/nosto/php-sdk@7.7.3
+- pkg:composer/nosto/php-sdk@7.7.4

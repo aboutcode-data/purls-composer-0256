@@ -19,3 +19,4 @@
 - pkg:composer/nolanos/laravel-doctrine-factory@v2.0.1
 - pkg:composer/nolanos/laravel-doctrine-factory@v3.0.0
 - pkg:composer/nolanos/laravel-doctrine-factory@v3.1.0
+- pkg:composer/nolanos/laravel-doctrine-factory@v3.2.0

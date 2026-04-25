@@ -65,3 +65,4 @@
 - pkg:composer/oasis/http@v2.4.1
 - pkg:composer/oasis/http@v2.4.1-alpha1
 - pkg:composer/oasis/http@v2.4.1-alpha2
+- pkg:composer/oasis/http@v2.5.0

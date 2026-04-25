@@ -588,6 +588,11 @@
 - pkg:composer/open-foundations/kirby-base@3.1.58
 - pkg:composer/open-foundations/kirby-base@3.1.59
 - pkg:composer/open-foundations/kirby-base@3.1.60
+- pkg:composer/open-foundations/kirby-base@3.1.61
+- pkg:composer/open-foundations/kirby-base@3.1.62
+- pkg:composer/open-foundations/kirby-base@3.1.63
+- pkg:composer/open-foundations/kirby-base@3.1.64
+- pkg:composer/open-foundations/kirby-base@3.1.65
 - pkg:composer/open-foundations/kirby-base@3.1.9
 - pkg:composer/open-foundations/kirby-base@v1.0.0
 - pkg:composer/open-foundations/kirby-base@v1.0.1

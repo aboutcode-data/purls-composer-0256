@@ -1,5 +1,6 @@
 - pkg:composer/pantheon-systems/terminus-addons-installer-plugin@1.0.0
 - pkg:composer/pantheon-systems/terminus-addons-installer-plugin@v1.0.1
+- pkg:composer/pantheon-systems/terminus-addons-installer-plugin@v1.0.10
 - pkg:composer/pantheon-systems/terminus-addons-installer-plugin@v1.0.2
 - pkg:composer/pantheon-systems/terminus-addons-installer-plugin@v1.0.3
 - pkg:composer/pantheon-systems/terminus-addons-installer-plugin@v1.0.4
