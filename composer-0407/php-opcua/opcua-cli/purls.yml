@@ -3,3 +3,5 @@
 - pkg:composer/php-opcua/opcua-cli@v4.0.2
 - pkg:composer/php-opcua/opcua-cli@v4.1.0
 - pkg:composer/php-opcua/opcua-cli@v4.2.0
+- pkg:composer/php-opcua/opcua-cli@v4.3.0
+- pkg:composer/php-opcua/opcua-cli@v4.3.0-rc

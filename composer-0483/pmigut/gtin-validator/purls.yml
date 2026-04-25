@@ -6,3 +6,4 @@
 - pkg:composer/pmigut/gtin-validator@1.2.1
 - pkg:composer/pmigut/gtin-validator@1.2.2
 - pkg:composer/pmigut/gtin-validator@1.2.3
+- pkg:composer/pmigut/gtin-validator@2.0.0
