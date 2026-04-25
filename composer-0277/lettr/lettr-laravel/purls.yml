@@ -1,3 +1,4 @@
+- pkg:composer/lettr/lettr-laravel@2.0.0
 - pkg:composer/lettr/lettr-laravel@v0.1.0
 - pkg:composer/lettr/lettr-laravel@v0.10.0
 - pkg:composer/lettr/lettr-laravel@v0.11.0
