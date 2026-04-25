@@ -10,3 +10,4 @@
 - pkg:composer/pocketarc/laravel-integrations@1.8.0
 - pkg:composer/pocketarc/laravel-integrations@1.9.0
 - pkg:composer/pocketarc/laravel-integrations@1.9.1
+- pkg:composer/pocketarc/laravel-integrations@2.0.0

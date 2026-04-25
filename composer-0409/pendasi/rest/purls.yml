@@ -1,7 +1,4 @@
-- pkg:composer/pendasi/rest@1.0.0
-- pkg:composer/pendasi/rest@1.0.1
 - pkg:composer/pendasi/rest@1.2.1
-- pkg:composer/pendasi/rest@v0.6.0
 - pkg:composer/pendasi/rest@v1.0.2
 - pkg:composer/pendasi/rest@v1.1.0
 - pkg:composer/pendasi/rest@v1.1.1
