@@ -63,3 +63,4 @@
 - pkg:composer/php-extended/php-domain-object@9.0.2
 - pkg:composer/php-extended/php-domain-object@9.0.3
 - pkg:composer/php-extended/php-domain-object@9.0.4
+- pkg:composer/php-extended/php-domain-object@9.0.5
