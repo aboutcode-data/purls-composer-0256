@@ -45,8 +45,10 @@
 - pkg:composer/inertiaui/modal@2.0.1
 - pkg:composer/inertiaui/modal@2.0.2
 - pkg:composer/inertiaui/modal@2.0.3
+- pkg:composer/inertiaui/modal@2.1.0
 - pkg:composer/inertiaui/modal@3.0.0
 - pkg:composer/inertiaui/modal@3.0.1
+- pkg:composer/inertiaui/modal@3.1.0
 - pkg:composer/inertiaui/modal@v1.0.0-beta.1
 - pkg:composer/inertiaui/modal@v1.0.0-beta.2
 - pkg:composer/inertiaui/modal@v1.0.0-beta.3
