@@ -20,6 +20,7 @@
 - pkg:composer/sentience/database@v2.12.7
 - pkg:composer/sentience/database@v2.12.8
 - pkg:composer/sentience/database@v2.12.9
+- pkg:composer/sentience/database@v2.13.0
 - pkg:composer/sentience/database@v2.2.0
 - pkg:composer/sentience/database@v2.2.1
 - pkg:composer/sentience/database@v2.2.2
