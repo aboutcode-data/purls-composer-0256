@@ -354,6 +354,8 @@
 - pkg:composer/uxf/cms@3.78.0
 - pkg:composer/uxf/cms@3.78.2
 - pkg:composer/uxf/cms@3.78.3
+- pkg:composer/uxf/cms@3.78.5
+- pkg:composer/uxf/cms@3.78.6
 - pkg:composer/uxf/cms@3.8.0
 - pkg:composer/uxf/cms@3.8.1
 - pkg:composer/uxf/cms@3.8.2
