@@ -20,3 +20,5 @@
 - pkg:composer/nolanos/laravel-doctrine-factory@v3.0.0
 - pkg:composer/nolanos/laravel-doctrine-factory@v3.1.0
 - pkg:composer/nolanos/laravel-doctrine-factory@v3.2.0
+- pkg:composer/nolanos/laravel-doctrine-factory@v3.3.0
+- pkg:composer/nolanos/laravel-doctrine-factory@v3.3.1

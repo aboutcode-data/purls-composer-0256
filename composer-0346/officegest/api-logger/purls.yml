@@ -10,3 +10,4 @@
 - pkg:composer/officegest/api-logger@1.5.0
 - pkg:composer/officegest/api-logger@1.6.0
 - pkg:composer/officegest/api-logger@1.6.1
+- pkg:composer/officegest/api-logger@2.0.0
