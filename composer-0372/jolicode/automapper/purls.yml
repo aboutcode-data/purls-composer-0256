@@ -3,6 +3,7 @@
 - pkg:composer/jolicode/automapper@10.0.2
 - pkg:composer/jolicode/automapper@10.0.3
 - pkg:composer/jolicode/automapper@10.1.0
+- pkg:composer/jolicode/automapper@10.2.0
 - pkg:composer/jolicode/automapper@8.0.0
 - pkg:composer/jolicode/automapper@8.0.1
 - pkg:composer/jolicode/automapper@8.0.2
@@ -25,3 +26,4 @@
 - pkg:composer/jolicode/automapper@9.4.0
 - pkg:composer/jolicode/automapper@9.4.1
 - pkg:composer/jolicode/automapper@9.5.0
+- pkg:composer/jolicode/automapper@9.5.1
