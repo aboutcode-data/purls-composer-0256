@@ -1,1 +1,2 @@
 - pkg:composer/teamneusta/pimcore-http-cache-bundle@0.7.0
+- pkg:composer/teamneusta/pimcore-http-cache-bundle@v0.7.1

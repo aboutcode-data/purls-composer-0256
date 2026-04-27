@@ -112,6 +112,7 @@
 - pkg:composer/therealworld/tools-plugin@v2.3.18
 - pkg:composer/therealworld/tools-plugin@v2.3.19
 - pkg:composer/therealworld/tools-plugin@v2.3.2
+- pkg:composer/therealworld/tools-plugin@v2.3.20
 - pkg:composer/therealworld/tools-plugin@v2.3.3
 - pkg:composer/therealworld/tools-plugin@v2.3.4
 - pkg:composer/therealworld/tools-plugin@v2.3.5
@@ -161,6 +162,7 @@
 - pkg:composer/therealworld/tools-plugin@v3.0.44
 - pkg:composer/therealworld/tools-plugin@v3.0.45
 - pkg:composer/therealworld/tools-plugin@v3.0.46
+- pkg:composer/therealworld/tools-plugin@v3.0.47
 - pkg:composer/therealworld/tools-plugin@v3.0.5
 - pkg:composer/therealworld/tools-plugin@v3.0.6
 - pkg:composer/therealworld/tools-plugin@v3.0.7
