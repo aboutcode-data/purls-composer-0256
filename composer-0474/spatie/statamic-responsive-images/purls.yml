@@ -1,4 +1,5 @@
 - pkg:composer/spatie/statamic-responsive-images@6.0.0
+- pkg:composer/spatie/statamic-responsive-images@6.1.0
 - pkg:composer/spatie/statamic-responsive-images@v1.0.0
 - pkg:composer/spatie/statamic-responsive-images@v1.1.0
 - pkg:composer/spatie/statamic-responsive-images@v1.2.0

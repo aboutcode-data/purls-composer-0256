@@ -54,6 +54,7 @@
 - pkg:composer/spryker/cart@7.14.0
 - pkg:composer/spryker/cart@7.15.0
 - pkg:composer/spryker/cart@7.16.0
+- pkg:composer/spryker/cart@7.17.0
 - pkg:composer/spryker/cart@7.2.0
 - pkg:composer/spryker/cart@7.2.1
 - pkg:composer/spryker/cart@7.3.0

@@ -11,3 +11,4 @@
 - pkg:composer/spryker/flysystem-aws3v3-file-system@3.1.0
 - pkg:composer/spryker/flysystem-aws3v3-file-system@3.1.1
 - pkg:composer/spryker/flysystem-aws3v3-file-system@3.1.2
+- pkg:composer/spryker/flysystem-aws3v3-file-system@3.2.0
