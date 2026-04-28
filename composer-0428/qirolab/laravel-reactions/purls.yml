@@ -13,3 +13,5 @@
 - pkg:composer/qirolab/laravel-reactions@3.0.0
 - pkg:composer/qirolab/laravel-reactions@3.1.0
 - pkg:composer/qirolab/laravel-reactions@3.2.0
+- pkg:composer/qirolab/laravel-reactions@3.2.1
+- pkg:composer/qirolab/laravel-reactions@3.2.2
