@@ -5,3 +5,5 @@
 - pkg:composer/oasis/doctrine-addon@v2.0.0
 - pkg:composer/oasis/doctrine-addon@v2.0.1
 - pkg:composer/oasis/doctrine-addon@v2.0.2
+- pkg:composer/oasis/doctrine-addon@v2.1.0
+- pkg:composer/oasis/doctrine-addon@v3.0.0
