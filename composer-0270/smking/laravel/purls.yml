@@ -5,3 +5,14 @@
 - pkg:composer/smking/laravel@v0.2.2
 - pkg:composer/smking/laravel@v0.2.3
 - pkg:composer/smking/laravel@v0.2.4
+- pkg:composer/smking/laravel@v0.3.0
+- pkg:composer/smking/laravel@v0.4.0
+- pkg:composer/smking/laravel@v0.5.0
+- pkg:composer/smking/laravel@v0.6.0
+- pkg:composer/smking/laravel@v0.6.1
+- pkg:composer/smking/laravel@v0.6.2
+- pkg:composer/smking/laravel@v0.7.0
+- pkg:composer/smking/laravel@v0.7.1
+- pkg:composer/smking/laravel@v0.7.2
+- pkg:composer/smking/laravel@v0.7.3
+- pkg:composer/smking/laravel@v0.7.4
