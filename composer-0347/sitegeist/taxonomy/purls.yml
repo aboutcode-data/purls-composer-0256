@@ -21,6 +21,7 @@
 - pkg:composer/sitegeist/taxonomy@v1.3.9
 - pkg:composer/sitegeist/taxonomy@v1.4.0
 - pkg:composer/sitegeist/taxonomy@v1.4.1
+- pkg:composer/sitegeist/taxonomy@v1.4.2
 - pkg:composer/sitegeist/taxonomy@v2.0.0
 - pkg:composer/sitegeist/taxonomy@v2.0.1
 - pkg:composer/sitegeist/taxonomy@v2.0.2

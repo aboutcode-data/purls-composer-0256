@@ -1,3 +1,6 @@
+- pkg:composer/sirosoft/core@0.10.0
+- pkg:composer/sirosoft/core@0.11.0
+- pkg:composer/sirosoft/core@0.12.0
 - pkg:composer/sirosoft/core@0.7.10
 - pkg:composer/sirosoft/core@0.8.0
 - pkg:composer/sirosoft/core@0.8.1
@@ -9,3 +12,4 @@
 - pkg:composer/sirosoft/core@0.8.7
 - pkg:composer/sirosoft/core@0.8.8
 - pkg:composer/sirosoft/core@0.8.9
+- pkg:composer/sirosoft/core@0.9.0
