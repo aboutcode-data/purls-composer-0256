@@ -119,3 +119,4 @@
 - pkg:composer/oro/commerce-crm@6.1.7
 - pkg:composer/oro/commerce-crm@7.0.0
 - pkg:composer/oro/commerce-crm@7.0.0-rc
+- pkg:composer/oro/commerce-crm@7.0.1

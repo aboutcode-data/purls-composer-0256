@@ -285,3 +285,4 @@
 - pkg:composer/oro/crm@6.1.9
 - pkg:composer/oro/crm@7.0.0
 - pkg:composer/oro/crm@7.0.0-rc
+- pkg:composer/oro/crm@7.0.1
