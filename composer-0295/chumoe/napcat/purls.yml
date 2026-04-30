@@ -1,4 +1,1 @@
-- pkg:composer/chumoe/napcat@0.1
-- pkg:composer/chumoe/napcat@0.2
-- pkg:composer/chumoe/napcat@0.3
-- pkg:composer/chumoe/napcat@0.4
+- pkg:composer/chumoe/napcat@v1.0.0

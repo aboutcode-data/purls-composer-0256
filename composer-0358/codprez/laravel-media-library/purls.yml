@@ -2,3 +2,5 @@
 - pkg:composer/codprez/laravel-media-library@v1.1.0
 - pkg:composer/codprez/laravel-media-library@v1.2.0
 - pkg:composer/codprez/laravel-media-library@v1.3.0
+- pkg:composer/codprez/laravel-media-library@v1.4.0
+- pkg:composer/codprez/laravel-media-library@v1.4.1

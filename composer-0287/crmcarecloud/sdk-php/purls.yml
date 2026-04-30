@@ -18,3 +18,4 @@
 - pkg:composer/crmcarecloud/sdk-php@4.3.0
 - pkg:composer/crmcarecloud/sdk-php@5.0.0
 - pkg:composer/crmcarecloud/sdk-php@5.1.0
+- pkg:composer/crmcarecloud/sdk-php@5.2.0

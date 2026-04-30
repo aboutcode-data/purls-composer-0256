@@ -1,3 +1,1 @@
-- pkg:composer/codesoup/metabox-schema@0.0.1
-- pkg:composer/codesoup/metabox-schema@0.0.2
-- pkg:composer/codesoup/metabox-schema@0.0.3
+- pkg:composer/codesoup/metabox-schema@v1.1.0
