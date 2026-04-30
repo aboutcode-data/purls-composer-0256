@@ -89,6 +89,7 @@
 - pkg:composer/7elix/styleguide@v13.4.25
 - pkg:composer/7elix/styleguide@v13.4.26
 - pkg:composer/7elix/styleguide@v13.4.27
+- pkg:composer/7elix/styleguide@v13.4.28
 - pkg:composer/7elix/styleguide@v13.4.3
 - pkg:composer/7elix/styleguide@v13.4.4
 - pkg:composer/7elix/styleguide@v13.4.5
@@ -102,3 +103,4 @@
 - pkg:composer/7elix/styleguide@v14.1.0
 - pkg:composer/7elix/styleguide@v14.1.1
 - pkg:composer/7elix/styleguide@v14.2.0
+- pkg:composer/7elix/styleguide@v14.3.0

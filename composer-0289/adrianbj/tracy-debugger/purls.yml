@@ -279,6 +279,9 @@
 - pkg:composer/adrianbj/tracy-debugger@4.27.6
 - pkg:composer/adrianbj/tracy-debugger@4.27.7
 - pkg:composer/adrianbj/tracy-debugger@5.0.1
+- pkg:composer/adrianbj/tracy-debugger@5.0.10
+- pkg:composer/adrianbj/tracy-debugger@5.0.11
+- pkg:composer/adrianbj/tracy-debugger@5.0.12
 - pkg:composer/adrianbj/tracy-debugger@5.0.2
 - pkg:composer/adrianbj/tracy-debugger@5.0.3
 - pkg:composer/adrianbj/tracy-debugger@5.0.4
