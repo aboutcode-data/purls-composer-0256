@@ -11,3 +11,4 @@
 - pkg:composer/bayfrontmedia/bones-service-orm@v1.4.0
 - pkg:composer/bayfrontmedia/bones-service-orm@v1.5.0
 - pkg:composer/bayfrontmedia/bones-service-orm@v1.6.0
+- pkg:composer/bayfrontmedia/bones-service-orm@v1.6.1

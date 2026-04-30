@@ -1,1 +1,5 @@
 - pkg:composer/atk14/session-storer@v1.0
+- pkg:composer/atk14/session-storer@v1.1
+- pkg:composer/atk14/session-storer@v1.2
+- pkg:composer/atk14/session-storer@v1.2.1
+- pkg:composer/atk14/session-storer@v1.2.2
