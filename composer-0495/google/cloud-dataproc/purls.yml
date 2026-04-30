@@ -53,6 +53,7 @@
 - pkg:composer/google/cloud-dataproc@v2.0.0-RC1
 - pkg:composer/google/cloud-dataproc@v2.0.1
 - pkg:composer/google/cloud-dataproc@v2.1.0
+- pkg:composer/google/cloud-dataproc@v2.10.0
 - pkg:composer/google/cloud-dataproc@v2.2.0
 - pkg:composer/google/cloud-dataproc@v2.2.1
 - pkg:composer/google/cloud-dataproc@v2.2.2

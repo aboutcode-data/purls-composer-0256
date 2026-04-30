@@ -29,7 +29,10 @@
 - pkg:composer/hhttp/io@v1.1.35
 - pkg:composer/hhttp/io@v1.1.36
 - pkg:composer/hhttp/io@v1.1.37
+- pkg:composer/hhttp/io@v1.1.38
+- pkg:composer/hhttp/io@v1.1.39
 - pkg:composer/hhttp/io@v1.1.4
+- pkg:composer/hhttp/io@v1.1.40
 - pkg:composer/hhttp/io@v1.1.5
 - pkg:composer/hhttp/io@v1.1.6
 - pkg:composer/hhttp/io@v1.1.7

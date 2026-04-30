@@ -14,8 +14,12 @@
 - pkg:composer/horde/mail@2.6.6
 - pkg:composer/horde/mail@3.0.0alpha1
 - pkg:composer/horde/mail@3.0.0alpha2
+- pkg:composer/horde/mail@v2.7.0
+- pkg:composer/horde/mail@v2.7.1
+- pkg:composer/horde/mail@v2.7.2
 - pkg:composer/horde/mail@v3.0.0alpha3
 - pkg:composer/horde/mail@v3.0.0alpha4
 - pkg:composer/horde/mail@v3.0.0alpha5
 - pkg:composer/horde/mail@v3.0.0alpha6
 - pkg:composer/horde/mail@v3.0.0beta1
+- pkg:composer/horde/mail@v3.0.0beta2

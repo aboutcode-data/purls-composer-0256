@@ -14,3 +14,7 @@
 - pkg:composer/govorun/framework@v3.0.0
 - pkg:composer/govorun/framework@v3.0.1
 - pkg:composer/govorun/framework@v3.1.0
+- pkg:composer/govorun/framework@v3.2.0
+- pkg:composer/govorun/framework@v3.2.1
+- pkg:composer/govorun/framework@v3.3.0
+- pkg:composer/govorun/framework@v3.4.0

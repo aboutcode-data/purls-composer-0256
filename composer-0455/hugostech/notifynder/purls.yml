@@ -87,3 +87,5 @@
 - pkg:composer/hugostech/notifynder@4.2.1-rc
 - pkg:composer/hugostech/notifynder@4.3.0
 - pkg:composer/hugostech/notifynder@4.3.0-rc
+- pkg:composer/hugostech/notifynder@4.4.0
+- pkg:composer/hugostech/notifynder@5.0.0
