@@ -78,6 +78,10 @@
 - pkg:composer/wenfeng/hyperf-ext-telegram@v1.7.11
 - pkg:composer/wenfeng/hyperf-ext-telegram@v1.7.12
 - pkg:composer/wenfeng/hyperf-ext-telegram@v1.7.13
+- pkg:composer/wenfeng/hyperf-ext-telegram@v1.7.14
+- pkg:composer/wenfeng/hyperf-ext-telegram@v1.7.15
+- pkg:composer/wenfeng/hyperf-ext-telegram@v1.7.16
+- pkg:composer/wenfeng/hyperf-ext-telegram@v1.7.17
 - pkg:composer/wenfeng/hyperf-ext-telegram@v1.7.2
 - pkg:composer/wenfeng/hyperf-ext-telegram@v1.7.3
 - pkg:composer/wenfeng/hyperf-ext-telegram@v1.7.4

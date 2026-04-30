@@ -34,3 +34,4 @@
 - pkg:composer/wfeller/laravel-batch@7.0.5
 - pkg:composer/wfeller/laravel-batch@7.0.6
 - pkg:composer/wfeller/laravel-batch@7.0.7
+- pkg:composer/wfeller/laravel-batch@7.1.0
