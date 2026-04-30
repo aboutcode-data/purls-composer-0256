@@ -21,3 +21,4 @@
 - pkg:composer/splitphp/core@v2.2.8
 - pkg:composer/splitphp/core@v2.2.9
 - pkg:composer/splitphp/core@v2.3.0
+- pkg:composer/splitphp/core@v2.3.1
