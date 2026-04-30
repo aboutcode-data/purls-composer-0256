@@ -19,3 +19,4 @@
 - pkg:composer/uspacy/uspacy-php-sdk@0.21.0-beta
 - pkg:composer/uspacy/uspacy-php-sdk@0.22.0-beta
 - pkg:composer/uspacy/uspacy-php-sdk@0.22.1-beta
+- pkg:composer/uspacy/uspacy-php-sdk@1.0.0-beta

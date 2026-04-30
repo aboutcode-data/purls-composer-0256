@@ -15,6 +15,8 @@
 - pkg:composer/tio/laravel@v1.21
 - pkg:composer/tio/laravel@v1.22
 - pkg:composer/tio/laravel@v1.23
+- pkg:composer/tio/laravel@v1.24
+- pkg:composer/tio/laravel@v1.25
 - pkg:composer/tio/laravel@v1.3
 - pkg:composer/tio/laravel@v1.4
 - pkg:composer/tio/laravel@v1.5
