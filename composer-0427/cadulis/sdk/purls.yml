@@ -35,6 +35,7 @@
 - pkg:composer/cadulis/sdk@1.7.9
 - pkg:composer/cadulis/sdk@1.8.0
 - pkg:composer/cadulis/sdk@1.8.1
+- pkg:composer/cadulis/sdk@1.8.10
 - pkg:composer/cadulis/sdk@1.8.2
 - pkg:composer/cadulis/sdk@1.8.3
 - pkg:composer/cadulis/sdk@1.8.4
