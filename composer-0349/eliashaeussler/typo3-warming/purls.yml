@@ -97,3 +97,5 @@
 - pkg:composer/eliashaeussler/typo3-warming@5.1.0
 - pkg:composer/eliashaeussler/typo3-warming@5.1.1
 - pkg:composer/eliashaeussler/typo3-warming@5.2.0
+- pkg:composer/eliashaeussler/typo3-warming@5.3.0
+- pkg:composer/eliashaeussler/typo3-warming@5.3.1

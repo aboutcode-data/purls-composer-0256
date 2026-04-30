@@ -3,6 +3,7 @@
 - pkg:composer/eduardokum/laravel-boleto@0.10.1
 - pkg:composer/eduardokum/laravel-boleto@0.11
 - pkg:composer/eduardokum/laravel-boleto@0.11.1
+- pkg:composer/eduardokum/laravel-boleto@0.11.2
 - pkg:composer/eduardokum/laravel-boleto@0.2
 - pkg:composer/eduardokum/laravel-boleto@0.3
 - pkg:composer/eduardokum/laravel-boleto@0.3.1
