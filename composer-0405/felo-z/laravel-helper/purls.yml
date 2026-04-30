@@ -1,2 +1,4 @@
 - pkg:composer/felo-z/laravel-helper@v1.0.0
 - pkg:composer/felo-z/laravel-helper@v1.1.0
+- pkg:composer/felo-z/laravel-helper@v2.0.0
+- pkg:composer/felo-z/laravel-helper@v3.0.0
