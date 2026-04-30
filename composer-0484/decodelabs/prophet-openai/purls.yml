@@ -9,3 +9,4 @@
 - pkg:composer/decodelabs/prophet-openai@v0.2.6
 - pkg:composer/decodelabs/prophet-openai@v0.2.7
 - pkg:composer/decodelabs/prophet-openai@v0.3.0
+- pkg:composer/decodelabs/prophet-openai@v0.4.0

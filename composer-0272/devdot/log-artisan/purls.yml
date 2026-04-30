@@ -9,3 +9,4 @@
 - pkg:composer/devdot/log-artisan@v2.3.1
 - pkg:composer/devdot/log-artisan@v2.4
 - pkg:composer/devdot/log-artisan@v2.5
+- pkg:composer/devdot/log-artisan@v2.6

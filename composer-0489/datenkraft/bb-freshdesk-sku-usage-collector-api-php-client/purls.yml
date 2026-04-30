@@ -14,3 +14,4 @@
 - pkg:composer/datenkraft/bb-freshdesk-sku-usage-collector-api-php-client@v1.3.7
 - pkg:composer/datenkraft/bb-freshdesk-sku-usage-collector-api-php-client@v1.3.8
 - pkg:composer/datenkraft/bb-freshdesk-sku-usage-collector-api-php-client@v1.3.9
+- pkg:composer/datenkraft/bb-freshdesk-sku-usage-collector-api-php-client@v1.4.0
