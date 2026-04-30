@@ -70,3 +70,5 @@
 - pkg:composer/ilebora/core-slim-sec@v1.2.4
 - pkg:composer/ilebora/core-slim-sec@v1.2.5
 - pkg:composer/ilebora/core-slim-sec@v1.2.6
+- pkg:composer/ilebora/core-slim-sec@v1.2.7
+- pkg:composer/ilebora/core-slim-sec@v1.2.8

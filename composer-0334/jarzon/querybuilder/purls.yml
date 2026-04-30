@@ -109,4 +109,7 @@
 - pkg:composer/jarzon/querybuilder@v1.0.3
 - pkg:composer/jarzon/querybuilder@v1.0.4
 - pkg:composer/jarzon/querybuilder@v1.0.6
+- pkg:composer/jarzon/querybuilder@v1.0.7
+- pkg:composer/jarzon/querybuilder@v1.0.8
+- pkg:composer/jarzon/querybuilder@v1.0.9
 - pkg:composer/jarzon/querybuilder@v1.9.14
