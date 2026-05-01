@@ -121,3 +121,5 @@
 - pkg:composer/tallcms/cms@4.4.6
 - pkg:composer/tallcms/cms@4.4.7
 - pkg:composer/tallcms/cms@4.4.8
+- pkg:composer/tallcms/cms@4.4.9
+- pkg:composer/tallcms/cms@4.5.0
