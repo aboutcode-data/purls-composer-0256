@@ -1,0 +1,5 @@
+- pkg:composer/shubo/module-shipping-core@0.11.1
+- pkg:composer/shubo/module-shipping-core@0.11.2
+- pkg:composer/shubo/module-shipping-core@v0.11.3
+- pkg:composer/shubo/module-shipping-core@v0.11.4
+- pkg:composer/shubo/module-shipping-core@v0.12.0
