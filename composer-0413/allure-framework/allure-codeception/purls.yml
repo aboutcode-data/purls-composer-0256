@@ -27,3 +27,4 @@
 - pkg:composer/allure-framework/allure-codeception@v2.2.0
 - pkg:composer/allure-framework/allure-codeception@v2.3.0
 - pkg:composer/allure-framework/allure-codeception@v2.4.0
+- pkg:composer/allure-framework/allure-codeception@v2.5.0
