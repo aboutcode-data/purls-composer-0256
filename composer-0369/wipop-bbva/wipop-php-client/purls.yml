@@ -1,3 +1,5 @@
+- pkg:composer/wipop-bbva/wipop-php-client@0.1.0
+- pkg:composer/wipop-bbva/wipop-php-client@0.1.1
 - pkg:composer/wipop-bbva/wipop-php-client@v0.8.0
 - pkg:composer/wipop-bbva/wipop-php-client@v0.8.1
 - pkg:composer/wipop-bbva/wipop-php-client@v0.8.2
