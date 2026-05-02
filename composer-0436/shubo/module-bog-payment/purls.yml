@@ -1,2 +1,3 @@
 - pkg:composer/shubo/module-bog-payment@v1.0.0
 - pkg:composer/shubo/module-bog-payment@v1.1.0
+- pkg:composer/shubo/module-bog-payment@v1.1.1
