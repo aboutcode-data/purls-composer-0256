@@ -75,3 +75,4 @@
 - pkg:composer/casbin/casbin@v4.0.7
 - pkg:composer/casbin/casbin@v4.1.0
 - pkg:composer/casbin/casbin@v4.1.1
+- pkg:composer/casbin/casbin@v4.2.0
