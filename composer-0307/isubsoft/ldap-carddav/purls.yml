@@ -15,3 +15,4 @@
 - pkg:composer/isubsoft/ldap-carddav@v0.8-alpha
 - pkg:composer/isubsoft/ldap-carddav@v1.0.0
 - pkg:composer/isubsoft/ldap-carddav@v1.0.1
+- pkg:composer/isubsoft/ldap-carddav@v1.0.2

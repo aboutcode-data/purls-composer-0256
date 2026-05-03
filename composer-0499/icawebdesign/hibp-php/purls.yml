@@ -43,3 +43,6 @@
 - pkg:composer/icawebdesign/hibp-php@6.6.0
 - pkg:composer/icawebdesign/hibp-php@6.6.1
 - pkg:composer/icawebdesign/hibp-php@6.7.0
+- pkg:composer/icawebdesign/hibp-php@6.8.0
+- pkg:composer/icawebdesign/hibp-php@6.8.1
+- pkg:composer/icawebdesign/hibp-php@6.8.2
