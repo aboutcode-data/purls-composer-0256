@@ -10,3 +10,6 @@
 - pkg:composer/fromholdio/silverstripe-elemental-base@1.1.0
 - pkg:composer/fromholdio/silverstripe-elemental-base@2.0.0
 - pkg:composer/fromholdio/silverstripe-elemental-base@2.1.0
+- pkg:composer/fromholdio/silverstripe-elemental-base@2.2.0
+- pkg:composer/fromholdio/silverstripe-elemental-base@3.0.0
+- pkg:composer/fromholdio/silverstripe-elemental-base@3.1.0

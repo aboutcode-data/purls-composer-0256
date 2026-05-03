@@ -1,4 +1,5 @@
 - pkg:composer/frontastic/catwalk@1.0.0
+- pkg:composer/frontastic/catwalk@1.0.0-alpha.2
 - pkg:composer/frontastic/catwalk@1.0.0-alpha.3
 - pkg:composer/frontastic/catwalk@1.0.0-alpha.4
 - pkg:composer/frontastic/catwalk@1.0.0-alpha.5

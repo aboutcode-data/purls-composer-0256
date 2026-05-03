@@ -4,3 +4,4 @@
 - pkg:composer/fromholdio/silverstripe-superlinker-targets@2.0.1
 - pkg:composer/fromholdio/silverstripe-superlinker-targets@2.1.0
 - pkg:composer/fromholdio/silverstripe-superlinker-targets@3.0.0
+- pkg:composer/fromholdio/silverstripe-superlinker-targets@4.0.0
