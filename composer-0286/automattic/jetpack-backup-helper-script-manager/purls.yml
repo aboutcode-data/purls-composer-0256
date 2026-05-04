@@ -18,3 +18,4 @@
 - pkg:composer/automattic/jetpack-backup-helper-script-manager@v0.3.6
 - pkg:composer/automattic/jetpack-backup-helper-script-manager@v0.3.7
 - pkg:composer/automattic/jetpack-backup-helper-script-manager@v0.3.8
+- pkg:composer/automattic/jetpack-backup-helper-script-manager@v0.3.9
