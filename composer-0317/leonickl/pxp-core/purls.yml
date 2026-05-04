@@ -48,6 +48,8 @@
 - pkg:composer/leonickl/pxp-core@v3.0.8-BETA
 - pkg:composer/leonickl/pxp-core@v3.0.9-BETA
 - pkg:composer/leonickl/pxp-core@v3.1.0
+- pkg:composer/leonickl/pxp-core@v3.10.0
+- pkg:composer/leonickl/pxp-core@v3.10.1
 - pkg:composer/leonickl/pxp-core@v3.2.0
 - pkg:composer/leonickl/pxp-core@v3.2.1
 - pkg:composer/leonickl/pxp-core@v3.2.2
@@ -57,3 +59,14 @@
 - pkg:composer/leonickl/pxp-core@v3.2.6
 - pkg:composer/leonickl/pxp-core@v3.2.7
 - pkg:composer/leonickl/pxp-core@v3.2.8
+- pkg:composer/leonickl/pxp-core@v3.3.0
+- pkg:composer/leonickl/pxp-core@v3.4.0
+- pkg:composer/leonickl/pxp-core@v3.5.0
+- pkg:composer/leonickl/pxp-core@v3.6.0
+- pkg:composer/leonickl/pxp-core@v3.6.1
+- pkg:composer/leonickl/pxp-core@v3.7.0
+- pkg:composer/leonickl/pxp-core@v3.7.1
+- pkg:composer/leonickl/pxp-core@v3.7.2
+- pkg:composer/leonickl/pxp-core@v3.7.3
+- pkg:composer/leonickl/pxp-core@v3.8.0
+- pkg:composer/leonickl/pxp-core@v3.9.0

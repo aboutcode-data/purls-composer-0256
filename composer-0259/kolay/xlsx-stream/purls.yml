@@ -1,3 +1,9 @@
 - pkg:composer/kolay/xlsx-stream@v1.0.0
 - pkg:composer/kolay/xlsx-stream@v1.0.1
 - pkg:composer/kolay/xlsx-stream@v1.0.2
+- pkg:composer/kolay/xlsx-stream@v2.0.0
+- pkg:composer/kolay/xlsx-stream@v2.0.1
+- pkg:composer/kolay/xlsx-stream@v2.1.0
+- pkg:composer/kolay/xlsx-stream@v2.2.0
+- pkg:composer/kolay/xlsx-stream@v2.2.1
+- pkg:composer/kolay/xlsx-stream@v2.2.2

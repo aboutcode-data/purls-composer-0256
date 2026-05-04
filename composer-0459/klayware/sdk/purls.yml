@@ -36,3 +36,5 @@
 - pkg:composer/klayware/sdk@v1.7.8
 - pkg:composer/klayware/sdk@v1.8
 - pkg:composer/klayware/sdk@v1.9.1
+- pkg:composer/klayware/sdk@v1.9.2
+- pkg:composer/klayware/sdk@v1.9.3

@@ -13,3 +13,4 @@
 - pkg:composer/lambdatt-php/log@v0.2.5
 - pkg:composer/lambdatt-php/log@v0.2.6
 - pkg:composer/lambdatt-php/log@v0.2.7
+- pkg:composer/lambdatt-php/log@v0.2.8

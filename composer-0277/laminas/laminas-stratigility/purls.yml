@@ -53,6 +53,7 @@
 - pkg:composer/laminas/laminas-stratigility@3.12.0
 - pkg:composer/laminas/laminas-stratigility@3.13.0
 - pkg:composer/laminas/laminas-stratigility@3.14.0
+- pkg:composer/laminas/laminas-stratigility@3.14.1
 - pkg:composer/laminas/laminas-stratigility@3.2.0
 - pkg:composer/laminas/laminas-stratigility@3.2.0p1
 - pkg:composer/laminas/laminas-stratigility@3.2.0p2
@@ -71,3 +72,4 @@
 - pkg:composer/laminas/laminas-stratigility@4.1.0
 - pkg:composer/laminas/laminas-stratigility@4.2.0
 - pkg:composer/laminas/laminas-stratigility@4.3.0
+- pkg:composer/laminas/laminas-stratigility@4.3.1

@@ -13,3 +13,4 @@
 - pkg:composer/laravel-enso/facebook@2.5.1
 - pkg:composer/laravel-enso/facebook@2.6.0
 - pkg:composer/laravel-enso/facebook@2.6.1
+- pkg:composer/laravel-enso/facebook@2.6.2
