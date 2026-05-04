@@ -34,4 +34,5 @@
 - pkg:composer/crmcarecloud/api-php-client@4.4.0
 - pkg:composer/crmcarecloud/api-php-client@4.5.0
 - pkg:composer/crmcarecloud/api-php-client@4.6.0
+- pkg:composer/crmcarecloud/api-php-client@4.7.0
 - pkg:composer/crmcarecloud/api-php-client@v2.0.0
