@@ -256,6 +256,7 @@
 - pkg:composer/doppar/framework@v3.24.0
 - pkg:composer/doppar/framework@v3.25.0
 - pkg:composer/doppar/framework@v3.25.1
+- pkg:composer/doppar/framework@v3.25.2
 - pkg:composer/doppar/framework@v3.3.0
 - pkg:composer/doppar/framework@v3.4.0
 - pkg:composer/doppar/framework@v3.4.1
