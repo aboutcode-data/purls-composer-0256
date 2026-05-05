@@ -6,7 +6,10 @@
 - pkg:composer/fromholdio/silverstripe-superlinker-redirection@2.0.0
 - pkg:composer/fromholdio/silverstripe-superlinker-redirection@2.0.1
 - pkg:composer/fromholdio/silverstripe-superlinker-redirection@2.1.0
+- pkg:composer/fromholdio/silverstripe-superlinker-redirection@2.1.1
 - pkg:composer/fromholdio/silverstripe-superlinker-redirection@3.0.0
 - pkg:composer/fromholdio/silverstripe-superlinker-redirection@3.0.1
 - pkg:composer/fromholdio/silverstripe-superlinker-redirection@3.0.2
+- pkg:composer/fromholdio/silverstripe-superlinker-redirection@3.0.3
 - pkg:composer/fromholdio/silverstripe-superlinker-redirection@4.0.0
+- pkg:composer/fromholdio/silverstripe-superlinker-redirection@4.0.1
