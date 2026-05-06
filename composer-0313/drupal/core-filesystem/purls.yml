@@ -159,6 +159,7 @@
 - pkg:composer/drupal/core-filesystem@11.3.6
 - pkg:composer/drupal/core-filesystem@11.3.7
 - pkg:composer/drupal/core-filesystem@11.3.8
+- pkg:composer/drupal/core-filesystem@11.3.9
 - pkg:composer/drupal/core-filesystem@8.1.10
 - pkg:composer/drupal/core-filesystem@8.1.2
 - pkg:composer/drupal/core-filesystem@8.1.3
