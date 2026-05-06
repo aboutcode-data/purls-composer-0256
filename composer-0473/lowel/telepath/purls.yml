@@ -21,3 +21,5 @@
 - pkg:composer/lowel/telepath@0.5.8
 - pkg:composer/lowel/telepath@0.6.0
 - pkg:composer/lowel/telepath@0.6.1
+- pkg:composer/lowel/telepath@0.6.2
+- pkg:composer/lowel/telepath@0.6.3
