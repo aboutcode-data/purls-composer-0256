@@ -20,6 +20,7 @@
 - pkg:composer/digital-marketing-framework/typo3-core@3.0.0
 - pkg:composer/digital-marketing-framework/typo3-core@3.1.0
 - pkg:composer/digital-marketing-framework/typo3-core@3.1.1
+- pkg:composer/digital-marketing-framework/typo3-core@3.10.0
 - pkg:composer/digital-marketing-framework/typo3-core@3.2.0
 - pkg:composer/digital-marketing-framework/typo3-core@3.3.0
 - pkg:composer/digital-marketing-framework/typo3-core@3.3.1
