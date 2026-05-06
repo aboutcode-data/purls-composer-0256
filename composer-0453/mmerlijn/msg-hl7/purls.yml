@@ -71,3 +71,6 @@
 - pkg:composer/mmerlijn/msg-hl7@v3.2.7
 - pkg:composer/mmerlijn/msg-hl7@v3.2.8
 - pkg:composer/mmerlijn/msg-hl7@v3.2.9
+- pkg:composer/mmerlijn/msg-hl7@v3.3.0
+- pkg:composer/mmerlijn/msg-hl7@v3.4.0
+- pkg:composer/mmerlijn/msg-hl7@v3.4.1

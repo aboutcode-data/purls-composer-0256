@@ -1,1 +1,3 @@
 - pkg:composer/moxyrus/telegram-bot-sdk@3.1
+- pkg:composer/moxyrus/telegram-bot-sdk@3.2
+- pkg:composer/moxyrus/telegram-bot-sdk@3.2.1

@@ -1,1 +1,6 @@
+- pkg:composer/niels-numbers/laravel-localizer@v0.10.0
 - pkg:composer/niels-numbers/laravel-localizer@v0.9.0
+- pkg:composer/niels-numbers/laravel-localizer@v1.0.0
+- pkg:composer/niels-numbers/laravel-localizer@v1.0.1
+- pkg:composer/niels-numbers/laravel-localizer@v1.1.0
+- pkg:composer/niels-numbers/laravel-localizer@v1.1.1
