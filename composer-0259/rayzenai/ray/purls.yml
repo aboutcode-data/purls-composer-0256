@@ -1,1 +1,3 @@
+- pkg:composer/rayzenai/ray@1.0.1
+- pkg:composer/rayzenai/ray@2.0.0
 - pkg:composer/rayzenai/ray@v1.0.0
