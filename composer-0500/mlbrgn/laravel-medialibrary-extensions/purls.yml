@@ -56,6 +56,9 @@
 - pkg:composer/mlbrgn/laravel-medialibrary-extensions@2.2.1
 - pkg:composer/mlbrgn/laravel-medialibrary-extensions@2.3.0
 - pkg:composer/mlbrgn/laravel-medialibrary-extensions@2.3.1
+- pkg:composer/mlbrgn/laravel-medialibrary-extensions@2.3.10
+- pkg:composer/mlbrgn/laravel-medialibrary-extensions@2.3.11
+- pkg:composer/mlbrgn/laravel-medialibrary-extensions@2.3.12
 - pkg:composer/mlbrgn/laravel-medialibrary-extensions@2.3.2
 - pkg:composer/mlbrgn/laravel-medialibrary-extensions@2.3.3
 - pkg:composer/mlbrgn/laravel-medialibrary-extensions@2.3.4
@@ -63,3 +66,4 @@
 - pkg:composer/mlbrgn/laravel-medialibrary-extensions@2.3.6
 - pkg:composer/mlbrgn/laravel-medialibrary-extensions@2.3.7
 - pkg:composer/mlbrgn/laravel-medialibrary-extensions@2.3.8
+- pkg:composer/mlbrgn/laravel-medialibrary-extensions@2.3.9
