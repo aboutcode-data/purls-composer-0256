@@ -325,6 +325,7 @@
 - pkg:composer/illuminate/contracts@v13.5.0
 - pkg:composer/illuminate/contracts@v13.6.0
 - pkg:composer/illuminate/contracts@v13.7.0
+- pkg:composer/illuminate/contracts@v13.8.0
 - pkg:composer/illuminate/contracts@v5.0.0
 - pkg:composer/illuminate/contracts@v5.0.33
 - pkg:composer/illuminate/contracts@v5.1.1
