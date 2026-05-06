@@ -67,3 +67,17 @@
 - pkg:composer/oasis/http@v2.4.1-alpha2
 - pkg:composer/oasis/http@v2.5.0
 - pkg:composer/oasis/http@v3.0.0
+- pkg:composer/oasis/http@v3.0.1
+- pkg:composer/oasis/http@v3.1.0
+- pkg:composer/oasis/http@v3.2.0
+- pkg:composer/oasis/http@v3.2.1
+- pkg:composer/oasis/http@v3.3.0
+- pkg:composer/oasis/http@v3.3.1
+- pkg:composer/oasis/http@v3.4.0
+- pkg:composer/oasis/http@v3.5.0
+- pkg:composer/oasis/http@v3.5.1
+- pkg:composer/oasis/http@v3.6.0
+- pkg:composer/oasis/http@v3.6.1
+- pkg:composer/oasis/http@v3.6.2
+- pkg:composer/oasis/http@v3.6.3
+- pkg:composer/oasis/http@v3.6.4

@@ -5,3 +5,5 @@
 - pkg:composer/paybridge-np/sdk@1.5.0
 - pkg:composer/paybridge-np/sdk@2.0.0
 - pkg:composer/paybridge-np/sdk@2.1.0
+- pkg:composer/paybridge-np/sdk@2.2.0
+- pkg:composer/paybridge-np/sdk@3.0.0
