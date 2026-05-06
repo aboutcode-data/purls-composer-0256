@@ -12,3 +12,4 @@
 - pkg:composer/phpgt/promise@v2.2.4
 - pkg:composer/phpgt/promise@v2.3.0
 - pkg:composer/phpgt/promise@v2.4.0
+- pkg:composer/phpgt/promise@v2.4.1

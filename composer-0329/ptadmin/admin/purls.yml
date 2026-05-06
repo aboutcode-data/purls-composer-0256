@@ -1,5 +1,7 @@
 - pkg:composer/ptadmin/admin@1.0.20
 - pkg:composer/ptadmin/admin@1.0.21
+- pkg:composer/ptadmin/admin@1.0.22
+- pkg:composer/ptadmin/admin@1.0.23
 - pkg:composer/ptadmin/admin@v1.0.0
 - pkg:composer/ptadmin/admin@v1.0.10
 - pkg:composer/ptadmin/admin@v1.0.11
