@@ -17,3 +17,5 @@
 - pkg:composer/cundd/rest@5.1.0
 - pkg:composer/cundd/rest@6.0.0
 - pkg:composer/cundd/rest@7.0.0-alpha1
+- pkg:composer/cundd/rest@7.0.0-alpha2
+- pkg:composer/cundd/rest@7.0.0-alpha3
