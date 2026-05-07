@@ -16,3 +16,4 @@
 - pkg:composer/flownative/graphql@v1.1.0
 - pkg:composer/flownative/graphql@v2.0.0
 - pkg:composer/flownative/graphql@v2.1.0
+- pkg:composer/flownative/graphql@v2.1.1

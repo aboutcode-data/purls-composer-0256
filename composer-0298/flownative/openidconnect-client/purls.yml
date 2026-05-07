@@ -54,3 +54,4 @@
 - pkg:composer/flownative/openidconnect-client@v5.1.0
 - pkg:composer/flownative/openidconnect-client@v5.1.0-beta1
 - pkg:composer/flownative/openidconnect-client@v5.2.0
+- pkg:composer/flownative/openidconnect-client@v5.2.1
