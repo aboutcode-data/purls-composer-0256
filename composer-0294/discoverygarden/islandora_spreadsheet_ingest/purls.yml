@@ -16,6 +16,7 @@
 - pkg:composer/discoverygarden/islandora_spreadsheet_ingest@v3.10.6
 - pkg:composer/discoverygarden/islandora_spreadsheet_ingest@v3.10.7
 - pkg:composer/discoverygarden/islandora_spreadsheet_ingest@v3.11.0
+- pkg:composer/discoverygarden/islandora_spreadsheet_ingest@v3.11.1
 - pkg:composer/discoverygarden/islandora_spreadsheet_ingest@v3.2.0
 - pkg:composer/discoverygarden/islandora_spreadsheet_ingest@v3.3.0
 - pkg:composer/discoverygarden/islandora_spreadsheet_ingest@v3.3.1
