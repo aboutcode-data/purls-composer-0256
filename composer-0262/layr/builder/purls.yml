@@ -37,6 +37,8 @@
 - pkg:composer/layr/builder@v0.2.0-rc.40
 - pkg:composer/layr/builder@v0.2.0-rc.41
 - pkg:composer/layr/builder@v0.2.0-rc.42
+- pkg:composer/layr/builder@v0.2.0-rc.43
+- pkg:composer/layr/builder@v0.2.0-rc.44
 - pkg:composer/layr/builder@v0.2.0-rc.5
 - pkg:composer/layr/builder@v0.2.0-rc.6
 - pkg:composer/layr/builder@v0.2.0-rc.7
