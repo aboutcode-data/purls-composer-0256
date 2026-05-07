@@ -1283,3 +1283,4 @@
 - pkg:composer/craftcms/cms@5.9.7
 - pkg:composer/craftcms/cms@5.9.8
 - pkg:composer/craftcms/cms@5.9.9
+- pkg:composer/craftcms/cms@6.0.0-alpha.1
