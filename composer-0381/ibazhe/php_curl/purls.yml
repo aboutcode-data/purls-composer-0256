@@ -30,5 +30,6 @@
 - pkg:composer/ibazhe/php_curl@1.2.5
 - pkg:composer/ibazhe/php_curl@1.2.6
 - pkg:composer/ibazhe/php_curl@1.2.7
+- pkg:composer/ibazhe/php_curl@1.2.8
 - pkg:composer/ibazhe/php_curl@V1.0.2
 - pkg:composer/ibazhe/php_curl@v1.0.1
