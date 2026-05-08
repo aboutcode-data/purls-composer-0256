@@ -71,6 +71,10 @@
 - pkg:composer/leonickl/pxp-core@v3.8.0
 - pkg:composer/leonickl/pxp-core@v3.9.0
 - pkg:composer/leonickl/pxp-core@v4.0.0-BETA.1
+- pkg:composer/leonickl/pxp-core@v4.0.0-BETA.10
+- pkg:composer/leonickl/pxp-core@v4.0.0-BETA.11
+- pkg:composer/leonickl/pxp-core@v4.0.0-BETA.12
+- pkg:composer/leonickl/pxp-core@v4.0.0-BETA.13
 - pkg:composer/leonickl/pxp-core@v4.0.0-BETA.2
 - pkg:composer/leonickl/pxp-core@v4.0.0-BETA.3
 - pkg:composer/leonickl/pxp-core@v4.0.0-BETA.4
