@@ -11,3 +11,4 @@
 - pkg:composer/mwstake/mediawiki-component-datastore@2.0.0
 - pkg:composer/mwstake/mediawiki-component-datastore@2.0.1
 - pkg:composer/mwstake/mediawiki-component-datastore@2.0.2
+- pkg:composer/mwstake/mediawiki-component-datastore@3.0.0
