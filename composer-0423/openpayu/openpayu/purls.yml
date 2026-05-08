@@ -26,6 +26,7 @@
 - pkg:composer/openpayu/openpayu@2.3.5
 - pkg:composer/openpayu/openpayu@2.3.6
 - pkg:composer/openpayu/openpayu@2.4.0
+- pkg:composer/openpayu/openpayu@2.4.1
 - pkg:composer/openpayu/openpayu@v2.0.2
 - pkg:composer/openpayu/openpayu@v2.0.5
 - pkg:composer/openpayu/openpayu@v2.0.6
