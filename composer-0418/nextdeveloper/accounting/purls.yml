@@ -128,6 +128,10 @@
 - pkg:composer/nextdeveloper/accounting@v1.3.2
 - pkg:composer/nextdeveloper/accounting@v1.3.20
 - pkg:composer/nextdeveloper/accounting@v1.3.21
+- pkg:composer/nextdeveloper/accounting@v1.3.22
+- pkg:composer/nextdeveloper/accounting@v1.3.23
+- pkg:composer/nextdeveloper/accounting@v1.3.24
+- pkg:composer/nextdeveloper/accounting@v1.3.25
 - pkg:composer/nextdeveloper/accounting@v1.3.3
 - pkg:composer/nextdeveloper/accounting@v1.3.4
 - pkg:composer/nextdeveloper/accounting@v1.3.5

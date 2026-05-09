@@ -2,3 +2,4 @@
 - pkg:composer/ollily/ezlogging@0.6.0
 - pkg:composer/ollily/ezlogging@0.6.1
 - pkg:composer/ollily/ezlogging@1.0.0
+- pkg:composer/ollily/ezlogging@1.1.0
