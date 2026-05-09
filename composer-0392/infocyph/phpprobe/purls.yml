@@ -2,3 +2,5 @@
 - pkg:composer/infocyph/phpprobe@0.1.1
 - pkg:composer/infocyph/phpprobe@0.2
 - pkg:composer/infocyph/phpprobe@0.3
+- pkg:composer/infocyph/phpprobe@0.4
+- pkg:composer/infocyph/phpprobe@0.4.1
