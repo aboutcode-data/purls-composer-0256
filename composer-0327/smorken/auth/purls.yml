@@ -13,3 +13,4 @@
 - pkg:composer/smorken/auth@v1.2.4
 - pkg:composer/smorken/auth@v1.3.0
 - pkg:composer/smorken/auth@v1.3.1
+- pkg:composer/smorken/auth@v1.4.0

@@ -469,6 +469,7 @@
 - pkg:composer/solspace/craft-freeform@5.15.6.1
 - pkg:composer/solspace/craft-freeform@5.15.7
 - pkg:composer/solspace/craft-freeform@5.15.8
+- pkg:composer/solspace/craft-freeform@5.15.9
 - pkg:composer/solspace/craft-freeform@5.2.0
 - pkg:composer/solspace/craft-freeform@5.2.1
 - pkg:composer/solspace/craft-freeform@5.2.2

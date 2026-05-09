@@ -528,6 +528,8 @@
 - pkg:composer/statamic/cms@v6.14.0
 - pkg:composer/statamic/cms@v6.15.0
 - pkg:composer/statamic/cms@v6.16.0
+- pkg:composer/statamic/cms@v6.17.0
+- pkg:composer/statamic/cms@v6.18.0
 - pkg:composer/statamic/cms@v6.2.0
 - pkg:composer/statamic/cms@v6.2.1
 - pkg:composer/statamic/cms@v6.2.2

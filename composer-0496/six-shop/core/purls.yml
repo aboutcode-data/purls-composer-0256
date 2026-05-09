@@ -1,6 +1,4 @@
-- pkg:composer/six-shop/core@v0.1.0
-- pkg:composer/six-shop/core@v0.6.19
-- pkg:composer/six-shop/core@v0.6.20
 - pkg:composer/six-shop/core@v0.6.21
-- pkg:composer/six-shop/core@v0.6.5
+- pkg:composer/six-shop/core@v0.6.22
+- pkg:composer/six-shop/core@v0.6.23
 - pkg:composer/six-shop/core@v1.0.0

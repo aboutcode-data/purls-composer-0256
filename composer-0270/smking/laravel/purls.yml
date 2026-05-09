@@ -16,3 +16,4 @@
 - pkg:composer/smking/laravel@v0.7.2
 - pkg:composer/smking/laravel@v0.7.3
 - pkg:composer/smking/laravel@v0.7.4
+- pkg:composer/smking/laravel@v0.8.0
