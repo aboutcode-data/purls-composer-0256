@@ -62,8 +62,15 @@
 - pkg:composer/shieldci/laravel@v1.6.9
 - pkg:composer/shieldci/laravel@v1.7.0
 - pkg:composer/shieldci/laravel@v1.7.1
+- pkg:composer/shieldci/laravel@v1.7.10
+- pkg:composer/shieldci/laravel@v1.7.11
+- pkg:composer/shieldci/laravel@v1.7.12
+- pkg:composer/shieldci/laravel@v1.7.13
 - pkg:composer/shieldci/laravel@v1.7.2
 - pkg:composer/shieldci/laravel@v1.7.3
 - pkg:composer/shieldci/laravel@v1.7.4
 - pkg:composer/shieldci/laravel@v1.7.5
 - pkg:composer/shieldci/laravel@v1.7.6
+- pkg:composer/shieldci/laravel@v1.7.7
+- pkg:composer/shieldci/laravel@v1.7.8
+- pkg:composer/shieldci/laravel@v1.7.9
