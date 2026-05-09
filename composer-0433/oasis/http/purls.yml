@@ -81,3 +81,4 @@
 - pkg:composer/oasis/http@v3.6.2
 - pkg:composer/oasis/http@v3.6.3
 - pkg:composer/oasis/http@v3.6.4
+- pkg:composer/oasis/http@v3.7.0
