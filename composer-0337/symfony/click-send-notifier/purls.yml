@@ -42,3 +42,4 @@
 - pkg:composer/symfony/click-send-notifier@v8.0.0-BETA1
 - pkg:composer/symfony/click-send-notifier@v8.0.0-RC1
 - pkg:composer/symfony/click-send-notifier@v8.0.4
+- pkg:composer/symfony/click-send-notifier@v8.1.0-BETA1

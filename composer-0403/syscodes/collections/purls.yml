@@ -21,3 +21,4 @@
 - pkg:composer/syscodes/collections@v0.8.7
 - pkg:composer/syscodes/collections@v0.8.8
 - pkg:composer/syscodes/collections@v0.8.9
+- pkg:composer/syscodes/collections@v0.9.0

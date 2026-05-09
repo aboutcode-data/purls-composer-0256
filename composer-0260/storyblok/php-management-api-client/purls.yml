@@ -26,3 +26,5 @@
 - pkg:composer/storyblok/php-management-api-client@v1.1.5
 - pkg:composer/storyblok/php-management-api-client@v1.2.0
 - pkg:composer/storyblok/php-management-api-client@v1.3.0
+- pkg:composer/storyblok/php-management-api-client@v1.4.0
+- pkg:composer/storyblok/php-management-api-client@v1.4.1

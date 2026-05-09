@@ -257,3 +257,4 @@
 - pkg:composer/symfony/mailer@v8.0.4
 - pkg:composer/symfony/mailer@v8.0.6
 - pkg:composer/symfony/mailer@v8.0.8
+- pkg:composer/symfony/mailer@v8.1.0-BETA1

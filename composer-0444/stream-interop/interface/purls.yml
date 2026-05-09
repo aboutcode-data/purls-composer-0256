@@ -3,3 +3,4 @@
 - pkg:composer/stream-interop/interface@1.0.0-alpha2
 - pkg:composer/stream-interop/interface@1.0.0-beta1
 - pkg:composer/stream-interop/interface@1.0.0-beta2
+- pkg:composer/stream-interop/interface@1.0.1

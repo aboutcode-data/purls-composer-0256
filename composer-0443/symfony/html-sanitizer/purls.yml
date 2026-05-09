@@ -74,3 +74,4 @@
 - pkg:composer/symfony/html-sanitizer@v8.0.0-RC1
 - pkg:composer/symfony/html-sanitizer@v8.0.7
 - pkg:composer/symfony/html-sanitizer@v8.0.8
+- pkg:composer/symfony/html-sanitizer@v8.1.0-BETA1

@@ -71,6 +71,8 @@
 - pkg:composer/thelia/open-api-module@2.2.3
 - pkg:composer/thelia/open-api-module@2.2.30
 - pkg:composer/thelia/open-api-module@2.2.31
+- pkg:composer/thelia/open-api-module@2.2.32
+- pkg:composer/thelia/open-api-module@2.2.33
 - pkg:composer/thelia/open-api-module@2.2.4
 - pkg:composer/thelia/open-api-module@2.2.5
 - pkg:composer/thelia/open-api-module@2.2.6

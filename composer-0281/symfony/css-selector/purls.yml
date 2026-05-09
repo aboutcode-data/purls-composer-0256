@@ -589,3 +589,4 @@
 - pkg:composer/symfony/css-selector@v8.0.6
 - pkg:composer/symfony/css-selector@v8.0.8
 - pkg:composer/symfony/css-selector@v8.0.9
+- pkg:composer/symfony/css-selector@v8.1.0-BETA1

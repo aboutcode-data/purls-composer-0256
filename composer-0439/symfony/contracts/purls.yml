@@ -55,3 +55,4 @@
 - pkg:composer/symfony/contracts@v3.6.0
 - pkg:composer/symfony/contracts@v3.6.0-BETA1
 - pkg:composer/symfony/contracts@v3.6.1
+- pkg:composer/symfony/contracts@v3.7.0
