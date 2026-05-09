@@ -22,6 +22,8 @@
 - pkg:composer/lwplugins/lw-site-manager@v1.1.22
 - pkg:composer/lwplugins/lw-site-manager@v1.1.23
 - pkg:composer/lwplugins/lw-site-manager@v1.1.24
+- pkg:composer/lwplugins/lw-site-manager@v1.1.25
+- pkg:composer/lwplugins/lw-site-manager@v1.1.26
 - pkg:composer/lwplugins/lw-site-manager@v1.1.3
 - pkg:composer/lwplugins/lw-site-manager@v1.1.4
 - pkg:composer/lwplugins/lw-site-manager@v1.1.5
