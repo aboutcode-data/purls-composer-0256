@@ -1,4 +1,5 @@
 - pkg:composer/autumndev/jms-serializer-carbon@1.2.1
+- pkg:composer/autumndev/jms-serializer-carbon@4.0
 - pkg:composer/autumndev/jms-serializer-carbon@v1.0
 - pkg:composer/autumndev/jms-serializer-carbon@v1.1
 - pkg:composer/autumndev/jms-serializer-carbon@v1.2
