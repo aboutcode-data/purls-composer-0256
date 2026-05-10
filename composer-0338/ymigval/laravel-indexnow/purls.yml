@@ -6,3 +6,4 @@
 - pkg:composer/ymigval/laravel-indexnow@v2.0.1
 - pkg:composer/ymigval/laravel-indexnow@v3.0.0
 - pkg:composer/ymigval/laravel-indexnow@v3.0.1
+- pkg:composer/ymigval/laravel-indexnow@v4.0.0
