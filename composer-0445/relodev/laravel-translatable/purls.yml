@@ -1,1 +1,2 @@
 - pkg:composer/relodev/laravel-translatable@v1.0.0
+- pkg:composer/relodev/laravel-translatable@v2.0.0
