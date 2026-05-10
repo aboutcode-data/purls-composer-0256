@@ -234,3 +234,5 @@
 - pkg:composer/5labs/grogoo-restfier@12.4.7
 - pkg:composer/5labs/grogoo-restfier@12.4.8
 - pkg:composer/5labs/grogoo-restfier@12.4.9
+- pkg:composer/5labs/grogoo-restfier@12.5.0
+- pkg:composer/5labs/grogoo-restfier@12.5.1

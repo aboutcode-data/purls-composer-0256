@@ -40,3 +40,6 @@
 - pkg:composer/adminui/inertia-routes@v4.1.0
 - pkg:composer/adminui/inertia-routes@v4.2.0
 - pkg:composer/adminui/inertia-routes@v4.2.1
+- pkg:composer/adminui/inertia-routes@v4.3.0
+- pkg:composer/adminui/inertia-routes@v4.3.1
+- pkg:composer/adminui/inertia-routes@v4.3.2

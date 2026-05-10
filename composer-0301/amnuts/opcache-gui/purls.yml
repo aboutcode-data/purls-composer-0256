@@ -13,6 +13,7 @@
 - pkg:composer/amnuts/opcache-gui@3.5.4
 - pkg:composer/amnuts/opcache-gui@3.5.5
 - pkg:composer/amnuts/opcache-gui@3.6.0
+- pkg:composer/amnuts/opcache-gui@3.6.1
 - pkg:composer/amnuts/opcache-gui@v2.0.0
 - pkg:composer/amnuts/opcache-gui@v2.0.1
 - pkg:composer/amnuts/opcache-gui@v2.1.0
