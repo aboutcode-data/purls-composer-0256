@@ -63,3 +63,4 @@
 - pkg:composer/php-imap/php-imap@4.5.3
 - pkg:composer/php-imap/php-imap@5.0.0
 - pkg:composer/php-imap/php-imap@5.0.1
+- pkg:composer/php-imap/php-imap@5.1.0
