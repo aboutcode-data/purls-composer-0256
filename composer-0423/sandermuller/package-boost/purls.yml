@@ -5,6 +5,7 @@
 - pkg:composer/sandermuller/package-boost@0.12.0
 - pkg:composer/sandermuller/package-boost@0.13.0
 - pkg:composer/sandermuller/package-boost@0.14.0
+- pkg:composer/sandermuller/package-boost@0.15.0
 - pkg:composer/sandermuller/package-boost@0.2.0
 - pkg:composer/sandermuller/package-boost@0.3.0
 - pkg:composer/sandermuller/package-boost@0.3.1
