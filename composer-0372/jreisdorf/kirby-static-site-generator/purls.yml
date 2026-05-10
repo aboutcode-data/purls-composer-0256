@@ -9,3 +9,4 @@
 - pkg:composer/jreisdorf/kirby-static-site-generator@2.3.2
 - pkg:composer/jreisdorf/kirby-static-site-generator@2.3.3
 - pkg:composer/jreisdorf/kirby-static-site-generator@2.4.0
+- pkg:composer/jreisdorf/kirby-static-site-generator@2.4.1
