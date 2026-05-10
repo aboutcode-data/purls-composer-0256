@@ -114,3 +114,5 @@
 - pkg:composer/survos/step-bundle@2.0.81
 - pkg:composer/survos/step-bundle@2.0.82
 - pkg:composer/survos/step-bundle@2.0.83
+- pkg:composer/survos/step-bundle@2.1.1
+- pkg:composer/survos/step-bundle@2.1.2

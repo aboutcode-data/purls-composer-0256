@@ -869,6 +869,8 @@
 - pkg:composer/survos/barcode-bundle@2.0.97
 - pkg:composer/survos/barcode-bundle@2.0.98
 - pkg:composer/survos/barcode-bundle@2.0.99
+- pkg:composer/survos/barcode-bundle@2.1.1
+- pkg:composer/survos/barcode-bundle@2.1.2
 - pkg:composer/survos/barcode-bundle@v1.2.2
 - pkg:composer/survos/barcode-bundle@v1.2.3
 - pkg:composer/survos/barcode-bundle@v1.2.4
