@@ -19,6 +19,7 @@
 - pkg:composer/designmynight/laravel-mongodb-passport@v2.0.2
 - pkg:composer/designmynight/laravel-mongodb-passport@v2.1.0
 - pkg:composer/designmynight/laravel-mongodb-passport@v2.1.1
+- pkg:composer/designmynight/laravel-mongodb-passport@v2.1.2
 - pkg:composer/designmynight/laravel-mongodb-passport@v2.2.0
 - pkg:composer/designmynight/laravel-mongodb-passport@v3.0.1
 - pkg:composer/designmynight/laravel-mongodb-passport@v3.0.2

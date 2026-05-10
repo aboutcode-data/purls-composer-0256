@@ -13,3 +13,4 @@
 - pkg:composer/datenkraft/bb-base-api-php-client@v2.0.0
 - pkg:composer/datenkraft/bb-base-api-php-client@v3.0.0
 - pkg:composer/datenkraft/bb-base-api-php-client@v3.1.0
+- pkg:composer/datenkraft/bb-base-api-php-client@v4.0.0
