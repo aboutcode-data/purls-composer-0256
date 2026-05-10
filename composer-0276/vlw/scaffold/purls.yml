@@ -20,3 +20,5 @@
 - pkg:composer/vlw/scaffold@1.7.4
 - pkg:composer/vlw/scaffold@1.7.5
 - pkg:composer/vlw/scaffold@1.7.6
+- pkg:composer/vlw/scaffold@1.8.0
+- pkg:composer/vlw/scaffold@1.8.1

@@ -123,6 +123,7 @@
 - pkg:composer/wallee/shopware-6@6.1.9
 - pkg:composer/wallee/shopware-6@6.2.0
 - pkg:composer/wallee/shopware-6@6.2.1
+- pkg:composer/wallee/shopware-6@6.2.2
 - pkg:composer/wallee/shopware-6@7.0.0
 - pkg:composer/wallee/shopware-6@7.0.1
 - pkg:composer/wallee/shopware-6@7.1.0

@@ -1,5 +1,6 @@
 - pkg:composer/verbb/social-share@1.0.0
 - pkg:composer/verbb/social-share@1.0.1
+- pkg:composer/verbb/social-share@1.0.10
 - pkg:composer/verbb/social-share@1.0.2
 - pkg:composer/verbb/social-share@1.0.3
 - pkg:composer/verbb/social-share@1.0.4
@@ -17,3 +18,4 @@
 - pkg:composer/verbb/social-share@2.0.5
 - pkg:composer/verbb/social-share@2.0.6
 - pkg:composer/verbb/social-share@2.0.7
+- pkg:composer/verbb/social-share@2.0.8
