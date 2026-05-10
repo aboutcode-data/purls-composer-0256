@@ -1,6 +1,11 @@
+- pkg:composer/dressapi/api@3.0.10
+- pkg:composer/dressapi/api@3.0.11
+- pkg:composer/dressapi/api@3.0.12
+- pkg:composer/dressapi/api@3.0.13
 - pkg:composer/dressapi/api@3.0.5
 - pkg:composer/dressapi/api@3.0.6
 - pkg:composer/dressapi/api@3.0.8
+- pkg:composer/dressapi/api@3.0.9
 - pkg:composer/dressapi/api@v3.0.0
 - pkg:composer/dressapi/api@v3.0.1
 - pkg:composer/dressapi/api@v3.0.2
