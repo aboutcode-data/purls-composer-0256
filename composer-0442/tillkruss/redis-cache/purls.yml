@@ -86,4 +86,5 @@
 - pkg:composer/tillkruss/redis-cache@2.6.4
 - pkg:composer/tillkruss/redis-cache@2.6.5
 - pkg:composer/tillkruss/redis-cache@2.7.0
+- pkg:composer/tillkruss/redis-cache@2.8.0
 - pkg:composer/tillkruss/redis-cache@v1.3.7

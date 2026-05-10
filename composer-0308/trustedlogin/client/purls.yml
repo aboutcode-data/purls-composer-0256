@@ -2,6 +2,7 @@
 - pkg:composer/trustedlogin/client@v1.0.1
 - pkg:composer/trustedlogin/client@v1.0.2
 - pkg:composer/trustedlogin/client@v1.1
+- pkg:composer/trustedlogin/client@v1.10.0
 - pkg:composer/trustedlogin/client@v1.2
 - pkg:composer/trustedlogin/client@v1.3
 - pkg:composer/trustedlogin/client@v1.3.1
