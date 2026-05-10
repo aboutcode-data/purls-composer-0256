@@ -25,3 +25,4 @@
 - pkg:composer/cboxdk/statamic-mcp@v2.2.4
 - pkg:composer/cboxdk/statamic-mcp@v2.3.0
 - pkg:composer/cboxdk/statamic-mcp@v2.4.0
+- pkg:composer/cboxdk/statamic-mcp@v2.5.0

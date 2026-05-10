@@ -3,3 +3,6 @@
 - pkg:composer/bespin/datavalidation-shared@v1.1.0
 - pkg:composer/bespin/datavalidation-shared@v1.2.0
 - pkg:composer/bespin/datavalidation-shared@v1.2.1
+- pkg:composer/bespin/datavalidation-shared@v1.3.0
+- pkg:composer/bespin/datavalidation-shared@v1.4.0
+- pkg:composer/bespin/datavalidation-shared@v1.5.0
