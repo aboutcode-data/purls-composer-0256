@@ -1,1 +1,2 @@
 - pkg:composer/o3-shop/codeception-page-objects@v1.0.0
+- pkg:composer/o3-shop/codeception-page-objects@v1.0.1
