@@ -1,3 +1,5 @@
 - pkg:composer/mnarushevich/laravel-audit-logs@v0.0.1
 - pkg:composer/mnarushevich/laravel-audit-logs@v0.0.2
 - pkg:composer/mnarushevich/laravel-audit-logs@v0.0.3
+- pkg:composer/mnarushevich/laravel-audit-logs@v0.0.4
+- pkg:composer/mnarushevich/laravel-audit-logs@v0.0.5
