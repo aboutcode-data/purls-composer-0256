@@ -45,6 +45,7 @@
 - pkg:composer/readerstacks/reportmanager@1.451.1
 - pkg:composer/readerstacks/reportmanager@1.452.2
 - pkg:composer/readerstacks/reportmanager@1.453.3
+- pkg:composer/readerstacks/reportmanager@1.453.4
 - pkg:composer/readerstacks/reportmanager@1.5.0
 - pkg:composer/readerstacks/reportmanager@1.6.0
 - pkg:composer/readerstacks/reportmanager@1.7.0
