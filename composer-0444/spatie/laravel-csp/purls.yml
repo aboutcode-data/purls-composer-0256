@@ -69,6 +69,7 @@
 - pkg:composer/spatie/laravel-csp@3.23.1
 - pkg:composer/spatie/laravel-csp@3.24.0
 - pkg:composer/spatie/laravel-csp@3.24.1
+- pkg:composer/spatie/laravel-csp@3.25.0
 - pkg:composer/spatie/laravel-csp@3.3.0
 - pkg:composer/spatie/laravel-csp@3.4.0
 - pkg:composer/spatie/laravel-csp@3.5.0
