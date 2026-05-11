@@ -1,5 +1,4 @@
 - pkg:composer/ufo-tech/json-rpc-bundle@10.0.0
-- pkg:composer/ufo-tech/json-rpc-bundle@10.0.1
 - pkg:composer/ufo-tech/json-rpc-bundle@4.5.2
 - pkg:composer/ufo-tech/json-rpc-bundle@5.2
 - pkg:composer/ufo-tech/json-rpc-bundle@6.4.0
