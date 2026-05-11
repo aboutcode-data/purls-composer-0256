@@ -179,3 +179,4 @@
 - pkg:composer/tencentcloud/mqtt@3.0.1498
 - pkg:composer/tencentcloud/mqtt@3.0.1568
 - pkg:composer/tencentcloud/mqtt@3.0.1573
+- pkg:composer/tencentcloud/mqtt@3.0.1584
