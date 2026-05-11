@@ -127,6 +127,8 @@
 - pkg:composer/rsvp-system/rsvp-recipes@v1.1.40
 - pkg:composer/rsvp-system/rsvp-recipes@v1.1.41
 - pkg:composer/rsvp-system/rsvp-recipes@v1.1.42
+- pkg:composer/rsvp-system/rsvp-recipes@v1.1.43
+- pkg:composer/rsvp-system/rsvp-recipes@v1.1.44
 - pkg:composer/rsvp-system/rsvp-recipes@v1.1.5
 - pkg:composer/rsvp-system/rsvp-recipes@v1.1.6
 - pkg:composer/rsvp-system/rsvp-recipes@v1.1.7
