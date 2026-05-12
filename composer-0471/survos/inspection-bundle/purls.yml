@@ -933,6 +933,9 @@
 - pkg:composer/survos/inspection-bundle@2.0.99
 - pkg:composer/survos/inspection-bundle@2.1.1
 - pkg:composer/survos/inspection-bundle@2.1.2
+- pkg:composer/survos/inspection-bundle@2.2.0
+- pkg:composer/survos/inspection-bundle@2.2.1
+- pkg:composer/survos/inspection-bundle@2.2.2
 - pkg:composer/survos/inspection-bundle@v1.0.0
 - pkg:composer/survos/inspection-bundle@v1.0.1
 - pkg:composer/survos/inspection-bundle@v1.2.4

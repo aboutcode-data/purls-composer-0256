@@ -98,6 +98,7 @@
 - pkg:composer/spryker/price-product@4.49.0
 - pkg:composer/spryker/price-product@4.5.0
 - pkg:composer/spryker/price-product@4.50.0
+- pkg:composer/spryker/price-product@4.51.0
 - pkg:composer/spryker/price-product@4.6.0
 - pkg:composer/spryker/price-product@4.7.0
 - pkg:composer/spryker/price-product@4.7.1
