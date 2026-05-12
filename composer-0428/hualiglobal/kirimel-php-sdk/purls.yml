@@ -1,3 +1,6 @@
+- pkg:composer/hualiglobal/kirimel-php-sdk@2.0.0
+- pkg:composer/hualiglobal/kirimel-php-sdk@2.0.1
+- pkg:composer/hualiglobal/kirimel-php-sdk@2.0.2
 - pkg:composer/hualiglobal/kirimel-php-sdk@v1.0.0
 - pkg:composer/hualiglobal/kirimel-php-sdk@v1.0.2
 - pkg:composer/hualiglobal/kirimel-php-sdk@v1.0.3

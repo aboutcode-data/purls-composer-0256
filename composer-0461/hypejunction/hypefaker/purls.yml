@@ -4,4 +4,6 @@
 - pkg:composer/hypejunction/hypefaker@2.0.0
 - pkg:composer/hypejunction/hypefaker@2.0.1
 - pkg:composer/hypejunction/hypefaker@2.1.0
-- pkg:composer/hypejunction/hypefaker@3.0
+- pkg:composer/hypejunction/hypefaker@3.0.0
+- pkg:composer/hypejunction/hypefaker@4.0.0
+- pkg:composer/hypejunction/hypefaker@5.0.0
