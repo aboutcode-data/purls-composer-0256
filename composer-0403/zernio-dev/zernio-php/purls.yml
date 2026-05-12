@@ -153,7 +153,10 @@
 - pkg:composer/zernio-dev/zernio-php@0.0.236
 - pkg:composer/zernio-dev/zernio-php@0.0.237
 - pkg:composer/zernio-dev/zernio-php@0.0.238
+- pkg:composer/zernio-dev/zernio-php@0.0.239
 - pkg:composer/zernio-dev/zernio-php@0.0.24
+- pkg:composer/zernio-dev/zernio-php@0.0.240
+- pkg:composer/zernio-dev/zernio-php@0.0.241
 - pkg:composer/zernio-dev/zernio-php@0.0.25
 - pkg:composer/zernio-dev/zernio-php@0.0.26
 - pkg:composer/zernio-dev/zernio-php@0.0.27
