@@ -11,3 +11,5 @@
 - pkg:composer/dynamic/silverstripe-elemental-flexslider@2.0.3
 - pkg:composer/dynamic/silverstripe-elemental-flexslider@2.1.0
 - pkg:composer/dynamic/silverstripe-elemental-flexslider@2.1.1
+- pkg:composer/dynamic/silverstripe-elemental-flexslider@3.0.0
+- pkg:composer/dynamic/silverstripe-elemental-flexslider@4.0.0

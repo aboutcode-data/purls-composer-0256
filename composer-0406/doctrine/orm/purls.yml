@@ -147,6 +147,7 @@
 - pkg:composer/doctrine/orm@3.6.2
 - pkg:composer/doctrine/orm@3.6.3
 - pkg:composer/doctrine/orm@3.6.4
+- pkg:composer/doctrine/orm@3.6.5
 - pkg:composer/doctrine/orm@v2.3.6
 - pkg:composer/doctrine/orm@v2.4.0
 - pkg:composer/doctrine/orm@v2.4.1

@@ -2,3 +2,6 @@
 - pkg:composer/dynamic/silverstripe-linkable@1.0.1
 - pkg:composer/dynamic/silverstripe-linkable@1.0.2
 - pkg:composer/dynamic/silverstripe-linkable@1.1.0
+- pkg:composer/dynamic/silverstripe-linkable@2.0.0
+- pkg:composer/dynamic/silverstripe-linkable@3.0.0
+- pkg:composer/dynamic/silverstripe-linkable@3.0.1
