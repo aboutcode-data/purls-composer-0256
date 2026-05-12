@@ -2,3 +2,4 @@
 - pkg:composer/tonka/spark@v1.1.0
 - pkg:composer/tonka/spark@v1.2.0
 - pkg:composer/tonka/spark@v1.2.5
+- pkg:composer/tonka/spark@v1.2.7
