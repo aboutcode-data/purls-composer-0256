@@ -91,3 +91,6 @@
 - pkg:composer/nativeblade/nativeblade@v1.5.7
 - pkg:composer/nativeblade/nativeblade@v1.5.8
 - pkg:composer/nativeblade/nativeblade@v1.5.9
+- pkg:composer/nativeblade/nativeblade@v1.6.0
+- pkg:composer/nativeblade/nativeblade@v1.6.1
+- pkg:composer/nativeblade/nativeblade@v1.6.2
