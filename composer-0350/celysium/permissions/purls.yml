@@ -32,3 +32,6 @@
 - pkg:composer/celysium/permissions@v5.0
 - pkg:composer/celysium/permissions@v5.1
 - pkg:composer/celysium/permissions@v6.0
+- pkg:composer/celysium/permissions@v6.1
+- pkg:composer/celysium/permissions@v6.2
+- pkg:composer/celysium/permissions@v6.3
