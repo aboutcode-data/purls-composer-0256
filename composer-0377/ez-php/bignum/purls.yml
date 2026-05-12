@@ -1,5 +1,7 @@
 - pkg:composer/ez-php/bignum@1.0.0
 - pkg:composer/ez-php/bignum@1.10.0
+- pkg:composer/ez-php/bignum@1.11.0
+- pkg:composer/ez-php/bignum@1.11.1
 - pkg:composer/ez-php/bignum@1.5.0
 - pkg:composer/ez-php/bignum@1.5.1
 - pkg:composer/ez-php/bignum@1.6.0
