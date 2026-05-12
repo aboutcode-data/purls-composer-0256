@@ -63,6 +63,7 @@
 - pkg:composer/automattic/jetpack-external-media@v0.8.13
 - pkg:composer/automattic/jetpack-external-media@v0.8.14
 - pkg:composer/automattic/jetpack-external-media@v0.8.15
+- pkg:composer/automattic/jetpack-external-media@v0.8.16
 - pkg:composer/automattic/jetpack-external-media@v0.8.2
 - pkg:composer/automattic/jetpack-external-media@v0.8.3
 - pkg:composer/automattic/jetpack-external-media@v0.8.4
