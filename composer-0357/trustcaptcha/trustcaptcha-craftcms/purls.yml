@@ -2,3 +2,4 @@
 - pkg:composer/trustcaptcha/trustcaptcha-craftcms@1.0.0
 - pkg:composer/trustcaptcha/trustcaptcha-craftcms@1.0.1
 - pkg:composer/trustcaptcha/trustcaptcha-craftcms@2.0.0
+- pkg:composer/trustcaptcha/trustcaptcha-craftcms@3.0.1
