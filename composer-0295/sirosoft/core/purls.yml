@@ -10,3 +10,5 @@
 - pkg:composer/sirosoft/core@0.21.0
 - pkg:composer/sirosoft/core@0.9.0
 - pkg:composer/sirosoft/core@v0.22.0
+- pkg:composer/sirosoft/core@v0.23.0
+- pkg:composer/sirosoft/core@v0.23.1
