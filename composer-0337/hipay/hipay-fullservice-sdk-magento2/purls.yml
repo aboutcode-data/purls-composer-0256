@@ -77,6 +77,7 @@
 - pkg:composer/hipay/hipay-fullservice-sdk-magento2@1.31.0
 - pkg:composer/hipay/hipay-fullservice-sdk-magento2@1.31.1
 - pkg:composer/hipay/hipay-fullservice-sdk-magento2@1.31.2
+- pkg:composer/hipay/hipay-fullservice-sdk-magento2@1.32.0
 - pkg:composer/hipay/hipay-fullservice-sdk-magento2@1.4.0
 - pkg:composer/hipay/hipay-fullservice-sdk-magento2@1.4.1
 - pkg:composer/hipay/hipay-fullservice-sdk-magento2@1.4.2

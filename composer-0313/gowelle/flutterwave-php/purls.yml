@@ -27,3 +27,5 @@
 - pkg:composer/gowelle/flutterwave-php@v3.1.0
 - pkg:composer/gowelle/flutterwave-php@v3.2.0
 - pkg:composer/gowelle/flutterwave-php@v3.2.1
+- pkg:composer/gowelle/flutterwave-php@v3.2.2
+- pkg:composer/gowelle/flutterwave-php@v3.2.3
