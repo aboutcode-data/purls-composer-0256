@@ -12,6 +12,7 @@
 - pkg:composer/allestuetsmerweh/php-deploy@2.0.2
 - pkg:composer/allestuetsmerweh/php-deploy@2.0.3
 - pkg:composer/allestuetsmerweh/php-deploy@2.1.0
+- pkg:composer/allestuetsmerweh/php-deploy@2.10.0
 - pkg:composer/allestuetsmerweh/php-deploy@2.2.0
 - pkg:composer/allestuetsmerweh/php-deploy@2.3.0
 - pkg:composer/allestuetsmerweh/php-deploy@2.4.0
