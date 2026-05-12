@@ -4,3 +4,4 @@
 - pkg:composer/orlyapps/laravel-event-tracking@2.0.1
 - pkg:composer/orlyapps/laravel-event-tracking@2.0.2
 - pkg:composer/orlyapps/laravel-event-tracking@3.0
+- pkg:composer/orlyapps/laravel-event-tracking@4.0
