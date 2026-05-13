@@ -10,6 +10,7 @@
 - pkg:composer/phpdocumentor/guides-markdown@0.3.7
 - pkg:composer/phpdocumentor/guides-markdown@1.0.0
 - pkg:composer/phpdocumentor/guides-markdown@1.0.0-rc
+- pkg:composer/phpdocumentor/guides-markdown@1.10.2
 - pkg:composer/phpdocumentor/guides-markdown@1.4.0
 - pkg:composer/phpdocumentor/guides-markdown@1.5.0
 - pkg:composer/phpdocumentor/guides-markdown@1.6.1

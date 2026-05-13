@@ -1,7 +1,11 @@
 - pkg:composer/plank/before-and-after-model-events@v10.0.0
 - pkg:composer/plank/before-and-after-model-events@v10.0.1
+- pkg:composer/plank/before-and-after-model-events@v10.0.2
 - pkg:composer/plank/before-and-after-model-events@v11.0.0
 - pkg:composer/plank/before-and-after-model-events@v11.0.1
+- pkg:composer/plank/before-and-after-model-events@v11.0.2
 - pkg:composer/plank/before-and-after-model-events@v12.0.0
 - pkg:composer/plank/before-and-after-model-events@v12.0.1
+- pkg:composer/plank/before-and-after-model-events@v12.0.2
 - pkg:composer/plank/before-and-after-model-events@v13.0.1
+- pkg:composer/plank/before-and-after-model-events@v13.0.2

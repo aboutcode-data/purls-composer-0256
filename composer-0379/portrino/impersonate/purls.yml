@@ -5,13 +5,17 @@
 - pkg:composer/portrino/impersonate@2.0.1
 - pkg:composer/portrino/impersonate@3.0.0
 - pkg:composer/portrino/impersonate@3.1.0
+- pkg:composer/portrino/impersonate@3.1.1
+- pkg:composer/portrino/impersonate@3.1.2
 - pkg:composer/portrino/impersonate@4.0.0
 - pkg:composer/portrino/impersonate@4.1.0
 - pkg:composer/portrino/impersonate@4.2.0
 - pkg:composer/portrino/impersonate@4.2.1
 - pkg:composer/portrino/impersonate@4.2.2
 - pkg:composer/portrino/impersonate@4.2.3
+- pkg:composer/portrino/impersonate@4.2.4
 - pkg:composer/portrino/impersonate@5.0.0
 - pkg:composer/portrino/impersonate@5.0.1
 - pkg:composer/portrino/impersonate@5.0.2
 - pkg:composer/portrino/impersonate@5.0.3
+- pkg:composer/portrino/impersonate@5.0.4
