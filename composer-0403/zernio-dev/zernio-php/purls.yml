@@ -157,7 +157,17 @@
 - pkg:composer/zernio-dev/zernio-php@0.0.24
 - pkg:composer/zernio-dev/zernio-php@0.0.240
 - pkg:composer/zernio-dev/zernio-php@0.0.241
+- pkg:composer/zernio-dev/zernio-php@0.0.242
+- pkg:composer/zernio-dev/zernio-php@0.0.243
+- pkg:composer/zernio-dev/zernio-php@0.0.244
+- pkg:composer/zernio-dev/zernio-php@0.0.245
+- pkg:composer/zernio-dev/zernio-php@0.0.246
+- pkg:composer/zernio-dev/zernio-php@0.0.247
+- pkg:composer/zernio-dev/zernio-php@0.0.248
+- pkg:composer/zernio-dev/zernio-php@0.0.249
 - pkg:composer/zernio-dev/zernio-php@0.0.25
+- pkg:composer/zernio-dev/zernio-php@0.0.250
+- pkg:composer/zernio-dev/zernio-php@0.0.251
 - pkg:composer/zernio-dev/zernio-php@0.0.26
 - pkg:composer/zernio-dev/zernio-php@0.0.27
 - pkg:composer/zernio-dev/zernio-php@0.0.28
