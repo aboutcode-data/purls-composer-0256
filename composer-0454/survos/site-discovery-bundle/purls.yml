@@ -96,3 +96,6 @@
 - pkg:composer/survos/site-discovery-bundle@2.1.2
 - pkg:composer/survos/site-discovery-bundle@2.2.0
 - pkg:composer/survos/site-discovery-bundle@2.2.1
+- pkg:composer/survos/site-discovery-bundle@2.2.2
+- pkg:composer/survos/site-discovery-bundle@2.2.3
+- pkg:composer/survos/site-discovery-bundle@2.2.4
