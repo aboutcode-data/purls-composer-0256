@@ -7,6 +7,7 @@
 - pkg:composer/cube43/ebics-client@0.12.1-alpha
 - pkg:composer/cube43/ebics-client@0.12.1-beta
 - pkg:composer/cube43/ebics-client@0.12.2-alpha
+- pkg:composer/cube43/ebics-client@0.13.0
 - pkg:composer/cube43/ebics-client@0.13.0-alpha
 - pkg:composer/cube43/ebics-client@0.13.1-alpha
 - pkg:composer/cube43/ebics-client@0.2.0
