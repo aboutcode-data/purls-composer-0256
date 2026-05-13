@@ -194,3 +194,5 @@
 - pkg:composer/con4gis/reservation@v4.1.8
 - pkg:composer/con4gis/reservation@v4.1.9
 - pkg:composer/con4gis/reservation@v4.2.0rc1
+- pkg:composer/con4gis/reservation@v4.2.0rc2
+- pkg:composer/con4gis/reservation@v4.2.0rc3

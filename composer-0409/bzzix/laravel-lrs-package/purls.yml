@@ -6,3 +6,6 @@
 - pkg:composer/bzzix/laravel-lrs-package@v1.0.5
 - pkg:composer/bzzix/laravel-lrs-package@v1.0.6
 - pkg:composer/bzzix/laravel-lrs-package@v1.0.7
+- pkg:composer/bzzix/laravel-lrs-package@v1.0.8
+- pkg:composer/bzzix/laravel-lrs-package@v1.0.9
+- pkg:composer/bzzix/laravel-lrs-package@v1.1.9
