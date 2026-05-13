@@ -29,3 +29,4 @@
 - pkg:composer/wp-pay-extensions/formidable-forms@v4.4.2
 - pkg:composer/wp-pay-extensions/formidable-forms@v4.4.3
 - pkg:composer/wp-pay-extensions/formidable-forms@v4.4.4
+- pkg:composer/wp-pay-extensions/formidable-forms@v4.5.0
