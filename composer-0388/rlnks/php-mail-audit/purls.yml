@@ -1,3 +1,5 @@
 - pkg:composer/rlnks/php-mail-audit@v1.0.0
 - pkg:composer/rlnks/php-mail-audit@v1.1.0
 - pkg:composer/rlnks/php-mail-audit@v1.1.1
+- pkg:composer/rlnks/php-mail-audit@v1.2.0
+- pkg:composer/rlnks/php-mail-audit@v1.2.1
