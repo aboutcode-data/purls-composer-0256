@@ -119,3 +119,4 @@
 - pkg:composer/craftcms/craft@5.7.0
 - pkg:composer/craftcms/craft@5.8.0
 - pkg:composer/craftcms/craft@6.0.0-alpha.1
+- pkg:composer/craftcms/craft@6.0.0-alpha.2

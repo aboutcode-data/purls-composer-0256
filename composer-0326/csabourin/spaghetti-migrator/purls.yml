@@ -288,3 +288,7 @@
 - pkg:composer/csabourin/spaghetti-migrator@v5.8.4
 - pkg:composer/csabourin/spaghetti-migrator@v5.8.5
 - pkg:composer/csabourin/spaghetti-migrator@v5.8.6
+- pkg:composer/csabourin/spaghetti-migrator@v5.8.7
+- pkg:composer/csabourin/spaghetti-migrator@v5.8.8
+- pkg:composer/csabourin/spaghetti-migrator@v5.8.9
+- pkg:composer/csabourin/spaghetti-migrator@v5.9.0
