@@ -21,3 +21,4 @@
 - pkg:composer/swoole/swoole@v6.2.0
 - pkg:composer/swoole/swoole@v6.2.0-rc1
 - pkg:composer/swoole/swoole@v6.2.0-rc2
+- pkg:composer/swoole/swoole@v6.2.1
