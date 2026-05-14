@@ -18,3 +18,5 @@
 - pkg:composer/craftpulse/craft-password-policy@5.0.2.1
 - pkg:composer/craftpulse/craft-password-policy@5.0.3
 - pkg:composer/craftpulse/craft-password-policy@5.1.0
+- pkg:composer/craftpulse/craft-password-policy@5.1.1
+- pkg:composer/craftpulse/craft-password-policy@5.1.2
