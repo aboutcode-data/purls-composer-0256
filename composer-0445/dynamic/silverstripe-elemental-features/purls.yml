@@ -17,3 +17,4 @@
 - pkg:composer/dynamic/silverstripe-elemental-features@4.0.0-beta1
 - pkg:composer/dynamic/silverstripe-elemental-features@4.0.1
 - pkg:composer/dynamic/silverstripe-elemental-features@5.0.0
+- pkg:composer/dynamic/silverstripe-elemental-features@6.0.0
