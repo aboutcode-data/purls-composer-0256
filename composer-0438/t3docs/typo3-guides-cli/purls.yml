@@ -12,3 +12,4 @@
 - pkg:composer/t3docs/typo3-guides-cli@0.23.1
 - pkg:composer/t3docs/typo3-guides-cli@0.31
 - pkg:composer/t3docs/typo3-guides-cli@0.37.0
+- pkg:composer/t3docs/typo3-guides-cli@0.38.0
