@@ -9,3 +9,5 @@
 - pkg:composer/8ctopus/paddle-rest-api@0.6.1
 - pkg:composer/8ctopus/paddle-rest-api@0.7.0
 - pkg:composer/8ctopus/paddle-rest-api@0.7.1
+- pkg:composer/8ctopus/paddle-rest-api@0.8.0
+- pkg:composer/8ctopus/paddle-rest-api@0.8.1
