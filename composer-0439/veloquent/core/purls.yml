@@ -60,3 +60,6 @@
 - pkg:composer/veloquent/core@v2.2.6
 - pkg:composer/veloquent/core@v2.2.7
 - pkg:composer/veloquent/core@v2.2.8
+- pkg:composer/veloquent/core@v2.3.0
+- pkg:composer/veloquent/core@v2.4.0
+- pkg:composer/veloquent/core@v2.4.1
