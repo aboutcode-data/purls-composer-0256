@@ -28,3 +28,4 @@
 - pkg:composer/clickstorm/go_maps_ext@7.1.0
 - pkg:composer/clickstorm/go_maps_ext@7.1.1
 - pkg:composer/clickstorm/go_maps_ext@7.1.2
+- pkg:composer/clickstorm/go_maps_ext@8.0.0
