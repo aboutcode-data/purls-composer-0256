@@ -102,3 +102,5 @@
 - pkg:composer/braga/dao-generator@4.3.8
 - pkg:composer/braga/dao-generator@4.3.9
 - pkg:composer/braga/dao-generator@4.4.0
+- pkg:composer/braga/dao-generator@4.4.1
+- pkg:composer/braga/dao-generator@4.4.2
