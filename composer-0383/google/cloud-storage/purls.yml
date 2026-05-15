@@ -116,3 +116,4 @@
 - pkg:composer/google/cloud-storage@v1.9.3
 - pkg:composer/google/cloud-storage@v1.9.4
 - pkg:composer/google/cloud-storage@v2.0.0
+- pkg:composer/google/cloud-storage@v2.1.0

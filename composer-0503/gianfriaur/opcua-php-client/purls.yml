@@ -12,3 +12,4 @@
 - pkg:composer/gianfriaur/opcua-php-client@v4.1.1
 - pkg:composer/gianfriaur/opcua-php-client@v4.2.0
 - pkg:composer/gianfriaur/opcua-php-client@v4.3.0
+- pkg:composer/gianfriaur/opcua-php-client@v4.3.1
