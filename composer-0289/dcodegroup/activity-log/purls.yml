@@ -69,3 +69,4 @@
 - pkg:composer/dcodegroup/activity-log@2.0.7
 - pkg:composer/dcodegroup/activity-log@2.0.8
 - pkg:composer/dcodegroup/activity-log@2.0.9
+- pkg:composer/dcodegroup/activity-log@3.0.0
