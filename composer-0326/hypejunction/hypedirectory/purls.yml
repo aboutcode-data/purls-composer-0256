@@ -2,6 +2,8 @@
 - pkg:composer/hypejunction/hypedirectory@1.0.1
 - pkg:composer/hypejunction/hypedirectory@1.0.2
 - pkg:composer/hypejunction/hypedirectory@1.0.3
+- pkg:composer/hypejunction/hypedirectory@3.0.0
+- pkg:composer/hypejunction/hypedirectory@4.0.0
 - pkg:composer/hypejunction/hypedirectory@5.0.0
 - pkg:composer/hypejunction/hypedirectory@6.0.0
 - pkg:composer/hypejunction/hypedirectory@7.0.0

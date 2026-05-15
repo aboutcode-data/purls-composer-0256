@@ -1,10 +1,10 @@
 - pkg:composer/hk2/addbootstrap5@1.0.0
 - pkg:composer/hk2/addbootstrap5@2.0.0
 - pkg:composer/hk2/addbootstrap5@2.1.0
-- pkg:composer/hk2/addbootstrap5@3.1.0
 - pkg:composer/hk2/addbootstrap5@3.1.1
 - pkg:composer/hk2/addbootstrap5@3.2.0
 - pkg:composer/hk2/addbootstrap5@3.2.1
 - pkg:composer/hk2/addbootstrap5@3.2.2
 - pkg:composer/hk2/addbootstrap5@3.2.3
 - pkg:composer/hk2/addbootstrap5@v3.0.0
+- pkg:composer/hk2/addbootstrap5@v3.1.0

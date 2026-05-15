@@ -47,3 +47,4 @@
 - pkg:composer/inspiredminds/contao-event-registration@2.2.3
 - pkg:composer/inspiredminds/contao-event-registration@2.2.4
 - pkg:composer/inspiredminds/contao-event-registration@2.2.5
+- pkg:composer/inspiredminds/contao-event-registration@2.3.0

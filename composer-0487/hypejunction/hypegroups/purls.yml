@@ -18,3 +18,6 @@
 - pkg:composer/hypejunction/hypegroups@3.0.4
 - pkg:composer/hypejunction/hypegroups@3.1.0
 - pkg:composer/hypejunction/hypegroups@3.1.1
+- pkg:composer/hypejunction/hypegroups@4.0.0
+- pkg:composer/hypejunction/hypegroups@5.0.0
+- pkg:composer/hypejunction/hypegroups@6.0.0
