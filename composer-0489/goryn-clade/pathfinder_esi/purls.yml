@@ -12,6 +12,9 @@
 - pkg:composer/goryn-clade/pathfinder_esi@v3.0.0
 - pkg:composer/goryn-clade/pathfinder_esi@v3.0.1
 - pkg:composer/goryn-clade/pathfinder_esi@v3.0.15
+- pkg:composer/goryn-clade/pathfinder_esi@v3.0.16
+- pkg:composer/goryn-clade/pathfinder_esi@v3.0.17
+- pkg:composer/goryn-clade/pathfinder_esi@v3.0.18
 - pkg:composer/goryn-clade/pathfinder_esi@v3.0.2
 - pkg:composer/goryn-clade/pathfinder_esi@v3.0.3
 - pkg:composer/goryn-clade/pathfinder_esi@v3.0.4
