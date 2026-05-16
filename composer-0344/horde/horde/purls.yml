@@ -30,6 +30,7 @@
 - pkg:composer/horde/horde@5.2.9
 - pkg:composer/horde/horde@6.0.0alpha1
 - pkg:composer/horde/horde@v6.0.0RC1
+- pkg:composer/horde/horde@v6.0.0RC2
 - pkg:composer/horde/horde@v6.0.0alpha10
 - pkg:composer/horde/horde@v6.0.0alpha11
 - pkg:composer/horde/horde@v6.0.0alpha12
