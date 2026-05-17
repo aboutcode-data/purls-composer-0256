@@ -16,3 +16,4 @@
 - pkg:composer/heikohardt/behat-typo3-extension@8.1.4
 - pkg:composer/heikohardt/behat-typo3-extension@8.1.5
 - pkg:composer/heikohardt/behat-typo3-extension@8.1.6
+- pkg:composer/heikohardt/behat-typo3-extension@8.1.7
