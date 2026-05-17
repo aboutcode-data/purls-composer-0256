@@ -3,3 +3,5 @@
 - pkg:composer/cofa/neoleap-integration-package@v1.2
 - pkg:composer/cofa/neoleap-integration-package@v1.3
 - pkg:composer/cofa/neoleap-integration-package@v1.4
+- pkg:composer/cofa/neoleap-integration-package@v1.5
+- pkg:composer/cofa/neoleap-integration-package@v1.6
