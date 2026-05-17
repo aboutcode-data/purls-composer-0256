@@ -153,3 +153,4 @@
 - pkg:composer/klevu/module-search@3.8.0
 - pkg:composer/klevu/module-search@3.8.1
 - pkg:composer/klevu/module-search@3.8.2
+- pkg:composer/klevu/module-search@3.9.0

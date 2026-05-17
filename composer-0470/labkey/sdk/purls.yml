@@ -6,3 +6,7 @@
 - pkg:composer/labkey/sdk@1.2.4
 - pkg:composer/labkey/sdk@1.2.5
 - pkg:composer/labkey/sdk@1.2.6
+- pkg:composer/labkey/sdk@1.2.7
+- pkg:composer/labkey/sdk@1.2.8
+- pkg:composer/labkey/sdk@1.2.9
+- pkg:composer/labkey/sdk@1.3.0

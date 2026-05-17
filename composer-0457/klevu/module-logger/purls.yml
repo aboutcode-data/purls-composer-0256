@@ -20,5 +20,7 @@
 - pkg:composer/klevu/module-logger@2.2.1
 - pkg:composer/klevu/module-logger@2.3.0
 - pkg:composer/klevu/module-logger@2.3.1
+- pkg:composer/klevu/module-logger@2.4.0
 - pkg:composer/klevu/module-logger@3.0.0
 - pkg:composer/klevu/module-logger@3.0.1
+- pkg:composer/klevu/module-logger@3.1.0
