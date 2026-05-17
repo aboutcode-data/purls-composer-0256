@@ -5,3 +5,5 @@
 - pkg:composer/mhcg/monolog-wp-cli@v1.2.0
 - pkg:composer/mhcg/monolog-wp-cli@v1.3.0
 - pkg:composer/mhcg/monolog-wp-cli@v2.0.0
+- pkg:composer/mhcg/monolog-wp-cli@v2.1.0
+- pkg:composer/mhcg/monolog-wp-cli@v2.1.1
