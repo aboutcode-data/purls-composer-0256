@@ -2,3 +2,4 @@
 - pkg:composer/libpurecontent/csv@v1.5.1
 - pkg:composer/libpurecontent/csv@v1.5.2
 - pkg:composer/libpurecontent/csv@v1.6.0
+- pkg:composer/libpurecontent/csv@v1.7.0
