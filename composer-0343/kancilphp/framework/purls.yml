@@ -1,6 +1,7 @@
 - pkg:composer/kancilphp/framework@0.8.0
 - pkg:composer/kancilphp/framework@v0.1.0
 - pkg:composer/kancilphp/framework@v0.10.0
+- pkg:composer/kancilphp/framework@v0.11.0
 - pkg:composer/kancilphp/framework@v0.2.0
 - pkg:composer/kancilphp/framework@v0.3.0
 - pkg:composer/kancilphp/framework@v0.4.0
