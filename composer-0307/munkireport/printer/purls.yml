@@ -6,3 +6,4 @@
 - pkg:composer/munkireport/printer@v2.0
 - pkg:composer/munkireport/printer@v3.0
 - pkg:composer/munkireport/printer@v3.0b1
+- pkg:composer/munkireport/printer@v3.1

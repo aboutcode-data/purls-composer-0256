@@ -38,3 +38,4 @@
 - pkg:composer/neos/fusion-form@v2.2.0
 - pkg:composer/neos/fusion-form@v2.3.0
 - pkg:composer/neos/fusion-form@v2.3.1
+- pkg:composer/neos/fusion-form@v3.1.0
