@@ -1,2 +1,4 @@
+- pkg:composer/dcardenasl/ci4-api-scaffolding@0.4.0
 - pkg:composer/dcardenasl/ci4-api-scaffolding@v0.2.0
 - pkg:composer/dcardenasl/ci4-api-scaffolding@v0.3.0
+- pkg:composer/dcardenasl/ci4-api-scaffolding@v0.3.1
