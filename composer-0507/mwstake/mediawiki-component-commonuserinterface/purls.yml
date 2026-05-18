@@ -46,7 +46,10 @@
 - pkg:composer/mwstake/mediawiki-component-commonuserinterface@5.1.7
 - pkg:composer/mwstake/mediawiki-component-commonuserinterface@6.0.0
 - pkg:composer/mwstake/mediawiki-component-commonuserinterface@6.0.1
+- pkg:composer/mwstake/mediawiki-component-commonuserinterface@6.0.2
 - pkg:composer/mwstake/mediawiki-component-commonuserinterface@7.0.0
+- pkg:composer/mwstake/mediawiki-component-commonuserinterface@7.0.1
 - pkg:composer/mwstake/mediawiki-component-commonuserinterface@8.0.0
 - pkg:composer/mwstake/mediawiki-component-commonuserinterface@8.0.1
 - pkg:composer/mwstake/mediawiki-component-commonuserinterface@8.0.2
+- pkg:composer/mwstake/mediawiki-component-commonuserinterface@8.0.3

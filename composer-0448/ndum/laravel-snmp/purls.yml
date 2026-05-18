@@ -9,3 +9,4 @@
 - pkg:composer/ndum/laravel-snmp@1.9.0
 - pkg:composer/ndum/laravel-snmp@2.0.0
 - pkg:composer/ndum/laravel-snmp@2.1.0
+- pkg:composer/ndum/laravel-snmp@2.2.0

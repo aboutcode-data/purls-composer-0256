@@ -19,3 +19,8 @@
 - pkg:composer/mydnic/laravel-subscribers@v1.8.0
 - pkg:composer/mydnic/laravel-subscribers@v1.9.0
 - pkg:composer/mydnic/laravel-subscribers@v1.9.1
+- pkg:composer/mydnic/laravel-subscribers@v2.0.0
+- pkg:composer/mydnic/laravel-subscribers@v2.0.1
+- pkg:composer/mydnic/laravel-subscribers@v2.0.2
+- pkg:composer/mydnic/laravel-subscribers@v2.0.3
+- pkg:composer/mydnic/laravel-subscribers@v2.0.4
