@@ -17,3 +17,4 @@
 - pkg:composer/ocolin/easysnmp@v3.5.0
 - pkg:composer/ocolin/easysnmp@v3.6.0
 - pkg:composer/ocolin/easysnmp@v4.0.0
+- pkg:composer/ocolin/easysnmp@v4.0.1

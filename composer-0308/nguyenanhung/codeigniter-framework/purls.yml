@@ -77,6 +77,7 @@
 - pkg:composer/nguyenanhung/codeigniter-framework@v3.1.15.12
 - pkg:composer/nguyenanhung/codeigniter-framework@v3.1.15.13
 - pkg:composer/nguyenanhung/codeigniter-framework@v3.1.15.14
+- pkg:composer/nguyenanhung/codeigniter-framework@v3.1.15.15
 - pkg:composer/nguyenanhung/codeigniter-framework@v3.1.15.2
 - pkg:composer/nguyenanhung/codeigniter-framework@v3.1.15.3
 - pkg:composer/nguyenanhung/codeigniter-framework@v3.1.15.4
@@ -120,6 +121,8 @@
 - pkg:composer/nguyenanhung/codeigniter-framework@v3.2.0.38
 - pkg:composer/nguyenanhung/codeigniter-framework@v3.2.0.39
 - pkg:composer/nguyenanhung/codeigniter-framework@v3.2.0.4
+- pkg:composer/nguyenanhung/codeigniter-framework@v3.2.0.40
+- pkg:composer/nguyenanhung/codeigniter-framework@v3.2.0.41
 - pkg:composer/nguyenanhung/codeigniter-framework@v3.2.0.5
 - pkg:composer/nguyenanhung/codeigniter-framework@v3.2.0.6
 - pkg:composer/nguyenanhung/codeigniter-framework@v3.2.0.7
