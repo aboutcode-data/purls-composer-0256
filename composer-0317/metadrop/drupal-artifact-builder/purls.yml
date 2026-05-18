@@ -36,3 +36,4 @@
 - pkg:composer/metadrop/drupal-artifact-builder@3.0.0-RC2
 - pkg:composer/metadrop/drupal-artifact-builder@3.0.1
 - pkg:composer/metadrop/drupal-artifact-builder@3.1.0-rc1
+- pkg:composer/metadrop/drupal-artifact-builder@3.1.0-rc2
