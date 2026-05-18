@@ -25,6 +25,7 @@
 - pkg:composer/plott/plottcore-wordpress@6.31.0
 - pkg:composer/plott/plottcore-wordpress@6.32.0
 - pkg:composer/plott/plottcore-wordpress@6.33.0
+- pkg:composer/plott/plottcore-wordpress@6.34.2
 - pkg:composer/plott/plottcore-wordpress@6.5.5
 - pkg:composer/plott/plottcore-wordpress@6.6.1
 - pkg:composer/plott/plottcore-wordpress@6.6.1.1

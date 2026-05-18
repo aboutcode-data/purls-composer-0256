@@ -76,3 +76,5 @@
 - pkg:composer/phpmailer/phpmailer@v7.0.0
 - pkg:composer/phpmailer/phpmailer@v7.0.1
 - pkg:composer/phpmailer/phpmailer@v7.0.2
+- pkg:composer/phpmailer/phpmailer@v7.1.0
+- pkg:composer/phpmailer/phpmailer@v7.1.1

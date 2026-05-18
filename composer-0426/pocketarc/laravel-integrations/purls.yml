@@ -20,3 +20,4 @@
 - pkg:composer/pocketarc/laravel-integrations@2.4.1
 - pkg:composer/pocketarc/laravel-integrations@2.5.0
 - pkg:composer/pocketarc/laravel-integrations@2.5.1
+- pkg:composer/pocketarc/laravel-integrations@3.0.0
