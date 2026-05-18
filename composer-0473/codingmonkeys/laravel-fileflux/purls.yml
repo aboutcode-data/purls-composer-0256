@@ -5,3 +5,4 @@
 - pkg:composer/codingmonkeys/laravel-fileflux@0.0.5
 - pkg:composer/codingmonkeys/laravel-fileflux@0.0.6
 - pkg:composer/codingmonkeys/laravel-fileflux@0.0.7
+- pkg:composer/codingmonkeys/laravel-fileflux@1.1.0
