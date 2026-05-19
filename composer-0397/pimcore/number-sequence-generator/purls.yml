@@ -10,5 +10,6 @@
 - pkg:composer/pimcore/number-sequence-generator@v2.0.0-BETA1
 - pkg:composer/pimcore/number-sequence-generator@v2.0.0-RC1
 - pkg:composer/pimcore/number-sequence-generator@v2.0.1
+- pkg:composer/pimcore/number-sequence-generator@v2026.1.0
 - pkg:composer/pimcore/number-sequence-generator@v3.0.0
 - pkg:composer/pimcore/number-sequence-generator@v3.0.0-RC1
