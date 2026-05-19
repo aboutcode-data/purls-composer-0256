@@ -8,3 +8,6 @@
 - pkg:composer/rajandangi/wp-gh-release-updater@v1.5.2
 - pkg:composer/rajandangi/wp-gh-release-updater@v1.5.3
 - pkg:composer/rajandangi/wp-gh-release-updater@v1.5.4
+- pkg:composer/rajandangi/wp-gh-release-updater@v1.6.0
+- pkg:composer/rajandangi/wp-gh-release-updater@v1.7.0
+- pkg:composer/rajandangi/wp-gh-release-updater@v1.8.1

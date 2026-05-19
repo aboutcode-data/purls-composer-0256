@@ -12,3 +12,4 @@
 - pkg:composer/qualtrics/jaeger-client-php@v0.4.2
 - pkg:composer/qualtrics/jaeger-client-php@v0.5.0
 - pkg:composer/qualtrics/jaeger-client-php@v0.6.0
+- pkg:composer/qualtrics/jaeger-client-php@v0.7.0

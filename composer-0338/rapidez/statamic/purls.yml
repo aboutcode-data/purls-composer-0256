@@ -99,3 +99,5 @@
 - pkg:composer/rapidez/statamic@6.3.1
 - pkg:composer/rapidez/statamic@6.3.2
 - pkg:composer/rapidez/statamic@7.0.0
+- pkg:composer/rapidez/statamic@7.0.1
+- pkg:composer/rapidez/statamic@8.0.0

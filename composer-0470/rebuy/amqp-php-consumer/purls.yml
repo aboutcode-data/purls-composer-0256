@@ -9,3 +9,4 @@
 - pkg:composer/rebuy/amqp-php-consumer@v1.0.0-BETA7
 - pkg:composer/rebuy/amqp-php-consumer@v1.0.0-BETA8
 - pkg:composer/rebuy/amqp-php-consumer@v1.0.0-BETA9
+- pkg:composer/rebuy/amqp-php-consumer@v2.0.0

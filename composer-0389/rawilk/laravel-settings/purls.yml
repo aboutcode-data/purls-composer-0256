@@ -18,3 +18,4 @@
 - pkg:composer/rawilk/laravel-settings@v3.3.1
 - pkg:composer/rawilk/laravel-settings@v3.4.0
 - pkg:composer/rawilk/laravel-settings@v3.4.1
+- pkg:composer/rawilk/laravel-settings@v4.0.0
