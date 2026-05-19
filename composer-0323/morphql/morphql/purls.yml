@@ -17,3 +17,5 @@
 - pkg:composer/morphql/morphql@v0.1.37
 - pkg:composer/morphql/morphql@v0.1.38
 - pkg:composer/morphql/morphql@v0.1.39
+- pkg:composer/morphql/morphql@v0.1.41
+- pkg:composer/morphql/morphql@v0.1.42
