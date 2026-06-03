@@ -1,5 +1,8 @@
 - pkg:composer/imamnc/efihub-client@v1.2.10
 - pkg:composer/imamnc/efihub-client@v1.2.11
+- pkg:composer/imamnc/efihub-client@v1.2.12
+- pkg:composer/imamnc/efihub-client@v1.2.13
+- pkg:composer/imamnc/efihub-client@v1.2.14
 - pkg:composer/imamnc/efihub-client@v1.2.5
 - pkg:composer/imamnc/efihub-client@v1.2.6
 - pkg:composer/imamnc/efihub-client@v1.2.7
