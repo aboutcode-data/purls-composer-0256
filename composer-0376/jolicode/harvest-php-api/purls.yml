@@ -26,3 +26,4 @@
 - pkg:composer/jolicode/harvest-php-api@v7.1.0
 - pkg:composer/jolicode/harvest-php-api@v8.0.0
 - pkg:composer/jolicode/harvest-php-api@v8.1.0
+- pkg:composer/jolicode/harvest-php-api@v9.0.0
