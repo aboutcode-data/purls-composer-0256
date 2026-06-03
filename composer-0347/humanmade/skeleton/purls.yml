@@ -42,6 +42,7 @@
 - pkg:composer/humanmade/skeleton@22.0.0-beta.1
 - pkg:composer/humanmade/skeleton@23.0.0
 - pkg:composer/humanmade/skeleton@23.0.0-beta.1
+- pkg:composer/humanmade/skeleton@23.0.1
 - pkg:composer/humanmade/skeleton@24.0.0
 - pkg:composer/humanmade/skeleton@24.0.0-beta.1
 - pkg:composer/humanmade/skeleton@25.0.0
