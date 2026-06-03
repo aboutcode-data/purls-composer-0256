@@ -1,3 +1,8 @@
+- pkg:composer/hhttp/io@1.1.43
+- pkg:composer/hhttp/io@1.1.44
+- pkg:composer/hhttp/io@1.1.45
+- pkg:composer/hhttp/io@1.1.46
+- pkg:composer/hhttp/io@1.1.47
 - pkg:composer/hhttp/io@v1.1.1
 - pkg:composer/hhttp/io@v1.1.10
 - pkg:composer/hhttp/io@v1.1.11
@@ -34,6 +39,7 @@
 - pkg:composer/hhttp/io@v1.1.4
 - pkg:composer/hhttp/io@v1.1.40
 - pkg:composer/hhttp/io@v1.1.41
+- pkg:composer/hhttp/io@v1.1.42
 - pkg:composer/hhttp/io@v1.1.5
 - pkg:composer/hhttp/io@v1.1.6
 - pkg:composer/hhttp/io@v1.1.7
