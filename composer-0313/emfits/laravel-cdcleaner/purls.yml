@@ -10,3 +10,6 @@
 - pkg:composer/emfits/laravel-cdcleaner@v0.1.8
 - pkg:composer/emfits/laravel-cdcleaner@v0.1.9
 - pkg:composer/emfits/laravel-cdcleaner@v0.2.0
+- pkg:composer/emfits/laravel-cdcleaner@v1.0.0
+- pkg:composer/emfits/laravel-cdcleaner@v1.0.1
+- pkg:composer/emfits/laravel-cdcleaner@v1.0.2
