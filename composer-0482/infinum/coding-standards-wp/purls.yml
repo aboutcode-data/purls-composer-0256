@@ -33,3 +33,6 @@
 - pkg:composer/infinum/coding-standards-wp@3.0.0
 - pkg:composer/infinum/coding-standards-wp@3.0.1
 - pkg:composer/infinum/coding-standards-wp@3.1.0
+- pkg:composer/infinum/coding-standards-wp@4.0.0
+- pkg:composer/infinum/coding-standards-wp@4.0.1
+- pkg:composer/infinum/coding-standards-wp@4.0.2

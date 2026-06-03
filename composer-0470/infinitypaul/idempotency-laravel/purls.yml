@@ -4,3 +4,6 @@
 - pkg:composer/infinitypaul/idempotency-laravel@1.0.3
 - pkg:composer/infinitypaul/idempotency-laravel@1.0.4
 - pkg:composer/infinitypaul/idempotency-laravel@1.0.5
+- pkg:composer/infinitypaul/idempotency-laravel@1.0.6
+- pkg:composer/infinitypaul/idempotency-laravel@1.0.7
+- pkg:composer/infinitypaul/idempotency-laravel@2.0.0
