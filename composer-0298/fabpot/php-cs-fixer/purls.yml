@@ -367,3 +367,4 @@
 - pkg:composer/fabpot/php-cs-fixer@v3.95.0
 - pkg:composer/fabpot/php-cs-fixer@v3.95.1
 - pkg:composer/fabpot/php-cs-fixer@v3.95.2
+- pkg:composer/fabpot/php-cs-fixer@v3.95.3
