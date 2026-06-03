@@ -29,6 +29,12 @@
 - pkg:composer/guzzlehttp/psr7@2.1.0
 - pkg:composer/guzzlehttp/psr7@2.1.1
 - pkg:composer/guzzlehttp/psr7@2.1.2
+- pkg:composer/guzzlehttp/psr7@2.10.0
+- pkg:composer/guzzlehttp/psr7@2.10.1
+- pkg:composer/guzzlehttp/psr7@2.10.2
+- pkg:composer/guzzlehttp/psr7@2.10.3
+- pkg:composer/guzzlehttp/psr7@2.10.4
+- pkg:composer/guzzlehttp/psr7@2.11.0
 - pkg:composer/guzzlehttp/psr7@2.2.0
 - pkg:composer/guzzlehttp/psr7@2.2.1
 - pkg:composer/guzzlehttp/psr7@2.2.2

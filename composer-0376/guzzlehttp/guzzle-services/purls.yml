@@ -19,3 +19,8 @@
 - pkg:composer/guzzlehttp/guzzle-services@1.4.2
 - pkg:composer/guzzlehttp/guzzle-services@1.4.3
 - pkg:composer/guzzlehttp/guzzle-services@1.5.0
+- pkg:composer/guzzlehttp/guzzle-services@1.5.1
+- pkg:composer/guzzlehttp/guzzle-services@1.5.2
+- pkg:composer/guzzlehttp/guzzle-services@1.5.3
+- pkg:composer/guzzlehttp/guzzle-services@1.5.4
+- pkg:composer/guzzlehttp/guzzle-services@1.6.0
