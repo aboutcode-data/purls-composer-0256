@@ -7,3 +7,4 @@
 - pkg:composer/jobmetric/laravel-location@1.4.0
 - pkg:composer/jobmetric/laravel-location@2.0.0
 - pkg:composer/jobmetric/laravel-location@2.1.0
+- pkg:composer/jobmetric/laravel-location@2.2.0
