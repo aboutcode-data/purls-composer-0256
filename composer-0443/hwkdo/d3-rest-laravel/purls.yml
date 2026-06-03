@@ -16,3 +16,5 @@
 - pkg:composer/hwkdo/d3-rest-laravel@v1.0.9
 - pkg:composer/hwkdo/d3-rest-laravel@v1.1
 - pkg:composer/hwkdo/d3-rest-laravel@v1.2
+- pkg:composer/hwkdo/d3-rest-laravel@v1.2.1
+- pkg:composer/hwkdo/d3-rest-laravel@v1.2.2
