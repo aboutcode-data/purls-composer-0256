@@ -8,3 +8,4 @@
 - pkg:composer/laymont/laravel-pattern-repository@v2.0.1
 - pkg:composer/laymont/laravel-pattern-repository@v3.0.0
 - pkg:composer/laymont/laravel-pattern-repository@v4.0.0
+- pkg:composer/laymont/laravel-pattern-repository@v4.0.1
