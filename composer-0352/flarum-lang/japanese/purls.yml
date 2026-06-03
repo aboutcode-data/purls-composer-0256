@@ -37,3 +37,5 @@
 - pkg:composer/flarum-lang/japanese@v3.9.2
 - pkg:composer/flarum-lang/japanese@v3.9.3
 - pkg:composer/flarum-lang/japanese@v4.0.0
+- pkg:composer/flarum-lang/japanese@v4.0.1
+- pkg:composer/flarum-lang/japanese@v4.0.2
