@@ -1,3 +1,4 @@
 - pkg:composer/initphp/container@0.2
 - pkg:composer/initphp/container@0.3
 - pkg:composer/initphp/container@0.4
+- pkg:composer/initphp/container@1.0.0

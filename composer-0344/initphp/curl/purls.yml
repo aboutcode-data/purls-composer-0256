@@ -1,1 +1,2 @@
 - pkg:composer/initphp/curl@1.0
+- pkg:composer/initphp/curl@1.0.1

@@ -1,1 +1,2 @@
 - pkg:composer/initorm/orm@1.0
+- pkg:composer/initorm/orm@2.0.0
