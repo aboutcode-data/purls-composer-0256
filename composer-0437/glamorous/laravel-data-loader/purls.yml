@@ -4,3 +4,4 @@
 - pkg:composer/glamorous/laravel-data-loader@0.8
 - pkg:composer/glamorous/laravel-data-loader@0.8.1
 - pkg:composer/glamorous/laravel-data-loader@0.8.2
+- pkg:composer/glamorous/laravel-data-loader@0.9
