@@ -9,3 +9,4 @@
 - pkg:composer/jp3cki/totp@v2.0.2
 - pkg:composer/jp3cki/totp@v3.0.0
 - pkg:composer/jp3cki/totp@v3.0.1
+- pkg:composer/jp3cki/totp@v4.0.0
