@@ -43,6 +43,7 @@
 - pkg:composer/friendsofcake/crud-view@0.50.3
 - pkg:composer/friendsofcake/crud-view@0.51.0
 - pkg:composer/friendsofcake/crud-view@0.51.1
+- pkg:composer/friendsofcake/crud-view@0.51.2
 - pkg:composer/friendsofcake/crud-view@0.6.0
 - pkg:composer/friendsofcake/crud-view@0.7.0
 - pkg:composer/friendsofcake/crud-view@0.8.0
