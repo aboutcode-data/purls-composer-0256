@@ -2,4 +2,8 @@
 - pkg:composer/goopil/laravel-redis-sentinel@0.0.3
 - pkg:composer/goopil/laravel-redis-sentinel@1.0.1
 - pkg:composer/goopil/laravel-redis-sentinel@1.1.0
+- pkg:composer/goopil/laravel-redis-sentinel@1.2.0
+- pkg:composer/goopil/laravel-redis-sentinel@1.2.1
+- pkg:composer/goopil/laravel-redis-sentinel@1.2.2
+- pkg:composer/goopil/laravel-redis-sentinel@1.2.3
 - pkg:composer/goopil/laravel-redis-sentinel@v1.0.0
