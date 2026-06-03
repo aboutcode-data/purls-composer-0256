@@ -4,6 +4,7 @@
 - pkg:composer/in2code/in2glossar@1.2.0
 - pkg:composer/in2code/in2glossar@13.0.1
 - pkg:composer/in2code/in2glossar@13.1.0
+- pkg:composer/in2code/in2glossar@13.1.1
 - pkg:composer/in2code/in2glossar@2.0.0
 - pkg:composer/in2code/in2glossar@2.0.1
 - pkg:composer/in2code/in2glossar@2.0.2
@@ -12,4 +13,5 @@
 - pkg:composer/in2code/in2glossar@4.1.0
 - pkg:composer/in2code/in2glossar@4.2.0
 - pkg:composer/in2code/in2glossar@4.2.1
+- pkg:composer/in2code/in2glossar@4.2.2
 - pkg:composer/in2code/in2glossar@5.0.0
