@@ -33,3 +33,5 @@
 - pkg:composer/krsque/php-ext-protobuf-stubs@33.6.0
 - pkg:composer/krsque/php-ext-protobuf-stubs@34.0.0
 - pkg:composer/krsque/php-ext-protobuf-stubs@34.1.0
+- pkg:composer/krsque/php-ext-protobuf-stubs@34.2.0
+- pkg:composer/krsque/php-ext-protobuf-stubs@35.0.0
