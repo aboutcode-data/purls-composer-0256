@@ -10,3 +10,5 @@
 - pkg:composer/islandora/openseadragon@2.2.0
 - pkg:composer/islandora/openseadragon@2.2.1
 - pkg:composer/islandora/openseadragon@2.2.2
+- pkg:composer/islandora/openseadragon@3.0.0
+- pkg:composer/islandora/openseadragon@3.0.1
