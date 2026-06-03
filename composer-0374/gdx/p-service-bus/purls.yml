@@ -115,6 +115,8 @@
 - pkg:composer/gdx/p-service-bus@2.13.4
 - pkg:composer/gdx/p-service-bus@2.13.8
 - pkg:composer/gdx/p-service-bus@2.13.9
+- pkg:composer/gdx/p-service-bus@2.14.0
+- pkg:composer/gdx/p-service-bus@2.14.1
 - pkg:composer/gdx/p-service-bus@2.2.0
 - pkg:composer/gdx/p-service-bus@2.2.1
 - pkg:composer/gdx/p-service-bus@2.2.2
