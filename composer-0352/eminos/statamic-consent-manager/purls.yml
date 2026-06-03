@@ -1,3 +1,4 @@
 - pkg:composer/eminos/statamic-consent-manager@v1.0.0
 - pkg:composer/eminos/statamic-consent-manager@v2.0
 - pkg:composer/eminos/statamic-consent-manager@v2.0.1
+- pkg:composer/eminos/statamic-consent-manager@v2.0.2
