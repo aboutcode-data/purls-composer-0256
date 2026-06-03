@@ -19,6 +19,8 @@
 - pkg:composer/kiwi/contao-designer@1.1.14
 - pkg:composer/kiwi/contao-designer@1.1.15
 - pkg:composer/kiwi/contao-designer@1.1.16
+- pkg:composer/kiwi/contao-designer@1.1.17
+- pkg:composer/kiwi/contao-designer@1.1.18
 - pkg:composer/kiwi/contao-designer@1.1.3
 - pkg:composer/kiwi/contao-designer@1.1.4
 - pkg:composer/kiwi/contao-designer@1.1.5
