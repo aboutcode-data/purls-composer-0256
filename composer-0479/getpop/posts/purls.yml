@@ -109,6 +109,8 @@
 - pkg:composer/getpop/posts@17.1.0
 - pkg:composer/getpop/posts@17.1.1
 - pkg:composer/getpop/posts@17.1.2
+- pkg:composer/getpop/posts@18.0.0
+- pkg:composer/getpop/posts@18.0.1
 - pkg:composer/getpop/posts@2.0.1
 - pkg:composer/getpop/posts@2.1.0
 - pkg:composer/getpop/posts@2.1.1
