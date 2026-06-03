@@ -13,3 +13,4 @@
 - pkg:composer/eljam/guzzle-jwt-middleware@v1.0.1
 - pkg:composer/eljam/guzzle-jwt-middleware@v1.0.2
 - pkg:composer/eljam/guzzle-jwt-middleware@v2.0.0
+- pkg:composer/eljam/guzzle-jwt-middleware@v2.1.0
