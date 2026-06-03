@@ -39,6 +39,7 @@
 - pkg:composer/emulsify-ds/emulsify-design-system@6.0.1
 - pkg:composer/emulsify-ds/emulsify-design-system@6.1.0
 - pkg:composer/emulsify-ds/emulsify-design-system@6.1.1
+- pkg:composer/emulsify-ds/emulsify-design-system@6.2.0
 - pkg:composer/emulsify-ds/emulsify-design-system@v1.0.0-alpha.4
 - pkg:composer/emulsify-ds/emulsify-design-system@v1.0.0-alpha.5
 - pkg:composer/emulsify-ds/emulsify-design-system@v1.0.0-alpha.6
