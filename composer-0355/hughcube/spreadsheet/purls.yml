@@ -1,5 +1,6 @@
 - pkg:composer/hughcube/spreadsheet@v1.0.0
 - pkg:composer/hughcube/spreadsheet@v1.0.1
+- pkg:composer/hughcube/spreadsheet@v1.0.11
 - pkg:composer/hughcube/spreadsheet@v1.0.2
 - pkg:composer/hughcube/spreadsheet@v1.0.3
 - pkg:composer/hughcube/spreadsheet@v1.0.4
@@ -9,6 +10,9 @@
 - pkg:composer/hughcube/spreadsheet@v1.0.8
 - pkg:composer/hughcube/spreadsheet@v1.0.9
 - pkg:composer/hughcube/spreadsheet@v1.1.0
+- pkg:composer/hughcube/spreadsheet@v1.1.2
 - pkg:composer/hughcube/spreadsheet@v2.0.0
 - pkg:composer/hughcube/spreadsheet@v2.1.0
+- pkg:composer/hughcube/spreadsheet@v2.1.2
 - pkg:composer/hughcube/spreadsheet@v3.0.0
+- pkg:composer/hughcube/spreadsheet@v3.0.2
