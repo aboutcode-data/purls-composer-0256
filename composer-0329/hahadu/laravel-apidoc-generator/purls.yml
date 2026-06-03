@@ -6,3 +6,5 @@
 - pkg:composer/hahadu/laravel-apidoc-generator@v0.3.1
 - pkg:composer/hahadu/laravel-apidoc-generator@v1.0.1
 - pkg:composer/hahadu/laravel-apidoc-generator@v1.0.2
+- pkg:composer/hahadu/laravel-apidoc-generator@v1.0.3
+- pkg:composer/hahadu/laravel-apidoc-generator@v1.0.4
