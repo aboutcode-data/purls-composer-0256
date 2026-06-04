@@ -44,3 +44,5 @@
 - pkg:composer/lucinda/security@v4.1.5
 - pkg:composer/lucinda/security@v4.1.6
 - pkg:composer/lucinda/security@v5.0.0
+- pkg:composer/lucinda/security@v5.0.1
+- pkg:composer/lucinda/security@v5.0.2
