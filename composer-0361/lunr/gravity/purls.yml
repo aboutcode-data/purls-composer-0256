@@ -2,6 +2,7 @@
 - pkg:composer/lunr/gravity@0.10.1
 - pkg:composer/lunr/gravity@0.10.2
 - pkg:composer/lunr/gravity@0.11.0
+- pkg:composer/lunr/gravity@0.12.0
 - pkg:composer/lunr/gravity@0.8.0
 - pkg:composer/lunr/gravity@0.8.1
 - pkg:composer/lunr/gravity@0.8.2
