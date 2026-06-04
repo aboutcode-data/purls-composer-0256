@@ -107,4 +107,7 @@
 - pkg:composer/laravel-workflow/waterline@2.0.0-alpha.79
 - pkg:composer/laravel-workflow/waterline@2.0.0-alpha.8
 - pkg:composer/laravel-workflow/waterline@2.0.0-alpha.80
+- pkg:composer/laravel-workflow/waterline@2.0.0-alpha.81
+- pkg:composer/laravel-workflow/waterline@2.0.0-alpha.82
+- pkg:composer/laravel-workflow/waterline@2.0.0-alpha.83
 - pkg:composer/laravel-workflow/waterline@2.0.0-alpha.9
