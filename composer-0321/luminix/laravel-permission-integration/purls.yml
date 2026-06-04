@@ -3,3 +3,4 @@
 - pkg:composer/luminix/laravel-permission-integration@v0.0.3
 - pkg:composer/luminix/laravel-permission-integration@v0.0.4
 - pkg:composer/luminix/laravel-permission-integration@v0.0.5
+- pkg:composer/luminix/laravel-permission-integration@v1.0.0
