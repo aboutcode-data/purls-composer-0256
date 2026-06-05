@@ -8,3 +8,4 @@
 - pkg:composer/jeremykenedy/laravel-email-database-log@v11.4.0
 - pkg:composer/jeremykenedy/laravel-email-database-log@v11.5.0
 - pkg:composer/jeremykenedy/laravel-email-database-log@v12.0.0
+- pkg:composer/jeremykenedy/laravel-email-database-log@v13.0.0
