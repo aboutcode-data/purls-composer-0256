@@ -8,3 +8,4 @@
 - pkg:composer/mygento/module-payment@2.4.0
 - pkg:composer/mygento/module-payment@2.4.0-RC1
 - pkg:composer/mygento/module-payment@2.4.1
+- pkg:composer/mygento/module-payment@2.4.2
