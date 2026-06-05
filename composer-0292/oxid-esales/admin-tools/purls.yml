@@ -1,3 +1,4 @@
 - pkg:composer/oxid-esales/admin-tools@v1.0.0
 - pkg:composer/oxid-esales/admin-tools@v1.0.0-rc.1
 - pkg:composer/oxid-esales/admin-tools@v1.1.0
+- pkg:composer/oxid-esales/admin-tools@v2.0.0
