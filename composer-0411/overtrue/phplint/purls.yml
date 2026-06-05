@@ -113,3 +113,4 @@
 - pkg:composer/overtrue/phplint@9.6.3
 - pkg:composer/overtrue/phplint@9.7.0
 - pkg:composer/overtrue/phplint@9.7.1
+- pkg:composer/overtrue/phplint@9.7.2
