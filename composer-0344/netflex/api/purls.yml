@@ -312,3 +312,5 @@
 - pkg:composer/netflex/api@v6.7.1
 - pkg:composer/netflex/api@v6.7.2
 - pkg:composer/netflex/api@v6.7.3
+- pkg:composer/netflex/api@v7.0.0
+- pkg:composer/netflex/api@v7.0.1
