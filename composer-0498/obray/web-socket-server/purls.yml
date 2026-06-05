@@ -6,3 +6,4 @@
 - pkg:composer/obray/web-socket-server@v1.0.5
 - pkg:composer/obray/web-socket-server@v1.0.6
 - pkg:composer/obray/web-socket-server@v1.0.7
+- pkg:composer/obray/web-socket-server@v1.1.0
