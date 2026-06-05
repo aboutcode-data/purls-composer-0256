@@ -330,3 +330,6 @@
 - pkg:composer/oswis-org/oswis-address-book-bundle@v0.0.88
 - pkg:composer/oswis-org/oswis-address-book-bundle@v0.0.9
 - pkg:composer/oswis-org/oswis-address-book-bundle@v0.1.0
+- pkg:composer/oswis-org/oswis-address-book-bundle@v0.1.1
+- pkg:composer/oswis-org/oswis-address-book-bundle@v0.1.2
+- pkg:composer/oswis-org/oswis-address-book-bundle@v0.1.3
