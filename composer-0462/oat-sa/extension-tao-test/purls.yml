@@ -99,6 +99,8 @@
 - pkg:composer/oat-sa/extension-tao-test@v16.4.18
 - pkg:composer/oat-sa/extension-tao-test@v16.4.19
 - pkg:composer/oat-sa/extension-tao-test@v16.4.2
+- pkg:composer/oat-sa/extension-tao-test@v16.4.20
+- pkg:composer/oat-sa/extension-tao-test@v16.4.21
 - pkg:composer/oat-sa/extension-tao-test@v16.4.3
 - pkg:composer/oat-sa/extension-tao-test@v16.4.4
 - pkg:composer/oat-sa/extension-tao-test@v16.4.5
