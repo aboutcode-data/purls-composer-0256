@@ -48,3 +48,5 @@
 - pkg:composer/openeuropa/oe_list_pages@1.7.0
 - pkg:composer/openeuropa/oe_list_pages@1.8.0
 - pkg:composer/openeuropa/oe_list_pages@1.9.0
+- pkg:composer/openeuropa/oe_list_pages@2.0.0-beta1
+- pkg:composer/openeuropa/oe_list_pages@2.0.0-beta2
