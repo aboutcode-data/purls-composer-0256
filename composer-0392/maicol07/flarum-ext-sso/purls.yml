@@ -24,6 +24,7 @@
 - pkg:composer/maicol07/flarum-ext-sso@1.8
 - pkg:composer/maicol07/flarum-ext-sso@1.8.1
 - pkg:composer/maicol07/flarum-ext-sso@1.9
+- pkg:composer/maicol07/flarum-ext-sso@2.0
 - pkg:composer/maicol07/flarum-ext-sso@v1.0.0
 - pkg:composer/maicol07/flarum-ext-sso@v1.0.1
 - pkg:composer/maicol07/flarum-ext-sso@v1.1.0
