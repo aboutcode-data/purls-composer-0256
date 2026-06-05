@@ -26,4 +26,6 @@
 - pkg:composer/myschoolmanagement/bindto@2.0.7
 - pkg:composer/myschoolmanagement/bindto@2.0.8
 - pkg:composer/myschoolmanagement/bindto@2.0.9
+- pkg:composer/myschoolmanagement/bindto@3.0.0
+- pkg:composer/myschoolmanagement/bindto@3.0.1
 - pkg:composer/myschoolmanagement/bindto@v0.1.0
