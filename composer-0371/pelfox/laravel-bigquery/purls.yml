@@ -10,3 +10,4 @@
 - pkg:composer/pelfox/laravel-bigquery@v1.5.1
 - pkg:composer/pelfox/laravel-bigquery@v1.5.2
 - pkg:composer/pelfox/laravel-bigquery@v2.0.0
+- pkg:composer/pelfox/laravel-bigquery@v3.0.0
