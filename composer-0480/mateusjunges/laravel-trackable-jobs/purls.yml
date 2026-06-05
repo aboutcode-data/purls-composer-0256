@@ -21,3 +21,4 @@
 - pkg:composer/mateusjunges/laravel-trackable-jobs@v2.1.1
 - pkg:composer/mateusjunges/laravel-trackable-jobs@v2.1.2
 - pkg:composer/mateusjunges/laravel-trackable-jobs@v2.2.0
+- pkg:composer/mateusjunges/laravel-trackable-jobs@v3.0.0
