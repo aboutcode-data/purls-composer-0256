@@ -20,3 +20,6 @@
 - pkg:composer/morphql/morphql-symfony@v0.1.39
 - pkg:composer/morphql/morphql-symfony@v0.1.41
 - pkg:composer/morphql/morphql-symfony@v0.1.42
+- pkg:composer/morphql/morphql-symfony@v0.1.43
+- pkg:composer/morphql/morphql-symfony@v0.1.44
+- pkg:composer/morphql/morphql-symfony@v0.1.45
