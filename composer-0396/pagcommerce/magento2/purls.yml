@@ -21,6 +21,7 @@
 - pkg:composer/pagcommerce/magento2@1.5.1
 - pkg:composer/pagcommerce/magento2@1.6.0
 - pkg:composer/pagcommerce/magento2@1.6.1
+- pkg:composer/pagcommerce/magento2@1.6.10
 - pkg:composer/pagcommerce/magento2@1.6.2
 - pkg:composer/pagcommerce/magento2@1.6.3
 - pkg:composer/pagcommerce/magento2@1.6.4
