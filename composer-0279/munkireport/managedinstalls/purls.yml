@@ -17,3 +17,5 @@
 - pkg:composer/munkireport/managedinstalls@v4.4
 - pkg:composer/munkireport/managedinstalls@v4.5
 - pkg:composer/munkireport/managedinstalls@v4.6
+- pkg:composer/munkireport/managedinstalls@v4.7
+- pkg:composer/munkireport/managedinstalls@v4.8
