@@ -2,3 +2,5 @@
 - pkg:composer/mathsgod/light-graphql@1.1.0
 - pkg:composer/mathsgod/light-graphql@1.2.0
 - pkg:composer/mathsgod/light-graphql@1.2.1
+- pkg:composer/mathsgod/light-graphql@1.2.2
+- pkg:composer/mathsgod/light-graphql@v1.3.0
