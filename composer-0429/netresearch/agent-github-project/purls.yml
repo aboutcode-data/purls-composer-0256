@@ -17,6 +17,7 @@
 - pkg:composer/netresearch/agent-github-project@v2.13.0
 - pkg:composer/netresearch/agent-github-project@v2.13.1
 - pkg:composer/netresearch/agent-github-project@v2.14.0
+- pkg:composer/netresearch/agent-github-project@v2.15.0
 - pkg:composer/netresearch/agent-github-project@v2.2.0
 - pkg:composer/netresearch/agent-github-project@v2.3.0
 - pkg:composer/netresearch/agent-github-project@v2.4.0

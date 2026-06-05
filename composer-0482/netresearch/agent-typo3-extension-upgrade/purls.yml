@@ -24,3 +24,4 @@
 - pkg:composer/netresearch/agent-typo3-extension-upgrade@v3.6.1
 - pkg:composer/netresearch/agent-typo3-extension-upgrade@v3.6.2
 - pkg:composer/netresearch/agent-typo3-extension-upgrade@v3.7.0
+- pkg:composer/netresearch/agent-typo3-extension-upgrade@v3.8.0
