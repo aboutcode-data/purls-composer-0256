@@ -53,3 +53,5 @@
 - pkg:composer/noresources/ns-php-core@v3.0.1
 - pkg:composer/noresources/ns-php-core@v3.0.2
 - pkg:composer/noresources/ns-php-core@v4.0.0
+- pkg:composer/noresources/ns-php-core@v4.0.1
+- pkg:composer/noresources/ns-php-core@v4.0.2
