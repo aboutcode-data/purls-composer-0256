@@ -1,3 +1,4 @@
 - pkg:composer/lancodev/filament-meilisearch@v1.0.0
 - pkg:composer/lancodev/filament-meilisearch@v1.1.0
 - pkg:composer/lancodev/filament-meilisearch@v2.0.0
+- pkg:composer/lancodev/filament-meilisearch@v2.0.1
