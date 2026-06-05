@@ -3,3 +3,5 @@
 - pkg:composer/mavenbird/module-core@1.0.5
 - pkg:composer/mavenbird/module-core@1.1.0
 - pkg:composer/mavenbird/module-core@1.1.1
+- pkg:composer/mavenbird/module-core@1.1.2
+- pkg:composer/mavenbird/module-core@1.1.3

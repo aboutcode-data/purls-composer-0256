@@ -8,3 +8,5 @@
 - pkg:composer/mautic/theme-multi-step@7.1.0
 - pkg:composer/mautic/theme-multi-step@7.1.0-rc
 - pkg:composer/mautic/theme-multi-step@7.1.1
+- pkg:composer/mautic/theme-multi-step@7.1.2
+- pkg:composer/mautic/theme-multi-step@7.2.0-rc
