@@ -100,3 +100,4 @@
 - pkg:composer/oro/commerce-authorizenet@6.1.8
 - pkg:composer/oro/commerce-authorizenet@7.0.0
 - pkg:composer/oro/commerce-authorizenet@7.0.0-rc
+- pkg:composer/oro/commerce-authorizenet@7.0.1
