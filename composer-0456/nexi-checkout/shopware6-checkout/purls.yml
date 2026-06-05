@@ -57,3 +57,4 @@
 - pkg:composer/nexi-checkout/shopware6-checkout@2.1.2
 - pkg:composer/nexi-checkout/shopware6-checkout@2.1.3
 - pkg:composer/nexi-checkout/shopware6-checkout@2.1.4
+- pkg:composer/nexi-checkout/shopware6-checkout@2.1.5
