@@ -33,3 +33,7 @@
 - pkg:composer/plott/plottcore-wordpress@6.9
 - pkg:composer/plott/plottcore-wordpress@6.9.1
 - pkg:composer/plott/plottcore-wordpress@6.9.4
+- pkg:composer/plott/plottcore-wordpress@7.0
+- pkg:composer/plott/plottcore-wordpress@7.0.1
+- pkg:composer/plott/plottcore-wordpress@7.0.2
+- pkg:composer/plott/plottcore-wordpress@7.0.3
