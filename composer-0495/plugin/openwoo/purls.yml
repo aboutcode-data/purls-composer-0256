@@ -40,3 +40,4 @@
 - pkg:composer/plugin/openwoo@v4.2.7
 - pkg:composer/plugin/openwoo@v4.2.8
 - pkg:composer/plugin/openwoo@v4.2.9
+- pkg:composer/plugin/openwoo@v4.3.0
