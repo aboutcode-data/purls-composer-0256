@@ -38,7 +38,6 @@
 - pkg:composer/picanova/dingo-api@v1.0.0-beta6
 - pkg:composer/picanova/dingo-api@v1.0.0-beta7
 - pkg:composer/picanova/dingo-api@v1.0.0-beta8
-- pkg:composer/picanova/dingo-api@v10.0.0
 - pkg:composer/picanova/dingo-api@v2.0.0
 - pkg:composer/picanova/dingo-api@v2.0.0-alpha1
 - pkg:composer/picanova/dingo-api@v2.0.0-alpha2
