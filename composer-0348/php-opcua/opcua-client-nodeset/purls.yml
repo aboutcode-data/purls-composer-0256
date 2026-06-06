@@ -2,3 +2,4 @@
 - pkg:composer/php-opcua/opcua-client-nodeset@v4.1.0
 - pkg:composer/php-opcua/opcua-client-nodeset@v4.2.0
 - pkg:composer/php-opcua/opcua-client-nodeset@v4.3.0
+- pkg:composer/php-opcua/opcua-client-nodeset@v4.4.0
