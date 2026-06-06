@@ -10,3 +10,4 @@
 - pkg:composer/phpmac/ethers-php@v2.0.1
 - pkg:composer/phpmac/ethers-php@v2.0.3
 - pkg:composer/phpmac/ethers-php@v2.0.4
+- pkg:composer/phpmac/ethers-php@v3.0.0
