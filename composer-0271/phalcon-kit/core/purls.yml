@@ -81,3 +81,12 @@
 - pkg:composer/phalcon-kit/core@0.4.9
 - pkg:composer/phalcon-kit/core@1.0.0
 - pkg:composer/phalcon-kit/core@1.0.1
+- pkg:composer/phalcon-kit/core@2.0.0
+- pkg:composer/phalcon-kit/core@2.1.0
+- pkg:composer/phalcon-kit/core@2.2.0
+- pkg:composer/phalcon-kit/core@2.3.0
+- pkg:composer/phalcon-kit/core@2.3.1
+- pkg:composer/phalcon-kit/core@2.3.2
+- pkg:composer/phalcon-kit/core@2.4.0
+- pkg:composer/phalcon-kit/core@2.5.0
+- pkg:composer/phalcon-kit/core@2.6.0
