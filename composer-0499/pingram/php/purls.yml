@@ -6,6 +6,9 @@
 - pkg:composer/pingram/php@0.1.5
 - pkg:composer/pingram/php@1.0.0
 - pkg:composer/pingram/php@1.0.1
+- pkg:composer/pingram/php@1.0.10
 - pkg:composer/pingram/php@1.0.3
 - pkg:composer/pingram/php@1.0.5
 - pkg:composer/pingram/php@1.0.6
+- pkg:composer/pingram/php@1.0.7
+- pkg:composer/pingram/php@1.0.9
