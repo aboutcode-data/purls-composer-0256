@@ -7,3 +7,4 @@
 - pkg:composer/rtcoder/laravel-db-erd@0.1.7
 - pkg:composer/rtcoder/laravel-db-erd@0.1.8
 - pkg:composer/rtcoder/laravel-db-erd@0.1.9
+- pkg:composer/rtcoder/laravel-db-erd@0.2.0
