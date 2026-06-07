@@ -33,3 +33,7 @@
 - pkg:composer/sebastian/diff@7.0.0
 - pkg:composer/sebastian/diff@8.0.0
 - pkg:composer/sebastian/diff@8.1.0
+- pkg:composer/sebastian/diff@8.2.0
+- pkg:composer/sebastian/diff@8.2.1
+- pkg:composer/sebastian/diff@8.3.0
+- pkg:composer/sebastian/diff@9.0.0
