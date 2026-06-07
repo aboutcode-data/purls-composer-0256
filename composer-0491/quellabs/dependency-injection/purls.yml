@@ -19,4 +19,13 @@
 - pkg:composer/quellabs/dependency-injection@1.0.34
 - pkg:composer/quellabs/dependency-injection@1.0.35
 - pkg:composer/quellabs/dependency-injection@1.0.36
+- pkg:composer/quellabs/dependency-injection@1.0.37
+- pkg:composer/quellabs/dependency-injection@1.0.38
+- pkg:composer/quellabs/dependency-injection@1.0.39
 - pkg:composer/quellabs/dependency-injection@1.0.4
+- pkg:composer/quellabs/dependency-injection@1.1.0
+- pkg:composer/quellabs/dependency-injection@1.2.0
+- pkg:composer/quellabs/dependency-injection@1.2.1
+- pkg:composer/quellabs/dependency-injection@1.2.2
+- pkg:composer/quellabs/dependency-injection@1.2.3
+- pkg:composer/quellabs/dependency-injection@1.2.4
