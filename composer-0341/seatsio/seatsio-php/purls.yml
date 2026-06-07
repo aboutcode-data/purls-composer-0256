@@ -186,3 +186,5 @@
 - pkg:composer/seatsio/seatsio-php@v98.4.0
 - pkg:composer/seatsio/seatsio-php@v98.5.0
 - pkg:composer/seatsio/seatsio-php@v98.6.0
+- pkg:composer/seatsio/seatsio-php@v98.7.0
+- pkg:composer/seatsio/seatsio-php@v98.8.0

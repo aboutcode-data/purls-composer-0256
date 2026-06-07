@@ -43,3 +43,4 @@
 - pkg:composer/seatplus/auth@4.0.3
 - pkg:composer/seatplus/auth@4.0.4
 - pkg:composer/seatplus/auth@4.0.5
+- pkg:composer/seatplus/auth@4.1.0
