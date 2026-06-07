@@ -98,6 +98,7 @@
 - pkg:composer/sgalinski/sg-news@12.1.5
 - pkg:composer/sgalinski/sg-news@12.2.0
 - pkg:composer/sgalinski/sg-news@12.2.1
+- pkg:composer/sgalinski/sg-news@12.2.10
 - pkg:composer/sgalinski/sg-news@12.2.2
 - pkg:composer/sgalinski/sg-news@12.2.3
 - pkg:composer/sgalinski/sg-news@12.2.4
@@ -105,6 +106,7 @@
 - pkg:composer/sgalinski/sg-news@12.2.6
 - pkg:composer/sgalinski/sg-news@12.2.7
 - pkg:composer/sgalinski/sg-news@12.2.8
+- pkg:composer/sgalinski/sg-news@12.2.9
 - pkg:composer/sgalinski/sg-news@2.0.0
 - pkg:composer/sgalinski/sg-news@3.2.0
 - pkg:composer/sgalinski/sg-news@3.2.1
