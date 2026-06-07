@@ -1,4 +1,5 @@
 - pkg:composer/run-as-root/module-withdrawal@1.1.0
 - pkg:composer/run-as-root/module-withdrawal@1.5.0-p1
+- pkg:composer/run-as-root/module-withdrawal@1.5.0-p2
 - pkg:composer/run-as-root/module-withdrawal@v1.4.0
 - pkg:composer/run-as-root/module-withdrawal@v1.5.0
