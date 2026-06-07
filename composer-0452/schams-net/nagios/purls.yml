@@ -7,3 +7,4 @@
 - pkg:composer/schams-net/nagios@v4.1.0
 - pkg:composer/schams-net/nagios@v5.0.0
 - pkg:composer/schams-net/nagios@v5.0.1
+- pkg:composer/schams-net/nagios@v5.0.2
