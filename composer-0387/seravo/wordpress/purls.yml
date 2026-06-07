@@ -19,3 +19,5 @@
 - pkg:composer/seravo/wordpress@v2.1.0
 - pkg:composer/seravo/wordpress@v2.1.1
 - pkg:composer/seravo/wordpress@v2.2.0
+- pkg:composer/seravo/wordpress@v3.0.0
+- pkg:composer/seravo/wordpress@v3.1.0
