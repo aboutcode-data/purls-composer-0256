@@ -35,4 +35,5 @@
 - pkg:composer/quantum/framework@2.9.7
 - pkg:composer/quantum/framework@2.9.8
 - pkg:composer/quantum/framework@2.9.9
+- pkg:composer/quantum/framework@3.0.0
 - pkg:composer/quantum/framework@3.0.0-rc.1
