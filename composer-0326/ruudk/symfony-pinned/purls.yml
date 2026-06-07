@@ -19,3 +19,4 @@
 - pkg:composer/ruudk/symfony-pinned@v7.3
 - pkg:composer/ruudk/symfony-pinned@v7.4
 - pkg:composer/ruudk/symfony-pinned@v8.0
+- pkg:composer/ruudk/symfony-pinned@v8.1
