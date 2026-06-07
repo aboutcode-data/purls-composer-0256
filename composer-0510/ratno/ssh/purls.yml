@@ -1,2 +1,4 @@
 - pkg:composer/ratno/ssh@v1.0.0
 - pkg:composer/ratno/ssh@v1.0.1
+- pkg:composer/ratno/ssh@v2.0.0
+- pkg:composer/ratno/ssh@v2.0.1

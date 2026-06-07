@@ -34,4 +34,5 @@
 - pkg:composer/ratepay/shopware6-module@8.0.0
 - pkg:composer/ratepay/shopware6-module@9.0.0
 - pkg:composer/ratepay/shopware6-module@9.1.0
+- pkg:composer/ratepay/shopware6-module@9.2.0
 - pkg:composer/ratepay/shopware6-module@v1.0.0
