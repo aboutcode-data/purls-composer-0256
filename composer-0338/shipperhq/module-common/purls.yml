@@ -10,6 +10,7 @@
 - pkg:composer/shipperhq/module-common@20.1.4
 - pkg:composer/shipperhq/module-common@20.1.5
 - pkg:composer/shipperhq/module-common@20.10.0
+- pkg:composer/shipperhq/module-common@20.10.1
 - pkg:composer/shipperhq/module-common@20.2.0
 - pkg:composer/shipperhq/module-common@20.3.0
 - pkg:composer/shipperhq/module-common@20.3.1
