@@ -1,3 +1,4 @@
 - pkg:composer/prestashop/publish-on-marketplace@v1.0
 - pkg:composer/prestashop/publish-on-marketplace@v1.1
 - pkg:composer/prestashop/publish-on-marketplace@v1.2
+- pkg:composer/prestashop/publish-on-marketplace@v2.0
