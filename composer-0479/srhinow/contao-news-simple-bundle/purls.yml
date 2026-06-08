@@ -3,3 +3,6 @@
 - pkg:composer/srhinow/contao-news-simple-bundle@0.1.0
 - pkg:composer/srhinow/contao-news-simple-bundle@2.0
 - pkg:composer/srhinow/contao-news-simple-bundle@2.1.0
+- pkg:composer/srhinow/contao-news-simple-bundle@2.1.2
+- pkg:composer/srhinow/contao-news-simple-bundle@v2.1.1
+- pkg:composer/srhinow/contao-news-simple-bundle@v2.2.0
