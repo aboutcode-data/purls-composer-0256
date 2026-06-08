@@ -9,3 +9,4 @@
 - pkg:composer/paybridge-np/sdk@3.0.0
 - pkg:composer/paybridge-np/sdk@4.0.0
 - pkg:composer/paybridge-np/sdk@4.1.0
+- pkg:composer/paybridge-np/sdk@5.0.0
