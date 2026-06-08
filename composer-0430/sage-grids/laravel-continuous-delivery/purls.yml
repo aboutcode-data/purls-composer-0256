@@ -8,3 +8,4 @@
 - pkg:composer/sage-grids/laravel-continuous-delivery@v0.1.7
 - pkg:composer/sage-grids/laravel-continuous-delivery@v0.1.8
 - pkg:composer/sage-grids/laravel-continuous-delivery@v0.1.9
+- pkg:composer/sage-grids/laravel-continuous-delivery@v0.2.0
