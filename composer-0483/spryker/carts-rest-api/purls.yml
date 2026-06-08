@@ -49,6 +49,12 @@
 - pkg:composer/spryker/carts-rest-api@5.24.0
 - pkg:composer/spryker/carts-rest-api@5.25.0
 - pkg:composer/spryker/carts-rest-api@5.26.0
+- pkg:composer/spryker/carts-rest-api@5.27.0
+- pkg:composer/spryker/carts-rest-api@5.27.1
+- pkg:composer/spryker/carts-rest-api@5.27.2
+- pkg:composer/spryker/carts-rest-api@5.27.3
+- pkg:composer/spryker/carts-rest-api@5.28.0
+- pkg:composer/spryker/carts-rest-api@5.28.1
 - pkg:composer/spryker/carts-rest-api@5.3.0
 - pkg:composer/spryker/carts-rest-api@5.3.1
 - pkg:composer/spryker/carts-rest-api@5.3.2
