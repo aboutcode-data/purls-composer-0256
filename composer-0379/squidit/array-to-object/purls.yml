@@ -21,3 +21,6 @@
 - pkg:composer/squidit/array-to-object@v2.2.5
 - pkg:composer/squidit/array-to-object@v2.2.6
 - pkg:composer/squidit/array-to-object@v3.0.0
+- pkg:composer/squidit/array-to-object@v3.0.1
+- pkg:composer/squidit/array-to-object@v3.1.0
+- pkg:composer/squidit/array-to-object@v3.2.0
