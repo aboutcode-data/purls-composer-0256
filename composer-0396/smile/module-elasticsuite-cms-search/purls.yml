@@ -14,6 +14,7 @@
 - pkg:composer/smile/module-elasticsuite-cms-search@2.11.2
 - pkg:composer/smile/module-elasticsuite-cms-search@2.11.3
 - pkg:composer/smile/module-elasticsuite-cms-search@2.11.4
+- pkg:composer/smile/module-elasticsuite-cms-search@2.12.0
 - pkg:composer/smile/module-elasticsuite-cms-search@2.2.0
 - pkg:composer/smile/module-elasticsuite-cms-search@2.2.1
 - pkg:composer/smile/module-elasticsuite-cms-search@2.2.2
