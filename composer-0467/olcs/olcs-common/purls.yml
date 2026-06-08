@@ -642,6 +642,7 @@
 - pkg:composer/olcs/olcs-common@v9.20.0
 - pkg:composer/olcs/olcs-common@v9.20.1
 - pkg:composer/olcs/olcs-common@v9.21.0
+- pkg:composer/olcs/olcs-common@v9.22.0
 - pkg:composer/olcs/olcs-common@v9.3.0
 - pkg:composer/olcs/olcs-common@v9.4.0
 - pkg:composer/olcs/olcs-common@v9.5.0
