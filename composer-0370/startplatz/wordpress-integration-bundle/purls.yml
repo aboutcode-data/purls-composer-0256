@@ -4,3 +4,7 @@
 - pkg:composer/startplatz/wordpress-integration-bundle@1.0.3
 - pkg:composer/startplatz/wordpress-integration-bundle@1.0.4
 - pkg:composer/startplatz/wordpress-integration-bundle@2.0.0
+- pkg:composer/startplatz/wordpress-integration-bundle@2.1.0
+- pkg:composer/startplatz/wordpress-integration-bundle@2.2.0
+- pkg:composer/startplatz/wordpress-integration-bundle@2.2.1
+- pkg:composer/startplatz/wordpress-integration-bundle@2.2.2
