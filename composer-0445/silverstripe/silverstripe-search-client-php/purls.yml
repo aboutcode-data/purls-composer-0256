@@ -5,3 +5,4 @@
 - pkg:composer/silverstripe/silverstripe-search-client-php@0.0.5-alpha
 - pkg:composer/silverstripe/silverstripe-search-client-php@0.0.6-alpha
 - pkg:composer/silverstripe/silverstripe-search-client-php@0.0.7-alpha
+- pkg:composer/silverstripe/silverstripe-search-client-php@1.0.0
