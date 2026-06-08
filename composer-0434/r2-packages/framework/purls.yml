@@ -52,7 +52,9 @@
 - pkg:composer/r2-packages/framework@v1.0.56
 - pkg:composer/r2-packages/framework@v1.0.57
 - pkg:composer/r2-packages/framework@v1.0.58
+- pkg:composer/r2-packages/framework@v1.0.59
 - pkg:composer/r2-packages/framework@v1.0.6
+- pkg:composer/r2-packages/framework@v1.0.60
 - pkg:composer/r2-packages/framework@v1.0.7
 - pkg:composer/r2-packages/framework@v1.0.8
 - pkg:composer/r2-packages/framework@v1.0.9
