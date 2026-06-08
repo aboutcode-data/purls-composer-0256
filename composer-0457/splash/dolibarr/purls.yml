@@ -34,6 +34,7 @@
 - pkg:composer/splash/dolibarr@2.23.0
 - pkg:composer/splash/dolibarr@2.23.1
 - pkg:composer/splash/dolibarr@2.23.2
+- pkg:composer/splash/dolibarr@2.23.3
 - pkg:composer/splash/dolibarr@V1.15.2
 - pkg:composer/splash/dolibarr@v1.0.0
 - pkg:composer/splash/dolibarr@v1.1.0
