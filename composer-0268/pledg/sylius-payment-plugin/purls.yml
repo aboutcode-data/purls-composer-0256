@@ -21,3 +21,4 @@
 - pkg:composer/pledg/sylius-payment-plugin@2.0.8
 - pkg:composer/pledg/sylius-payment-plugin@2.0.9
 - pkg:composer/pledg/sylius-payment-plugin@2.1.0
+- pkg:composer/pledg/sylius-payment-plugin@3.0.0
