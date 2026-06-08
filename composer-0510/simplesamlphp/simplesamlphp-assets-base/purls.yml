@@ -73,6 +73,8 @@
 - pkg:composer/simplesamlphp/simplesamlphp-assets-base@v2.4.4
 - pkg:composer/simplesamlphp/simplesamlphp-assets-base@v2.4.5
 - pkg:composer/simplesamlphp/simplesamlphp-assets-base@v2.4.6
+- pkg:composer/simplesamlphp/simplesamlphp-assets-base@v2.4.7
+- pkg:composer/simplesamlphp/simplesamlphp-assets-base@v2.4.8
 - pkg:composer/simplesamlphp/simplesamlphp-assets-base@v2.5.0
 - pkg:composer/simplesamlphp/simplesamlphp-assets-base@v2.5.1
 - pkg:composer/simplesamlphp/simplesamlphp-assets-base@v2.5.10
@@ -80,6 +82,7 @@
 - pkg:composer/simplesamlphp/simplesamlphp-assets-base@v2.5.12
 - pkg:composer/simplesamlphp/simplesamlphp-assets-base@v2.5.13
 - pkg:composer/simplesamlphp/simplesamlphp-assets-base@v2.5.14
+- pkg:composer/simplesamlphp/simplesamlphp-assets-base@v2.5.15
 - pkg:composer/simplesamlphp/simplesamlphp-assets-base@v2.5.2
 - pkg:composer/simplesamlphp/simplesamlphp-assets-base@v2.5.3
 - pkg:composer/simplesamlphp/simplesamlphp-assets-base@v2.5.4
@@ -88,3 +91,5 @@
 - pkg:composer/simplesamlphp/simplesamlphp-assets-base@v2.5.7
 - pkg:composer/simplesamlphp/simplesamlphp-assets-base@v2.5.8
 - pkg:composer/simplesamlphp/simplesamlphp-assets-base@v2.5.9
+- pkg:composer/simplesamlphp/simplesamlphp-assets-base@v2.6.0
+- pkg:composer/simplesamlphp/simplesamlphp-assets-base@v2.6.1
