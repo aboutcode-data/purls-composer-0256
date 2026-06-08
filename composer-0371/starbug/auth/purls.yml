@@ -6,3 +6,4 @@
 - pkg:composer/starbug/auth@v0.9.1
 - pkg:composer/starbug/auth@v0.9.2
 - pkg:composer/starbug/auth@v0.9.3
+- pkg:composer/starbug/auth@v1.0.0
