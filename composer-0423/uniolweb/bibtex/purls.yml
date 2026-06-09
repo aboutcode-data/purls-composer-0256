@@ -10,3 +10,5 @@
 - pkg:composer/uniolweb/bibtex@v3.1.0
 - pkg:composer/uniolweb/bibtex@v4.0.0
 - pkg:composer/uniolweb/bibtex@v4.0.1
+- pkg:composer/uniolweb/bibtex@v5.0.0
+- pkg:composer/uniolweb/bibtex@v5.0.1
