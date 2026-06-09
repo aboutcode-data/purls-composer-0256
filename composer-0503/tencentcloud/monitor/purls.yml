@@ -421,6 +421,9 @@
 - pkg:composer/tencentcloud/monitor@3.0.1578
 - pkg:composer/tencentcloud/monitor@3.0.1583
 - pkg:composer/tencentcloud/monitor@3.0.1586
+- pkg:composer/tencentcloud/monitor@3.0.1590
+- pkg:composer/tencentcloud/monitor@3.0.1591
+- pkg:composer/tencentcloud/monitor@3.0.1593
 - pkg:composer/tencentcloud/monitor@3.0.248
 - pkg:composer/tencentcloud/monitor@3.0.249
 - pkg:composer/tencentcloud/monitor@3.0.250
