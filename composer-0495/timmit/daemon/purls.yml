@@ -9,3 +9,4 @@
 - pkg:composer/timmit/daemon@v2.0.3
 - pkg:composer/timmit/daemon@v3.0.0
 - pkg:composer/timmit/daemon@v3.0.1
+- pkg:composer/timmit/daemon@v3.1.0
