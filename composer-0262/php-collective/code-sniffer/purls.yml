@@ -40,3 +40,4 @@
 - pkg:composer/php-collective/code-sniffer@0.6.1
 - pkg:composer/php-collective/code-sniffer@0.6.2
 - pkg:composer/php-collective/code-sniffer@0.6.3
+- pkg:composer/php-collective/code-sniffer@0.6.4
