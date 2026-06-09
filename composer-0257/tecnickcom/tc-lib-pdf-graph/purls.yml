@@ -101,3 +101,6 @@
 - pkg:composer/tecnickcom/tc-lib-pdf-graph@2.4.8
 - pkg:composer/tecnickcom/tc-lib-pdf-graph@2.4.9
 - pkg:composer/tecnickcom/tc-lib-pdf-graph@2.5.0
+- pkg:composer/tecnickcom/tc-lib-pdf-graph@2.6.0
+- pkg:composer/tecnickcom/tc-lib-pdf-graph@2.7.0
+- pkg:composer/tecnickcom/tc-lib-pdf-graph@2.8.0
