@@ -5,3 +5,6 @@
 - pkg:composer/tugmaks/doctrine-walkers@2.0
 - pkg:composer/tugmaks/doctrine-walkers@2.1
 - pkg:composer/tugmaks/doctrine-walkers@2.2
+- pkg:composer/tugmaks/doctrine-walkers@2.3
+- pkg:composer/tugmaks/doctrine-walkers@2.4
+- pkg:composer/tugmaks/doctrine-walkers@2.5
