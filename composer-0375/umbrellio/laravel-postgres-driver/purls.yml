@@ -68,3 +68,4 @@
 - pkg:composer/umbrellio/laravel-postgres-driver@7.0.2
 - pkg:composer/umbrellio/laravel-postgres-driver@7.1.0
 - pkg:composer/umbrellio/laravel-postgres-driver@7.2.0
+- pkg:composer/umbrellio/laravel-postgres-driver@8.0.0
