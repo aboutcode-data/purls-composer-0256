@@ -10,3 +10,5 @@
 - pkg:composer/sunnysideup/migration-task@4.2.2
 - pkg:composer/sunnysideup/migration-task@4.2.3
 - pkg:composer/sunnysideup/migration-task@4.2.4
+- pkg:composer/sunnysideup/migration-task@4.2.5
+- pkg:composer/sunnysideup/migration-task@4.2.6
