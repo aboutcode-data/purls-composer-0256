@@ -1,2 +1,7 @@
 - pkg:composer/totalcms/totalcms@3.5.0-beta.1
+- pkg:composer/totalcms/totalcms@3.5.0-beta.11
+- pkg:composer/totalcms/totalcms@3.5.0-beta.12
+- pkg:composer/totalcms/totalcms@3.5.0-beta.13
+- pkg:composer/totalcms/totalcms@3.5.0-beta.14
+- pkg:composer/totalcms/totalcms@3.5.0-beta.8
 - pkg:composer/totalcms/totalcms@v3.3.0-beta.1
