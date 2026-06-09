@@ -367,6 +367,7 @@
 - pkg:composer/tiderjian/think-core@v13.16.0
 - pkg:composer/tiderjian/think-core@v13.17.0
 - pkg:composer/tiderjian/think-core@v13.17.1
+- pkg:composer/tiderjian/think-core@v13.17.2
 - pkg:composer/tiderjian/think-core@v13.2.0
 - pkg:composer/tiderjian/think-core@v13.2.2
 - pkg:composer/tiderjian/think-core@v13.3.0
