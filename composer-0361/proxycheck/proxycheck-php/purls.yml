@@ -15,3 +15,4 @@
 - pkg:composer/proxycheck/proxycheck-php@v0.2.4
 - pkg:composer/proxycheck/proxycheck-php@v1.0.0
 - pkg:composer/proxycheck/proxycheck-php@v1.0.2
+- pkg:composer/proxycheck/proxycheck-php@v1.0.3
