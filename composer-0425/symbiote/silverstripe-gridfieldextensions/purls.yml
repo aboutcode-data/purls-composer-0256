@@ -70,12 +70,15 @@
 - pkg:composer/symbiote/silverstripe-gridfieldextensions@5.0.1
 - pkg:composer/symbiote/silverstripe-gridfieldextensions@5.0.2
 - pkg:composer/symbiote/silverstripe-gridfieldextensions@5.0.3
+- pkg:composer/symbiote/silverstripe-gridfieldextensions@5.0.4
 - pkg:composer/symbiote/silverstripe-gridfieldextensions@5.1.0
 - pkg:composer/symbiote/silverstripe-gridfieldextensions@5.1.0-beta1
 - pkg:composer/symbiote/silverstripe-gridfieldextensions@5.1.0-rc1
 - pkg:composer/symbiote/silverstripe-gridfieldextensions@5.1.1
+- pkg:composer/symbiote/silverstripe-gridfieldextensions@5.1.2
 - pkg:composer/symbiote/silverstripe-gridfieldextensions@5.2.0
 - pkg:composer/symbiote/silverstripe-gridfieldextensions@5.2.0-beta1
 - pkg:composer/symbiote/silverstripe-gridfieldextensions@5.2.0-rc1
+- pkg:composer/symbiote/silverstripe-gridfieldextensions@5.2.1
 - pkg:composer/symbiote/silverstripe-gridfieldextensions@v1.0.0
 - pkg:composer/symbiote/silverstripe-gridfieldextensions@v1.0.1
