@@ -26,6 +26,8 @@
 - pkg:composer/thesgroup/docker-container-manager@1.0.21
 - pkg:composer/thesgroup/docker-container-manager@1.0.22
 - pkg:composer/thesgroup/docker-container-manager@1.0.23
+- pkg:composer/thesgroup/docker-container-manager@1.0.25
+- pkg:composer/thesgroup/docker-container-manager@1.0.26
 - pkg:composer/thesgroup/docker-container-manager@1.0.3
 - pkg:composer/thesgroup/docker-container-manager@1.0.4
 - pkg:composer/thesgroup/docker-container-manager@1.0.5
@@ -33,3 +35,4 @@
 - pkg:composer/thesgroup/docker-container-manager@1.0.7
 - pkg:composer/thesgroup/docker-container-manager@1.0.8
 - pkg:composer/thesgroup/docker-container-manager@1.0.9
+- pkg:composer/thesgroup/docker-container-manager@v1.0.24
