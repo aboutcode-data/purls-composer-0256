@@ -44,3 +44,6 @@
 - pkg:composer/utopia-php/platform@0.9.2
 - pkg:composer/utopia-php/platform@1.0.0-rc1
 - pkg:composer/utopia-php/platform@1.0.0-rc2
+- pkg:composer/utopia-php/platform@1.0.0-rc3
+- pkg:composer/utopia-php/platform@1.0.0-rc4
+- pkg:composer/utopia-php/platform@1.0.0-rc5
