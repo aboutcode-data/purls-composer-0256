@@ -33,3 +33,4 @@
 - pkg:composer/survos/dataset-bundle@2.7.9
 - pkg:composer/survos/dataset-bundle@2.8.0
 - pkg:composer/survos/dataset-bundle@2.8.1
+- pkg:composer/survos/dataset-bundle@2.8.2

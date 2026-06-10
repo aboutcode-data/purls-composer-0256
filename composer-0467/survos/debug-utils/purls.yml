@@ -36,3 +36,4 @@
 - pkg:composer/survos/debug-utils@2.7.9
 - pkg:composer/survos/debug-utils@2.8.0
 - pkg:composer/survos/debug-utils@2.8.1
+- pkg:composer/survos/debug-utils@2.8.2
