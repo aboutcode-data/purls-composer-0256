@@ -20,3 +20,4 @@
 - pkg:composer/vdlp/oc-rssfetcher-plugin@3.2.1
 - pkg:composer/vdlp/oc-rssfetcher-plugin@3.3.0
 - pkg:composer/vdlp/oc-rssfetcher-plugin@4.0.0
+- pkg:composer/vdlp/oc-rssfetcher-plugin@4.0.1
