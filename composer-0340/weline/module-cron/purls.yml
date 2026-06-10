@@ -2,3 +2,4 @@
 - pkg:composer/weline/module-cron@v2.3
 - pkg:composer/weline/module-cron@v2.3.2
 - pkg:composer/weline/module-cron@v2.3.3
+- pkg:composer/weline/module-cron@v2.3.4
