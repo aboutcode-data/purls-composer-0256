@@ -21,3 +21,4 @@
 - pkg:composer/yajra/laravel-address@v12.1.1
 - pkg:composer/yajra/laravel-address@v12.1.2
 - pkg:composer/yajra/laravel-address@v12.2.0
+- pkg:composer/yajra/laravel-address@v13.0.0
