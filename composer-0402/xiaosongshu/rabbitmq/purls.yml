@@ -23,3 +23,5 @@
 - pkg:composer/xiaosongshu/rabbitmq@v1.2.2
 - pkg:composer/xiaosongshu/rabbitmq@v1.2.3
 - pkg:composer/xiaosongshu/rabbitmq@v1.2.4
+- pkg:composer/xiaosongshu/rabbitmq@v1.2.5
+- pkg:composer/xiaosongshu/rabbitmq@v1.2.6
