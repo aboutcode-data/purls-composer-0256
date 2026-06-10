@@ -879,5 +879,7 @@
 - pkg:composer/survos/api-grid-bundle@2.7.7
 - pkg:composer/survos/api-grid-bundle@2.7.8
 - pkg:composer/survos/api-grid-bundle@2.7.9
+- pkg:composer/survos/api-grid-bundle@2.8.0
+- pkg:composer/survos/api-grid-bundle@2.8.1
 - pkg:composer/survos/api-grid-bundle@v1.2.4
 - pkg:composer/survos/api-grid-bundle@v1.2.5
