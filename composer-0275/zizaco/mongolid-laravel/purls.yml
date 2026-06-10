@@ -39,3 +39,4 @@
 - pkg:composer/zizaco/mongolid-laravel@v3.7.0
 - pkg:composer/zizaco/mongolid-laravel@v3.8
 - pkg:composer/zizaco/mongolid-laravel@v3.8.1
+- pkg:composer/zizaco/mongolid-laravel@v3.9.0
