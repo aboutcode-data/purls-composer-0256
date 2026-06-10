@@ -350,6 +350,7 @@
 - pkg:composer/wp-media/wp-rocket@v3.22-alpha1
 - pkg:composer/wp-media/wp-rocket@v3.22-alpha2
 - pkg:composer/wp-media/wp-rocket@v3.22-alpha3
+- pkg:composer/wp-media/wp-rocket@v3.22-beta1
 - pkg:composer/wp-media/wp-rocket@v3.3
 - pkg:composer/wp-media/wp-rocket@v3.3-alpha1
 - pkg:composer/wp-media/wp-rocket@v3.3-alpha2
