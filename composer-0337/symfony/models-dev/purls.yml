@@ -92,5 +92,6 @@
 - pkg:composer/symfony/models-dev@v71.0
 - pkg:composer/symfony/models-dev@v72.0
 - pkg:composer/symfony/models-dev@v73.0
+- pkg:composer/symfony/models-dev@v74.0
 - pkg:composer/symfony/models-dev@v8.0
 - pkg:composer/symfony/models-dev@v9.0
