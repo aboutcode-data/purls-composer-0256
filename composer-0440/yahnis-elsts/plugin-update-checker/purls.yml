@@ -36,3 +36,4 @@
 - pkg:composer/yahnis-elsts/plugin-update-checker@v5.4
 - pkg:composer/yahnis-elsts/plugin-update-checker@v5.5
 - pkg:composer/yahnis-elsts/plugin-update-checker@v5.6
+- pkg:composer/yahnis-elsts/plugin-update-checker@v5.7
