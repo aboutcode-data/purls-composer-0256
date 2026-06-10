@@ -13,3 +13,4 @@
 - pkg:composer/x-laravel/embedding@v1.2.2
 - pkg:composer/x-laravel/embedding@v1.3.0
 - pkg:composer/x-laravel/embedding@v1.3.2
+- pkg:composer/x-laravel/embedding@v1.4.0
