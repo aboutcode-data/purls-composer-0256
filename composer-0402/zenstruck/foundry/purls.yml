@@ -77,6 +77,8 @@
 - pkg:composer/zenstruck/foundry@v2.0.8
 - pkg:composer/zenstruck/foundry@v2.0.9
 - pkg:composer/zenstruck/foundry@v2.1.0
+- pkg:composer/zenstruck/foundry@v2.10.0
+- pkg:composer/zenstruck/foundry@v2.10.1
 - pkg:composer/zenstruck/foundry@v2.2.0
 - pkg:composer/zenstruck/foundry@v2.2.1
 - pkg:composer/zenstruck/foundry@v2.2.2
