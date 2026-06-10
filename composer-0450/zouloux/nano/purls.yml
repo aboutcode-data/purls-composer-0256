@@ -83,6 +83,8 @@
 - pkg:composer/zouloux/nano@2.10.5
 - pkg:composer/zouloux/nano@2.10.6
 - pkg:composer/zouloux/nano@2.10.7
+- pkg:composer/zouloux/nano@2.11.0
+- pkg:composer/zouloux/nano@2.11.1
 - pkg:composer/zouloux/nano@2.2.0
 - pkg:composer/zouloux/nano@2.2.1
 - pkg:composer/zouloux/nano@2.2.2
