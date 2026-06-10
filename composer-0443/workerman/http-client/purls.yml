@@ -36,3 +36,4 @@
 - pkg:composer/workerman/http-client@v3.0.7
 - pkg:composer/workerman/http-client@v3.0.8
 - pkg:composer/workerman/http-client@v3.1.0
+- pkg:composer/workerman/http-client@v3.1.1
