@@ -18,6 +18,8 @@
 - pkg:composer/zero-to-prod/data-model@v81.15.1
 - pkg:composer/zero-to-prod/data-model@v81.16.0
 - pkg:composer/zero-to-prod/data-model@v81.17.0
+- pkg:composer/zero-to-prod/data-model@v81.17.1
+- pkg:composer/zero-to-prod/data-model@v81.18.0
 - pkg:composer/zero-to-prod/data-model@v81.2.0
 - pkg:composer/zero-to-prod/data-model@v81.2.1
 - pkg:composer/zero-to-prod/data-model@v81.2.2
