@@ -5,3 +5,6 @@
 - pkg:composer/ycs77/laravel-recover-session@v1.1.0
 - pkg:composer/ycs77/laravel-recover-session@v1.1.1
 - pkg:composer/ycs77/laravel-recover-session@v1.2.0
+- pkg:composer/ycs77/laravel-recover-session@v1.2.1
+- pkg:composer/ycs77/laravel-recover-session@v1.2.3
+- pkg:composer/ycs77/laravel-recover-session@v2.0.0
