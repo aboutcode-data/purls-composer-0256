@@ -366,6 +366,7 @@
 - pkg:composer/uxf/cms@3.8.2
 - pkg:composer/uxf/cms@3.80.0
 - pkg:composer/uxf/cms@3.80.2
+- pkg:composer/uxf/cms@3.80.3
 - pkg:composer/uxf/cms@3.9.2
 - pkg:composer/uxf/cms@v0.1
 - pkg:composer/uxf/cms@v0.1.1
