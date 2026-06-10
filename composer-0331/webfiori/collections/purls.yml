@@ -2,6 +2,7 @@
 - pkg:composer/webfiori/collections@1.1.5
 - pkg:composer/webfiori/collections@2.0.0
 - pkg:composer/webfiori/collections@2.0.1
+- pkg:composer/webfiori/collections@2.0.2
 - pkg:composer/webfiori/collections@v1.0.1
 - pkg:composer/webfiori/collections@v1.0.2
 - pkg:composer/webfiori/collections@v1.0.3
