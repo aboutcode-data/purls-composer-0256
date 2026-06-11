@@ -1,3 +1,4 @@
 - pkg:composer/amtgard/redis-set-queue@v1.0.0
 - pkg:composer/amtgard/redis-set-queue@v1.0.1
 - pkg:composer/amtgard/redis-set-queue@v1.1.1
+- pkg:composer/amtgard/redis-set-queue@v1.1.2
