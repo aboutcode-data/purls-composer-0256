@@ -88,3 +88,5 @@
 - pkg:composer/webrium/core@3.0.5
 - pkg:composer/webrium/core@3.0.6
 - pkg:composer/webrium/core@3.0.7
+- pkg:composer/webrium/core@4.0.0
+- pkg:composer/webrium/core@4.0.1
