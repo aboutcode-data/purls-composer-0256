@@ -30,3 +30,5 @@
 - pkg:composer/alibabacloud/iqs-20241111@1.7.3
 - pkg:composer/alibabacloud/iqs-20241111@1.8.0
 - pkg:composer/alibabacloud/iqs-20241111@1.8.1
+- pkg:composer/alibabacloud/iqs-20241111@1.9.0
+- pkg:composer/alibabacloud/iqs-20241111@1.9.1
