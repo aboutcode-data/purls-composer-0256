@@ -41,3 +41,4 @@
 - pkg:composer/apex/db@2.0.8
 - pkg:composer/apex/db@2.0.9
 - pkg:composer/apex/db@2.1
+- pkg:composer/apex/db@2.1.1
