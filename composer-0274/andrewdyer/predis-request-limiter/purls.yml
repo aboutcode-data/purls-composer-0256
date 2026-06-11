@@ -1,3 +1,4 @@
 - pkg:composer/andrewdyer/predis-request-limiter@2.0.0
 - pkg:composer/andrewdyer/predis-request-limiter@2.0.1
+- pkg:composer/andrewdyer/predis-request-limiter@3.0.0
 - pkg:composer/andrewdyer/predis-request-limiter@v1.0.0
