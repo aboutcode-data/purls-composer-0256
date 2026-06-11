@@ -4,3 +4,4 @@
 - pkg:composer/amaccis/php-stemmer@1.1.1
 - pkg:composer/amaccis/php-stemmer@2.0.0
 - pkg:composer/amaccis/php-stemmer@3.0.0
+- pkg:composer/amaccis/php-stemmer@3.1.0
