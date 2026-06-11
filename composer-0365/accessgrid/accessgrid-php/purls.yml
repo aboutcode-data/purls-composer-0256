@@ -1,1 +1,3 @@
 - pkg:composer/accessgrid/accessgrid-php@v1.2.0
+- pkg:composer/accessgrid/accessgrid-php@v1.3.0
+- pkg:composer/accessgrid/accessgrid-php@v1.3.1
