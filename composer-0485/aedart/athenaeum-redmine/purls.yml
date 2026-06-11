@@ -4,6 +4,10 @@
 - pkg:composer/aedart/athenaeum-redmine@10.3.0
 - pkg:composer/aedart/athenaeum-redmine@10.4.0
 - pkg:composer/aedart/athenaeum-redmine@10.5.0
+- pkg:composer/aedart/athenaeum-redmine@10.6.0
+- pkg:composer/aedart/athenaeum-redmine@10.7.0
+- pkg:composer/aedart/athenaeum-redmine@10.8.0
+- pkg:composer/aedart/athenaeum-redmine@10.9.0
 - pkg:composer/aedart/athenaeum-redmine@5.19.0
 - pkg:composer/aedart/athenaeum-redmine@5.20.0
 - pkg:composer/aedart/athenaeum-redmine@5.21.0
