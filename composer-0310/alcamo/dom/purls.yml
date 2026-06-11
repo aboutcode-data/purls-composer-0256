@@ -50,6 +50,8 @@
 - pkg:composer/alcamo/dom@0.15.0
 - pkg:composer/alcamo/dom@0.15.1
 - pkg:composer/alcamo/dom@0.15.2
+- pkg:composer/alcamo/dom@0.15.3
+- pkg:composer/alcamo/dom@0.16.0
 - pkg:composer/alcamo/dom@0.2
 - pkg:composer/alcamo/dom@0.2.1
 - pkg:composer/alcamo/dom@0.3
