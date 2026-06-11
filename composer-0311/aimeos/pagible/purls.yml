@@ -2,6 +2,10 @@
 - pkg:composer/aimeos/pagible@0.10.1
 - pkg:composer/aimeos/pagible@0.10.2
 - pkg:composer/aimeos/pagible@0.10.3
+- pkg:composer/aimeos/pagible@0.10.4
+- pkg:composer/aimeos/pagible@0.11.0
+- pkg:composer/aimeos/pagible@0.11.1
+- pkg:composer/aimeos/pagible@0.11.2
 - pkg:composer/aimeos/pagible@0.5
 - pkg:composer/aimeos/pagible@0.6.0
 - pkg:composer/aimeos/pagible@0.6.1
