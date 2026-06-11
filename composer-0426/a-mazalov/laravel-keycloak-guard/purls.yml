@@ -32,6 +32,7 @@
 - pkg:composer/a-mazalov/laravel-keycloak-guard@v4.0.0
 - pkg:composer/a-mazalov/laravel-keycloak-guard@v4.1.0
 - pkg:composer/a-mazalov/laravel-keycloak-guard@v5.0.0
+- pkg:composer/a-mazalov/laravel-keycloak-guard@v5.0.1
 - pkg:composer/a-mazalov/laravel-keycloak-guard@v6.0.0
 - pkg:composer/a-mazalov/laravel-keycloak-guard@v6.0.1
 - pkg:composer/a-mazalov/laravel-keycloak-guard@v6.0.2
