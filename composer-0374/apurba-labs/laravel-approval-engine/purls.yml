@@ -8,3 +8,5 @@
 - pkg:composer/apurba-labs/laravel-approval-engine@v1.4.1-beta
 - pkg:composer/apurba-labs/laravel-approval-engine@v1.4.2
 - pkg:composer/apurba-labs/laravel-approval-engine@v1.5.0
+- pkg:composer/apurba-labs/laravel-approval-engine@v1.6.0
+- pkg:composer/apurba-labs/laravel-approval-engine@v1.7.0
