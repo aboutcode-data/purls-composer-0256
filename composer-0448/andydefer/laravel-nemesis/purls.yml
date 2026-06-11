@@ -5,3 +5,5 @@
 - pkg:composer/andydefer/laravel-nemesis@v1.2.0
 - pkg:composer/andydefer/laravel-nemesis@v1.3.0
 - pkg:composer/andydefer/laravel-nemesis@v1.3.1
+- pkg:composer/andydefer/laravel-nemesis@v1.3.2
+- pkg:composer/andydefer/laravel-nemesis@v1.4.0
