@@ -8,3 +8,5 @@
 - pkg:composer/alnv/catalog-manager-delivery@1.0.7
 - pkg:composer/alnv/catalog-manager-delivery@2.0.0
 - pkg:composer/alnv/catalog-manager-delivery@2.1.0
+- pkg:composer/alnv/catalog-manager-delivery@3.0.0
+- pkg:composer/alnv/catalog-manager-delivery@3.0.1
