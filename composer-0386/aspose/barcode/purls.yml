@@ -76,6 +76,7 @@
 - pkg:composer/aspose/barcode@26.2
 - pkg:composer/aspose/barcode@26.3
 - pkg:composer/aspose/barcode@26.4
+- pkg:composer/aspose/barcode@26.5
 - pkg:composer/aspose/barcode@v24.9.0
 - pkg:composer/aspose/barcode@v25.4
 - pkg:composer/aspose/barcode@v25.5
