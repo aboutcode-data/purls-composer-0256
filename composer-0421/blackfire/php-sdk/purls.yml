@@ -114,3 +114,5 @@
 - pkg:composer/blackfire/php-sdk@v2.5.7
 - pkg:composer/blackfire/php-sdk@v2.5.8
 - pkg:composer/blackfire/php-sdk@v2.5.9
+- pkg:composer/blackfire/php-sdk@v2.6.0
+- pkg:composer/blackfire/php-sdk@v3.0.0
