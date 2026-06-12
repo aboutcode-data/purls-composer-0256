@@ -59,3 +59,5 @@
 - pkg:composer/cpsit/project-builder@2.9.1
 - pkg:composer/cpsit/project-builder@2.9.2
 - pkg:composer/cpsit/project-builder@2.9.3
+- pkg:composer/cpsit/project-builder@3.0.0
+- pkg:composer/cpsit/project-builder@3.0.1
