@@ -1,2 +1,4 @@
+- pkg:composer/castor/identifier@0.3.0
+- pkg:composer/castor/identifier@0.4.0
 - pkg:composer/castor/identifier@v0.2.0
 - pkg:composer/castor/identifier@v0.2.1
