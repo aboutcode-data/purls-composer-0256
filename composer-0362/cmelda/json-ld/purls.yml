@@ -1,6 +1,7 @@
 - pkg:composer/cmelda/json-ld@2.1
 - pkg:composer/cmelda/json-ld@2.1.2
 - pkg:composer/cmelda/json-ld@2.1.3
+- pkg:composer/cmelda/json-ld@2.2
 - pkg:composer/cmelda/json-ld@v1.0
 - pkg:composer/cmelda/json-ld@v1.1
 - pkg:composer/cmelda/json-ld@v1.2
