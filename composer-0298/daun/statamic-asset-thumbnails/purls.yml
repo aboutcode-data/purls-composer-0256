@@ -3,3 +3,5 @@
 - pkg:composer/daun/statamic-asset-thumbnails@0.2.1
 - pkg:composer/daun/statamic-asset-thumbnails@1.0.0
 - pkg:composer/daun/statamic-asset-thumbnails@1.1.0
+- pkg:composer/daun/statamic-asset-thumbnails@1.2.0
+- pkg:composer/daun/statamic-asset-thumbnails@1.2.1
