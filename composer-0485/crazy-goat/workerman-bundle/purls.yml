@@ -4,6 +4,13 @@
 - pkg:composer/crazy-goat/workerman-bundle@v0.13.0
 - pkg:composer/crazy-goat/workerman-bundle@v0.14.0
 - pkg:composer/crazy-goat/workerman-bundle@v0.15.0
+- pkg:composer/crazy-goat/workerman-bundle@v0.16.0
+- pkg:composer/crazy-goat/workerman-bundle@v0.17.0
+- pkg:composer/crazy-goat/workerman-bundle@v0.18.0
+- pkg:composer/crazy-goat/workerman-bundle@v0.19.0
+- pkg:composer/crazy-goat/workerman-bundle@v0.20.0
+- pkg:composer/crazy-goat/workerman-bundle@v0.21.0
+- pkg:composer/crazy-goat/workerman-bundle@v0.22.0
 - pkg:composer/crazy-goat/workerman-bundle@v0.9.0
 - pkg:composer/crazy-goat/workerman-bundle@v0.9.1
 - pkg:composer/crazy-goat/workerman-bundle@v0.9.2
