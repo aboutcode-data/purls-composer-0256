@@ -16,3 +16,4 @@
 - pkg:composer/dev-lancer/minecraft-status@v3.0.2
 - pkg:composer/dev-lancer/minecraft-status@v3.0.3
 - pkg:composer/dev-lancer/minecraft-status@v3.1.0
+- pkg:composer/dev-lancer/minecraft-status@v4.0.0
