@@ -202,6 +202,8 @@
 - pkg:composer/bentideswell/magento2-wordpress-integration@3.31.7
 - pkg:composer/bentideswell/magento2-wordpress-integration@3.31.8
 - pkg:composer/bentideswell/magento2-wordpress-integration@3.31.9
+- pkg:composer/bentideswell/magento2-wordpress-integration@3.32.0
+- pkg:composer/bentideswell/magento2-wordpress-integration@3.32.1
 - pkg:composer/bentideswell/magento2-wordpress-integration@3.4.0
 - pkg:composer/bentideswell/magento2-wordpress-integration@3.4.1
 - pkg:composer/bentideswell/magento2-wordpress-integration@3.4.2
