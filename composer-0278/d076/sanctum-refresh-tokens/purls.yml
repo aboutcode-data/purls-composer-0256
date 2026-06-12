@@ -4,3 +4,4 @@
 - pkg:composer/d076/sanctum-refresh-tokens@v2.0.1
 - pkg:composer/d076/sanctum-refresh-tokens@v3.0.0
 - pkg:composer/d076/sanctum-refresh-tokens@v3.1.0
+- pkg:composer/d076/sanctum-refresh-tokens@v4.0.0
