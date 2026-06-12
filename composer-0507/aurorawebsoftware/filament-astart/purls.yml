@@ -35,3 +35,7 @@
 - pkg:composer/aurorawebsoftware/filament-astart@5.0.5
 - pkg:composer/aurorawebsoftware/filament-astart@5.1.0
 - pkg:composer/aurorawebsoftware/filament-astart@5.2.0
+- pkg:composer/aurorawebsoftware/filament-astart@5.2.1
+- pkg:composer/aurorawebsoftware/filament-astart@5.2.2
+- pkg:composer/aurorawebsoftware/filament-astart@5.2.3
+- pkg:composer/aurorawebsoftware/filament-astart@6.0.0
