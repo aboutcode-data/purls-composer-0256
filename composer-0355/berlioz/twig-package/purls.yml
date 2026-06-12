@@ -11,3 +11,5 @@
 - pkg:composer/berlioz/twig-package@v2.4.0
 - pkg:composer/berlioz/twig-package@v2.4.1
 - pkg:composer/berlioz/twig-package@v3.0.0
+- pkg:composer/berlioz/twig-package@v3.1.0
+- pkg:composer/berlioz/twig-package@v3.1.1
