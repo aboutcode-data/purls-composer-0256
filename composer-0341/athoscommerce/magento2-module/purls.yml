@@ -1,3 +1,6 @@
 - pkg:composer/athoscommerce/magento2-module@1.0.0
 - pkg:composer/athoscommerce/magento2-module@1.0.0-alpha
 - pkg:composer/athoscommerce/magento2-module@1.0.1
+- pkg:composer/athoscommerce/magento2-module@1.0.2
+- pkg:composer/athoscommerce/magento2-module@1.0.3
+- pkg:composer/athoscommerce/magento2-module@1.0.4
