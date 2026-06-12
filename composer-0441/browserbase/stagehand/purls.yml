@@ -18,6 +18,7 @@
 - pkg:composer/browserbase/stagehand@v3.2.1
 - pkg:composer/browserbase/stagehand@v3.2.2
 - pkg:composer/browserbase/stagehand@v3.20.0
+- pkg:composer/browserbase/stagehand@v3.21.0
 - pkg:composer/browserbase/stagehand@v3.3.0
 - pkg:composer/browserbase/stagehand@v3.4.0
 - pkg:composer/browserbase/stagehand@v3.5.0
