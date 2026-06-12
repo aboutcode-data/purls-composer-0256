@@ -11,3 +11,4 @@
 - pkg:composer/clcbws/laravel-schema-sentinel@1.2.0
 - pkg:composer/clcbws/laravel-schema-sentinel@1.2.1
 - pkg:composer/clcbws/laravel-schema-sentinel@1.6.0
+- pkg:composer/clcbws/laravel-schema-sentinel@2.0.0
