@@ -11,3 +11,5 @@
 - pkg:composer/andydefer/laravel-task@v3.0.2
 - pkg:composer/andydefer/laravel-task@v3.0.3
 - pkg:composer/andydefer/laravel-task@v3.1.0
+- pkg:composer/andydefer/laravel-task@v3.2.0
+- pkg:composer/andydefer/laravel-task@v3.2.1
