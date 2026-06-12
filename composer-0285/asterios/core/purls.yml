@@ -12,3 +12,6 @@
 - pkg:composer/asterios/core@1.9.3
 - pkg:composer/asterios/core@2.0.0
 - pkg:composer/asterios/core@2.1.0
+- pkg:composer/asterios/core@2.2.0
+- pkg:composer/asterios/core@2.4.1
+- pkg:composer/asterios/core@2.5.0
