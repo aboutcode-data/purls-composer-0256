@@ -10,3 +10,5 @@
 - pkg:composer/berlioz/mailer@v1.4.0
 - pkg:composer/berlioz/mailer@v1.5.0
 - pkg:composer/berlioz/mailer@v3.0.0
+- pkg:composer/berlioz/mailer@v3.1.0
+- pkg:composer/berlioz/mailer@v3.1.1
