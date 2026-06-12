@@ -19,3 +19,4 @@
 - pkg:composer/daycry/jobs@v1.1.17
 - pkg:composer/daycry/jobs@v1.2.0
 - pkg:composer/daycry/jobs@v2.0.0
+- pkg:composer/daycry/jobs@v3.0.0
