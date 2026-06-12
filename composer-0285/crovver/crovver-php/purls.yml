@@ -6,3 +6,6 @@
 - pkg:composer/crovver/crovver-php@v1.3.0
 - pkg:composer/crovver/crovver-php@v1.4.0
 - pkg:composer/crovver/crovver-php@v1.5.0
+- pkg:composer/crovver/crovver-php@v1.6.0
+- pkg:composer/crovver/crovver-php@v1.7.0
+- pkg:composer/crovver/crovver-php@v1.8.0
