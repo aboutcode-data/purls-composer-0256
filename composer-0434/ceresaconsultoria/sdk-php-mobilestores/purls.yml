@@ -28,6 +28,8 @@
 - pkg:composer/ceresaconsultoria/sdk-php-mobilestores@v1.22.0
 - pkg:composer/ceresaconsultoria/sdk-php-mobilestores@v1.23.0
 - pkg:composer/ceresaconsultoria/sdk-php-mobilestores@v1.24.0
+- pkg:composer/ceresaconsultoria/sdk-php-mobilestores@v1.25.0
+- pkg:composer/ceresaconsultoria/sdk-php-mobilestores@v1.25.1
 - pkg:composer/ceresaconsultoria/sdk-php-mobilestores@v1.3.0
 - pkg:composer/ceresaconsultoria/sdk-php-mobilestores@v1.3.1
 - pkg:composer/ceresaconsultoria/sdk-php-mobilestores@v1.3.2
