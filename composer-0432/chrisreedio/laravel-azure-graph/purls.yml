@@ -7,3 +7,4 @@
 - pkg:composer/chrisreedio/laravel-azure-graph@v0.2.2
 - pkg:composer/chrisreedio/laravel-azure-graph@v0.2.3
 - pkg:composer/chrisreedio/laravel-azure-graph@v0.3.0
+- pkg:composer/chrisreedio/laravel-azure-graph@v1.0.0
