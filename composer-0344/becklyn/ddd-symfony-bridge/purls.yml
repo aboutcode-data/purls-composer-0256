@@ -10,3 +10,5 @@
 - pkg:composer/becklyn/ddd-symfony-bridge@4.0.1
 - pkg:composer/becklyn/ddd-symfony-bridge@4.0.2
 - pkg:composer/becklyn/ddd-symfony-bridge@5.2.0
+- pkg:composer/becklyn/ddd-symfony-bridge@6.0.0
+- pkg:composer/becklyn/ddd-symfony-bridge@6.1.0
