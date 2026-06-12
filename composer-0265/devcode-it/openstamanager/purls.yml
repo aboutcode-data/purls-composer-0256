@@ -4,6 +4,8 @@
 - pkg:composer/devcode-it/openstamanager@v2.10.2
 - pkg:composer/devcode-it/openstamanager@v2.10.3
 - pkg:composer/devcode-it/openstamanager@v2.10.4
+- pkg:composer/devcode-it/openstamanager@v2.11
+- pkg:composer/devcode-it/openstamanager@v2.11-beta
 - pkg:composer/devcode-it/openstamanager@v2.4
 - pkg:composer/devcode-it/openstamanager@v2.4.1
 - pkg:composer/devcode-it/openstamanager@v2.4.10
