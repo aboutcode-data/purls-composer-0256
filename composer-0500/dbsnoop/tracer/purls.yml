@@ -12,7 +12,6 @@
 - pkg:composer/dbsnoop/tracer@v0.2.10
 - pkg:composer/dbsnoop/tracer@v0.2.11
 - pkg:composer/dbsnoop/tracer@v0.2.12
-- pkg:composer/dbsnoop/tracer@v0.2.13
 - pkg:composer/dbsnoop/tracer@v0.2.14
 - pkg:composer/dbsnoop/tracer@v0.2.15
 - pkg:composer/dbsnoop/tracer@v0.2.16
