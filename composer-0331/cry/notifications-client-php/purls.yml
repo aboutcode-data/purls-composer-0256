@@ -7,3 +7,5 @@
 - pkg:composer/cry/notifications-client-php@v0.2.0
 - pkg:composer/cry/notifications-client-php@v0.2.1
 - pkg:composer/cry/notifications-client-php@v0.2.2
+- pkg:composer/cry/notifications-client-php@v0.2.3
+- pkg:composer/cry/notifications-client-php@v0.2.4
