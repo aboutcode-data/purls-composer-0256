@@ -8,6 +8,7 @@
 - pkg:composer/filament/query-builder@v4.11.4
 - pkg:composer/filament/query-builder@v4.11.5
 - pkg:composer/filament/query-builder@v4.11.6
+- pkg:composer/filament/query-builder@v4.11.7
 - pkg:composer/filament/query-builder@v4.2.0
 - pkg:composer/filament/query-builder@v4.2.1
 - pkg:composer/filament/query-builder@v4.2.2
@@ -81,3 +82,4 @@
 - pkg:composer/filament/query-builder@v5.6.4
 - pkg:composer/filament/query-builder@v5.6.5
 - pkg:composer/filament/query-builder@v5.6.6
+- pkg:composer/filament/query-builder@v5.6.7
