@@ -35,3 +35,4 @@
 - pkg:composer/evilfreelancer/routeros-api-php@1.5.6
 - pkg:composer/evilfreelancer/routeros-api-php@1.6.0
 - pkg:composer/evilfreelancer/routeros-api-php@1.7.0
+- pkg:composer/evilfreelancer/routeros-api-php@1.7.1
