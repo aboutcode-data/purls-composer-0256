@@ -19,3 +19,4 @@
 - pkg:composer/dps-software-srl/php-error-lib@v1.8.1
 - pkg:composer/dps-software-srl/php-error-lib@v1.9.0
 - pkg:composer/dps-software-srl/php-error-lib@v1.9.1
+- pkg:composer/dps-software-srl/php-error-lib@v1.9.2
