@@ -127,3 +127,5 @@
 - pkg:composer/ecotone/kafka@1.313.1
 - pkg:composer/ecotone/kafka@1.313.2
 - pkg:composer/ecotone/kafka@1.314.0
+- pkg:composer/ecotone/kafka@1.315.0
+- pkg:composer/ecotone/kafka@1.316.1
