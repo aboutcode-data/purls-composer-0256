@@ -30,3 +30,10 @@
 - pkg:composer/druidweb/druid@v1.4.5
 - pkg:composer/druidweb/druid@v1.4.6
 - pkg:composer/druidweb/druid@v1.4.7
+- pkg:composer/druidweb/druid@v1.4.8
+- pkg:composer/druidweb/druid@v1.5.0
+- pkg:composer/druidweb/druid@v1.5.1
+- pkg:composer/druidweb/druid@v1.5.2
+- pkg:composer/druidweb/druid@v1.5.3
+- pkg:composer/druidweb/druid@v1.5.4
+- pkg:composer/druidweb/druid@v1.5.5
