@@ -12,3 +12,4 @@
 - pkg:composer/eactive/deployer-recipes@2.4
 - pkg:composer/eactive/deployer-recipes@3.0
 - pkg:composer/eactive/deployer-recipes@4.0
+- pkg:composer/eactive/deployer-recipes@5.0
