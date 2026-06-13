@@ -10,3 +10,4 @@
 - pkg:composer/emporiqa/sylius-plugin@v1.6.4
 - pkg:composer/emporiqa/sylius-plugin@v1.6.5
 - pkg:composer/emporiqa/sylius-plugin@v1.7.0
+- pkg:composer/emporiqa/sylius-plugin@v1.8.0
