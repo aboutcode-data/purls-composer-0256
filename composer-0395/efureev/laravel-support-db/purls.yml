@@ -21,4 +21,6 @@
 - pkg:composer/efureev/laravel-support-db@v2.0.0
 - pkg:composer/efureev/laravel-support-db@v2.1.0
 - pkg:composer/efureev/laravel-support-db@v2.2.0
+- pkg:composer/efureev/laravel-support-db@v2.2.1
 - pkg:composer/efureev/laravel-support-db@v3.0.0
+- pkg:composer/efureev/laravel-support-db@v4.0.0
