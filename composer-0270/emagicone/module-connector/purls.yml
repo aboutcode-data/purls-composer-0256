@@ -7,3 +7,4 @@
 - pkg:composer/emagicone/module-connector@24.11.0
 - pkg:composer/emagicone/module-connector@25.3.0
 - pkg:composer/emagicone/module-connector@25.7.0
+- pkg:composer/emagicone/module-connector@26.6.0
