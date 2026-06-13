@@ -16,3 +16,4 @@
 - pkg:composer/facile-it/php-jose-verifier@0.5.0-beta1
 - pkg:composer/facile-it/php-jose-verifier@0.5.1
 - pkg:composer/facile-it/php-jose-verifier@0.5.2
+- pkg:composer/facile-it/php-jose-verifier@1.0.0
