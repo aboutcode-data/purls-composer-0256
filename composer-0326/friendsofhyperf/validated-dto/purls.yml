@@ -61,6 +61,7 @@
 - pkg:composer/friendsofhyperf/validated-dto@v3.1.7
 - pkg:composer/friendsofhyperf/validated-dto@v3.1.70.1
 - pkg:composer/friendsofhyperf/validated-dto@v3.1.75
+- pkg:composer/friendsofhyperf/validated-dto@v3.2.0
 - pkg:composer/friendsofhyperf/validated-dto@v3.2.0-alpha.1
 - pkg:composer/friendsofhyperf/validated-dto@v3.2.0-alpha.5
 - pkg:composer/friendsofhyperf/validated-dto@v3.2.0-alpha.6

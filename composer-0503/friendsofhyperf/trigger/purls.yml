@@ -85,6 +85,7 @@
 - pkg:composer/friendsofhyperf/trigger@v3.1.73.2
 - pkg:composer/friendsofhyperf/trigger@v3.1.74
 - pkg:composer/friendsofhyperf/trigger@v3.1.75
+- pkg:composer/friendsofhyperf/trigger@v3.2.0
 - pkg:composer/friendsofhyperf/trigger@v3.2.0-alpha.1
 - pkg:composer/friendsofhyperf/trigger@v3.2.0-alpha.4
 - pkg:composer/friendsofhyperf/trigger@v3.2.0-alpha.5
