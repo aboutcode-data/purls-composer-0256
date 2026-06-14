@@ -12,4 +12,7 @@
 - pkg:composer/glowingblue/password-strength@3.1.0
 - pkg:composer/glowingblue/password-strength@3.2.0
 - pkg:composer/glowingblue/password-strength@4.0.0
+- pkg:composer/glowingblue/password-strength@5.0.0-beta.1
+- pkg:composer/glowingblue/password-strength@5.0.0-beta.2
+- pkg:composer/glowingblue/password-strength@5.0.0-beta.3
 - pkg:composer/glowingblue/password-strength@v0.1.1
