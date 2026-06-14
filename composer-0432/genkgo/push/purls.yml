@@ -25,3 +25,5 @@
 - pkg:composer/genkgo/push@3.6.0
 - pkg:composer/genkgo/push@4.0.0
 - pkg:composer/genkgo/push@5.0.0
+- pkg:composer/genkgo/push@6.0.0
+- pkg:composer/genkgo/push@6.0.1
