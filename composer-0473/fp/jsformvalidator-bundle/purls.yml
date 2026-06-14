@@ -6,6 +6,8 @@
 - pkg:composer/fp/jsformvalidator-bundle@1.5.1
 - pkg:composer/fp/jsformvalidator-bundle@1.6
 - pkg:composer/fp/jsformvalidator-bundle@1.6.1
+- pkg:composer/fp/jsformvalidator-bundle@1.7.0-beta1
+- pkg:composer/fp/jsformvalidator-bundle@1.8.0-beta1
 - pkg:composer/fp/jsformvalidator-bundle@v1.0.0
 - pkg:composer/fp/jsformvalidator-bundle@v1.0.1
 - pkg:composer/fp/jsformvalidator-bundle@v1.1.0
