@@ -1,3 +1,4 @@
 - pkg:composer/dazza-dev/laravel-batch-validation@v1.0.0
 - pkg:composer/dazza-dev/laravel-batch-validation@v2.0.0
 - pkg:composer/dazza-dev/laravel-batch-validation@v2.1.0
+- pkg:composer/dazza-dev/laravel-batch-validation@v2.2.0
