@@ -1,7 +1,20 @@
 - pkg:composer/klehm/content-blocks-kit@v0.1.0-alpha
 - pkg:composer/klehm/content-blocks-kit@v0.1.0-alpha.10
 - pkg:composer/klehm/content-blocks-kit@v0.1.0-alpha.11
+- pkg:composer/klehm/content-blocks-kit@v0.1.0-alpha.12
+- pkg:composer/klehm/content-blocks-kit@v0.1.0-alpha.13
+- pkg:composer/klehm/content-blocks-kit@v0.1.0-alpha.14
+- pkg:composer/klehm/content-blocks-kit@v0.1.0-alpha.15
+- pkg:composer/klehm/content-blocks-kit@v0.1.0-alpha.16
+- pkg:composer/klehm/content-blocks-kit@v0.1.0-alpha.17
+- pkg:composer/klehm/content-blocks-kit@v0.1.0-alpha.18
+- pkg:composer/klehm/content-blocks-kit@v0.1.0-alpha.19
 - pkg:composer/klehm/content-blocks-kit@v0.1.0-alpha.2
+- pkg:composer/klehm/content-blocks-kit@v0.1.0-alpha.20
+- pkg:composer/klehm/content-blocks-kit@v0.1.0-alpha.21
+- pkg:composer/klehm/content-blocks-kit@v0.1.0-alpha.22
+- pkg:composer/klehm/content-blocks-kit@v0.1.0-alpha.23
+- pkg:composer/klehm/content-blocks-kit@v0.1.0-alpha.24
 - pkg:composer/klehm/content-blocks-kit@v0.1.0-alpha.3
 - pkg:composer/klehm/content-blocks-kit@v0.1.0-alpha.4
 - pkg:composer/klehm/content-blocks-kit@v0.1.0-alpha.5
@@ -9,3 +22,5 @@
 - pkg:composer/klehm/content-blocks-kit@v0.1.0-alpha.7
 - pkg:composer/klehm/content-blocks-kit@v0.1.0-alpha.8
 - pkg:composer/klehm/content-blocks-kit@v0.1.0-alpha.9
+- pkg:composer/klehm/content-blocks-kit@v0.1.0-beta.1
+- pkg:composer/klehm/content-blocks-kit@v0.1.0-beta.2
