@@ -127,3 +127,5 @@
 - pkg:composer/goldziher/html-to-markdown@v3.6.3
 - pkg:composer/goldziher/html-to-markdown@v3.6.4
 - pkg:composer/goldziher/html-to-markdown@v3.6.5
+- pkg:composer/goldziher/html-to-markdown@v3.6.6
+- pkg:composer/goldziher/html-to-markdown@v3.6.7
