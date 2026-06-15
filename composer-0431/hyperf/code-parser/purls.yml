@@ -11,5 +11,6 @@
 - pkg:composer/hyperf/code-parser@v3.1.42
 - pkg:composer/hyperf/code-parser@v3.1.52
 - pkg:composer/hyperf/code-parser@v3.1.63
+- pkg:composer/hyperf/code-parser@v3.2.0
 - pkg:composer/hyperf/code-parser@v3.2.0-alpha.1
 - pkg:composer/hyperf/code-parser@v3.2.0-alpha.3
