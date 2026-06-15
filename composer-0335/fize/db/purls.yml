@@ -11,6 +11,7 @@
 - pkg:composer/fize/db@4.0.3
 - pkg:composer/fize/db@4.0.4
 - pkg:composer/fize/db@4.0.5
+- pkg:composer/fize/db@4.0.6
 - pkg:composer/fize/db@V2.5.4
 - pkg:composer/fize/db@v1.0.0
 - pkg:composer/fize/db@v1.0.1
