@@ -181,6 +181,7 @@
 - pkg:composer/humanmade/core@26.0.5
 - pkg:composer/humanmade/core@26.0.6
 - pkg:composer/humanmade/core@26.0.7
+- pkg:composer/humanmade/core@26.0.8
 - pkg:composer/humanmade/core@3.0.0
 - pkg:composer/humanmade/core@3.0.0-beta1
 - pkg:composer/humanmade/core@3.0.0-beta2
