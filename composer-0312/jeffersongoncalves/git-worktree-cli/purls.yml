@@ -1,6 +1,7 @@
 - pkg:composer/jeffersongoncalves/git-worktree-cli@1.0.0
 - pkg:composer/jeffersongoncalves/git-worktree-cli@1.0.1
 - pkg:composer/jeffersongoncalves/git-worktree-cli@1.0.2
+- pkg:composer/jeffersongoncalves/git-worktree-cli@1.0.3
 - pkg:composer/jeffersongoncalves/git-worktree-cli@v0.0.1
 - pkg:composer/jeffersongoncalves/git-worktree-cli@v0.0.2
 - pkg:composer/jeffersongoncalves/git-worktree-cli@v0.0.3
