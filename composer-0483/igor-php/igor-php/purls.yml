@@ -21,3 +21,4 @@
 - pkg:composer/igor-php/igor-php@v0.6.1
 - pkg:composer/igor-php/igor-php@v0.6.2
 - pkg:composer/igor-php/igor-php@v0.6.3
+- pkg:composer/igor-php/igor-php@v0.7.0
