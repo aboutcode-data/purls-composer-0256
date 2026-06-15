@@ -26,3 +26,5 @@
 - pkg:composer/dolphiq/redirect@2.0.1
 - pkg:composer/dolphiq/redirect@4.0
 - pkg:composer/dolphiq/redirect@5.0.0
+- pkg:composer/dolphiq/redirect@5.1
+- pkg:composer/dolphiq/redirect@5.1.1
