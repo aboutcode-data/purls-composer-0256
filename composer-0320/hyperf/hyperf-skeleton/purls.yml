@@ -1,3 +1,4 @@
+- pkg:composer/hyperf/hyperf-skeleton@3.2.0
 - pkg:composer/hyperf/hyperf-skeleton@v1.0.0
 - pkg:composer/hyperf/hyperf-skeleton@v1.0.1
 - pkg:composer/hyperf/hyperf-skeleton@v1.0.3
