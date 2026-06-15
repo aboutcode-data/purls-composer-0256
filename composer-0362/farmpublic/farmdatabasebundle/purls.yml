@@ -155,6 +155,7 @@
 - pkg:composer/farmpublic/farmdatabasebundle@3.12.0
 - pkg:composer/farmpublic/farmdatabasebundle@3.12.1
 - pkg:composer/farmpublic/farmdatabasebundle@3.13.0
+- pkg:composer/farmpublic/farmdatabasebundle@3.14.0
 - pkg:composer/farmpublic/farmdatabasebundle@3.2.0
 - pkg:composer/farmpublic/farmdatabasebundle@3.3.0
 - pkg:composer/farmpublic/farmdatabasebundle@3.3.1
