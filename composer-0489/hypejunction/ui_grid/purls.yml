@@ -5,3 +5,4 @@
 - pkg:composer/hypejunction/ui_grid@5.0.0
 - pkg:composer/hypejunction/ui_grid@6.0.0
 - pkg:composer/hypejunction/ui_grid@7.0.0
+- pkg:composer/hypejunction/ui_grid@7.0.1
