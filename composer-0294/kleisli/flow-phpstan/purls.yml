@@ -1,1 +1,3 @@
+- pkg:composer/kleisli/flow-phpstan@1.0.0
+- pkg:composer/kleisli/flow-phpstan@1.0.1
 - pkg:composer/kleisli/flow-phpstan@v0.1
