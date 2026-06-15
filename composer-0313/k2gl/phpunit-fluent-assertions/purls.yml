@@ -25,3 +25,5 @@
 - pkg:composer/k2gl/phpunit-fluent-assertions@12.4.0
 - pkg:composer/k2gl/phpunit-fluent-assertions@12.5.0
 - pkg:composer/k2gl/phpunit-fluent-assertions@12.6.0
+- pkg:composer/k2gl/phpunit-fluent-assertions@12.7.0
+- pkg:composer/k2gl/phpunit-fluent-assertions@12.8.0

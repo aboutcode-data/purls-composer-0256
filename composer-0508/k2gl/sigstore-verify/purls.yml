@@ -7,3 +7,6 @@
 - pkg:composer/k2gl/sigstore-verify@0.6.0
 - pkg:composer/k2gl/sigstore-verify@0.7.0
 - pkg:composer/k2gl/sigstore-verify@1.0.0
+- pkg:composer/k2gl/sigstore-verify@1.1.0
+- pkg:composer/k2gl/sigstore-verify@1.2.0
+- pkg:composer/k2gl/sigstore-verify@1.3.0
