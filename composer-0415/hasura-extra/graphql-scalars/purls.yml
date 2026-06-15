@@ -2,3 +2,4 @@
 - pkg:composer/hasura-extra/graphql-scalars@3.4.1
 - pkg:composer/hasura-extra/graphql-scalars@4.0.0
 - pkg:composer/hasura-extra/graphql-scalars@5.0.0
+- pkg:composer/hasura-extra/graphql-scalars@6.0.0
