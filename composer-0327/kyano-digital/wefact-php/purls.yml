@@ -1,8 +1,11 @@
 - pkg:composer/kyano-digital/wefact-php@v1.0.0
 - pkg:composer/kyano-digital/wefact-php@v1.0.1
+- pkg:composer/kyano-digital/wefact-php@v1.0.10
 - pkg:composer/kyano-digital/wefact-php@v1.0.2
 - pkg:composer/kyano-digital/wefact-php@v1.0.3
 - pkg:composer/kyano-digital/wefact-php@v1.0.4
 - pkg:composer/kyano-digital/wefact-php@v1.0.5
 - pkg:composer/kyano-digital/wefact-php@v1.0.6
 - pkg:composer/kyano-digital/wefact-php@v1.0.7
+- pkg:composer/kyano-digital/wefact-php@v1.0.8
+- pkg:composer/kyano-digital/wefact-php@v1.0.9
