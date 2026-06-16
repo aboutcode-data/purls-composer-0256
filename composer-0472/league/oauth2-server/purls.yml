@@ -112,3 +112,4 @@
 - pkg:composer/league/oauth2-server@9.1.0
 - pkg:composer/league/oauth2-server@9.2.0
 - pkg:composer/league/oauth2-server@9.3.0
+- pkg:composer/league/oauth2-server@9.4.0
