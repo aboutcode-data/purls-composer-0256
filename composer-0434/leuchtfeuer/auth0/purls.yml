@@ -4,6 +4,7 @@
 - pkg:composer/leuchtfeuer/auth0@3.0.0b
 - pkg:composer/leuchtfeuer/auth0@v13.0.0
 - pkg:composer/leuchtfeuer/auth0@v13.0.1
+- pkg:composer/leuchtfeuer/auth0@v13.0.10
 - pkg:composer/leuchtfeuer/auth0@v13.0.2
 - pkg:composer/leuchtfeuer/auth0@v13.0.3
 - pkg:composer/leuchtfeuer/auth0@v13.0.4
@@ -18,6 +19,7 @@
 - pkg:composer/leuchtfeuer/auth0@v14.0.3
 - pkg:composer/leuchtfeuer/auth0@v14.0.4
 - pkg:composer/leuchtfeuer/auth0@v14.0.5
+- pkg:composer/leuchtfeuer/auth0@v14.0.6
 - pkg:composer/leuchtfeuer/auth0@v3.1.0
 - pkg:composer/leuchtfeuer/auth0@v3.1.1
 - pkg:composer/leuchtfeuer/auth0@v3.2.0
