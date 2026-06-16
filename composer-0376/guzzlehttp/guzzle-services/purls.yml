@@ -25,3 +25,4 @@
 - pkg:composer/guzzlehttp/guzzle-services@1.5.4
 - pkg:composer/guzzlehttp/guzzle-services@1.6.0
 - pkg:composer/guzzlehttp/guzzle-services@1.6.1
+- pkg:composer/guzzlehttp/guzzle-services@1.6.2
