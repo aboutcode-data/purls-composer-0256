@@ -1,4 +1,5 @@
 - pkg:composer/horde/jonah@v1.0.0RC1
+- pkg:composer/horde/jonah@v1.0.0RC2
 - pkg:composer/horde/jonah@v1.0.0alpha2
 - pkg:composer/horde/jonah@v1.0.0alpha3
 - pkg:composer/horde/jonah@v1.0.0alpha4
