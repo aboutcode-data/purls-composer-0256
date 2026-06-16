@@ -63,3 +63,4 @@
 - pkg:composer/imatic/data-bundle@v6.1.5
 - pkg:composer/imatic/data-bundle@v6.2.0
 - pkg:composer/imatic/data-bundle@v6.2.1
+- pkg:composer/imatic/data-bundle@v7.0.0
