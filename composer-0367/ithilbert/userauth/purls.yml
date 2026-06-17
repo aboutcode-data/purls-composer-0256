@@ -1,2 +1,4 @@
 - pkg:composer/ithilbert/userauth@1.0.0
 - pkg:composer/ithilbert/userauth@2.0.0
+- pkg:composer/ithilbert/userauth@2.1.0
+- pkg:composer/ithilbert/userauth@2.1.1
