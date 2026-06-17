@@ -36,6 +36,7 @@
 - pkg:composer/guzzlehttp/psr7@2.10.4
 - pkg:composer/guzzlehttp/psr7@2.11.0
 - pkg:composer/guzzlehttp/psr7@2.11.1
+- pkg:composer/guzzlehttp/psr7@2.12.0
 - pkg:composer/guzzlehttp/psr7@2.2.0
 - pkg:composer/guzzlehttp/psr7@2.2.1
 - pkg:composer/guzzlehttp/psr7@2.2.2
