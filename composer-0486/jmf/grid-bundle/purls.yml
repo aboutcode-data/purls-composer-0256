@@ -25,4 +25,5 @@
 - pkg:composer/jmf/grid-bundle@6.0.0
 - pkg:composer/jmf/grid-bundle@6.0.1
 - pkg:composer/jmf/grid-bundle@7.0.0
+- pkg:composer/jmf/grid-bundle@8.0.0
 - pkg:composer/jmf/grid-bundle@8.0.0-rc1
