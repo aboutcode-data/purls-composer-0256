@@ -2,3 +2,5 @@
 - pkg:composer/makroz/director-laravel@v1.1.0
 - pkg:composer/makroz/director-laravel@v1.1.1
 - pkg:composer/makroz/director-laravel@v1.2.0
+- pkg:composer/makroz/director-laravel@v1.2.0-rc1
+- pkg:composer/makroz/director-laravel@v1.2.2-rc1
