@@ -20,3 +20,4 @@
 - pkg:composer/munkireport/softwareupdate@v3.4
 - pkg:composer/munkireport/softwareupdate@v3.5
 - pkg:composer/munkireport/softwareupdate@v3.6
+- pkg:composer/munkireport/softwareupdate@v3.7
