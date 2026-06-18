@@ -50,3 +50,4 @@
 - pkg:composer/mediawiki/cargo@3.8.7
 - pkg:composer/mediawiki/cargo@3.9
 - pkg:composer/mediawiki/cargo@3.9.1
+- pkg:composer/mediawiki/cargo@3.9.2
