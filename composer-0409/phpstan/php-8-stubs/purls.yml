@@ -197,6 +197,7 @@
 - pkg:composer/phpstan/php-8-stubs@0.4.33
 - pkg:composer/phpstan/php-8-stubs@0.4.34
 - pkg:composer/phpstan/php-8-stubs@0.4.35
+- pkg:composer/phpstan/php-8-stubs@0.4.36
 - pkg:composer/phpstan/php-8-stubs@0.4.4
 - pkg:composer/phpstan/php-8-stubs@0.4.5
 - pkg:composer/phpstan/php-8-stubs@0.4.6
