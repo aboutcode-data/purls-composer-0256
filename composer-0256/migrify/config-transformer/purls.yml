@@ -162,6 +162,7 @@
 - pkg:composer/migrify/config-transformer@12.4.2
 - pkg:composer/migrify/config-transformer@12.4.3
 - pkg:composer/migrify/config-transformer@12.5.0
+- pkg:composer/migrify/config-transformer@12.5.1
 - pkg:composer/migrify/config-transformer@9.0.0
 - pkg:composer/migrify/config-transformer@9.0.0-BETA2
 - pkg:composer/migrify/config-transformer@9.0.0-BETA3
