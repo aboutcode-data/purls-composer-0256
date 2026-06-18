@@ -52,3 +52,4 @@
 - pkg:composer/online-payments/sdk-php@8.4.0
 - pkg:composer/online-payments/sdk-php@9.0.0
 - pkg:composer/online-payments/sdk-php@9.1.0
+- pkg:composer/online-payments/sdk-php@9.2.0
