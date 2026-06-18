@@ -10,6 +10,7 @@
 - pkg:composer/morscate/laravel-event-flow@v0.0.18-alpha
 - pkg:composer/morscate/laravel-event-flow@v0.0.19-alpha
 - pkg:composer/morscate/laravel-event-flow@v0.0.2-alpha
+- pkg:composer/morscate/laravel-event-flow@v0.0.20-alpha
 - pkg:composer/morscate/laravel-event-flow@v0.0.3-alpha
 - pkg:composer/morscate/laravel-event-flow@v0.0.4-alpha
 - pkg:composer/morscate/laravel-event-flow@v0.0.5-alpha
