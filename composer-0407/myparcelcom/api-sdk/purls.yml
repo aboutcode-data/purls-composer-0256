@@ -67,6 +67,7 @@
 - pkg:composer/myparcelcom/api-sdk@v3.10.4
 - pkg:composer/myparcelcom/api-sdk@v3.10.5
 - pkg:composer/myparcelcom/api-sdk@v3.11.0
+- pkg:composer/myparcelcom/api-sdk@v3.11.1
 - pkg:composer/myparcelcom/api-sdk@v3.2.0
 - pkg:composer/myparcelcom/api-sdk@v3.2.1
 - pkg:composer/myparcelcom/api-sdk@v3.2.2
