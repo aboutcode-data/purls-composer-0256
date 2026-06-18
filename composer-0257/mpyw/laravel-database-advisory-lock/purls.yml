@@ -14,3 +14,4 @@
 - pkg:composer/mpyw/laravel-database-advisory-lock@v4.3.0
 - pkg:composer/mpyw/laravel-database-advisory-lock@v4.4.0
 - pkg:composer/mpyw/laravel-database-advisory-lock@v4.4.1
+- pkg:composer/mpyw/laravel-database-advisory-lock@v4.4.2
