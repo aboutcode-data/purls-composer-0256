@@ -1,5 +1,6 @@
 - pkg:composer/marcogermani87/filament-captcha@v1.0.0
 - pkg:composer/marcogermani87/filament-captcha@v1.1.0
+- pkg:composer/marcogermani87/filament-captcha@v1.10.0
 - pkg:composer/marcogermani87/filament-captcha@v1.2.0
 - pkg:composer/marcogermani87/filament-captcha@v1.2.1
 - pkg:composer/marcogermani87/filament-captcha@v1.3.0
@@ -12,3 +13,4 @@
 - pkg:composer/marcogermani87/filament-captcha@v2.0.0
 - pkg:composer/marcogermani87/filament-captcha@v2.1.0
 - pkg:composer/marcogermani87/filament-captcha@v2.2.0
+- pkg:composer/marcogermani87/filament-captcha@v2.3.0
