@@ -21,6 +21,7 @@
 - pkg:composer/netzmacher/start@10.4.2
 - pkg:composer/netzmacher/start@10.4.3
 - pkg:composer/netzmacher/start@10.4.4
+- pkg:composer/netzmacher/start@10.5.0
 - pkg:composer/netzmacher/start@8.0.10
 - pkg:composer/netzmacher/start@8.0.12
 - pkg:composer/netzmacher/start@8.0.13
