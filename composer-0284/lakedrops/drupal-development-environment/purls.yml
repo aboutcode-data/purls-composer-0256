@@ -61,6 +61,7 @@
 - pkg:composer/lakedrops/drupal-development-environment@v3.2.32
 - pkg:composer/lakedrops/drupal-development-environment@v3.2.33
 - pkg:composer/lakedrops/drupal-development-environment@v3.2.34
+- pkg:composer/lakedrops/drupal-development-environment@v3.2.35
 - pkg:composer/lakedrops/drupal-development-environment@v3.2.4
 - pkg:composer/lakedrops/drupal-development-environment@v3.2.5
 - pkg:composer/lakedrops/drupal-development-environment@v3.2.6
