@@ -28,6 +28,7 @@
 - pkg:composer/kiliba/module-connector@2.8.12
 - pkg:composer/kiliba/module-connector@2.8.13
 - pkg:composer/kiliba/module-connector@2.8.14
+- pkg:composer/kiliba/module-connector@2.8.15
 - pkg:composer/kiliba/module-connector@2.8.3
 - pkg:composer/kiliba/module-connector@2.8.4
 - pkg:composer/kiliba/module-connector@2.8.5
