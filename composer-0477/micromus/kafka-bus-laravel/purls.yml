@@ -8,3 +8,4 @@
 - pkg:composer/micromus/kafka-bus-laravel@v1.0.1
 - pkg:composer/micromus/kafka-bus-laravel@v2.0.0
 - pkg:composer/micromus/kafka-bus-laravel@v2.0.0-RC1
+- pkg:composer/micromus/kafka-bus-laravel@v2.1.0
