@@ -30,6 +30,7 @@
 - pkg:composer/phpseclib/phpseclib@1.0.28
 - pkg:composer/phpseclib/phpseclib@1.0.29
 - pkg:composer/phpseclib/phpseclib@1.0.3
+- pkg:composer/phpseclib/phpseclib@1.0.30
 - pkg:composer/phpseclib/phpseclib@1.0.4
 - pkg:composer/phpseclib/phpseclib@1.0.5
 - pkg:composer/phpseclib/phpseclib@1.0.6
@@ -87,6 +88,7 @@
 - pkg:composer/phpseclib/phpseclib@2.0.52
 - pkg:composer/phpseclib/phpseclib@2.0.53
 - pkg:composer/phpseclib/phpseclib@2.0.54
+- pkg:composer/phpseclib/phpseclib@2.0.55
 - pkg:composer/phpseclib/phpseclib@2.0.6
 - pkg:composer/phpseclib/phpseclib@2.0.7
 - pkg:composer/phpseclib/phpseclib@2.0.8
@@ -131,6 +133,9 @@
 - pkg:composer/phpseclib/phpseclib@3.0.50
 - pkg:composer/phpseclib/phpseclib@3.0.51
 - pkg:composer/phpseclib/phpseclib@3.0.52
+- pkg:composer/phpseclib/phpseclib@3.0.53
+- pkg:composer/phpseclib/phpseclib@3.0.54
+- pkg:composer/phpseclib/phpseclib@3.0.55
 - pkg:composer/phpseclib/phpseclib@3.0.6
 - pkg:composer/phpseclib/phpseclib@3.0.7
 - pkg:composer/phpseclib/phpseclib@3.0.8
