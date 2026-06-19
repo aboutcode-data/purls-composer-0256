@@ -12,6 +12,8 @@
 - pkg:composer/plank/scout-elasticsearch-driver@v1.3.1
 - pkg:composer/plank/scout-elasticsearch-driver@v11.0.0
 - pkg:composer/plank/scout-elasticsearch-driver@v11.0.1
+- pkg:composer/plank/scout-elasticsearch-driver@v12.0.1
+- pkg:composer/plank/scout-elasticsearch-driver@v13.0.1
 - pkg:composer/plank/scout-elasticsearch-driver@v2.0.0
 - pkg:composer/plank/scout-elasticsearch-driver@v2.0.1
 - pkg:composer/plank/scout-elasticsearch-driver@v2.1.0
