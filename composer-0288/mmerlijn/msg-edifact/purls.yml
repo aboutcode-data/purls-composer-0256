@@ -21,3 +21,4 @@
 - pkg:composer/mmerlijn/msg-edifact@v3.1.0
 - pkg:composer/mmerlijn/msg-edifact@v3.9
 - pkg:composer/mmerlijn/msg-edifact@v3.9.1
+- pkg:composer/mmerlijn/msg-edifact@v3.9.6
