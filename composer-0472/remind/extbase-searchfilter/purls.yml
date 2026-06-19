@@ -1,3 +1,4 @@
 - pkg:composer/remind/extbase-searchfilter@1.0.0
 - pkg:composer/remind/extbase-searchfilter@2.0.0
 - pkg:composer/remind/extbase-searchfilter@3.0.0
+- pkg:composer/remind/extbase-searchfilter@4.0.0
