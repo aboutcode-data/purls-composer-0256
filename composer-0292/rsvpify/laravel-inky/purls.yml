@@ -9,6 +9,7 @@
 - pkg:composer/rsvpify/laravel-inky@0.5.2
 - pkg:composer/rsvpify/laravel-inky@0.7.0
 - pkg:composer/rsvpify/laravel-inky@0.8.0
+- pkg:composer/rsvpify/laravel-inky@1.0.0
 - pkg:composer/rsvpify/laravel-inky@v0.6
 - pkg:composer/rsvpify/laravel-inky@v0.6.1
 - pkg:composer/rsvpify/laravel-inky@v0.6.2
