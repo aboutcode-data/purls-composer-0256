@@ -73,3 +73,4 @@
 - pkg:composer/sandermuller/laravel-fluent-validation-rector@1.5.1
 - pkg:composer/sandermuller/laravel-fluent-validation-rector@1.6.0
 - pkg:composer/sandermuller/laravel-fluent-validation-rector@1.7.0
+- pkg:composer/sandermuller/laravel-fluent-validation-rector@1.7.1
