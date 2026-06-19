@@ -65,6 +65,10 @@
 - pkg:composer/ozz/framework@1.1.8
 - pkg:composer/ozz/framework@1.2.0
 - pkg:composer/ozz/framework@1.2.2
+- pkg:composer/ozz/framework@1.2.3
+- pkg:composer/ozz/framework@1.2.4
+- pkg:composer/ozz/framework@1.2.5
+- pkg:composer/ozz/framework@1.2.6
 - pkg:composer/ozz/framework@v0.1.0
 - pkg:composer/ozz/framework@v0.1.1
 - pkg:composer/ozz/framework@v0.1.10
