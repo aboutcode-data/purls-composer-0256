@@ -11,3 +11,5 @@
 - pkg:composer/silverstripe/versioned-snapshot-admin@2.0.0
 - pkg:composer/silverstripe/versioned-snapshot-admin@3.0.0
 - pkg:composer/silverstripe/versioned-snapshot-admin@3.1.0
+- pkg:composer/silverstripe/versioned-snapshot-admin@4.0.0
+- pkg:composer/silverstripe/versioned-snapshot-admin@4.0.1
