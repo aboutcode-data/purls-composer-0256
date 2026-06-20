@@ -1,3 +1,4 @@
 - pkg:composer/softartisan/laravel-model-audits@v1.0.0
 - pkg:composer/softartisan/laravel-model-audits@v1.1.0
 - pkg:composer/softartisan/laravel-model-audits@v1.1.1
+- pkg:composer/softartisan/laravel-model-audits@v2.1.0
