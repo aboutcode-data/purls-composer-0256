@@ -71,6 +71,7 @@
 - pkg:composer/spryker/product-bundle@7.26.0
 - pkg:composer/spryker/product-bundle@7.27.0
 - pkg:composer/spryker/product-bundle@7.27.1
+- pkg:composer/spryker/product-bundle@7.28.0
 - pkg:composer/spryker/product-bundle@7.3.0
 - pkg:composer/spryker/product-bundle@7.4.0
 - pkg:composer/spryker/product-bundle@7.5.0
