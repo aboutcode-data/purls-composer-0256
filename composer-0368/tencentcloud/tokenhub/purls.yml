@@ -2,3 +2,5 @@
 - pkg:composer/tencentcloud/tokenhub@3.0.1600
 - pkg:composer/tencentcloud/tokenhub@3.0.1602
 - pkg:composer/tencentcloud/tokenhub@3.0.1603
+- pkg:composer/tencentcloud/tokenhub@3.0.1606
+- pkg:composer/tencentcloud/tokenhub@3.0.1609
