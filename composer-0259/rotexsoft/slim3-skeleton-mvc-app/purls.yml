@@ -48,3 +48,5 @@
 - pkg:composer/rotexsoft/slim3-skeleton-mvc-app@6.3.0
 - pkg:composer/rotexsoft/slim3-skeleton-mvc-app@6.3.1
 - pkg:composer/rotexsoft/slim3-skeleton-mvc-app@6.4.0
+- pkg:composer/rotexsoft/slim3-skeleton-mvc-app@6.4.1
+- pkg:composer/rotexsoft/slim3-skeleton-mvc-app@6.4.2
