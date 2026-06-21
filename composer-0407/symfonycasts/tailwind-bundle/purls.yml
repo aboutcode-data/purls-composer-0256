@@ -12,6 +12,7 @@
 - pkg:composer/symfonycasts/tailwind-bundle@v0.11.1
 - pkg:composer/symfonycasts/tailwind-bundle@v0.12.0
 - pkg:composer/symfonycasts/tailwind-bundle@v0.13.0
+- pkg:composer/symfonycasts/tailwind-bundle@v0.14.0
 - pkg:composer/symfonycasts/tailwind-bundle@v0.2.0
 - pkg:composer/symfonycasts/tailwind-bundle@v0.2.1
 - pkg:composer/symfonycasts/tailwind-bundle@v0.3.0
