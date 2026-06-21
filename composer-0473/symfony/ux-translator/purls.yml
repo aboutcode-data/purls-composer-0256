@@ -44,3 +44,4 @@
 - pkg:composer/symfony/ux-translator@v2.9.1
 - pkg:composer/symfony/ux-translator@v3.0.0
 - pkg:composer/symfony/ux-translator@v3.1.0
+- pkg:composer/symfony/ux-translator@v3.2.0
