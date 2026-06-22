@@ -46,6 +46,7 @@
 - pkg:composer/tempest/mail@v3.11.5
 - pkg:composer/tempest/mail@v3.11.6
 - pkg:composer/tempest/mail@v3.11.7
+- pkg:composer/tempest/mail@v3.11.8
 - pkg:composer/tempest/mail@v3.2.0
 - pkg:composer/tempest/mail@v3.2.1
 - pkg:composer/tempest/mail@v3.3.0
