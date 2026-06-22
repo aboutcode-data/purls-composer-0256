@@ -103,4 +103,5 @@
 - pkg:composer/symfony/models-dev@v80.0
 - pkg:composer/symfony/models-dev@v81.0
 - pkg:composer/symfony/models-dev@v82.0
+- pkg:composer/symfony/models-dev@v83.0
 - pkg:composer/symfony/models-dev@v9.0
