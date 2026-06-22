@@ -1,1 +1,3 @@
 - pkg:composer/solas-wyrd/yii2-static-assets-publisher@1.0.0
+- pkg:composer/solas-wyrd/yii2-static-assets-publisher@1.0.1
+- pkg:composer/solas-wyrd/yii2-static-assets-publisher@1.1.0
