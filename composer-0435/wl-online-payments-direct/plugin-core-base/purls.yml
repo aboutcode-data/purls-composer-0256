@@ -1,3 +1,4 @@
 - pkg:composer/wl-online-payments-direct/plugin-core-base@1.0.0
 - pkg:composer/wl-online-payments-direct/plugin-core-base@1.0.1
 - pkg:composer/wl-online-payments-direct/plugin-core-base@1.0.2
+- pkg:composer/wl-online-payments-direct/plugin-core-base@1.0.3
