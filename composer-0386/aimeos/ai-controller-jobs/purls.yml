@@ -181,7 +181,6 @@
 - pkg:composer/aimeos/ai-controller-jobs@2025.04.3
 - pkg:composer/aimeos/ai-controller-jobs@2025.07.1
 - pkg:composer/aimeos/ai-controller-jobs@2025.10.1
-- pkg:composer/aimeos/ai-controller-jobs@2025.10.10
 - pkg:composer/aimeos/ai-controller-jobs@2025.10.2
 - pkg:composer/aimeos/ai-controller-jobs@2025.10.3
 - pkg:composer/aimeos/ai-controller-jobs@2025.10.4
