@@ -44,3 +44,5 @@
 - pkg:composer/woocommerce/qit-cli@1.1.8
 - pkg:composer/woocommerce/qit-cli@1.1.9
 - pkg:composer/woocommerce/qit-cli@1.2.0
+- pkg:composer/woocommerce/qit-cli@1.2.1
+- pkg:composer/woocommerce/qit-cli@1.2.2
