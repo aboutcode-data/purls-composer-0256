@@ -15,10 +15,12 @@
 - pkg:composer/visavi/rotor@v12.7.0
 - pkg:composer/visavi/rotor@v13.0.0
 - pkg:composer/visavi/rotor@v13.1.0
+- pkg:composer/visavi/rotor@v14.0.0
+- pkg:composer/visavi/rotor@v14.0.1
+- pkg:composer/visavi/rotor@v14.0.2
 - pkg:composer/visavi/rotor@v6.0.0
 - pkg:composer/visavi/rotor@v6.1.0
 - pkg:composer/visavi/rotor@v7.0.0
-- pkg:composer/visavi/rotor@v7.0.0-beta
 - pkg:composer/visavi/rotor@v7.1.0
 - pkg:composer/visavi/rotor@v7.2.0
 - pkg:composer/visavi/rotor@v7.3.0
