@@ -19,3 +19,5 @@
 - pkg:composer/wearepixel/laravel-cart@2.1.1
 - pkg:composer/wearepixel/laravel-cart@2.1.2
 - pkg:composer/wearepixel/laravel-cart@2.1.3
+- pkg:composer/wearepixel/laravel-cart@2.1.4
+- pkg:composer/wearepixel/laravel-cart@3.0.0
