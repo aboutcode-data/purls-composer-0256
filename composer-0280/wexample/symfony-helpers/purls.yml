@@ -175,3 +175,4 @@
 - pkg:composer/wexample/symfony-helpers@1.0.92
 - pkg:composer/wexample/symfony-helpers@1.0.93
 - pkg:composer/wexample/symfony-helpers@2.0.0
+- pkg:composer/wexample/symfony-helpers@2.0.1
