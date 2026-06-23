@@ -6,3 +6,4 @@
 - pkg:composer/apploud/slim-error-middleware@v0.5.0
 - pkg:composer/apploud/slim-error-middleware@v0.6.0
 - pkg:composer/apploud/slim-error-middleware@v0.6.1
+- pkg:composer/apploud/slim-error-middleware@v0.6.2
