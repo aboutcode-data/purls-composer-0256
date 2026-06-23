@@ -27,3 +27,6 @@
 - pkg:composer/white-nl/commerce-sendcloud@4.1.2
 - pkg:composer/white-nl/commerce-sendcloud@4.2.0
 - pkg:composer/white-nl/commerce-sendcloud@5.0.0
+- pkg:composer/white-nl/commerce-sendcloud@5.0.1
+- pkg:composer/white-nl/commerce-sendcloud@5.0.2
+- pkg:composer/white-nl/commerce-sendcloud@5.0.3
