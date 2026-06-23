@@ -1,3 +1,4 @@
 - pkg:composer/viest/xlswriter@v2.0.0
 - pkg:composer/viest/xlswriter@v2.0.1
 - pkg:composer/viest/xlswriter@v2.0.2
+- pkg:composer/viest/xlswriter@v2.0.3
