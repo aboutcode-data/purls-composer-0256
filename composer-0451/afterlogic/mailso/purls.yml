@@ -75,5 +75,7 @@
 - pkg:composer/afterlogic/mailso@1.5.72
 - pkg:composer/afterlogic/mailso@1.5.73
 - pkg:composer/afterlogic/mailso@1.5.74
+- pkg:composer/afterlogic/mailso@1.5.75
+- pkg:composer/afterlogic/mailso@1.5.76
 - pkg:composer/afterlogic/mailso@1.5.8
 - pkg:composer/afterlogic/mailso@1.5.9
