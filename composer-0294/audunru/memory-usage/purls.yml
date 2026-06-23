@@ -25,3 +25,4 @@
 - pkg:composer/audunru/memory-usage@v4.0.5
 - pkg:composer/audunru/memory-usage@v5.0.0
 - pkg:composer/audunru/memory-usage@v5.1.0
+- pkg:composer/audunru/memory-usage@v5.1.1
