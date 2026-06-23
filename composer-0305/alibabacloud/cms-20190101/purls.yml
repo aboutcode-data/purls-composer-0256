@@ -26,6 +26,7 @@
 - pkg:composer/alibabacloud/cms-20190101@8.1.2
 - pkg:composer/alibabacloud/cms-20190101@9.0.0
 - pkg:composer/alibabacloud/cms-20190101@9.0.1
+- pkg:composer/alibabacloud/cms-20190101@9.0.10
 - pkg:composer/alibabacloud/cms-20190101@9.0.2
 - pkg:composer/alibabacloud/cms-20190101@9.0.3
 - pkg:composer/alibabacloud/cms-20190101@9.0.4
