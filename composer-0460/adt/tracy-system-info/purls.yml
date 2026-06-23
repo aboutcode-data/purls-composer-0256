@@ -9,3 +9,5 @@
 - pkg:composer/adt/tracy-system-info@v2.2
 - pkg:composer/adt/tracy-system-info@v2.2.1
 - pkg:composer/adt/tracy-system-info@v3.0
+- pkg:composer/adt/tracy-system-info@v3.1
+- pkg:composer/adt/tracy-system-info@v3.1.1
