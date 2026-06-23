@@ -8,3 +8,4 @@
 - pkg:composer/webo3/laravel-db-cache@v1.1.4
 - pkg:composer/webo3/laravel-db-cache@v1.1.5
 - pkg:composer/webo3/laravel-db-cache@v1.2.0
+- pkg:composer/webo3/laravel-db-cache@v1.3.0
