@@ -1,1 +1,2 @@
 - pkg:composer/wiistriker/doctrine-cursor-paginator@1.0.0
+- pkg:composer/wiistriker/doctrine-cursor-paginator@1.0.1
