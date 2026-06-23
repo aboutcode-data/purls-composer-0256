@@ -559,6 +559,11 @@
 - pkg:composer/vankosoft/application@v1.14.30
 - pkg:composer/vankosoft/application@v1.14.31
 - pkg:composer/vankosoft/application@v1.14.32
+- pkg:composer/vankosoft/application@v1.14.33
+- pkg:composer/vankosoft/application@v1.14.34
+- pkg:composer/vankosoft/application@v1.14.35
+- pkg:composer/vankosoft/application@v1.14.36
+- pkg:composer/vankosoft/application@v1.14.37
 - pkg:composer/vankosoft/application@v1.14.4
 - pkg:composer/vankosoft/application@v1.14.5
 - pkg:composer/vankosoft/application@v1.14.6
