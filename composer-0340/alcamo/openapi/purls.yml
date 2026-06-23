@@ -16,6 +16,8 @@
 - pkg:composer/alcamo/openapi@0.16.0
 - pkg:composer/alcamo/openapi@0.16.1
 - pkg:composer/alcamo/openapi@0.17.0
+- pkg:composer/alcamo/openapi@0.18.0
+- pkg:composer/alcamo/openapi@0.18.1
 - pkg:composer/alcamo/openapi@0.2
 - pkg:composer/alcamo/openapi@0.3
 - pkg:composer/alcamo/openapi@0.3.1
