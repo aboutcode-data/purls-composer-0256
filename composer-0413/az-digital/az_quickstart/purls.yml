@@ -118,6 +118,8 @@
 - pkg:composer/az-digital/az_quickstart@2.14.10
 - pkg:composer/az-digital/az_quickstart@2.14.11
 - pkg:composer/az-digital/az_quickstart@2.14.12
+- pkg:composer/az-digital/az_quickstart@2.14.13
+- pkg:composer/az-digital/az_quickstart@2.14.14
 - pkg:composer/az-digital/az_quickstart@2.14.2
 - pkg:composer/az-digital/az_quickstart@2.14.3
 - pkg:composer/az-digital/az_quickstart@2.14.4
@@ -279,6 +281,9 @@
 - pkg:composer/az-digital/az_quickstart@3.3.5
 - pkg:composer/az-digital/az_quickstart@3.3.6
 - pkg:composer/az-digital/az_quickstart@3.3.7
+- pkg:composer/az-digital/az_quickstart@3.3.8
 - pkg:composer/az-digital/az_quickstart@3.4.0
 - pkg:composer/az-digital/az_quickstart@3.4.0-alpha1
 - pkg:composer/az-digital/az_quickstart@3.4.0-alpha2
+- pkg:composer/az-digital/az_quickstart@3.4.1
+- pkg:composer/az-digital/az_quickstart@3.4.2
