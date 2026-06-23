@@ -90,6 +90,7 @@
 - pkg:composer/aimeos/ai-payments@2022.10.5
 - pkg:composer/aimeos/ai-payments@2022.10.6
 - pkg:composer/aimeos/ai-payments@2022.10.7
+- pkg:composer/aimeos/ai-payments@2022.10.8
 - pkg:composer/aimeos/ai-payments@2023.04.1
 - pkg:composer/aimeos/ai-payments@2023.04.2
 - pkg:composer/aimeos/ai-payments@2023.07.1
