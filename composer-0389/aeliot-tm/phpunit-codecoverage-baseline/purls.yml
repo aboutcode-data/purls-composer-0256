@@ -1,4 +1,5 @@
 - pkg:composer/aeliot-tm/phpunit-codecoverage-baseline@0.1
+- pkg:composer/aeliot-tm/phpunit-codecoverage-baseline@2.2.0
 - pkg:composer/aeliot-tm/phpunit-codecoverage-baseline@v1.0.0
 - pkg:composer/aeliot-tm/phpunit-codecoverage-baseline@v1.1.0
 - pkg:composer/aeliot-tm/phpunit-codecoverage-baseline@v2.0.0
