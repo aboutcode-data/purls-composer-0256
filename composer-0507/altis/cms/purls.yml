@@ -223,6 +223,7 @@
 - pkg:composer/altis/cms@26.0.6
 - pkg:composer/altis/cms@26.0.7
 - pkg:composer/altis/cms@26.0.8
+- pkg:composer/altis/cms@27.0.0
 - pkg:composer/altis/cms@27.0.0-beta.1
 - pkg:composer/altis/cms@3.0.0
 - pkg:composer/altis/cms@3.0.0-beta1
