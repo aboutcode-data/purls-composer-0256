@@ -1,2 +1,4 @@
 - pkg:composer/bluecapapps/downctl-laravel@v1.0.0
 - pkg:composer/bluecapapps/downctl-laravel@v1.0.1
+- pkg:composer/bluecapapps/downctl-laravel@v1.1.0
+- pkg:composer/bluecapapps/downctl-laravel@v1.1.1
