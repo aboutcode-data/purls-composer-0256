@@ -40,6 +40,7 @@
 - pkg:composer/apideck-libraries/sdk-php@v0.18.10
 - pkg:composer/apideck-libraries/sdk-php@v0.18.11
 - pkg:composer/apideck-libraries/sdk-php@v0.18.12
+- pkg:composer/apideck-libraries/sdk-php@v0.18.13
 - pkg:composer/apideck-libraries/sdk-php@v0.18.2
 - pkg:composer/apideck-libraries/sdk-php@v0.18.3
 - pkg:composer/apideck-libraries/sdk-php@v0.18.4
