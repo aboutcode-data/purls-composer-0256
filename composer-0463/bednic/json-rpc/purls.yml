@@ -17,3 +17,4 @@
 - pkg:composer/bednic/json-rpc@3.2.1
 - pkg:composer/bednic/json-rpc@3.3.0
 - pkg:composer/bednic/json-rpc@3.4.0
+- pkg:composer/bednic/json-rpc@3.5.0
