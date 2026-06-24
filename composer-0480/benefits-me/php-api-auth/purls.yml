@@ -5,3 +5,5 @@
 - pkg:composer/benefits-me/php-api-auth@v0.0.5
 - pkg:composer/benefits-me/php-api-auth@v0.0.6
 - pkg:composer/benefits-me/php-api-auth@v0.1.0
+- pkg:composer/benefits-me/php-api-auth@v0.2.0
+- pkg:composer/benefits-me/php-api-auth@v1.0.0
