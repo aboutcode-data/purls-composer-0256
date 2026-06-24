@@ -354,6 +354,7 @@
 - pkg:composer/wp-media/wp-rocket@v3.22-beta1
 - pkg:composer/wp-media/wp-rocket@v3.22-beta2
 - pkg:composer/wp-media/wp-rocket@v3.22.0.1
+- pkg:composer/wp-media/wp-rocket@v3.22.0.2
 - pkg:composer/wp-media/wp-rocket@v3.22.0.2-alpha
 - pkg:composer/wp-media/wp-rocket@v3.22.0.2-beta
 - pkg:composer/wp-media/wp-rocket@v3.3
