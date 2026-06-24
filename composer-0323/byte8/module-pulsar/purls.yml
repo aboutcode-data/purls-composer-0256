@@ -1,5 +1,7 @@
 - pkg:composer/byte8/module-pulsar@1.10.0
 - pkg:composer/byte8/module-pulsar@1.10.1
+- pkg:composer/byte8/module-pulsar@1.11.0
+- pkg:composer/byte8/module-pulsar@1.12.0
 - pkg:composer/byte8/module-pulsar@1.8.0
 - pkg:composer/byte8/module-pulsar@v1.4.0
 - pkg:composer/byte8/module-pulsar@v1.4.1
