@@ -4,3 +4,5 @@
 - pkg:composer/be-interactive/laravel-translation-scanner@v1.0.3
 - pkg:composer/be-interactive/laravel-translation-scanner@v1.1.0
 - pkg:composer/be-interactive/laravel-translation-scanner@v1.1.1
+- pkg:composer/be-interactive/laravel-translation-scanner@v5.0.0-alpha-1
+- pkg:composer/be-interactive/laravel-translation-scanner@v5.0.0-alpha-2
