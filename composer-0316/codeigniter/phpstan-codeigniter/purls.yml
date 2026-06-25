@@ -26,3 +26,7 @@
 - pkg:composer/codeigniter/phpstan-codeigniter@v1.5.2
 - pkg:composer/codeigniter/phpstan-codeigniter@v1.5.3
 - pkg:composer/codeigniter/phpstan-codeigniter@v1.5.4
+- pkg:composer/codeigniter/phpstan-codeigniter@v1.6.0
+- pkg:composer/codeigniter/phpstan-codeigniter@v2.0.0
+- pkg:composer/codeigniter/phpstan-codeigniter@v2.0.1
+- pkg:composer/codeigniter/phpstan-codeigniter@v2.1.0
