@@ -17,3 +17,5 @@
 - pkg:composer/cpsit/admiral-cloud-connector@3.0.6
 - pkg:composer/cpsit/admiral-cloud-connector@4.0.0
 - pkg:composer/cpsit/admiral-cloud-connector@4.0.1
+- pkg:composer/cpsit/admiral-cloud-connector@4.0.2
+- pkg:composer/cpsit/admiral-cloud-connector@4.1.0
