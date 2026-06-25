@@ -37,3 +37,4 @@
 - pkg:composer/afragen/git-updater-bitbucket@2.5.1
 - pkg:composer/afragen/git-updater-bitbucket@2.5.2
 - pkg:composer/afragen/git-updater-bitbucket@2.6.0
+- pkg:composer/afragen/git-updater-bitbucket@2.7.0
