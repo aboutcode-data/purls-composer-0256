@@ -1,1 +1,3 @@
+- pkg:composer/alifaraun/wallet@v1.0
 - pkg:composer/alifaraun/wallet@v1.0-beta
+- pkg:composer/alifaraun/wallet@v2.0
