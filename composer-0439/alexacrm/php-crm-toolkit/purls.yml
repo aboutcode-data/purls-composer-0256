@@ -25,6 +25,7 @@
 - pkg:composer/alexacrm/php-crm-toolkit@20221204
 - pkg:composer/alexacrm/php-crm-toolkit@20230730
 - pkg:composer/alexacrm/php-crm-toolkit@20241114
+- pkg:composer/alexacrm/php-crm-toolkit@20260625
 - pkg:composer/alexacrm/php-crm-toolkit@v1.1.1
 - pkg:composer/alexacrm/php-crm-toolkit@v1.1.2
 - pkg:composer/alexacrm/php-crm-toolkit@v1.2
