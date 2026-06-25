@@ -57,6 +57,7 @@
 - pkg:composer/alexitdev91/laravel-telegram-bot@v2.12.3
 - pkg:composer/alexitdev91/laravel-telegram-bot@v2.12.4
 - pkg:composer/alexitdev91/laravel-telegram-bot@v2.12.5
+- pkg:composer/alexitdev91/laravel-telegram-bot@v2.13.0
 - pkg:composer/alexitdev91/laravel-telegram-bot@v2.2.0
 - pkg:composer/alexitdev91/laravel-telegram-bot@v2.3.0
 - pkg:composer/alexitdev91/laravel-telegram-bot@v2.4.0
