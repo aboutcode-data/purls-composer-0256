@@ -63,6 +63,7 @@
 - pkg:composer/dcodegroup/activity-log@2.0.33
 - pkg:composer/dcodegroup/activity-log@2.0.34
 - pkg:composer/dcodegroup/activity-log@2.0.35
+- pkg:composer/dcodegroup/activity-log@2.0.36
 - pkg:composer/dcodegroup/activity-log@2.0.4
 - pkg:composer/dcodegroup/activity-log@2.0.5
 - pkg:composer/dcodegroup/activity-log@2.0.6
@@ -70,3 +71,4 @@
 - pkg:composer/dcodegroup/activity-log@2.0.8
 - pkg:composer/dcodegroup/activity-log@2.0.9
 - pkg:composer/dcodegroup/activity-log@3.0.0
+- pkg:composer/dcodegroup/activity-log@3.0.1
