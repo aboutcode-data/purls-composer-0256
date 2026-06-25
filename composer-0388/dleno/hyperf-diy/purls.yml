@@ -1,2 +1,5 @@
 - pkg:composer/dleno/hyperf-diy@v2.2.11
-- pkg:composer/dleno/hyperf-diy@v3.1.03
+- pkg:composer/dleno/hyperf-diy@v3.1.08
+- pkg:composer/dleno/hyperf-diy@v3.1.09
+- pkg:composer/dleno/hyperf-diy@v3.1.10
+- pkg:composer/dleno/hyperf-diy@v3.1.11
