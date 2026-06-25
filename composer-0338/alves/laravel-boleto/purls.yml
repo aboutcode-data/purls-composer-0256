@@ -1,2 +1,4 @@
 - pkg:composer/alves/laravel-boleto@v1.0.0
 - pkg:composer/alves/laravel-boleto@v2.0.0
+- pkg:composer/alves/laravel-boleto@v2.1.0
+- pkg:composer/alves/laravel-boleto@v3.0.0
