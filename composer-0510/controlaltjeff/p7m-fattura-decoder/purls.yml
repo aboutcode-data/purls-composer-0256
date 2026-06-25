@@ -1,1 +1,4 @@
 - pkg:composer/controlaltjeff/p7m-fattura-decoder@v1.0.0
+- pkg:composer/controlaltjeff/p7m-fattura-decoder@v1.0.1
+- pkg:composer/controlaltjeff/p7m-fattura-decoder@v1.0.2
+- pkg:composer/controlaltjeff/p7m-fattura-decoder@v1.0.3
