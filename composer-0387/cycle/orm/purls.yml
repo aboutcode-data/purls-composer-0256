@@ -95,6 +95,7 @@
 - pkg:composer/cycle/orm@v2.16.1
 - pkg:composer/cycle/orm@v2.16.2
 - pkg:composer/cycle/orm@v2.17.0
+- pkg:composer/cycle/orm@v2.18.0
 - pkg:composer/cycle/orm@v2.2.0
 - pkg:composer/cycle/orm@v2.2.1
 - pkg:composer/cycle/orm@v2.2.2
