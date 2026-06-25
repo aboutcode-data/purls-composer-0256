@@ -1,2 +1,5 @@
 - pkg:composer/chenwei/ccxt-php@v4.5.24
 - pkg:composer/chenwei/ccxt-php@v4.5.50
+- pkg:composer/chenwei/ccxt-php@v4.5.59
+- pkg:composer/chenwei/ccxt-php@v4.5.60
+- pkg:composer/chenwei/ccxt-php@v4.5.61
