@@ -155,8 +155,12 @@
 - pkg:composer/demos-europe/demosplan-core@v4.40.1
 - pkg:composer/demos-europe/demosplan-core@v4.42.0
 - pkg:composer/demos-europe/demosplan-core@v4.43.0
+- pkg:composer/demos-europe/demosplan-core@v4.43.1
 - pkg:composer/demos-europe/demosplan-core@v4.44.0
 - pkg:composer/demos-europe/demosplan-core@v4.44.1
+- pkg:composer/demos-europe/demosplan-core@v4.45.0
+- pkg:composer/demos-europe/demosplan-core@v4.46.0
+- pkg:composer/demos-europe/demosplan-core@v4.47.0
 - pkg:composer/demos-europe/demosplan-core@v4.5.0
 - pkg:composer/demos-europe/demosplan-core@v4.6.0
 - pkg:composer/demos-europe/demosplan-core@v4.6.3
