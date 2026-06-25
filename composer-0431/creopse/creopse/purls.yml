@@ -4,6 +4,7 @@
 - pkg:composer/creopse/creopse@v0.0.101
 - pkg:composer/creopse/creopse@v0.0.102
 - pkg:composer/creopse/creopse@v0.0.103
+- pkg:composer/creopse/creopse@v0.0.104
 - pkg:composer/creopse/creopse@v0.0.11
 - pkg:composer/creopse/creopse@v0.0.12
 - pkg:composer/creopse/creopse@v0.0.13
@@ -92,3 +93,7 @@
 - pkg:composer/creopse/creopse@v0.0.96
 - pkg:composer/creopse/creopse@v0.0.98
 - pkg:composer/creopse/creopse@v0.0.99
+- pkg:composer/creopse/creopse@v0.1.0
+- pkg:composer/creopse/creopse@v0.1.1
+- pkg:composer/creopse/creopse@v0.1.2
+- pkg:composer/creopse/creopse@v0.1.3
