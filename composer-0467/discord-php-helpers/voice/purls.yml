@@ -1,8 +1,5 @@
 - pkg:composer/discord-php-helpers/voice@v8.0.0
 - pkg:composer/discord-php-helpers/voice@v8.0.0-RC.1
-- pkg:composer/discord-php-helpers/voice@v8.0.0-beta1
 - pkg:composer/discord-php-helpers/voice@v8.0.1
-- pkg:composer/discord-php-helpers/voice@v8.0.2
-- pkg:composer/discord-php-helpers/voice@v8.0.3
-- pkg:composer/discord-php-helpers/voice@v8.0.4
-- pkg:composer/discord-php-helpers/voice@v8.0.5
+- pkg:composer/discord-php-helpers/voice@v8.1.0
+- pkg:composer/discord-php-helpers/voice@v8.1.1
