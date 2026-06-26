@@ -3,3 +3,4 @@
 - pkg:composer/conductor/drupal-platform-support@0.9.2
 - pkg:composer/conductor/drupal-platform-support@0.9.3
 - pkg:composer/conductor/drupal-platform-support@1.0.0
+- pkg:composer/conductor/drupal-platform-support@1.0.1
