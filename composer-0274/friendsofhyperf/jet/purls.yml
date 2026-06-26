@@ -37,6 +37,7 @@
 - pkg:composer/friendsofhyperf/jet@v2.6.3
 - pkg:composer/friendsofhyperf/jet@v2.7.0
 - pkg:composer/friendsofhyperf/jet@v2.8.0
+- pkg:composer/friendsofhyperf/jet@v2.9.0
 - pkg:composer/friendsofhyperf/jet@v3.0.3
 - pkg:composer/friendsofhyperf/jet@v3.1.0
 - pkg:composer/friendsofhyperf/jet@v3.1.1
@@ -55,7 +56,9 @@
 - pkg:composer/friendsofhyperf/jet@v3.6.0
 - pkg:composer/friendsofhyperf/jet@v3.7.0
 - pkg:composer/friendsofhyperf/jet@v3.8.0
+- pkg:composer/friendsofhyperf/jet@v3.9.0
 - pkg:composer/friendsofhyperf/jet@v4.0.0
 - pkg:composer/friendsofhyperf/jet@v4.1.0
 - pkg:composer/friendsofhyperf/jet@v4.2.0
 - pkg:composer/friendsofhyperf/jet@v4.3.0
+- pkg:composer/friendsofhyperf/jet@v4.4.0
