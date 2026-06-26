@@ -1,3 +1,4 @@
+- pkg:composer/folk/sdk@0.3.1
 - pkg:composer/folk/sdk@v0.1.0
 - pkg:composer/folk/sdk@v0.1.1
 - pkg:composer/folk/sdk@v0.1.2
@@ -8,3 +9,8 @@
 - pkg:composer/folk/sdk@v0.2.4
 - pkg:composer/folk/sdk@v0.2.5
 - pkg:composer/folk/sdk@v0.2.6
+- pkg:composer/folk/sdk@v0.2.7
+- pkg:composer/folk/sdk@v0.3.0
+- pkg:composer/folk/sdk@v0.3.2
+- pkg:composer/folk/sdk@v0.3.3
+- pkg:composer/folk/sdk@v0.3.4
