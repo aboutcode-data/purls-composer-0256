@@ -22,6 +22,9 @@
 - pkg:composer/efipay/sdk-php-apis-efi@1.15.2
 - pkg:composer/efipay/sdk-php-apis-efi@1.16.0
 - pkg:composer/efipay/sdk-php-apis-efi@1.17.0
+- pkg:composer/efipay/sdk-php-apis-efi@1.17.1
+- pkg:composer/efipay/sdk-php-apis-efi@1.17.2
+- pkg:composer/efipay/sdk-php-apis-efi@1.18.0
 - pkg:composer/efipay/sdk-php-apis-efi@1.2.0
 - pkg:composer/efipay/sdk-php-apis-efi@1.2.1
 - pkg:composer/efipay/sdk-php-apis-efi@1.2.2
