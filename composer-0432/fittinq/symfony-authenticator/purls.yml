@@ -8,6 +8,7 @@
 - pkg:composer/fittinq/symfony-authenticator@11.1.1
 - pkg:composer/fittinq/symfony-authenticator@12.0.0
 - pkg:composer/fittinq/symfony-authenticator@13.0.0
+- pkg:composer/fittinq/symfony-authenticator@13.1.0
 - pkg:composer/fittinq/symfony-authenticator@2.0.0
 - pkg:composer/fittinq/symfony-authenticator@2.0.1
 - pkg:composer/fittinq/symfony-authenticator@2.0.2

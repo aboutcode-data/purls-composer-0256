@@ -17,3 +17,4 @@
 - pkg:composer/fittinq-pimcore/pimcore-localization@4.0.1
 - pkg:composer/fittinq-pimcore/pimcore-localization@4.0.2
 - pkg:composer/fittinq-pimcore/pimcore-localization@4.1.0
+- pkg:composer/fittinq-pimcore/pimcore-localization@5.0.0

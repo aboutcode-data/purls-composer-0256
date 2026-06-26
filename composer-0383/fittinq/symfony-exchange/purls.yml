@@ -28,3 +28,4 @@
 - pkg:composer/fittinq/symfony-exchange@4.1.0
 - pkg:composer/fittinq/symfony-exchange@4.2.0
 - pkg:composer/fittinq/symfony-exchange@5.0.0
+- pkg:composer/fittinq/symfony-exchange@6.0.0

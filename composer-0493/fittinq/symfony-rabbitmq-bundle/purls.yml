@@ -28,6 +28,7 @@
 - pkg:composer/fittinq/symfony-rabbitmq-bundle@18.0.0
 - pkg:composer/fittinq/symfony-rabbitmq-bundle@18.0.1
 - pkg:composer/fittinq/symfony-rabbitmq-bundle@18.0.2
+- pkg:composer/fittinq/symfony-rabbitmq-bundle@19.0.0
 - pkg:composer/fittinq/symfony-rabbitmq-bundle@2.0.0
 - pkg:composer/fittinq/symfony-rabbitmq-bundle@2.0.1
 - pkg:composer/fittinq/symfony-rabbitmq-bundle@3.0.0
