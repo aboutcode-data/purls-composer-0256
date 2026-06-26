@@ -1,1 +1,3 @@
-- pkg:composer/contabo/contabo-sdk@0.0.1
+- pkg:composer/contabo/contabo-sdk@v0.0.2
+- pkg:composer/contabo/contabo-sdk@v0.0.3
+- pkg:composer/contabo/contabo-sdk@v0.0.4
