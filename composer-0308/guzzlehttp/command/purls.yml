@@ -19,3 +19,4 @@
 - pkg:composer/guzzlehttp/command@1.3.2
 - pkg:composer/guzzlehttp/command@1.4.0
 - pkg:composer/guzzlehttp/command@1.5.0
+- pkg:composer/guzzlehttp/command@1.5.1
