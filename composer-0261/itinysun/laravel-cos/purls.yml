@@ -1,3 +1,6 @@
+- pkg:composer/itinysun/laravel-cos@0.0.10
+- pkg:composer/itinysun/laravel-cos@0.0.8
+- pkg:composer/itinysun/laravel-cos@0.0.9
 - pkg:composer/itinysun/laravel-cos@v0.0.2
 - pkg:composer/itinysun/laravel-cos@v0.0.3
 - pkg:composer/itinysun/laravel-cos@v0.0.4
