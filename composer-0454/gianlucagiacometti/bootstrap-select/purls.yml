@@ -1,1 +1,6 @@
 - pkg:composer/gianlucagiacometti/bootstrap-select@1.5.2
+- pkg:composer/gianlucagiacometti/bootstrap-select@v1.5.3
+- pkg:composer/gianlucagiacometti/bootstrap-select@v5.3.1
+- pkg:composer/gianlucagiacometti/bootstrap-select@v5.3.2
+- pkg:composer/gianlucagiacometti/bootstrap-select@v5.3.3
+- pkg:composer/gianlucagiacometti/bootstrap-select@v5.3.4
