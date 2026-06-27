@@ -28,3 +28,5 @@
 - pkg:composer/inspiredminds/contao-file-usage@3.2.5
 - pkg:composer/inspiredminds/contao-file-usage@3.2.6
 - pkg:composer/inspiredminds/contao-file-usage@3.2.7
+- pkg:composer/inspiredminds/contao-file-usage@3.2.8
+- pkg:composer/inspiredminds/contao-file-usage@4.0.0
