@@ -1,6 +1,8 @@
 - pkg:composer/imv/gateway@v0.1
 - pkg:composer/imv/gateway@v0.10
 - pkg:composer/imv/gateway@v0.11
+- pkg:composer/imv/gateway@v0.12
+- pkg:composer/imv/gateway@v0.13
 - pkg:composer/imv/gateway@v0.2
 - pkg:composer/imv/gateway@v0.3
 - pkg:composer/imv/gateway@v0.4
