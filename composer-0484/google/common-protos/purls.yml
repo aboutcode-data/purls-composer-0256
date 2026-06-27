@@ -18,6 +18,7 @@
 - pkg:composer/google/common-protos@4.12.5
 - pkg:composer/google/common-protos@4.13.0
 - pkg:composer/google/common-protos@4.14.0
+- pkg:composer/google/common-protos@4.14.1
 - pkg:composer/google/common-protos@4.8.2
 - pkg:composer/google/common-protos@4.8.3
 - pkg:composer/google/common-protos@4.9.0
