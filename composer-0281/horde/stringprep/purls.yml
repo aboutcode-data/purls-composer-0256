@@ -4,6 +4,7 @@
 - pkg:composer/horde/stringprep@v1.1.0
 - pkg:composer/horde/stringprep@v1.2.0
 - pkg:composer/horde/stringprep@v1.2.1
+- pkg:composer/horde/stringprep@v2.0.0
 - pkg:composer/horde/stringprep@v2.0.0alpha3
 - pkg:composer/horde/stringprep@v2.0.0alpha4
 - pkg:composer/horde/stringprep@v2.0.0beta1
