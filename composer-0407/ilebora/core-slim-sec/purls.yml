@@ -95,3 +95,8 @@
 - pkg:composer/ilebora/core-slim-sec@v1.4.9
 - pkg:composer/ilebora/core-slim-sec@v1.5.12
 - pkg:composer/ilebora/core-slim-sec@v1.5.13
+- pkg:composer/ilebora/core-slim-sec@v1.5.14
+- pkg:composer/ilebora/core-slim-sec@v1.5.15
+- pkg:composer/ilebora/core-slim-sec@v1.5.16
+- pkg:composer/ilebora/core-slim-sec@v1.5.18
+- pkg:composer/ilebora/core-slim-sec@v1.5.19
