@@ -2,3 +2,4 @@
 - pkg:composer/initphp/router@1.2
 - pkg:composer/initphp/router@1.2.1
 - pkg:composer/initphp/router@2.0.0
+- pkg:composer/initphp/router@2.1.0
