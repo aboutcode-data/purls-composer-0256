@@ -92,3 +92,7 @@
 - pkg:composer/finller/laravel-invoices@v4.8.0
 - pkg:composer/finller/laravel-invoices@v5.0.0
 - pkg:composer/finller/laravel-invoices@v5.1.0
+- pkg:composer/finller/laravel-invoices@v5.1.1
+- pkg:composer/finller/laravel-invoices@v5.1.2
+- pkg:composer/finller/laravel-invoices@v5.1.3
+- pkg:composer/finller/laravel-invoices@v5.1.4
