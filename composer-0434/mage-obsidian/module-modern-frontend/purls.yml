@@ -1,7 +1,7 @@
-- pkg:composer/mage-obsidian/module-modern-frontend@1.0.0-alpha
-- pkg:composer/mage-obsidian/module-modern-frontend@1.0.1-alpha
-- pkg:composer/mage-obsidian/module-modern-frontend@1.0.2-alpha
-- pkg:composer/mage-obsidian/module-modern-frontend@1.0.3-alpha
-- pkg:composer/mage-obsidian/module-modern-frontend@1.0.4-alpha
-- pkg:composer/mage-obsidian/module-modern-frontend@1.0.5-alpha
-- pkg:composer/mage-obsidian/module-modern-frontend@1.0.6-alpha
+- pkg:composer/mage-obsidian/module-modern-frontend@2.0.0
+- pkg:composer/mage-obsidian/module-modern-frontend@2.0.1
+- pkg:composer/mage-obsidian/module-modern-frontend@2.1.0
+- pkg:composer/mage-obsidian/module-modern-frontend@2.2.0
+- pkg:composer/mage-obsidian/module-modern-frontend@2.2.1
+- pkg:composer/mage-obsidian/module-modern-frontend@2.3.0
+- pkg:composer/mage-obsidian/module-modern-frontend@2.4.0
