@@ -10,3 +10,4 @@
 - pkg:composer/kolay/xlsx-stream@v3.0-rc.1
 - pkg:composer/kolay/xlsx-stream@v3.0.0
 - pkg:composer/kolay/xlsx-stream@v3.0.1
+- pkg:composer/kolay/xlsx-stream@v3.0.2
