@@ -22,3 +22,5 @@
 - pkg:composer/jetrails/magento2-cloudflare@1.4.1
 - pkg:composer/jetrails/magento2-cloudflare@1.4.2
 - pkg:composer/jetrails/magento2-cloudflare@1.4.3
+- pkg:composer/jetrails/magento2-cloudflare@1.4.4
+- pkg:composer/jetrails/magento2-cloudflare@1.4.5
