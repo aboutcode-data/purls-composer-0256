@@ -5,3 +5,5 @@
 - pkg:composer/kor-elf/translate-laravel@1.2.1
 - pkg:composer/kor-elf/translate-laravel@1.2.2
 - pkg:composer/kor-elf/translate-laravel@1.3.0
+- pkg:composer/kor-elf/translate-laravel@1.4.0
+- pkg:composer/kor-elf/translate-laravel@2.0.0
