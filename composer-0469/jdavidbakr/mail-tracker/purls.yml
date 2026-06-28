@@ -104,3 +104,5 @@
 - pkg:composer/jdavidbakr/mail-tracker@7.9
 - pkg:composer/jdavidbakr/mail-tracker@8.0
 - pkg:composer/jdavidbakr/mail-tracker@8.1
+- pkg:composer/jdavidbakr/mail-tracker@8.2
+- pkg:composer/jdavidbakr/mail-tracker@8.3
