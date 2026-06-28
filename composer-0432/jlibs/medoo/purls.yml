@@ -31,3 +31,4 @@
 - pkg:composer/jlibs/medoo@v2.1.10-p1
 - pkg:composer/jlibs/medoo@v2.1.10-p2
 - pkg:composer/jlibs/medoo@v2.2.0
+- pkg:composer/jlibs/medoo@v2.2.0-p1
