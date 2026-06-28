@@ -10,6 +10,7 @@
 - pkg:composer/keboola/php-component@10.1.5
 - pkg:composer/keboola/php-component@10.1.6
 - pkg:composer/keboola/php-component@11.0.0
+- pkg:composer/keboola/php-component@11.0.1
 - pkg:composer/keboola/php-component@2.0.0
 - pkg:composer/keboola/php-component@2.1.0
 - pkg:composer/keboola/php-component@3.0.0
