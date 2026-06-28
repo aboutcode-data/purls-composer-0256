@@ -30,6 +30,10 @@
 - pkg:composer/lindemannrock/craft-logging-library@5.1.2
 - pkg:composer/lindemannrock/craft-logging-library@5.10.0
 - pkg:composer/lindemannrock/craft-logging-library@5.10.1
+- pkg:composer/lindemannrock/craft-logging-library@5.11.0
+- pkg:composer/lindemannrock/craft-logging-library@5.12.0
+- pkg:composer/lindemannrock/craft-logging-library@5.13.0
+- pkg:composer/lindemannrock/craft-logging-library@5.13.1
 - pkg:composer/lindemannrock/craft-logging-library@5.2.0
 - pkg:composer/lindemannrock/craft-logging-library@5.2.1
 - pkg:composer/lindemannrock/craft-logging-library@5.2.2
