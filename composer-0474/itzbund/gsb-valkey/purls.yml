@@ -113,3 +113,4 @@
 - pkg:composer/itzbund/gsb-valkey@v2.5.5-rc.1
 - pkg:composer/itzbund/gsb-valkey@v2.5.6
 - pkg:composer/itzbund/gsb-valkey@v2.5.6-rc.1
+- pkg:composer/itzbund/gsb-valkey@v2.5.7-beta.1
