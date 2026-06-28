@@ -6,6 +6,7 @@
 - pkg:composer/lob/lob-php@4.2.6
 - pkg:composer/lob/lob-php@4.2.7
 - pkg:composer/lob/lob-php@4.2.8
+- pkg:composer/lob/lob-php@4.3.0
 - pkg:composer/lob/lob-php@V1.1.0
 - pkg:composer/lob/lob-php@V1.1.1
 - pkg:composer/lob/lob-php@V1.1.2
