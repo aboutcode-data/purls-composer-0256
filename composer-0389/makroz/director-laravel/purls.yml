@@ -31,3 +31,7 @@
 - pkg:composer/makroz/director-laravel@v1.6.0-rc7
 - pkg:composer/makroz/director-laravel@v1.6.0-rc8
 - pkg:composer/makroz/director-laravel@v1.6.0-rc9
+- pkg:composer/makroz/director-laravel@v1.6.2
+- pkg:composer/makroz/director-laravel@v1.7.0
+- pkg:composer/makroz/director-laravel@v1.7.1-rc1
+- pkg:composer/makroz/director-laravel@v1.8.0
