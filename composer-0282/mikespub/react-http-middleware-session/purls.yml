@@ -7,3 +7,4 @@
 - pkg:composer/mikespub/react-http-middleware-session@4.0.0
 - pkg:composer/mikespub/react-http-middleware-session@4.1.0
 - pkg:composer/mikespub/react-http-middleware-session@5.0.0
+- pkg:composer/mikespub/react-http-middleware-session@5.0.1
