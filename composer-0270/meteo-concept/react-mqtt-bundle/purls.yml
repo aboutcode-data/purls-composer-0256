@@ -1,3 +1,5 @@
 - pkg:composer/meteo-concept/react-mqtt-bundle@v0.1
 - pkg:composer/meteo-concept/react-mqtt-bundle@v1.0.0
 - pkg:composer/meteo-concept/react-mqtt-bundle@v1.0.1
+- pkg:composer/meteo-concept/react-mqtt-bundle@v1.1.0
+- pkg:composer/meteo-concept/react-mqtt-bundle@v1.1.1
