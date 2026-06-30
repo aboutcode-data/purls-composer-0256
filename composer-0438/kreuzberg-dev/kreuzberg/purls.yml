@@ -96,6 +96,7 @@
 - pkg:composer/kreuzberg-dev/kreuzberg@4.9.8
 - pkg:composer/kreuzberg-dev/kreuzberg@4.9.9
 - pkg:composer/kreuzberg-dev/kreuzberg@v1.0.0-rc.1
+- pkg:composer/kreuzberg-dev/kreuzberg@v1.0.0-rc.2
 - pkg:composer/kreuzberg-dev/kreuzberg@v5.0.0-rc.1
 - pkg:composer/kreuzberg-dev/kreuzberg@v5.0.0-rc.10
 - pkg:composer/kreuzberg-dev/kreuzberg@v5.0.0-rc.11
