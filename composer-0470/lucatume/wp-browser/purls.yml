@@ -414,3 +414,5 @@
 - pkg:composer/lucatume/wp-browser@4.5.9
 - pkg:composer/lucatume/wp-browser@4.6.0
 - pkg:composer/lucatume/wp-browser@4.6.1
+- pkg:composer/lucatume/wp-browser@4.7.0
+- pkg:composer/lucatume/wp-browser@4.7.1
