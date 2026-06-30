@@ -1,3 +1,4 @@
+- pkg:composer/modularize-rbac/laravel@3.0.0
 - pkg:composer/modularize-rbac/laravel@v1.0.0
 - pkg:composer/modularize-rbac/laravel@v2.0.0
 - pkg:composer/modularize-rbac/laravel@v2.0.1
