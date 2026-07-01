@@ -1,2 +1,5 @@
 - pkg:composer/phpdot/storage@v1.0.0
 - pkg:composer/phpdot/storage@v1.1.0
+- pkg:composer/phpdot/storage@v1.1.1
+- pkg:composer/phpdot/storage@v1.1.2
+- pkg:composer/phpdot/storage@v1.1.3

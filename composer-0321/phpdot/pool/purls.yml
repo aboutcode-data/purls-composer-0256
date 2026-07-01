@@ -1,2 +1,5 @@
 - pkg:composer/phpdot/pool@v0.0.1
 - pkg:composer/phpdot/pool@v1.0.0
+- pkg:composer/phpdot/pool@v1.0.1
+- pkg:composer/phpdot/pool@v1.0.2
+- pkg:composer/phpdot/pool@v1.0.3
