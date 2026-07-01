@@ -106,3 +106,5 @@
 - pkg:composer/phalcon-kit/core@3.5.0
 - pkg:composer/phalcon-kit/core@3.5.1
 - pkg:composer/phalcon-kit/core@3.5.2
+- pkg:composer/phalcon-kit/core@3.7.0
+- pkg:composer/phalcon-kit/core@3.7.1

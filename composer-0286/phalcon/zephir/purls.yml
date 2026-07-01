@@ -113,4 +113,5 @@
 - pkg:composer/phalcon/zephir@0.9.7
 - pkg:composer/phalcon/zephir@0.9.8
 - pkg:composer/phalcon/zephir@0.9.9
+- pkg:composer/phalcon/zephir@1.0.0
 - pkg:composer/phalcon/zephir@v0.2.0
