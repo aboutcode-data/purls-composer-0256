@@ -376,6 +376,8 @@
 - pkg:composer/plutonium/pocketmine-mp@5.115.9
 - pkg:composer/plutonium/pocketmine-mp@5.116.0
 - pkg:composer/plutonium/pocketmine-mp@5.116.1
+- pkg:composer/plutonium/pocketmine-mp@5.116.10
+- pkg:composer/plutonium/pocketmine-mp@5.116.11
 - pkg:composer/plutonium/pocketmine-mp@5.116.2
 - pkg:composer/plutonium/pocketmine-mp@5.116.3
 - pkg:composer/plutonium/pocketmine-mp@5.116.4
@@ -383,6 +385,7 @@
 - pkg:composer/plutonium/pocketmine-mp@5.116.6
 - pkg:composer/plutonium/pocketmine-mp@5.116.7
 - pkg:composer/plutonium/pocketmine-mp@5.116.8
+- pkg:composer/plutonium/pocketmine-mp@5.116.9
 - pkg:composer/plutonium/pocketmine-mp@5.12.0
 - pkg:composer/plutonium/pocketmine-mp@5.12.1
 - pkg:composer/plutonium/pocketmine-mp@5.13.0
