@@ -110,6 +110,7 @@
 - pkg:composer/pop-api/api@17.1.2
 - pkg:composer/pop-api/api@18.0.0
 - pkg:composer/pop-api/api@18.0.1
+- pkg:composer/pop-api/api@19.0.0
 - pkg:composer/pop-api/api@2.0.0
 - pkg:composer/pop-api/api@2.0.1
 - pkg:composer/pop-api/api@2.1.0
