@@ -5,3 +5,4 @@
 - pkg:composer/pippa/notification-sdk-curl@v1.0.6
 - pkg:composer/pippa/notification-sdk-curl@v1.0.7
 - pkg:composer/pippa/notification-sdk-curl@v1.0.8
+- pkg:composer/pippa/notification-sdk-curl@v1.0.9
