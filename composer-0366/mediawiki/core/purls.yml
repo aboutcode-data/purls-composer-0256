@@ -222,4 +222,5 @@
 - pkg:composer/mediawiki/core@1.45.2
 - pkg:composer/mediawiki/core@1.45.3
 - pkg:composer/mediawiki/core@1.45.4
+- pkg:composer/mediawiki/core@1.46.0
 - pkg:composer/mediawiki/core@1.46.0-rc.0
