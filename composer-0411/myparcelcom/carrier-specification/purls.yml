@@ -116,6 +116,7 @@
 - pkg:composer/myparcelcom/carrier-specification@v2.4.3
 - pkg:composer/myparcelcom/carrier-specification@v2.5.0
 - pkg:composer/myparcelcom/carrier-specification@v2.5.1
+- pkg:composer/myparcelcom/carrier-specification@v2.5.10
 - pkg:composer/myparcelcom/carrier-specification@v2.5.2
 - pkg:composer/myparcelcom/carrier-specification@v2.5.3
 - pkg:composer/myparcelcom/carrier-specification@v2.5.4
