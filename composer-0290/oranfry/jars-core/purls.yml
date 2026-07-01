@@ -69,6 +69,7 @@
 - pkg:composer/oranfry/jars-core@6.0.0
 - pkg:composer/oranfry/jars-core@6.0.1
 - pkg:composer/oranfry/jars-core@7.0.0
+- pkg:composer/oranfry/jars-core@7.2.0
 - pkg:composer/oranfry/jars-core@8.0.0
 - pkg:composer/oranfry/jars-core@8.1.0
 - pkg:composer/oranfry/jars-core@8.1.1
