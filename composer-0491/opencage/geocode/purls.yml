@@ -14,3 +14,4 @@
 - pkg:composer/opencage/geocode@v3.3.4
 - pkg:composer/opencage/geocode@v3.4.0
 - pkg:composer/opencage/geocode@v4.0.0
+- pkg:composer/opencage/geocode@v4.0.1
