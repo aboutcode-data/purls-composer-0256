@@ -2,6 +2,7 @@
 - pkg:composer/mmtech/iam-rbac@v1.1
 - pkg:composer/mmtech/iam-rbac@v1.10
 - pkg:composer/mmtech/iam-rbac@v1.11
+- pkg:composer/mmtech/iam-rbac@v1.12
 - pkg:composer/mmtech/iam-rbac@v1.2
 - pkg:composer/mmtech/iam-rbac@v1.3
 - pkg:composer/mmtech/iam-rbac@v1.4
