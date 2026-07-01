@@ -12,6 +12,9 @@
 - pkg:composer/orkan/utils@13.0.0
 - pkg:composer/orkan/utils@13.1.0
 - pkg:composer/orkan/utils@13.2.0
+- pkg:composer/orkan/utils@13.3.1
+- pkg:composer/orkan/utils@14.0.0
+- pkg:composer/orkan/utils@15.0.0
 - pkg:composer/orkan/utils@2.0.0
 - pkg:composer/orkan/utils@2.3.0
 - pkg:composer/orkan/utils@3.0.0
