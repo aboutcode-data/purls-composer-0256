@@ -1,1 +1,4 @@
+- pkg:composer/ray/web-query@1.0.0
 - pkg:composer/ray/web-query@1.0.0-rc1
+- pkg:composer/ray/web-query@1.0.1
+- pkg:composer/ray/web-query@1.1.0
