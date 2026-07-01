@@ -382,3 +382,5 @@
 - pkg:composer/numbers/framework@4.0.0
 - pkg:composer/numbers/framework@4.0.1
 - pkg:composer/numbers/framework@4.0.2
+- pkg:composer/numbers/framework@4.0.3
+- pkg:composer/numbers/framework@4.0.4
