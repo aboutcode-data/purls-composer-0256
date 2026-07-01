@@ -22,3 +22,4 @@
 - pkg:composer/ploi/ploi-php-sdk@1.9.4
 - pkg:composer/ploi/ploi-php-sdk@1.9.5
 - pkg:composer/ploi/ploi-php-sdk@2.0
+- pkg:composer/ploi/ploi-php-sdk@2.1
