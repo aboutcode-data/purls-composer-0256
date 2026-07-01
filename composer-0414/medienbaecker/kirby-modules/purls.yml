@@ -47,3 +47,6 @@
 - pkg:composer/medienbaecker/kirby-modules@5.2.1
 - pkg:composer/medienbaecker/kirby-modules@5.3.0
 - pkg:composer/medienbaecker/kirby-modules@5.4.0
+- pkg:composer/medienbaecker/kirby-modules@5.5.0
+- pkg:composer/medienbaecker/kirby-modules@5.5.1
+- pkg:composer/medienbaecker/kirby-modules@5.5.2
