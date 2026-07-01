@@ -1,3 +1,6 @@
 - pkg:composer/ppl/ppl-deepl-v3-batch-translation@12.4.0
+- pkg:composer/ppl/ppl-deepl-v3-batch-translation@12.4.1
 - pkg:composer/ppl/ppl-deepl-v3-batch-translation@13.4.0
+- pkg:composer/ppl/ppl-deepl-v3-batch-translation@13.4.1
 - pkg:composer/ppl/ppl-deepl-v3-batch-translation@14.3.0
+- pkg:composer/ppl/ppl-deepl-v3-batch-translation@14.3.1
