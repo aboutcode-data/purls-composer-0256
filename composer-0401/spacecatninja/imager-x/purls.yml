@@ -57,7 +57,9 @@
 - pkg:composer/spacecatninja/imager-x@5.2.0
 - pkg:composer/spacecatninja/imager-x@5.2.1
 - pkg:composer/spacecatninja/imager-x@6.0.0
+- pkg:composer/spacecatninja/imager-x@6.0.1
 - pkg:composer/spacecatninja/imager-x@7.0.0-alpha.1
+- pkg:composer/spacecatninja/imager-x@7.0.0-alpha.2
 - pkg:composer/spacecatninja/imager-x@v3.0.0
 - pkg:composer/spacecatninja/imager-x@v3.0.1
 - pkg:composer/spacecatninja/imager-x@v3.0.10
