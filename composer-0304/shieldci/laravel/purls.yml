@@ -94,3 +94,12 @@
 - pkg:composer/shieldci/laravel@v1.8.4
 - pkg:composer/shieldci/laravel@v1.8.5
 - pkg:composer/shieldci/laravel@v1.8.6
+- pkg:composer/shieldci/laravel@v1.8.7
+- pkg:composer/shieldci/laravel@v1.8.8
+- pkg:composer/shieldci/laravel@v1.9.0
+- pkg:composer/shieldci/laravel@v1.9.1
+- pkg:composer/shieldci/laravel@v1.9.2
+- pkg:composer/shieldci/laravel@v1.9.3
+- pkg:composer/shieldci/laravel@v1.9.4
+- pkg:composer/shieldci/laravel@v1.9.5
+- pkg:composer/shieldci/laravel@v1.9.6
