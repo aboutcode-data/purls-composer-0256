@@ -70,6 +70,7 @@
 - pkg:composer/smarty/smarty@v4.5.4
 - pkg:composer/smarty/smarty@v4.5.5
 - pkg:composer/smarty/smarty@v4.5.6
+- pkg:composer/smarty/smarty@v4.5.7
 - pkg:composer/smarty/smarty@v5.0.0
 - pkg:composer/smarty/smarty@v5.0.0-rc1
 - pkg:composer/smarty/smarty@v5.0.0-rc2
@@ -92,3 +93,7 @@
 - pkg:composer/smarty/smarty@v5.6.0
 - pkg:composer/smarty/smarty@v5.7.0
 - pkg:composer/smarty/smarty@v5.8.0
+- pkg:composer/smarty/smarty@v5.8.1
+- pkg:composer/smarty/smarty@v5.8.2
+- pkg:composer/smarty/smarty@v5.8.3
+- pkg:composer/smarty/smarty@v5.8.4
