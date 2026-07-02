@@ -4,3 +4,6 @@
 - pkg:composer/shiros/luna-web-authentication@v1.3.0
 - pkg:composer/shiros/luna-web-authentication@v1.4.0
 - pkg:composer/shiros/luna-web-authentication@v1.4.1
+- pkg:composer/shiros/luna-web-authentication@v2.0.0
+- pkg:composer/shiros/luna-web-authentication@v2.1.0
+- pkg:composer/shiros/luna-web-authentication@v2.1.1
