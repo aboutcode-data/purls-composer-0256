@@ -2,3 +2,5 @@
 - pkg:composer/rudra/cli@v25.12
 - pkg:composer/rudra/cli@v25.6
 - pkg:composer/rudra/cli@v26.1
+- pkg:composer/rudra/cli@v26.7
+- pkg:composer/rudra/cli@v26.7.1
