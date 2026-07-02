@@ -1,1 +1,2 @@
 - pkg:composer/sockudo/sockudo-php-server@v2.0.0
+- pkg:composer/sockudo/sockudo-php-server@v4.7.0
