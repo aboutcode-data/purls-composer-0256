@@ -16,3 +16,4 @@
 - pkg:composer/power-modules/persistence@v0.3.1
 - pkg:composer/power-modules/persistence@v0.4.1
 - pkg:composer/power-modules/persistence@v0.4.2
+- pkg:composer/power-modules/persistence@v0.4.3
