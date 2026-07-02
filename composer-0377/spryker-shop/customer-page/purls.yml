@@ -180,4 +180,6 @@
 - pkg:composer/spryker-shop/customer-page@2.79.0
 - pkg:composer/spryker-shop/customer-page@2.8.0
 - pkg:composer/spryker-shop/customer-page@2.80.0
+- pkg:composer/spryker-shop/customer-page@2.81.0
+- pkg:composer/spryker-shop/customer-page@2.81.1
 - pkg:composer/spryker-shop/customer-page@2.9.0
