@@ -12,3 +12,7 @@
 - pkg:composer/spiderweb/sylius-sendcloud-plugin@v1.4.1
 - pkg:composer/spiderweb/sylius-sendcloud-plugin@v1.5.2
 - pkg:composer/spiderweb/sylius-sendcloud-plugin@v1.5.3
+- pkg:composer/spiderweb/sylius-sendcloud-plugin@v1.5.4
+- pkg:composer/spiderweb/sylius-sendcloud-plugin@v1.5.5
+- pkg:composer/spiderweb/sylius-sendcloud-plugin@v1.5.6
+- pkg:composer/spiderweb/sylius-sendcloud-plugin@v1.5.7
