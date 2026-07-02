@@ -44,6 +44,17 @@
 - pkg:composer/smartassert/api-client@32.0
 - pkg:composer/smartassert/api-client@33.0
 - pkg:composer/smartassert/api-client@34.0
+- pkg:composer/smartassert/api-client@34.1
+- pkg:composer/smartassert/api-client@34.2
+- pkg:composer/smartassert/api-client@34.3
+- pkg:composer/smartassert/api-client@34.4
+- pkg:composer/smartassert/api-client@34.5
+- pkg:composer/smartassert/api-client@35.0
+- pkg:composer/smartassert/api-client@36.0
+- pkg:composer/smartassert/api-client@37.0
+- pkg:composer/smartassert/api-client@37.1
+- pkg:composer/smartassert/api-client@38.0
+- pkg:composer/smartassert/api-client@38.1
 - pkg:composer/smartassert/api-client@4.0
 - pkg:composer/smartassert/api-client@5.0
 - pkg:composer/smartassert/api-client@5.1
