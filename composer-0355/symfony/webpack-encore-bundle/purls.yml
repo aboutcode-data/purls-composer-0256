@@ -39,3 +39,4 @@
 - pkg:composer/symfony/webpack-encore-bundle@v2.2.0
 - pkg:composer/symfony/webpack-encore-bundle@v2.3.0
 - pkg:composer/symfony/webpack-encore-bundle@v2.4.0
+- pkg:composer/symfony/webpack-encore-bundle@v2.4.1
