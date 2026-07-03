@@ -25,3 +25,4 @@
 - pkg:composer/telkins/laravel-dag-manager@v3.0.0
 - pkg:composer/telkins/laravel-dag-manager@v4.0.0
 - pkg:composer/telkins/laravel-dag-manager@v4.0.1
+- pkg:composer/telkins/laravel-dag-manager@v5.0.0
