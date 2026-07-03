@@ -19,6 +19,8 @@
 - pkg:composer/sulu/headless-bundle@0.9.0
 - pkg:composer/sulu/headless-bundle@1.0.0
 - pkg:composer/sulu/headless-bundle@1.1.0
+- pkg:composer/sulu/headless-bundle@1.1.1
 - pkg:composer/sulu/headless-bundle@3.0.0
 - pkg:composer/sulu/headless-bundle@3.0.0-RC1
 - pkg:composer/sulu/headless-bundle@3.0.0-RC2
+- pkg:composer/sulu/headless-bundle@3.0.1
