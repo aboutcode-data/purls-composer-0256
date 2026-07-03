@@ -20,6 +20,7 @@
 - pkg:composer/toin0u/geocoder-laravel@13.1.1
 - pkg:composer/toin0u/geocoder-laravel@13.2.0
 - pkg:composer/toin0u/geocoder-laravel@13.2.1
+- pkg:composer/toin0u/geocoder-laravel@13.2.2
 - pkg:composer/toin0u/geocoder-laravel@2.0.0-RC1
 - pkg:composer/toin0u/geocoder-laravel@4.0.0
 - pkg:composer/toin0u/geocoder-laravel@4.0.1
