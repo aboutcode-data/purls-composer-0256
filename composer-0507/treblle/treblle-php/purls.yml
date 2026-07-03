@@ -23,3 +23,4 @@
 - pkg:composer/treblle/treblle-php@v5.0.0
 - pkg:composer/treblle/treblle-php@v5.0.1
 - pkg:composer/treblle/treblle-php@v5.0.1-beta.1
+- pkg:composer/treblle/treblle-php@v6.0.0
