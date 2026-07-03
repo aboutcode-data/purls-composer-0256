@@ -32,3 +32,12 @@
 - pkg:composer/tjdft/laravel@2.6.1
 - pkg:composer/tjdft/laravel@2.6.2
 - pkg:composer/tjdft/laravel@2.6.3
+- pkg:composer/tjdft/laravel@2.7.0
+- pkg:composer/tjdft/laravel@2.8
+- pkg:composer/tjdft/laravel@2.9
+- pkg:composer/tjdft/laravel@2.9.1
+- pkg:composer/tjdft/laravel@2.9.2
+- pkg:composer/tjdft/laravel@2.9.3
+- pkg:composer/tjdft/laravel@2.9.4
+- pkg:composer/tjdft/laravel@3.0.0
+- pkg:composer/tjdft/laravel@3.0.1
