@@ -43,3 +43,4 @@
 - pkg:composer/symfony/service-contracts@v3.6.0-BETA1
 - pkg:composer/symfony/service-contracts@v3.6.1
 - pkg:composer/symfony/service-contracts@v3.7.0
+- pkg:composer/symfony/service-contracts@v3.7.1
