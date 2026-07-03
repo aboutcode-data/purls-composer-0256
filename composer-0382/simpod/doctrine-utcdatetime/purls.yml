@@ -4,6 +4,7 @@
 - pkg:composer/simpod/doctrine-utcdatetime@0.2.1
 - pkg:composer/simpod/doctrine-utcdatetime@0.3.0
 - pkg:composer/simpod/doctrine-utcdatetime@0.3.1
+- pkg:composer/simpod/doctrine-utcdatetime@0.3.2
 - pkg:composer/simpod/doctrine-utcdatetime@v0.1.0
 - pkg:composer/simpod/doctrine-utcdatetime@v0.1.1
 - pkg:composer/simpod/doctrine-utcdatetime@v0.1.2
