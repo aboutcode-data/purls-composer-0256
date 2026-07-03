@@ -417,6 +417,8 @@
 - pkg:composer/tencentcloud/redis@3.0.1567
 - pkg:composer/tencentcloud/redis@3.0.1569
 - pkg:composer/tencentcloud/redis@3.0.1600
+- pkg:composer/tencentcloud/redis@3.0.1613
+- pkg:composer/tencentcloud/redis@3.0.1614
 - pkg:composer/tencentcloud/redis@3.0.248
 - pkg:composer/tencentcloud/redis@3.0.249
 - pkg:composer/tencentcloud/redis@3.0.250
