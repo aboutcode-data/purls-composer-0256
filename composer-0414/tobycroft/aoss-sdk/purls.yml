@@ -31,6 +31,13 @@
 - pkg:composer/tobycroft/aoss-sdk@v1.2.7
 - pkg:composer/tobycroft/aoss-sdk@v1.2.8
 - pkg:composer/tobycroft/aoss-sdk@v1.2.9
+- pkg:composer/tobycroft/aoss-sdk@v1.21.0
+- pkg:composer/tobycroft/aoss-sdk@v1.21.1
+- pkg:composer/tobycroft/aoss-sdk@v1.21.2
+- pkg:composer/tobycroft/aoss-sdk@v1.21.3
+- pkg:composer/tobycroft/aoss-sdk@v1.21.4
+- pkg:composer/tobycroft/aoss-sdk@v1.21.5
+- pkg:composer/tobycroft/aoss-sdk@v1.21.6
 - pkg:composer/tobycroft/aoss-sdk@v1.3.0
 - pkg:composer/tobycroft/aoss-sdk@v1.4.0
 - pkg:composer/tobycroft/aoss-sdk@v1.4.1
