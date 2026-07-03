@@ -109,3 +109,5 @@
 - pkg:composer/tecnickcom/tc-lib-pdf-encrypt@2.5.0
 - pkg:composer/tecnickcom/tc-lib-pdf-encrypt@2.6.0
 - pkg:composer/tecnickcom/tc-lib-pdf-encrypt@2.7.0
+- pkg:composer/tecnickcom/tc-lib-pdf-encrypt@2.8.0
+- pkg:composer/tecnickcom/tc-lib-pdf-encrypt@2.8.1
