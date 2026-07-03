@@ -1,1 +1,2 @@
 - pkg:composer/tesda/keycloak-auth@V1.0.0
+- pkg:composer/tesda/keycloak-auth@v1.1.0
