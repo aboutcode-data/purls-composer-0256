@@ -104,4 +104,15 @@
 - pkg:composer/symfony/models-dev@v81.0
 - pkg:composer/symfony/models-dev@v82.0
 - pkg:composer/symfony/models-dev@v83.0
+- pkg:composer/symfony/models-dev@v84.0
+- pkg:composer/symfony/models-dev@v85.0
+- pkg:composer/symfony/models-dev@v86.0
+- pkg:composer/symfony/models-dev@v87.0
+- pkg:composer/symfony/models-dev@v88.0
+- pkg:composer/symfony/models-dev@v89.0
 - pkg:composer/symfony/models-dev@v9.0
+- pkg:composer/symfony/models-dev@v90.0
+- pkg:composer/symfony/models-dev@v91.0
+- pkg:composer/symfony/models-dev@v92.0
+- pkg:composer/symfony/models-dev@v93.0
+- pkg:composer/symfony/models-dev@v93.1
