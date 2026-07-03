@@ -26,3 +26,4 @@
 - pkg:composer/sylius/mollie-plugin@v3.2.1
 - pkg:composer/sylius/mollie-plugin@v3.2.2
 - pkg:composer/sylius/mollie-plugin@v3.2.3
+- pkg:composer/sylius/mollie-plugin@v3.3.0
