@@ -20,3 +20,4 @@
 - pkg:composer/algolia/magento2-tools@v0.3.1
 - pkg:composer/algolia/magento2-tools@v0.4.0
 - pkg:composer/algolia/magento2-tools@v0.4.1
+- pkg:composer/algolia/magento2-tools@v0.4.2
