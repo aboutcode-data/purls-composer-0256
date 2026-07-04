@@ -52,3 +52,4 @@
 - pkg:composer/wp-graphql/wp-graphql-woocommerce@v1.0.0
 - pkg:composer/wp-graphql/wp-graphql-woocommerce@v1.0.1
 - pkg:composer/wp-graphql/wp-graphql-woocommerce@v1.0.2
+- pkg:composer/wp-graphql/wp-graphql-woocommerce@v1.0.3
