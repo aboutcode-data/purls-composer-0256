@@ -116,3 +116,4 @@
 - pkg:composer/symfony/models-dev@v92.0
 - pkg:composer/symfony/models-dev@v93.0
 - pkg:composer/symfony/models-dev@v93.1
+- pkg:composer/symfony/models-dev@v94.0
