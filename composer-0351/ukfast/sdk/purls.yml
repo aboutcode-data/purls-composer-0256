@@ -217,6 +217,8 @@
 - pkg:composer/ukfast/sdk@v1.3.9
 - pkg:composer/ukfast/sdk@v1.30.0
 - pkg:composer/ukfast/sdk@v1.31.0
+- pkg:composer/ukfast/sdk@v1.32.0
+- pkg:composer/ukfast/sdk@v1.33.0
 - pkg:composer/ukfast/sdk@v1.4.0
 - pkg:composer/ukfast/sdk@v1.4.1
 - pkg:composer/ukfast/sdk@v1.4.10
@@ -332,6 +334,7 @@
 - pkg:composer/ukfast/sdk@v2.0.1
 - pkg:composer/ukfast/sdk@v2.1.0
 - pkg:composer/ukfast/sdk@v2.1.1
+- pkg:composer/ukfast/sdk@v2.10.0
 - pkg:composer/ukfast/sdk@v2.2.0
 - pkg:composer/ukfast/sdk@v2.3.0
 - pkg:composer/ukfast/sdk@v2.3.1
@@ -341,3 +344,4 @@
 - pkg:composer/ukfast/sdk@v2.6.1
 - pkg:composer/ukfast/sdk@v2.7.0
 - pkg:composer/ukfast/sdk@v2.8.0
+- pkg:composer/ukfast/sdk@v2.9.0
