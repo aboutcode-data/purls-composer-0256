@@ -51,6 +51,11 @@
 - pkg:composer/veloquent/core@v2.1.6
 - pkg:composer/veloquent/core@v2.1.7
 - pkg:composer/veloquent/core@v2.1.8
+- pkg:composer/veloquent/core@v2.10.0
+- pkg:composer/veloquent/core@v2.11.0
+- pkg:composer/veloquent/core@v2.11.1
+- pkg:composer/veloquent/core@v2.11.2
+- pkg:composer/veloquent/core@v2.11.3
 - pkg:composer/veloquent/core@v2.2.0
 - pkg:composer/veloquent/core@v2.2.1
 - pkg:composer/veloquent/core@v2.2.2
@@ -87,3 +92,4 @@
 - pkg:composer/veloquent/core@v2.9.5
 - pkg:composer/veloquent/core@v2.9.6
 - pkg:composer/veloquent/core@v2.9.7
+- pkg:composer/veloquent/core@v2.9.8
