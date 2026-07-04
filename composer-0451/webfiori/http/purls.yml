@@ -17,6 +17,7 @@
 - pkg:composer/webfiori/http@6.0.0
 - pkg:composer/webfiori/http@6.0.1
 - pkg:composer/webfiori/http@6.0.2
+- pkg:composer/webfiori/http@6.0.3
 - pkg:composer/webfiori/http@v1.4.5
 - pkg:composer/webfiori/http@v1.4.6
 - pkg:composer/webfiori/http@v1.4.7
