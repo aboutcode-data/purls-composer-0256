@@ -148,3 +148,5 @@
 - pkg:composer/vielhuber/dbhelper@2.4.8
 - pkg:composer/vielhuber/dbhelper@2.4.9
 - pkg:composer/vielhuber/dbhelper@2.5.0
+- pkg:composer/vielhuber/dbhelper@2.5.1
+- pkg:composer/vielhuber/dbhelper@2.5.2
