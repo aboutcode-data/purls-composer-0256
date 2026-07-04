@@ -3,3 +3,4 @@
 - pkg:composer/akrez/http-proxy@v3.0.0
 - pkg:composer/akrez/http-proxy@v5.0.0
 - pkg:composer/akrez/http-proxy@v6.0.0
+- pkg:composer/akrez/http-proxy@v7.0.0
