@@ -24,3 +24,5 @@
 - pkg:composer/amzn/amazon-pay-api-sdk-php@2.6.7
 - pkg:composer/amzn/amazon-pay-api-sdk-php@2.6.8
 - pkg:composer/amzn/amazon-pay-api-sdk-php@2.7.0
+- pkg:composer/amzn/amazon-pay-api-sdk-php@2.7.1
+- pkg:composer/amzn/amazon-pay-api-sdk-php@2.7.2
