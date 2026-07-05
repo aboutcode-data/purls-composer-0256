@@ -13,6 +13,7 @@
 - pkg:composer/yaml/yamlscript@0.2.22
 - pkg:composer/yaml/yamlscript@0.2.23
 - pkg:composer/yaml/yamlscript@0.2.24
+- pkg:composer/yaml/yamlscript@0.2.25
 - pkg:composer/yaml/yamlscript@0.2.3
 - pkg:composer/yaml/yamlscript@0.2.4
 - pkg:composer/yaml/yamlscript@0.2.5
