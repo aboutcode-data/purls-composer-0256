@@ -228,6 +228,7 @@
 - pkg:composer/uxf/form@3.81.3
 - pkg:composer/uxf/form@3.81.4
 - pkg:composer/uxf/form@3.81.5
+- pkg:composer/uxf/form@3.81.8
 - pkg:composer/uxf/form@3.9.2
 - pkg:composer/uxf/form@v0.1
 - pkg:composer/uxf/form@v0.2.0

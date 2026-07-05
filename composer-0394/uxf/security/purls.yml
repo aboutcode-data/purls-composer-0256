@@ -233,4 +233,5 @@
 - pkg:composer/uxf/security@3.81.4
 - pkg:composer/uxf/security@3.81.5
 - pkg:composer/uxf/security@3.81.7
+- pkg:composer/uxf/security@3.81.8
 - pkg:composer/uxf/security@3.9.2
