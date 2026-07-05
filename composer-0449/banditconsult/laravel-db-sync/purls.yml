@@ -1,1 +1,2 @@
 - pkg:composer/banditconsult/laravel-db-sync@0.0.1
+- pkg:composer/banditconsult/laravel-db-sync@0.0.2
