@@ -41,3 +41,4 @@
 - pkg:composer/backstage/laravel-og-image@v1.0.9
 - pkg:composer/backstage/laravel-og-image@v1.1.0
 - pkg:composer/backstage/laravel-og-image@v1.1.1
+- pkg:composer/backstage/laravel-og-image@v1.1.2
