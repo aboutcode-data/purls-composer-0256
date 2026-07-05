@@ -43,6 +43,9 @@
 - pkg:composer/bluefission/develation@v1.3.34-alpha
 - pkg:composer/bluefission/develation@v1.3.35-alpha
 - pkg:composer/bluefission/develation@v1.3.36-alpha
+- pkg:composer/bluefission/develation@v1.3.37-alpha
+- pkg:composer/bluefission/develation@v1.3.38-alpha
+- pkg:composer/bluefission/develation@v1.3.39
 - pkg:composer/bluefission/develation@v1.3.4-alpha
 - pkg:composer/bluefission/develation@v1.3.5-alpha
 - pkg:composer/bluefission/develation@v1.3.6-alpha
