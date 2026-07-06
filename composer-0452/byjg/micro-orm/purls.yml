@@ -25,3 +25,4 @@
 - pkg:composer/byjg/micro-orm@5.0.7
 - pkg:composer/byjg/micro-orm@5.0.8
 - pkg:composer/byjg/micro-orm@6.0.0
+- pkg:composer/byjg/micro-orm@6.0.1
