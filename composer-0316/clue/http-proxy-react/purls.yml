@@ -5,6 +5,7 @@
 - pkg:composer/clue/http-proxy-react@v0.3.2
 - pkg:composer/clue/http-proxy-react@v1.0.0
 - pkg:composer/clue/http-proxy-react@v1.1.0
+- pkg:composer/clue/http-proxy-react@v1.10.0
 - pkg:composer/clue/http-proxy-react@v1.2.0
 - pkg:composer/clue/http-proxy-react@v1.3.0
 - pkg:composer/clue/http-proxy-react@v1.4.0
