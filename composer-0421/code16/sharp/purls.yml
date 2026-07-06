@@ -1,6 +1,9 @@
 - pkg:composer/code16/sharp@7.0.0-alpha.1
 - pkg:composer/code16/sharp@7.27.0
 - pkg:composer/code16/sharp@7.7.2
+- pkg:composer/code16/sharp@v10.0.0-beta.1
+- pkg:composer/code16/sharp@v10.0.0-beta.2
+- pkg:composer/code16/sharp@v10.0.0-beta.3
 - pkg:composer/code16/sharp@v4.0-BETA1
 - pkg:composer/code16/sharp@v4.0-BETA2
 - pkg:composer/code16/sharp@v4.0-BETA3
