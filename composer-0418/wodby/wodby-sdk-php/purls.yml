@@ -25,3 +25,4 @@
 - pkg:composer/wodby/wodby-sdk-php@4.0.1
 - pkg:composer/wodby/wodby-sdk-php@4.0.2
 - pkg:composer/wodby/wodby-sdk-php@4.1.0
+- pkg:composer/wodby/wodby-sdk-php@4.2.0
