@@ -13,3 +13,4 @@
 - pkg:composer/cicnavi/oidc-client-php@v3.2.0
 - pkg:composer/cicnavi/oidc-client-php@v3.2.1
 - pkg:composer/cicnavi/oidc-client-php@v3.3.0
+- pkg:composer/cicnavi/oidc-client-php@v3.4.0
