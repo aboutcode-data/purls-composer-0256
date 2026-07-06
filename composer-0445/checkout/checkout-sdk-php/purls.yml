@@ -78,3 +78,5 @@
 - pkg:composer/checkout/checkout-sdk-php@4.7.1
 - pkg:composer/checkout/checkout-sdk-php@4.8.0
 - pkg:composer/checkout/checkout-sdk-php@4.9.0
+- pkg:composer/checkout/checkout-sdk-php@5.0.0
+- pkg:composer/checkout/checkout-sdk-php@5.1.0
