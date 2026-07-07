@@ -1,1 +1,2 @@
 - pkg:composer/craftcms/url-validator@1.0.0
+- pkg:composer/craftcms/url-validator@1.1.0
