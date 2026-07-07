@@ -74,6 +74,7 @@
 - pkg:composer/contao/easy-coding-standard@6.13.6
 - pkg:composer/contao/easy-coding-standard@6.13.7
 - pkg:composer/contao/easy-coding-standard@6.13.8
+- pkg:composer/contao/easy-coding-standard@6.14.0
 - pkg:composer/contao/easy-coding-standard@6.2.0
 - pkg:composer/contao/easy-coding-standard@6.3.0
 - pkg:composer/contao/easy-coding-standard@6.3.1
