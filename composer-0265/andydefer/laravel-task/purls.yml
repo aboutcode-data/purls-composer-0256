@@ -46,3 +46,5 @@
 - pkg:composer/andydefer/laravel-task@v3.9.0
 - pkg:composer/andydefer/laravel-task@v4.0.0
 - pkg:composer/andydefer/laravel-task@v4.0.1
+- pkg:composer/andydefer/laravel-task@v4.0.2
+- pkg:composer/andydefer/laravel-task@v4.0.3

@@ -8,3 +8,5 @@
 - pkg:composer/andydefer/laravel-indexer@v0.6.0
 - pkg:composer/andydefer/laravel-indexer@v0.6.1
 - pkg:composer/andydefer/laravel-indexer@v0.6.2
+- pkg:composer/andydefer/laravel-indexer@v0.6.3
+- pkg:composer/andydefer/laravel-indexer@v0.6.4
