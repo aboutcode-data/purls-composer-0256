@@ -25,3 +25,4 @@
 - pkg:composer/custom-bundle/sso-auth-bundle@2.5.0
 - pkg:composer/custom-bundle/sso-auth-bundle@2.6.0
 - pkg:composer/custom-bundle/sso-auth-bundle@3.0.0
+- pkg:composer/custom-bundle/sso-auth-bundle@4.0.0
