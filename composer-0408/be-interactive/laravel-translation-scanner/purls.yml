@@ -14,3 +14,4 @@
 - pkg:composer/be-interactive/laravel-translation-scanner@v5.2.0
 - pkg:composer/be-interactive/laravel-translation-scanner@v5.2.1
 - pkg:composer/be-interactive/laravel-translation-scanner@v5.2.2
+- pkg:composer/be-interactive/laravel-translation-scanner@v5.3.0
