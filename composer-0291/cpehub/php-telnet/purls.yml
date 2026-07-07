@@ -1,3 +1,4 @@
-- pkg:composer/cpehub/php-telnet@v1.0.0
-- pkg:composer/cpehub/php-telnet@v1.0.1
 - pkg:composer/cpehub/php-telnet@v1.0.2
+- pkg:composer/cpehub/php-telnet@v2.0.0
+- pkg:composer/cpehub/php-telnet@v2.1.0
+- pkg:composer/cpehub/php-telnet@v2.2.0
