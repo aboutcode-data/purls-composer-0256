@@ -21,3 +21,4 @@
 - pkg:composer/cboxdk/laravel-queue-metrics@v3.0.0
 - pkg:composer/cboxdk/laravel-queue-metrics@v3.0.1
 - pkg:composer/cboxdk/laravel-queue-metrics@v3.1.0
+- pkg:composer/cboxdk/laravel-queue-metrics@v3.2.0
