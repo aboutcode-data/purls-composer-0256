@@ -9,6 +9,7 @@
 - pkg:composer/dravencms/packager@2.0.9
 - pkg:composer/dravencms/packager@2.1
 - pkg:composer/dravencms/packager@2.1.1
+- pkg:composer/dravencms/packager@2.2.0
 - pkg:composer/dravencms/packager@v1.0
 - pkg:composer/dravencms/packager@v1.0.1
 - pkg:composer/dravencms/packager@v1.0.2
