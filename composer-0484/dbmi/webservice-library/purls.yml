@@ -15,3 +15,4 @@
 - pkg:composer/dbmi/webservice-library@3.0.0
 - pkg:composer/dbmi/webservice-library@3.0.1
 - pkg:composer/dbmi/webservice-library@3.0.2
+- pkg:composer/dbmi/webservice-library@4.0.0
