@@ -38,3 +38,4 @@
 - pkg:composer/cron/cron-bundle@3.0.4
 - pkg:composer/cron/cron-bundle@3.1.0
 - pkg:composer/cron/cron-bundle@3.1.1
+- pkg:composer/cron/cron-bundle@3.2.0
