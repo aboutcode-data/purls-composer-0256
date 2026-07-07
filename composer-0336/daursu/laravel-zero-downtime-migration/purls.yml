@@ -19,3 +19,4 @@
 - pkg:composer/daursu/laravel-zero-downtime-migration@2.0.0
 - pkg:composer/daursu/laravel-zero-downtime-migration@2.1.0
 - pkg:composer/daursu/laravel-zero-downtime-migration@2.2.0
+- pkg:composer/daursu/laravel-zero-downtime-migration@2.3.0
