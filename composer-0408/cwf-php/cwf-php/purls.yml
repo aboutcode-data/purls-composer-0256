@@ -2,3 +2,6 @@
 - pkg:composer/cwf-php/cwf-php@0.83.0
 - pkg:composer/cwf-php/cwf-php@0.83.1
 - pkg:composer/cwf-php/cwf-php@0.84.0
+- pkg:composer/cwf-php/cwf-php@0.90.0
+- pkg:composer/cwf-php/cwf-php@0.91
+- pkg:composer/cwf-php/cwf-php@0.92
