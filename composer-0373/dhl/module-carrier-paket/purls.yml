@@ -29,3 +29,4 @@
 - pkg:composer/dhl/module-carrier-paket@3.4.2
 - pkg:composer/dhl/module-carrier-paket@3.4.3
 - pkg:composer/dhl/module-carrier-paket@3.5.0
+- pkg:composer/dhl/module-carrier-paket@3.5.1
