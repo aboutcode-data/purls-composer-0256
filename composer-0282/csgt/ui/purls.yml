@@ -51,6 +51,9 @@
 - pkg:composer/csgt/ui@v4.1000.11
 - pkg:composer/csgt/ui@v4.1000.12
 - pkg:composer/csgt/ui@v4.1000.13
+- pkg:composer/csgt/ui@v4.1000.14
+- pkg:composer/csgt/ui@v4.1000.15
+- pkg:composer/csgt/ui@v4.1000.16
 - pkg:composer/csgt/ui@v4.1000.2
 - pkg:composer/csgt/ui@v4.1000.3
 - pkg:composer/csgt/ui@v4.1000.4
