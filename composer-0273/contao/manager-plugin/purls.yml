@@ -22,6 +22,7 @@
 - pkg:composer/contao/manager-plugin@2.13.3
 - pkg:composer/contao/manager-plugin@2.13.4
 - pkg:composer/contao/manager-plugin@2.13.5
+- pkg:composer/contao/manager-plugin@2.13.6
 - pkg:composer/contao/manager-plugin@2.2.0
 - pkg:composer/contao/manager-plugin@2.2.0-RC1
 - pkg:composer/contao/manager-plugin@2.2.0-beta1
