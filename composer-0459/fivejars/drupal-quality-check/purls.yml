@@ -1,3 +1,4 @@
+- pkg:composer/fivejars/drupal-quality-check@2.0.0
 - pkg:composer/fivejars/drupal-quality-check@v1.0.0
 - pkg:composer/fivejars/drupal-quality-check@v1.0.1
 - pkg:composer/fivejars/drupal-quality-check@v1.0.2
