@@ -1,1 +1,2 @@
 - pkg:composer/flytachi/jwt@1.0.0
+- pkg:composer/flytachi/jwt@v1.0.1
