@@ -54,6 +54,8 @@
 - pkg:composer/flow-php/doctrine-dbal-bulk@0.39.0
 - pkg:composer/flow-php/doctrine-dbal-bulk@0.4.0
 - pkg:composer/flow-php/doctrine-dbal-bulk@0.40.0
+- pkg:composer/flow-php/doctrine-dbal-bulk@0.41.0
+- pkg:composer/flow-php/doctrine-dbal-bulk@0.41.1
 - pkg:composer/flow-php/doctrine-dbal-bulk@0.5.0
 - pkg:composer/flow-php/doctrine-dbal-bulk@0.5.1
 - pkg:composer/flow-php/doctrine-dbal-bulk@0.5.2

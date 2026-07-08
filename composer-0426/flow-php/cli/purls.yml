@@ -38,3 +38,5 @@
 - pkg:composer/flow-php/cli@0.38.0
 - pkg:composer/flow-php/cli@0.39.0
 - pkg:composer/flow-php/cli@0.40.0
+- pkg:composer/flow-php/cli@0.41.0
+- pkg:composer/flow-php/cli@0.41.1
