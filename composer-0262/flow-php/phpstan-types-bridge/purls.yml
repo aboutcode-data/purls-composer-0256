@@ -1,2 +1,4 @@
 - pkg:composer/flow-php/phpstan-types-bridge@0.39.0
 - pkg:composer/flow-php/phpstan-types-bridge@0.40.0
+- pkg:composer/flow-php/phpstan-types-bridge@0.41.0
+- pkg:composer/flow-php/phpstan-types-bridge@0.41.1
