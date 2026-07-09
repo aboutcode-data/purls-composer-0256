@@ -1,3 +1,5 @@
 - pkg:composer/halilcosdu/laravel-ollama@v0.0.1
 - pkg:composer/halilcosdu/laravel-ollama@v0.0.2
 - pkg:composer/halilcosdu/laravel-ollama@v1.0.0
+- pkg:composer/halilcosdu/laravel-ollama@v1.0.1
+- pkg:composer/halilcosdu/laravel-ollama@v1.1.0
