@@ -82,6 +82,8 @@
 - pkg:composer/getpop/markdown-convertor@17.1.2
 - pkg:composer/getpop/markdown-convertor@18.0.0
 - pkg:composer/getpop/markdown-convertor@18.0.1
+- pkg:composer/getpop/markdown-convertor@19.0.0
+- pkg:composer/getpop/markdown-convertor@19.0.1
 - pkg:composer/getpop/markdown-convertor@2.0.1
 - pkg:composer/getpop/markdown-convertor@2.1.0
 - pkg:composer/getpop/markdown-convertor@2.1.1

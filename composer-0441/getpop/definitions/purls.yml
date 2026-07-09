@@ -121,6 +121,8 @@
 - pkg:composer/getpop/definitions@17.1.2
 - pkg:composer/getpop/definitions@18.0.0
 - pkg:composer/getpop/definitions@18.0.1
+- pkg:composer/getpop/definitions@19.0.0
+- pkg:composer/getpop/definitions@19.0.1
 - pkg:composer/getpop/definitions@2.0.1
 - pkg:composer/getpop/definitions@2.1.0
 - pkg:composer/getpop/definitions@2.1.1
