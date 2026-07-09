@@ -1,1 +1,2 @@
 - pkg:composer/hectororm/pagination@v1.3.0
+- pkg:composer/hectororm/pagination@v1.4.0
