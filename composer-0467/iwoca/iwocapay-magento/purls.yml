@@ -30,3 +30,5 @@
 - pkg:composer/iwoca/iwocapay-magento@2.3.0
 - pkg:composer/iwoca/iwocapay-magento@2.3.1
 - pkg:composer/iwoca/iwocapay-magento@2.3.2
+- pkg:composer/iwoca/iwocapay-magento@2.3.3
+- pkg:composer/iwoca/iwocapay-magento@2.4.0
