@@ -7,3 +7,5 @@
 - pkg:composer/jongotlin/identity-number-bundle@1.1.0
 - pkg:composer/jongotlin/identity-number-bundle@1.2.0
 - pkg:composer/jongotlin/identity-number-bundle@2.0.0
+- pkg:composer/jongotlin/identity-number-bundle@3.0.0
+- pkg:composer/jongotlin/identity-number-bundle@3.0.1
