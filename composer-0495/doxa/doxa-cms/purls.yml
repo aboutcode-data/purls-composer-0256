@@ -19,7 +19,10 @@
 - pkg:composer/doxa/doxa-cms@v1.0.25
 - pkg:composer/doxa/doxa-cms@v1.0.26
 - pkg:composer/doxa/doxa-cms@v1.0.27
+- pkg:composer/doxa/doxa-cms@v1.0.28
+- pkg:composer/doxa/doxa-cms@v1.0.29
 - pkg:composer/doxa/doxa-cms@v1.0.3
+- pkg:composer/doxa/doxa-cms@v1.0.31
 - pkg:composer/doxa/doxa-cms@v1.0.4
 - pkg:composer/doxa/doxa-cms@v1.0.5
 - pkg:composer/doxa/doxa-cms@v1.0.6
