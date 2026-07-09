@@ -229,3 +229,4 @@
 - pkg:composer/fruitcake/laravel-debugbar@v4.2.7
 - pkg:composer/fruitcake/laravel-debugbar@v4.2.8
 - pkg:composer/fruitcake/laravel-debugbar@v4.3.0
+- pkg:composer/fruitcake/laravel-debugbar@v4.4.0
