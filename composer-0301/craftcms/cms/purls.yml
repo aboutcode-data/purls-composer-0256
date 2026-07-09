@@ -1141,6 +1141,7 @@
 - pkg:composer/craftcms/cms@5.1.9
 - pkg:composer/craftcms/cms@5.10.0
 - pkg:composer/craftcms/cms@5.10.1
+- pkg:composer/craftcms/cms@5.10.10
 - pkg:composer/craftcms/cms@5.10.2
 - pkg:composer/craftcms/cms@5.10.3
 - pkg:composer/craftcms/cms@5.10.4
