@@ -29,6 +29,7 @@
 - pkg:composer/horde/horde@5.2.8
 - pkg:composer/horde/horde@5.2.9
 - pkg:composer/horde/horde@6.0.0alpha1
+- pkg:composer/horde/horde@v6.0.0
 - pkg:composer/horde/horde@v6.0.0RC1
 - pkg:composer/horde/horde@v6.0.0RC2
 - pkg:composer/horde/horde@v6.0.0RC3
@@ -68,3 +69,4 @@
 - pkg:composer/horde/horde@v6.0.0beta7
 - pkg:composer/horde/horde@v6.0.0beta8
 - pkg:composer/horde/horde@v6.0.0beta9
+- pkg:composer/horde/horde@v6.1.0
