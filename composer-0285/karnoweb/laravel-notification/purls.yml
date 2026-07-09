@@ -1,1 +1,2 @@
 - pkg:composer/karnoweb/laravel-notification@1.0.0
+- pkg:composer/karnoweb/laravel-notification@13.0.0
