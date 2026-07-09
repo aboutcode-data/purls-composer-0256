@@ -73,6 +73,11 @@
 - pkg:composer/guzzlehttp/guzzle@7.12.1
 - pkg:composer/guzzlehttp/guzzle@7.12.2
 - pkg:composer/guzzlehttp/guzzle@7.12.3
+- pkg:composer/guzzlehttp/guzzle@7.13.0
+- pkg:composer/guzzlehttp/guzzle@7.13.1
+- pkg:composer/guzzlehttp/guzzle@7.13.2
+- pkg:composer/guzzlehttp/guzzle@7.13.3
+- pkg:composer/guzzlehttp/guzzle@7.14.0
 - pkg:composer/guzzlehttp/guzzle@7.2.0
 - pkg:composer/guzzlehttp/guzzle@7.3.0
 - pkg:composer/guzzlehttp/guzzle@7.4.0
