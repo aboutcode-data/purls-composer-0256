@@ -199,3 +199,4 @@
 - pkg:composer/jasminecms/jasmine@2.9.0
 - pkg:composer/jasminecms/jasmine@2.9.1
 - pkg:composer/jasminecms/jasmine@2.9.2
+- pkg:composer/jasminecms/jasmine@3.0.0
