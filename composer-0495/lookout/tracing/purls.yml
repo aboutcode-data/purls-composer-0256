@@ -9,6 +9,10 @@
 - pkg:composer/lookout/tracing@2.1.0
 - pkg:composer/lookout/tracing@2.10.0
 - pkg:composer/lookout/tracing@2.11.1
+- pkg:composer/lookout/tracing@2.12.0
+- pkg:composer/lookout/tracing@2.13.0
+- pkg:composer/lookout/tracing@2.13.1
+- pkg:composer/lookout/tracing@2.14.0
 - pkg:composer/lookout/tracing@2.2.0
 - pkg:composer/lookout/tracing@2.3.0
 - pkg:composer/lookout/tracing@2.5.0
