@@ -59,6 +59,8 @@
 - pkg:composer/longman/laravel-lodash@12.1.0
 - pkg:composer/longman/laravel-lodash@12.2.0
 - pkg:composer/longman/laravel-lodash@13.0.0
+- pkg:composer/longman/laravel-lodash@14.0.0
+- pkg:composer/longman/laravel-lodash@14.0.1
 - pkg:composer/longman/laravel-lodash@2.0.0
 - pkg:composer/longman/laravel-lodash@2.0.1
 - pkg:composer/longman/laravel-lodash@2.0.2
