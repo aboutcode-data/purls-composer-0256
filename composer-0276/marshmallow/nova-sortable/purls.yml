@@ -61,6 +61,7 @@
 - pkg:composer/marshmallow/nova-sortable@3.4.7
 - pkg:composer/marshmallow/nova-sortable@4.0.0
 - pkg:composer/marshmallow/nova-sortable@4.0.1
+- pkg:composer/marshmallow/nova-sortable@4.0.2
 - pkg:composer/marshmallow/nova-sortable@v3.0.0
 - pkg:composer/marshmallow/nova-sortable@v3.1.0
 - pkg:composer/marshmallow/nova-sortable@v3.3.0
