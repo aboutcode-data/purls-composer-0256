@@ -44,6 +44,8 @@
 - pkg:composer/lindemannrock/craft-redirect-manager@5.35.1
 - pkg:composer/lindemannrock/craft-redirect-manager@5.35.2
 - pkg:composer/lindemannrock/craft-redirect-manager@5.36.0
+- pkg:composer/lindemannrock/craft-redirect-manager@5.37.0
+- pkg:composer/lindemannrock/craft-redirect-manager@5.38.0
 - pkg:composer/lindemannrock/craft-redirect-manager@5.4.0
 - pkg:composer/lindemannrock/craft-redirect-manager@5.5.0
 - pkg:composer/lindemannrock/craft-redirect-manager@5.6.0
