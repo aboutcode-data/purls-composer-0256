@@ -225,3 +225,7 @@
 - pkg:composer/m2epro/magento2-extension@1.93.0
 - pkg:composer/m2epro/magento2-extension@1.94.0
 - pkg:composer/m2epro/magento2-extension@1.95.0
+- pkg:composer/m2epro/magento2-extension@1.95.1
+- pkg:composer/m2epro/magento2-extension@1.95.2
+- pkg:composer/m2epro/magento2-extension@1.96.0
+- pkg:composer/m2epro/magento2-extension@1.96.1
