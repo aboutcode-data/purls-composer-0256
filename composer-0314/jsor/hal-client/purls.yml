@@ -11,3 +11,4 @@
 - pkg:composer/jsor/hal-client@v3.4.2
 - pkg:composer/jsor/hal-client@v3.5.0
 - pkg:composer/jsor/hal-client@v3.6.0
+- pkg:composer/jsor/hal-client@v4.0.0
