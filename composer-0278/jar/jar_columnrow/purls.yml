@@ -12,6 +12,7 @@
 - pkg:composer/jar/jar_columnrow@3.0.0
 - pkg:composer/jar/jar_columnrow@3.0.1
 - pkg:composer/jar/jar_columnrow@3.0.2
+- pkg:composer/jar/jar_columnrow@3.0.3
 - pkg:composer/jar/jar_columnrow@v1.0.0
 - pkg:composer/jar/jar_columnrow@v1.0.1
 - pkg:composer/jar/jar_columnrow@v1.0.10
