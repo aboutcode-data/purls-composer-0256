@@ -1,5 +1,6 @@
 - pkg:composer/layer7/nj-dialer-client@0.0.10
 - pkg:composer/layer7/nj-dialer-client@0.0.11
+- pkg:composer/layer7/nj-dialer-client@0.0.12
 - pkg:composer/layer7/nj-dialer-client@0.0.9
 - pkg:composer/layer7/nj-dialer-client@v0.0.1
 - pkg:composer/layer7/nj-dialer-client@v0.0.2
