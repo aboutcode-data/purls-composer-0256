@@ -270,6 +270,8 @@
 - pkg:composer/machinepack/core@v2.23.20
 - pkg:composer/machinepack/core@v2.23.21
 - pkg:composer/machinepack/core@v2.23.22
+- pkg:composer/machinepack/core@v2.23.23
+- pkg:composer/machinepack/core@v2.23.24
 - pkg:composer/machinepack/core@v2.23.3
 - pkg:composer/machinepack/core@v2.23.3.1
 - pkg:composer/machinepack/core@v2.23.4
