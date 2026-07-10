@@ -71,6 +71,7 @@
 - pkg:composer/mailchimp/mc-magento2@100.1.76
 - pkg:composer/mailchimp/mc-magento2@100.1.77
 - pkg:composer/mailchimp/mc-magento2@100.1.78
+- pkg:composer/mailchimp/mc-magento2@100.1.79
 - pkg:composer/mailchimp/mc-magento2@101.2.34
 - pkg:composer/mailchimp/mc-magento2@101.2.35
 - pkg:composer/mailchimp/mc-magento2@101.2.36
@@ -113,6 +114,7 @@
 - pkg:composer/mailchimp/mc-magento2@101.2.76
 - pkg:composer/mailchimp/mc-magento2@101.2.77
 - pkg:composer/mailchimp/mc-magento2@101.2.78
+- pkg:composer/mailchimp/mc-magento2@101.2.79
 - pkg:composer/mailchimp/mc-magento2@102.3.34
 - pkg:composer/mailchimp/mc-magento2@102.3.35
 - pkg:composer/mailchimp/mc-magento2@102.3.36
@@ -192,6 +194,8 @@
 - pkg:composer/mailchimp/mc-magento2@102.3.77-p1
 - pkg:composer/mailchimp/mc-magento2@102.3.78
 - pkg:composer/mailchimp/mc-magento2@102.3.78-p1
+- pkg:composer/mailchimp/mc-magento2@102.3.79
+- pkg:composer/mailchimp/mc-magento2@102.3.79-p1
 - pkg:composer/mailchimp/mc-magento2@103.4.43
 - pkg:composer/mailchimp/mc-magento2@103.4.44
 - pkg:composer/mailchimp/mc-magento2@103.4.45
@@ -229,3 +233,5 @@
 - pkg:composer/mailchimp/mc-magento2@103.4.76
 - pkg:composer/mailchimp/mc-magento2@103.4.77
 - pkg:composer/mailchimp/mc-magento2@103.4.78
+- pkg:composer/mailchimp/mc-magento2@103.4.79
+- pkg:composer/mailchimp/mc-magento2@103.4.80
