@@ -1,1 +1,11 @@
 - pkg:composer/laulamanapps/document-signer-docusign@v1.0
+- pkg:composer/laulamanapps/document-signer-docusign@v1.1.0
+- pkg:composer/laulamanapps/document-signer-docusign@v1.2.0
+- pkg:composer/laulamanapps/document-signer-docusign@v1.4.0
+- pkg:composer/laulamanapps/document-signer-docusign@v1.6.0
+- pkg:composer/laulamanapps/document-signer-docusign@v1.7.0
+- pkg:composer/laulamanapps/document-signer-docusign@v2.0.0
+- pkg:composer/laulamanapps/document-signer-docusign@v2.2.0
+- pkg:composer/laulamanapps/document-signer-docusign@v2.3.0
+- pkg:composer/laulamanapps/document-signer-docusign@v2.3.1
+- pkg:composer/laulamanapps/document-signer-docusign@v2.3.2
