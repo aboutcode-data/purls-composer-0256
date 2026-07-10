@@ -39,3 +39,4 @@
 - pkg:composer/hyde/realtime-compiler@v3.7.0
 - pkg:composer/hyde/realtime-compiler@v4.0.0
 - pkg:composer/hyde/realtime-compiler@v4.0.0-RC.1
+- pkg:composer/hyde/realtime-compiler@v4.5.0
