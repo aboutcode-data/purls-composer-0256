@@ -1,1 +1,2 @@
 - pkg:composer/jorisnoo/craft-queue-failure-handler@0.1.0
+- pkg:composer/jorisnoo/craft-queue-failure-handler@0.1.1
