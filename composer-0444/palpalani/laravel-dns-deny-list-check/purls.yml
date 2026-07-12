@@ -9,3 +9,4 @@
 - pkg:composer/palpalani/laravel-dns-deny-list-check@0.7.0
 - pkg:composer/palpalani/laravel-dns-deny-list-check@0.7.1
 - pkg:composer/palpalani/laravel-dns-deny-list-check@1.0.0
+- pkg:composer/palpalani/laravel-dns-deny-list-check@1.0.1
