@@ -8,6 +8,12 @@
 - pkg:composer/pushery/email-magic-link-for-laravel@v0.13.3
 - pkg:composer/pushery/email-magic-link-for-laravel@v0.14.0
 - pkg:composer/pushery/email-magic-link-for-laravel@v0.15.0
+- pkg:composer/pushery/email-magic-link-for-laravel@v0.15.1
+- pkg:composer/pushery/email-magic-link-for-laravel@v0.15.2
+- pkg:composer/pushery/email-magic-link-for-laravel@v0.16.0
+- pkg:composer/pushery/email-magic-link-for-laravel@v0.16.1
+- pkg:composer/pushery/email-magic-link-for-laravel@v0.17.0
+- pkg:composer/pushery/email-magic-link-for-laravel@v0.17.1
 - pkg:composer/pushery/email-magic-link-for-laravel@v0.2.0
 - pkg:composer/pushery/email-magic-link-for-laravel@v0.3.0
 - pkg:composer/pushery/email-magic-link-for-laravel@v0.3.1
