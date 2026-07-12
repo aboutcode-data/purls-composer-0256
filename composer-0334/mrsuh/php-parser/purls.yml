@@ -91,3 +91,4 @@
 - pkg:composer/mrsuh/php-parser@v95.6.1
 - pkg:composer/mrsuh/php-parser@v95.6.2
 - pkg:composer/mrsuh/php-parser@v95.7.0
+- pkg:composer/mrsuh/php-parser@v95.8.0
