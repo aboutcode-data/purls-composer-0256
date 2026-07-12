@@ -1,3 +1,4 @@
+- pkg:composer/phpolygon/phpolygon@0.26.1
 - pkg:composer/phpolygon/phpolygon@v0.10.0
 - pkg:composer/phpolygon/phpolygon@v0.11.0
 - pkg:composer/phpolygon/phpolygon@v0.11.1
@@ -54,6 +55,17 @@
 - pkg:composer/phpolygon/phpolygon@v0.24.0
 - pkg:composer/phpolygon/phpolygon@v0.25.0
 - pkg:composer/phpolygon/phpolygon@v0.26.0
+- pkg:composer/phpolygon/phpolygon@v0.26.2
+- pkg:composer/phpolygon/phpolygon@v0.26.3
+- pkg:composer/phpolygon/phpolygon@v0.26.4
+- pkg:composer/phpolygon/phpolygon@v0.26.5
+- pkg:composer/phpolygon/phpolygon@v0.27.0
+- pkg:composer/phpolygon/phpolygon@v0.27.1
+- pkg:composer/phpolygon/phpolygon@v0.27.2
+- pkg:composer/phpolygon/phpolygon@v0.28.0
+- pkg:composer/phpolygon/phpolygon@v0.28.1
+- pkg:composer/phpolygon/phpolygon@v0.28.2
+- pkg:composer/phpolygon/phpolygon@v0.29.0
 - pkg:composer/phpolygon/phpolygon@v0.5.0
 - pkg:composer/phpolygon/phpolygon@v0.6.0
 - pkg:composer/phpolygon/phpolygon@v0.6.1
