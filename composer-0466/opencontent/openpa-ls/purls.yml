@@ -274,6 +274,8 @@
 - pkg:composer/opencontent/openpa-ls@3.23.6
 - pkg:composer/opencontent/openpa-ls@3.23.8
 - pkg:composer/opencontent/openpa-ls@3.23.9
+- pkg:composer/opencontent/openpa-ls@3.24.0
+- pkg:composer/opencontent/openpa-ls@3.24.1
 - pkg:composer/opencontent/openpa-ls@3.3
 - pkg:composer/opencontent/openpa-ls@3.4
 - pkg:composer/opencontent/openpa-ls@3.4.1
