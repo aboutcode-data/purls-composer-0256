@@ -32,6 +32,7 @@
 - pkg:composer/oat-sa/extension-lti-test-review@v2.2.0
 - pkg:composer/oat-sa/extension-lti-test-review@v3.0.0
 - pkg:composer/oat-sa/extension-lti-test-review@v3.1.0
+- pkg:composer/oat-sa/extension-lti-test-review@v3.10.0
 - pkg:composer/oat-sa/extension-lti-test-review@v3.2.0
 - pkg:composer/oat-sa/extension-lti-test-review@v3.3.0
 - pkg:composer/oat-sa/extension-lti-test-review@v3.3.1
