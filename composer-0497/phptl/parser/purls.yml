@@ -19,3 +19,4 @@
 - pkg:composer/phptl/parser@1.4.3
 - pkg:composer/phptl/parser@1.5.0
 - pkg:composer/phptl/parser@1.6.0
+- pkg:composer/phptl/parser@2.0.0-beta1
