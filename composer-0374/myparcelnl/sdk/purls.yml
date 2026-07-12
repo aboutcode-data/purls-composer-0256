@@ -17,11 +17,16 @@
 - pkg:composer/myparcelnl/sdk@10.6.0
 - pkg:composer/myparcelnl/sdk@10.7.0
 - pkg:composer/myparcelnl/sdk@10.7.1
+- pkg:composer/myparcelnl/sdk@10.7.10
+- pkg:composer/myparcelnl/sdk@10.7.11
 - pkg:composer/myparcelnl/sdk@10.7.2
 - pkg:composer/myparcelnl/sdk@10.7.3
 - pkg:composer/myparcelnl/sdk@10.7.4
 - pkg:composer/myparcelnl/sdk@10.7.5
 - pkg:composer/myparcelnl/sdk@10.7.6
+- pkg:composer/myparcelnl/sdk@10.7.7
+- pkg:composer/myparcelnl/sdk@10.7.8
+- pkg:composer/myparcelnl/sdk@10.7.9
 - pkg:composer/myparcelnl/sdk@11.0.0-beta.1
 - pkg:composer/myparcelnl/sdk@11.0.0-beta.10
 - pkg:composer/myparcelnl/sdk@11.0.0-beta.11
@@ -43,6 +48,7 @@
 - pkg:composer/myparcelnl/sdk@11.0.0-beta.26
 - pkg:composer/myparcelnl/sdk@11.0.0-beta.27
 - pkg:composer/myparcelnl/sdk@11.0.0-beta.28
+- pkg:composer/myparcelnl/sdk@11.0.0-beta.29
 - pkg:composer/myparcelnl/sdk@11.0.0-beta.3
 - pkg:composer/myparcelnl/sdk@11.0.0-beta.4
 - pkg:composer/myparcelnl/sdk@11.0.0-beta.5
