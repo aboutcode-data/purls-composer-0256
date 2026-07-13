@@ -49,3 +49,4 @@
 - pkg:composer/raxos/terminal@2.1.0
 - pkg:composer/raxos/terminal@2.2.0
 - pkg:composer/raxos/terminal@2.3.0
+- pkg:composer/raxos/terminal@2.3.1
