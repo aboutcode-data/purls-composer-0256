@@ -56,6 +56,7 @@
 - pkg:composer/nasirkhan/laravel-starter@v13.4.1
 - pkg:composer/nasirkhan/laravel-starter@v13.5.0
 - pkg:composer/nasirkhan/laravel-starter@v13.6.0
+- pkg:composer/nasirkhan/laravel-starter@v13.7.0
 - pkg:composer/nasirkhan/laravel-starter@v2.0.0
 - pkg:composer/nasirkhan/laravel-starter@v3.6.0
 - pkg:composer/nasirkhan/laravel-starter@v5.1.0
