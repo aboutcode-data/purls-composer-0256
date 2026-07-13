@@ -43,6 +43,7 @@
 - pkg:composer/open-runtimes/executor@0.25.1
 - pkg:composer/open-runtimes/executor@0.25.2
 - pkg:composer/open-runtimes/executor@0.25.3
+- pkg:composer/open-runtimes/executor@0.25.4
 - pkg:composer/open-runtimes/executor@0.3.0
 - pkg:composer/open-runtimes/executor@0.3.1
 - pkg:composer/open-runtimes/executor@0.3.2
