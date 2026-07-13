@@ -11,3 +11,4 @@
 - pkg:composer/patcherly/php-connector@v2.3.3
 - pkg:composer/patcherly/php-connector@v2.3.4
 - pkg:composer/patcherly/php-connector@v2.3.6
+- pkg:composer/patcherly/php-connector@v2.3.9
