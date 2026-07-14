@@ -128,5 +128,7 @@
 - pkg:composer/riari/laravel-forum@7.0.1
 - pkg:composer/riari/laravel-forum@7.0.2
 - pkg:composer/riari/laravel-forum@7.0.3
+- pkg:composer/riari/laravel-forum@7.0.4
 - pkg:composer/riari/laravel-forum@8.0.0
 - pkg:composer/riari/laravel-forum@8.0.1
+- pkg:composer/riari/laravel-forum@8.0.2
