@@ -5,5 +5,8 @@
 - pkg:composer/spam-n-eggs/laravel-mysqlite@1.1.0
 - pkg:composer/spam-n-eggs/laravel-mysqlite@1.2.0
 - pkg:composer/spam-n-eggs/laravel-mysqlite@1.3.0
+- pkg:composer/spam-n-eggs/laravel-mysqlite@1.4.0
+- pkg:composer/spam-n-eggs/laravel-mysqlite@2.0.0
+- pkg:composer/spam-n-eggs/laravel-mysqlite@2.0.1
 - pkg:composer/spam-n-eggs/laravel-mysqlite@v0.0.1
 - pkg:composer/spam-n-eggs/laravel-mysqlite@v0.1.0
