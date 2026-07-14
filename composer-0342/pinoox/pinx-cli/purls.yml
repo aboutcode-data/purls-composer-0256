@@ -22,3 +22,6 @@
 - pkg:composer/pinoox/pinx-cli@1.4.2
 - pkg:composer/pinoox/pinx-cli@1.4.6
 - pkg:composer/pinoox/pinx-cli@1.6.2
+- pkg:composer/pinoox/pinx-cli@1.6.3
+- pkg:composer/pinoox/pinx-cli@1.6.7
+- pkg:composer/pinoox/pinx-cli@1.6.8
