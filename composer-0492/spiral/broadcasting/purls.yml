@@ -12,6 +12,7 @@
 - pkg:composer/spiral/broadcasting@3.11.1
 - pkg:composer/spiral/broadcasting@3.12.0
 - pkg:composer/spiral/broadcasting@3.13.0
+- pkg:composer/spiral/broadcasting@3.13.1
 - pkg:composer/spiral/broadcasting@3.14.0
 - pkg:composer/spiral/broadcasting@3.14.1
 - pkg:composer/spiral/broadcasting@3.14.10
@@ -36,6 +37,7 @@
 - pkg:composer/spiral/broadcasting@3.16.1
 - pkg:composer/spiral/broadcasting@3.16.2
 - pkg:composer/spiral/broadcasting@3.17.0
+- pkg:composer/spiral/broadcasting@3.17.1
 - pkg:composer/spiral/broadcasting@3.2.0
 - pkg:composer/spiral/broadcasting@3.3.0
 - pkg:composer/spiral/broadcasting@3.4.0
