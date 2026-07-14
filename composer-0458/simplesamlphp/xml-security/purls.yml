@@ -128,3 +128,4 @@
 - pkg:composer/simplesamlphp/xml-security@v2.2.0
 - pkg:composer/simplesamlphp/xml-security@v2.3.0
 - pkg:composer/simplesamlphp/xml-security@v2.3.1
+- pkg:composer/simplesamlphp/xml-security@v3.0.0
