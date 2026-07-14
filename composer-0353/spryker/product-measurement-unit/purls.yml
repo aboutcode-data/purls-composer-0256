@@ -26,3 +26,4 @@
 - pkg:composer/spryker/product-measurement-unit@5.7.0
 - pkg:composer/spryker/product-measurement-unit@5.8.0
 - pkg:composer/spryker/product-measurement-unit@5.9.0
+- pkg:composer/spryker/product-measurement-unit@5.9.1
