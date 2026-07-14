@@ -9,3 +9,4 @@
 - pkg:composer/piko/db-record@v2.2.2
 - pkg:composer/piko/db-record@v2.2.3
 - pkg:composer/piko/db-record@v3.0
+- pkg:composer/piko/db-record@v3.1
