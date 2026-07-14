@@ -122,3 +122,4 @@
 - pkg:composer/sabre/dav@4.5.1
 - pkg:composer/sabre/dav@4.6.0
 - pkg:composer/sabre/dav@4.7.0
+- pkg:composer/sabre/dav@4.7.1

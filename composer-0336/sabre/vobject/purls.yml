@@ -95,3 +95,5 @@
 - pkg:composer/sabre/vobject@4.5.8
 - pkg:composer/sabre/vobject@4.5.9
 - pkg:composer/sabre/vobject@4.6.0
+- pkg:composer/sabre/vobject@4.6.1
+- pkg:composer/sabre/vobject@5.0.0
