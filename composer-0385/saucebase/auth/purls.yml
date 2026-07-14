@@ -35,3 +35,4 @@
 - pkg:composer/saucebase/auth@v2.1.4
 - pkg:composer/saucebase/auth@v2.2.0
 - pkg:composer/saucebase/auth@v2.2.1
+- pkg:composer/saucebase/auth@v2.3.0
