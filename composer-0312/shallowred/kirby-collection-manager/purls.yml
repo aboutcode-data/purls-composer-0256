@@ -1,2 +1,4 @@
 - pkg:composer/shallowred/kirby-collection-manager@0.1.0
 - pkg:composer/shallowred/kirby-collection-manager@0.1.1
+- pkg:composer/shallowred/kirby-collection-manager@v1.0.0
+- pkg:composer/shallowred/kirby-collection-manager@v1.1.0
