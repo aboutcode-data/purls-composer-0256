@@ -66,6 +66,8 @@
 - pkg:composer/phpolygon/phpolygon@v0.28.1
 - pkg:composer/phpolygon/phpolygon@v0.28.2
 - pkg:composer/phpolygon/phpolygon@v0.29.0
+- pkg:composer/phpolygon/phpolygon@v0.30.0
+- pkg:composer/phpolygon/phpolygon@v0.31.0
 - pkg:composer/phpolygon/phpolygon@v0.5.0
 - pkg:composer/phpolygon/phpolygon@v0.6.0
 - pkg:composer/phpolygon/phpolygon@v0.6.1
