@@ -60,3 +60,4 @@
 - pkg:composer/symfony/ux-chartjs@v3.0.0
 - pkg:composer/symfony/ux-chartjs@v3.1.0
 - pkg:composer/symfony/ux-chartjs@v3.2.0
+- pkg:composer/symfony/ux-chartjs@v3.3.0

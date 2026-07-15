@@ -58,3 +58,4 @@
 - pkg:composer/symfony/ux-turbo@v3.0.0
 - pkg:composer/symfony/ux-turbo@v3.1.0
 - pkg:composer/symfony/ux-turbo@v3.2.0
+- pkg:composer/symfony/ux-turbo@v3.3.0
