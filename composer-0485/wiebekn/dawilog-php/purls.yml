@@ -17,3 +17,5 @@
 - pkg:composer/wiebekn/dawilog-php@v0.0.7
 - pkg:composer/wiebekn/dawilog-php@v0.0.8
 - pkg:composer/wiebekn/dawilog-php@v0.0.9
+- pkg:composer/wiebekn/dawilog-php@v0.1.0
+- pkg:composer/wiebekn/dawilog-php@v0.1.1
