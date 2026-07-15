@@ -158,3 +158,4 @@
 - pkg:composer/wallee/magento-2@3.0.3
 - pkg:composer/wallee/magento-2@3.1.0
 - pkg:composer/wallee/magento-2@3.2.0
+- pkg:composer/wallee/magento-2@3.2.1
