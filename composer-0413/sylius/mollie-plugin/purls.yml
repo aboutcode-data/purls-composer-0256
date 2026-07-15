@@ -15,6 +15,8 @@
 - pkg:composer/sylius/mollie-plugin@v2.2.5
 - pkg:composer/sylius/mollie-plugin@v2.2.6
 - pkg:composer/sylius/mollie-plugin@v2.2.7
+- pkg:composer/sylius/mollie-plugin@v2.2.8
+- pkg:composer/sylius/mollie-plugin@v2.2.9
 - pkg:composer/sylius/mollie-plugin@v3.0.0
 - pkg:composer/sylius/mollie-plugin@v3.0.1
 - pkg:composer/sylius/mollie-plugin@v3.0.2
@@ -26,4 +28,8 @@
 - pkg:composer/sylius/mollie-plugin@v3.2.1
 - pkg:composer/sylius/mollie-plugin@v3.2.2
 - pkg:composer/sylius/mollie-plugin@v3.2.3
+- pkg:composer/sylius/mollie-plugin@v3.2.4
+- pkg:composer/sylius/mollie-plugin@v3.2.5
 - pkg:composer/sylius/mollie-plugin@v3.3.0
+- pkg:composer/sylius/mollie-plugin@v3.3.1
+- pkg:composer/sylius/mollie-plugin@v3.3.2
