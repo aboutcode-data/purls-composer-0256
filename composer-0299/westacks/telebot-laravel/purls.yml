@@ -24,3 +24,5 @@
 - pkg:composer/westacks/telebot-laravel@4.4.3
 - pkg:composer/westacks/telebot-laravel@4.5.0
 - pkg:composer/westacks/telebot-laravel@4.5.1
+- pkg:composer/westacks/telebot-laravel@4.6.0
+- pkg:composer/westacks/telebot-laravel@4.6.1

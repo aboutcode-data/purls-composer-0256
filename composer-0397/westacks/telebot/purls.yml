@@ -105,3 +105,5 @@
 - pkg:composer/westacks/telebot@4.8.7
 - pkg:composer/westacks/telebot@4.8.8
 - pkg:composer/westacks/telebot@4.8.9
+- pkg:composer/westacks/telebot@4.9.0
+- pkg:composer/westacks/telebot@4.9.1
