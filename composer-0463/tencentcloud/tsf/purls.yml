@@ -425,6 +425,7 @@
 - pkg:composer/tencentcloud/tsf@3.0.1606
 - pkg:composer/tencentcloud/tsf@3.0.1607
 - pkg:composer/tencentcloud/tsf@3.0.1618
+- pkg:composer/tencentcloud/tsf@3.0.1624
 - pkg:composer/tencentcloud/tsf@3.0.248
 - pkg:composer/tencentcloud/tsf@3.0.249
 - pkg:composer/tencentcloud/tsf@3.0.250
