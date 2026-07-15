@@ -14,3 +14,4 @@
 - pkg:composer/whereof/cloud-print@0.2.7
 - pkg:composer/whereof/cloud-print@0.2.8
 - pkg:composer/whereof/cloud-print@v1.0.0
+- pkg:composer/whereof/cloud-print@v1.0.1
