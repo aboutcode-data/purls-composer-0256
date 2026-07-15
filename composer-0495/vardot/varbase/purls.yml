@@ -21,8 +21,10 @@
 - pkg:composer/vardot/varbase@10.1.0-alpha3
 - pkg:composer/vardot/varbase@10.1.0-beta1
 - pkg:composer/vardot/varbase@10.1.0-rc1
+- pkg:composer/vardot/varbase@10.1.1
 - pkg:composer/vardot/varbase@11.0.0-alpha2
 - pkg:composer/vardot/varbase@11.0.0-alpha3
+- pkg:composer/vardot/varbase@11.0.0-beta1
 - pkg:composer/vardot/varbase@8.4.0
 - pkg:composer/vardot/varbase@8.4.0-beta15
 - pkg:composer/vardot/varbase@8.4.0-beta16
@@ -137,3 +139,4 @@
 - pkg:composer/vardot/varbase@9.1.7
 - pkg:composer/vardot/varbase@9.1.8
 - pkg:composer/vardot/varbase@9.1.9
+- pkg:composer/vardot/varbase@9.2.0
