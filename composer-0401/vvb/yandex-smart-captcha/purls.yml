@@ -5,3 +5,5 @@
 - pkg:composer/vvb/yandex-smart-captcha@0.1.15
 - pkg:composer/vvb/yandex-smart-captcha@0.1.9
 - pkg:composer/vvb/yandex-smart-captcha@v0.1.13
+- pkg:composer/vvb/yandex-smart-captcha@v0.2
+- pkg:composer/vvb/yandex-smart-captcha@v0.2.1
