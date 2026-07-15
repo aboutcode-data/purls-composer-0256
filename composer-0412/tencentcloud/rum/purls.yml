@@ -407,6 +407,7 @@
 - pkg:composer/tencentcloud/rum@3.0.1603
 - pkg:composer/tencentcloud/rum@3.0.1615
 - pkg:composer/tencentcloud/rum@3.0.1618
+- pkg:composer/tencentcloud/rum@3.0.1625
 - pkg:composer/tencentcloud/rum@3.0.449
 - pkg:composer/tencentcloud/rum@3.0.450
 - pkg:composer/tencentcloud/rum@3.0.451
