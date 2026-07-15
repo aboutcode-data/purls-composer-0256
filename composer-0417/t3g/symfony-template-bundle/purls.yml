@@ -55,4 +55,5 @@
 - pkg:composer/t3g/symfony-template-bundle@6.0.1
 - pkg:composer/t3g/symfony-template-bundle@6.1.0
 - pkg:composer/t3g/symfony-template-bundle@6.1.1
+- pkg:composer/t3g/symfony-template-bundle@6.1.2
 - pkg:composer/t3g/symfony-template-bundle@v2.8.0
