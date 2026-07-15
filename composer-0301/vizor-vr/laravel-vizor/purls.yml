@@ -1,1 +1,3 @@
 - pkg:composer/vizor-vr/laravel-vizor@v0.1.0
+- pkg:composer/vizor-vr/laravel-vizor@v0.2.0
+- pkg:composer/vizor-vr/laravel-vizor@v0.2.1
