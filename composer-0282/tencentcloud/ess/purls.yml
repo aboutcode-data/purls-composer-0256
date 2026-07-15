@@ -512,6 +512,12 @@
 - pkg:composer/tencentcloud/ess@3.0.1615
 - pkg:composer/tencentcloud/ess@3.0.1616
 - pkg:composer/tencentcloud/ess@3.0.1618
+- pkg:composer/tencentcloud/ess@3.0.1619
+- pkg:composer/tencentcloud/ess@3.0.1621
+- pkg:composer/tencentcloud/ess@3.0.1622
+- pkg:composer/tencentcloud/ess@3.0.1623
+- pkg:composer/tencentcloud/ess@3.0.1624
+- pkg:composer/tencentcloud/ess@3.0.1625
 - pkg:composer/tencentcloud/ess@3.0.583
 - pkg:composer/tencentcloud/ess@3.0.584
 - pkg:composer/tencentcloud/ess@3.0.585

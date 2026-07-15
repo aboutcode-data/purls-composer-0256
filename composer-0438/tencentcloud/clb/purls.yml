@@ -431,6 +431,8 @@
 - pkg:composer/tencentcloud/clb@3.0.1609
 - pkg:composer/tencentcloud/clb@3.0.1611
 - pkg:composer/tencentcloud/clb@3.0.1614
+- pkg:composer/tencentcloud/clb@3.0.1621
+- pkg:composer/tencentcloud/clb@3.0.1624
 - pkg:composer/tencentcloud/clb@3.0.248
 - pkg:composer/tencentcloud/clb@3.0.249
 - pkg:composer/tencentcloud/clb@3.0.250
