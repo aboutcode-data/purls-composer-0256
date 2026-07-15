@@ -72,6 +72,11 @@
 - pkg:composer/webtourismus/drupal-starterkit@v1.10.20
 - pkg:composer/webtourismus/drupal-starterkit@v1.10.21
 - pkg:composer/webtourismus/drupal-starterkit@v1.10.22
+- pkg:composer/webtourismus/drupal-starterkit@v1.10.23
+- pkg:composer/webtourismus/drupal-starterkit@v1.10.24
+- pkg:composer/webtourismus/drupal-starterkit@v1.10.25
+- pkg:composer/webtourismus/drupal-starterkit@v1.10.26
+- pkg:composer/webtourismus/drupal-starterkit@v1.10.27
 - pkg:composer/webtourismus/drupal-starterkit@v1.10.3
 - pkg:composer/webtourismus/drupal-starterkit@v1.10.4
 - pkg:composer/webtourismus/drupal-starterkit@v1.10.5
