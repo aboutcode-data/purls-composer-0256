@@ -48,3 +48,6 @@
 - pkg:composer/webmenedzser/uvb-connector-woocommerce@4.0.1
 - pkg:composer/webmenedzser/uvb-connector-woocommerce@4.1.0
 - pkg:composer/webmenedzser/uvb-connector-woocommerce@4.1.1
+- pkg:composer/webmenedzser/uvb-connector-woocommerce@4.2.0
+- pkg:composer/webmenedzser/uvb-connector-woocommerce@4.2.1
+- pkg:composer/webmenedzser/uvb-connector-woocommerce@4.2.2
