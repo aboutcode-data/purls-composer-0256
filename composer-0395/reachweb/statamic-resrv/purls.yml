@@ -58,3 +58,4 @@
 - pkg:composer/reachweb/statamic-resrv@v6.1.0
 - pkg:composer/reachweb/statamic-resrv@v6.2.0
 - pkg:composer/reachweb/statamic-resrv@v6.2.1
+- pkg:composer/reachweb/statamic-resrv@v6.3.0
