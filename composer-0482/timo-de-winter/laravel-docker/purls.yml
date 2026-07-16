@@ -12,3 +12,4 @@
 - pkg:composer/timo-de-winter/laravel-docker@v5.2.2
 - pkg:composer/timo-de-winter/laravel-docker@v5.3.0
 - pkg:composer/timo-de-winter/laravel-docker@v5.4.0
+- pkg:composer/timo-de-winter/laravel-docker@v5.4.1
