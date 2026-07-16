@@ -35,3 +35,5 @@
 - pkg:composer/wamesk/laravel-auth@5.0.7
 - pkg:composer/wamesk/laravel-auth@5.1.0
 - pkg:composer/wamesk/laravel-auth@5.2.0
+- pkg:composer/wamesk/laravel-auth@5.2.1
+- pkg:composer/wamesk/laravel-auth@5.2.2
