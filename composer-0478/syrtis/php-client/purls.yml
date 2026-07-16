@@ -25,4 +25,5 @@
 - pkg:composer/syrtis/php-client@0.0.9
 - pkg:composer/syrtis/php-client@2.0.0
 - pkg:composer/syrtis/php-client@2.0.1
+- pkg:composer/syrtis/php-client@3.0.0
 - pkg:composer/syrtis/php-client@v0.0.1
