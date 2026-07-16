@@ -756,3 +756,4 @@
 - pkg:composer/wp-phpunit/wp-phpunit@6.9.3
 - pkg:composer/wp-phpunit/wp-phpunit@6.9.4
 - pkg:composer/wp-phpunit/wp-phpunit@7.0.0
+- pkg:composer/wp-phpunit/wp-phpunit@7.0.1
