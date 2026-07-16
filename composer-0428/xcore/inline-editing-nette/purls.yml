@@ -11,3 +11,6 @@
 - pkg:composer/xcore/inline-editing-nette@v1.3.1
 - pkg:composer/xcore/inline-editing-nette@v1.4.0
 - pkg:composer/xcore/inline-editing-nette@v1.4.1
+- pkg:composer/xcore/inline-editing-nette@v2.0.0
+- pkg:composer/xcore/inline-editing-nette@v2.0.1
+- pkg:composer/xcore/inline-editing-nette@v2.0.2
