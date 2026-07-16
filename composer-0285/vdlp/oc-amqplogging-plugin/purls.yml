@@ -5,3 +5,4 @@
 - pkg:composer/vdlp/oc-amqplogging-plugin@2.2.0
 - pkg:composer/vdlp/oc-amqplogging-plugin@2.3.0
 - pkg:composer/vdlp/oc-amqplogging-plugin@2.4.0
+- pkg:composer/vdlp/oc-amqplogging-plugin@2.4.1
