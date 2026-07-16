@@ -2,4 +2,10 @@
 - pkg:composer/aiviemarketing/mautic-trello@2.0.2
 - pkg:composer/aiviemarketing/mautic-trello@2.0.3
 - pkg:composer/aiviemarketing/mautic-trello@2.0.4
+- pkg:composer/aiviemarketing/mautic-trello@7.0.1
+- pkg:composer/aiviemarketing/mautic-trello@7.0.2
+- pkg:composer/aiviemarketing/mautic-trello@7.0.3
+- pkg:composer/aiviemarketing/mautic-trello@7.0.4
+- pkg:composer/aiviemarketing/mautic-trello@7.0.5
+- pkg:composer/aiviemarketing/mautic-trello@7.0.6
 - pkg:composer/aiviemarketing/mautic-trello@v1.1.0
