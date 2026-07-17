@@ -1,3 +1,4 @@
+- pkg:composer/attogram/attogram-database@0001
 - pkg:composer/attogram/attogram-database@v0.0.1
 - pkg:composer/attogram/attogram-database@v0.0.2
 - pkg:composer/attogram/attogram-database@v0.0.3
