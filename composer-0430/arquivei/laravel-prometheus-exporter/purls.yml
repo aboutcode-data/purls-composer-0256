@@ -17,3 +17,4 @@
 - pkg:composer/arquivei/laravel-prometheus-exporter@4.1.0
 - pkg:composer/arquivei/laravel-prometheus-exporter@5.0.0
 - pkg:composer/arquivei/laravel-prometheus-exporter@5.1.0
+- pkg:composer/arquivei/laravel-prometheus-exporter@6.0.0
