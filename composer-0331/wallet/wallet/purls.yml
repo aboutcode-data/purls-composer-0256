@@ -1,4 +1,7 @@
 - pkg:composer/wallet/wallet@2.1.604
+- pkg:composer/wallet/wallet@2.10.0
+- pkg:composer/wallet/wallet@2.10.1
+- pkg:composer/wallet/wallet@2.10.2
 - pkg:composer/wallet/wallet@2.2.5
 - pkg:composer/wallet/wallet@2.2.6
 - pkg:composer/wallet/wallet@2.2.7
