@@ -54,6 +54,7 @@
 - pkg:composer/appwrite/appwrite@25.1.0
 - pkg:composer/appwrite/appwrite@26.0.0
 - pkg:composer/appwrite/appwrite@26.1.0
+- pkg:composer/appwrite/appwrite@27.0.0
 - pkg:composer/appwrite/appwrite@3.0.0
 - pkg:composer/appwrite/appwrite@4.0.0
 - pkg:composer/appwrite/appwrite@4.0.1

@@ -1,4 +1,5 @@
 - pkg:composer/appto-team/telegram-bot-cast@2.0.10.1
+- pkg:composer/appto-team/telegram-bot-cast@2.0.10.2
 - pkg:composer/appto-team/telegram-bot-cast@9.0
 - pkg:composer/appto-team/telegram-bot-cast@9.1
 - pkg:composer/appto-team/telegram-bot-cast@9.2
