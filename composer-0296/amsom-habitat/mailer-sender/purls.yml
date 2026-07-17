@@ -8,3 +8,5 @@
 - pkg:composer/amsom-habitat/mailer-sender@v3.0.7
 - pkg:composer/amsom-habitat/mailer-sender@v3.0.8
 - pkg:composer/amsom-habitat/mailer-sender@v3.1.0
+- pkg:composer/amsom-habitat/mailer-sender@v3.2.0
+- pkg:composer/amsom-habitat/mailer-sender@v3.2.1
