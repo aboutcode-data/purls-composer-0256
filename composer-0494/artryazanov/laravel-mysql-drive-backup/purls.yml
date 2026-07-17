@@ -2,3 +2,4 @@
 - pkg:composer/artryazanov/laravel-mysql-drive-backup@v0.1.1
 - pkg:composer/artryazanov/laravel-mysql-drive-backup@v0.1.2
 - pkg:composer/artryazanov/laravel-mysql-drive-backup@v1.0.0
+- pkg:composer/artryazanov/laravel-mysql-drive-backup@v1.1.0
