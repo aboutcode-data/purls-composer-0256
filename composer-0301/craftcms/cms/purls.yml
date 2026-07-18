@@ -987,6 +987,7 @@
 - pkg:composer/craftcms/cms@4.18.2
 - pkg:composer/craftcms/cms@4.18.3
 - pkg:composer/craftcms/cms@4.18.4
+- pkg:composer/craftcms/cms@4.18.5
 - pkg:composer/craftcms/cms@4.2.0
 - pkg:composer/craftcms/cms@4.2.0.1
 - pkg:composer/craftcms/cms@4.2.0.2
@@ -1142,6 +1143,7 @@
 - pkg:composer/craftcms/cms@5.10.0
 - pkg:composer/craftcms/cms@5.10.1
 - pkg:composer/craftcms/cms@5.10.10
+- pkg:composer/craftcms/cms@5.10.11
 - pkg:composer/craftcms/cms@5.10.2
 - pkg:composer/craftcms/cms@5.10.3
 - pkg:composer/craftcms/cms@5.10.4
@@ -1307,6 +1309,8 @@
 - pkg:composer/craftcms/cms@6.0.0-alpha.1
 - pkg:composer/craftcms/cms@6.0.0-alpha.10
 - pkg:composer/craftcms/cms@6.0.0-alpha.11
+- pkg:composer/craftcms/cms@6.0.0-alpha.12
+- pkg:composer/craftcms/cms@6.0.0-alpha.13
 - pkg:composer/craftcms/cms@6.0.0-alpha.2
 - pkg:composer/craftcms/cms@6.0.0-alpha.3
 - pkg:composer/craftcms/cms@6.0.0-alpha.4
