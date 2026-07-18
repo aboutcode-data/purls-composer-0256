@@ -1,3 +1,4 @@
 - pkg:composer/ccs/strata-frontend@0.7.0
 - pkg:composer/ccs/strata-frontend@1.0.0
 - pkg:composer/ccs/strata-frontend@v1.0.1
+- pkg:composer/ccs/strata-frontend@v2.2.0
