@@ -52,6 +52,7 @@
 - pkg:composer/daanrijpkema/bluem-php@2.3.8
 - pkg:composer/daanrijpkema/bluem-php@2.4
 - pkg:composer/daanrijpkema/bluem-php@2.5
+- pkg:composer/daanrijpkema/bluem-php@2.6.1
 - pkg:composer/daanrijpkema/bluem-php@3.0-beta
 - pkg:composer/daanrijpkema/bluem-php@3.0-beta-2
 - pkg:composer/daanrijpkema/bluem-php@v0.5
