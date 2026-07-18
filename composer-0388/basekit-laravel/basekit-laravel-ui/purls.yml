@@ -9,3 +9,6 @@
 - pkg:composer/basekit-laravel/basekit-laravel-ui@v1.3.0
 - pkg:composer/basekit-laravel/basekit-laravel-ui@v1.4.0
 - pkg:composer/basekit-laravel/basekit-laravel-ui@v1.4.1
+- pkg:composer/basekit-laravel/basekit-laravel-ui@v1.5.0
+- pkg:composer/basekit-laravel/basekit-laravel-ui@v1.5.1
+- pkg:composer/basekit-laravel/basekit-laravel-ui@v1.6.0
