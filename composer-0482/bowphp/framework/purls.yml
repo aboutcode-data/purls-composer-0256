@@ -100,3 +100,5 @@
 - pkg:composer/bowphp/framework@5.3.40
 - pkg:composer/bowphp/framework@5.4.0
 - pkg:composer/bowphp/framework@5.4.10
+- pkg:composer/bowphp/framework@5.4.11
+- pkg:composer/bowphp/framework@5.4.12
