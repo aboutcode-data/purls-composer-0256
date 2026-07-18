@@ -1,5 +1,6 @@
 - pkg:composer/covergenius/php-vcr@v1.10.0
 - pkg:composer/covergenius/php-vcr@v1.11.0
+- pkg:composer/covergenius/php-vcr@v1.12.0
 - pkg:composer/covergenius/php-vcr@v1.7.0
 - pkg:composer/covergenius/php-vcr@v1.8.0
 - pkg:composer/covergenius/php-vcr@v1.9.0
