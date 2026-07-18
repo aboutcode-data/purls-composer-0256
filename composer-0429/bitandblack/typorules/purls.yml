@@ -24,6 +24,12 @@
 - pkg:composer/bitandblack/typorules@0.20.4
 - pkg:composer/bitandblack/typorules@0.20.5
 - pkg:composer/bitandblack/typorules@0.20.6
+- pkg:composer/bitandblack/typorules@0.21.0
+- pkg:composer/bitandblack/typorules@0.22.0
+- pkg:composer/bitandblack/typorules@0.22.1
+- pkg:composer/bitandblack/typorules@0.22.2
+- pkg:composer/bitandblack/typorules@0.22.3
+- pkg:composer/bitandblack/typorules@0.22.4
 - pkg:composer/bitandblack/typorules@0.3.0
 - pkg:composer/bitandblack/typorules@0.4.0
 - pkg:composer/bitandblack/typorules@0.5.0
