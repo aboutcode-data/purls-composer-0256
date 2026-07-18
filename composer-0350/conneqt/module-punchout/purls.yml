@@ -13,3 +13,5 @@
 - pkg:composer/conneqt/module-punchout@0.3.5
 - pkg:composer/conneqt/module-punchout@0.3.6
 - pkg:composer/conneqt/module-punchout@0.4.0
+- pkg:composer/conneqt/module-punchout@0.5.0
+- pkg:composer/conneqt/module-punchout@0.5.1
