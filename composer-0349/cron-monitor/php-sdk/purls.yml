@@ -1,9 +1,3 @@
-- pkg:composer/cron-monitor/php-sdk@v0.1.0
-- pkg:composer/cron-monitor/php-sdk@v0.1.1
-- pkg:composer/cron-monitor/php-sdk@v0.1.2
-- pkg:composer/cron-monitor/php-sdk@v0.1.3
-- pkg:composer/cron-monitor/php-sdk@v0.2.0
-- pkg:composer/cron-monitor/php-sdk@v0.2.1
 - pkg:composer/cron-monitor/php-sdk@v1.0.0
 - pkg:composer/cron-monitor/php-sdk@v1.1.0
 - pkg:composer/cron-monitor/php-sdk@v1.2.0
