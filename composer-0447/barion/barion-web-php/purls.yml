@@ -6,3 +6,5 @@
 - pkg:composer/barion/barion-web-php@v2.0.0
 - pkg:composer/barion/barion-web-php@v2.0.1
 - pkg:composer/barion/barion-web-php@v2.1.0
+- pkg:composer/barion/barion-web-php@v3.0.0
+- pkg:composer/barion/barion-web-php@v3.1.0
