@@ -5,3 +5,4 @@
 - pkg:composer/botnetdobbs/laravel-mpesa-sdk@1.0.4
 - pkg:composer/botnetdobbs/laravel-mpesa-sdk@1.1.0
 - pkg:composer/botnetdobbs/laravel-mpesa-sdk@1.1.1
+- pkg:composer/botnetdobbs/laravel-mpesa-sdk@2.0.0
