@@ -115,6 +115,8 @@
 - pkg:composer/blockchyp/blockchyp-php@v2.30.3
 - pkg:composer/blockchyp/blockchyp-php@v2.30.4
 - pkg:composer/blockchyp/blockchyp-php@v2.30.5
+- pkg:composer/blockchyp/blockchyp-php@v2.30.6
+- pkg:composer/blockchyp/blockchyp-php@v2.30.7
 - pkg:composer/blockchyp/blockchyp-php@v2.4.0
 - pkg:composer/blockchyp/blockchyp-php@v2.5.0
 - pkg:composer/blockchyp/blockchyp-php@v2.6.0
