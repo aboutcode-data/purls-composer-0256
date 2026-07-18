@@ -24,6 +24,8 @@
 - pkg:composer/calebdw/larastan@v3.10.1
 - pkg:composer/calebdw/larastan@v3.10.2
 - pkg:composer/calebdw/larastan@v3.11.0
+- pkg:composer/calebdw/larastan@v3.12.0
+- pkg:composer/calebdw/larastan@v3.12.1
 - pkg:composer/calebdw/larastan@v3.3.0
 - pkg:composer/calebdw/larastan@v3.3.1
 - pkg:composer/calebdw/larastan@v3.3.2

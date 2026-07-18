@@ -112,6 +112,7 @@
 - pkg:composer/calcurates/module-magento@1.48.8
 - pkg:composer/calcurates/module-magento@1.48.9
 - pkg:composer/calcurates/module-magento@1.49.0
+- pkg:composer/calcurates/module-magento@1.49.1
 - pkg:composer/calcurates/module-magento@1.5.0
 - pkg:composer/calcurates/module-magento@1.6.0
 - pkg:composer/calcurates/module-magento@1.7.0
