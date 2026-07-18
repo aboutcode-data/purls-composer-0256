@@ -11,6 +11,7 @@
 - pkg:composer/clickstorm/cs-seo@1.8.6
 - pkg:composer/clickstorm/cs-seo@10.0.0
 - pkg:composer/clickstorm/cs-seo@10.1.0
+- pkg:composer/clickstorm/cs-seo@10.2.0
 - pkg:composer/clickstorm/cs-seo@2.0.0
 - pkg:composer/clickstorm/cs-seo@2.0.1
 - pkg:composer/clickstorm/cs-seo@2.1.0
@@ -82,3 +83,4 @@
 - pkg:composer/clickstorm/cs-seo@9.3.1
 - pkg:composer/clickstorm/cs-seo@9.4.0
 - pkg:composer/clickstorm/cs-seo@9.5.0
+- pkg:composer/clickstorm/cs-seo@9.6.0
