@@ -141,6 +141,7 @@
 - pkg:composer/bedita/core@v5.45.1
 - pkg:composer/bedita/core@v5.45.2
 - pkg:composer/bedita/core@v5.46.0
+- pkg:composer/bedita/core@v5.47.0
 - pkg:composer/bedita/core@v5.5.0
 - pkg:composer/bedita/core@v5.5.1
 - pkg:composer/bedita/core@v5.5.2
