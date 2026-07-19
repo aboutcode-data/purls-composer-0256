@@ -17,3 +17,4 @@
 - pkg:composer/divineomega/laravel-password-exposed-validation-rule@v5.0.0
 - pkg:composer/divineomega/laravel-password-exposed-validation-rule@v5.0.1
 - pkg:composer/divineomega/laravel-password-exposed-validation-rule@v6.0.0
+- pkg:composer/divineomega/laravel-password-exposed-validation-rule@v6.1.0
