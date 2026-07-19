@@ -27,6 +27,7 @@
 - pkg:composer/drupal/core-recipe-unpack@11.3.11
 - pkg:composer/drupal/core-recipe-unpack@11.3.12
 - pkg:composer/drupal/core-recipe-unpack@11.3.13
+- pkg:composer/drupal/core-recipe-unpack@11.3.14
 - pkg:composer/drupal/core-recipe-unpack@11.3.2
 - pkg:composer/drupal/core-recipe-unpack@11.3.3
 - pkg:composer/drupal/core-recipe-unpack@11.3.4
@@ -40,3 +41,6 @@
 - pkg:composer/drupal/core-recipe-unpack@11.4.0-rc1
 - pkg:composer/drupal/core-recipe-unpack@11.4.0-rc2
 - pkg:composer/drupal/core-recipe-unpack@11.4.1
+- pkg:composer/drupal/core-recipe-unpack@11.4.2
+- pkg:composer/drupal/core-recipe-unpack@11.4.3
+- pkg:composer/drupal/core-recipe-unpack@11.4.4
