@@ -1,3 +1,4 @@
+- pkg:composer/dnmvcs/framework@1.3.5
 - pkg:composer/dnmvcs/framework@v1.0.1
 - pkg:composer/dnmvcs/framework@v1.0.10
 - pkg:composer/dnmvcs/framework@v1.0.11
