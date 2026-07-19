@@ -37,3 +37,5 @@
 - pkg:composer/druidweb/druid@v1.5.3
 - pkg:composer/druidweb/druid@v1.5.4
 - pkg:composer/druidweb/druid@v1.5.5
+- pkg:composer/druidweb/druid@v1.5.6
+- pkg:composer/druidweb/druid@v1.5.7
