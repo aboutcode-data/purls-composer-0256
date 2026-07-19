@@ -12,3 +12,5 @@
 - pkg:composer/agriserv/sso@v1.1.6-stable
 - pkg:composer/agriserv/sso@v1.1.7
 - pkg:composer/agriserv/sso@v1.2
+- pkg:composer/agriserv/sso@v2.0
+- pkg:composer/agriserv/sso@v2.0.1
