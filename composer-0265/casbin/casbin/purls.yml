@@ -76,3 +76,5 @@
 - pkg:composer/casbin/casbin@v4.1.0
 - pkg:composer/casbin/casbin@v4.1.1
 - pkg:composer/casbin/casbin@v4.2.0
+- pkg:composer/casbin/casbin@v4.3.0
+- pkg:composer/casbin/casbin@v4.3.1
