@@ -22,3 +22,9 @@
 - pkg:composer/devstudio-rs/wpmvc@v1.0.7
 - pkg:composer/devstudio-rs/wpmvc@v1.0.8
 - pkg:composer/devstudio-rs/wpmvc@v1.0.9
+- pkg:composer/devstudio-rs/wpmvc@v1.1.0
+- pkg:composer/devstudio-rs/wpmvc@v1.2.0
+- pkg:composer/devstudio-rs/wpmvc@v1.3.0
+- pkg:composer/devstudio-rs/wpmvc@v1.5.0
+- pkg:composer/devstudio-rs/wpmvc@v1.6.0
+- pkg:composer/devstudio-rs/wpmvc@v1.7.0
