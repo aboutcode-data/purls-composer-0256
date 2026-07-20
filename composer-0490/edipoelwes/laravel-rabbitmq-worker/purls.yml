@@ -8,3 +8,4 @@
 - pkg:composer/edipoelwes/laravel-rabbitmq-worker@v1.1.0
 - pkg:composer/edipoelwes/laravel-rabbitmq-worker@v1.2.0
 - pkg:composer/edipoelwes/laravel-rabbitmq-worker@v1.3.0
+- pkg:composer/edipoelwes/laravel-rabbitmq-worker@v2.0.0
