@@ -10,3 +10,4 @@
 - pkg:composer/fidum/laravel-translation-linter@2.0.2
 - pkg:composer/fidum/laravel-translation-linter@2.0.3
 - pkg:composer/fidum/laravel-translation-linter@3.0.0
+- pkg:composer/fidum/laravel-translation-linter@3.0.1

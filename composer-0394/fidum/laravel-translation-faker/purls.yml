@@ -3,3 +3,4 @@
 - pkg:composer/fidum/laravel-translation-faker@1.0.2
 - pkg:composer/fidum/laravel-translation-faker@2.0.0
 - pkg:composer/fidum/laravel-translation-faker@2.1.0
+- pkg:composer/fidum/laravel-translation-faker@2.2.0
