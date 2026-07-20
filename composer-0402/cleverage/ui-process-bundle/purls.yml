@@ -12,3 +12,4 @@
 - pkg:composer/cleverage/ui-process-bundle@v2.1.1
 - pkg:composer/cleverage/ui-process-bundle@v2.2
 - pkg:composer/cleverage/ui-process-bundle@v2.3
+- pkg:composer/cleverage/ui-process-bundle@v3.0
