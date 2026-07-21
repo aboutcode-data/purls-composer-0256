@@ -370,6 +370,8 @@
 - pkg:composer/friendsofphp/php-cs-fixer@v3.95.11
 - pkg:composer/friendsofphp/php-cs-fixer@v3.95.12
 - pkg:composer/friendsofphp/php-cs-fixer@v3.95.13
+- pkg:composer/friendsofphp/php-cs-fixer@v3.95.14
+- pkg:composer/friendsofphp/php-cs-fixer@v3.95.15
 - pkg:composer/friendsofphp/php-cs-fixer@v3.95.2
 - pkg:composer/friendsofphp/php-cs-fixer@v3.95.3
 - pkg:composer/friendsofphp/php-cs-fixer@v3.95.4
