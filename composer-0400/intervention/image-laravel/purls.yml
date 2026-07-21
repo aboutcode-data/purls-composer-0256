@@ -19,3 +19,4 @@
 - pkg:composer/intervention/image-laravel@1.5.9
 - pkg:composer/intervention/image-laravel@4.0.0
 - pkg:composer/intervention/image-laravel@4.0.1
+- pkg:composer/intervention/image-laravel@4.1.0
