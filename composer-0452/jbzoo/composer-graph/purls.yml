@@ -18,3 +18,4 @@
 - pkg:composer/jbzoo/composer-graph@7.0.1
 - pkg:composer/jbzoo/composer-graph@7.0.2
 - pkg:composer/jbzoo/composer-graph@7.1.0
+- pkg:composer/jbzoo/composer-graph@8.0.0

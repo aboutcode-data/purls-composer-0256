@@ -17,3 +17,4 @@
 - pkg:composer/jbzoo/cli@7.2.3
 - pkg:composer/jbzoo/cli@7.2.4
 - pkg:composer/jbzoo/cli@7.2.5
+- pkg:composer/jbzoo/cli@8.0.0
