@@ -1,1 +1,4 @@
 - pkg:composer/jadob/scribe@v0.1.0
+- pkg:composer/jadob/scribe@v0.2.0
+- pkg:composer/jadob/scribe@v0.3.0
+- pkg:composer/jadob/scribe@v0.3.1
