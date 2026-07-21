@@ -1,3 +1,4 @@
 - pkg:composer/jord-jd/php-camel-caser@v1.0.0
 - pkg:composer/jord-jd/php-camel-caser@v2.0.0
 - pkg:composer/jord-jd/php-camel-caser@v3.0.0
+- pkg:composer/jord-jd/php-camel-caser@v3.0.1

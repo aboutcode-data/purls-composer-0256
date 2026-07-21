@@ -1,3 +1,4 @@
 - pkg:composer/jord-jd/password-suggester@v1.0.0
 - pkg:composer/jord-jd/password-suggester@v2.0.0
 - pkg:composer/jord-jd/password-suggester@v3.0.0
+- pkg:composer/jord-jd/password-suggester@v4.0.0

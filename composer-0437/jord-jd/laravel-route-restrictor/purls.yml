@@ -13,3 +13,4 @@
 - pkg:composer/jord-jd/laravel-route-restrictor@v2.3.1
 - pkg:composer/jord-jd/laravel-route-restrictor@v3.0.0
 - pkg:composer/jord-jd/laravel-route-restrictor@v4.0.0
+- pkg:composer/jord-jd/laravel-route-restrictor@v4.1.0
