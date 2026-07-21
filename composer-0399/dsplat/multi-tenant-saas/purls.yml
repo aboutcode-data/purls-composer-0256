@@ -6,6 +6,7 @@
 - pkg:composer/dsplat/multi-tenant-saas@v1.2.0
 - pkg:composer/dsplat/multi-tenant-saas@v2.0.0
 - pkg:composer/dsplat/multi-tenant-saas@v2.1.0
+- pkg:composer/dsplat/multi-tenant-saas@v2.10.0
 - pkg:composer/dsplat/multi-tenant-saas@v2.2.0
 - pkg:composer/dsplat/multi-tenant-saas@v2.3.0
 - pkg:composer/dsplat/multi-tenant-saas@v2.4.0
