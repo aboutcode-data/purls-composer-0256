@@ -1,5 +1,7 @@
 - pkg:composer/ixudra/html@6.5.0
 - pkg:composer/ixudra/html@6.6.0
+- pkg:composer/ixudra/html@6.7.0
+- pkg:composer/ixudra/html@6.7.1
 - pkg:composer/ixudra/html@v5.0.0
 - pkg:composer/ixudra/html@v5.0.1
 - pkg:composer/ixudra/html@v5.0.2
