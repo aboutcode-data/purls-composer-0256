@@ -80,3 +80,5 @@
 - pkg:composer/jwread/lib-allure@8.2.1
 - pkg:composer/jwread/lib-allure@8.2.2
 - pkg:composer/jwread/lib-allure@8.3.0
+- pkg:composer/jwread/lib-allure@8.4.0
+- pkg:composer/jwread/lib-allure@8.5.0
