@@ -2,6 +2,7 @@
 - pkg:composer/csgt/utils@6.0.0
 - pkg:composer/csgt/utils@v10.0.0
 - pkg:composer/csgt/utils@v10.0.1
+- pkg:composer/csgt/utils@v10.0.10
 - pkg:composer/csgt/utils@v10.0.2
 - pkg:composer/csgt/utils@v10.0.3
 - pkg:composer/csgt/utils@v10.0.4
