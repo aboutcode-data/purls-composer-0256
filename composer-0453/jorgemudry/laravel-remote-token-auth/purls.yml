@@ -4,3 +4,4 @@
 - pkg:composer/jorgemudry/laravel-remote-token-auth@0.4.0
 - pkg:composer/jorgemudry/laravel-remote-token-auth@0.5.0
 - pkg:composer/jorgemudry/laravel-remote-token-auth@0.5.1
+- pkg:composer/jorgemudry/laravel-remote-token-auth@1.0.0
