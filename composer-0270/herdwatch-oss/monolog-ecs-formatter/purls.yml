@@ -1,1 +1,3 @@
 - pkg:composer/herdwatch-oss/monolog-ecs-formatter@v0.1.0
+- pkg:composer/herdwatch-oss/monolog-ecs-formatter@v0.2.0
+- pkg:composer/herdwatch-oss/monolog-ecs-formatter@v0.2.1
