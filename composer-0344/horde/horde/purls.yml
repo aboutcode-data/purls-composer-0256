@@ -71,3 +71,4 @@
 - pkg:composer/horde/horde@v6.0.0beta9
 - pkg:composer/horde/horde@v6.1.0
 - pkg:composer/horde/horde@v6.2.0
+- pkg:composer/horde/horde@v6.2.1
