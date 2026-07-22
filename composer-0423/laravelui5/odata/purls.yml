@@ -7,3 +7,6 @@
 - pkg:composer/laravelui5/odata@v1.0.6
 - pkg:composer/laravelui5/odata@v1.0.7
 - pkg:composer/laravelui5/odata@v2.0.0
+- pkg:composer/laravelui5/odata@v2.1.0
+- pkg:composer/laravelui5/odata@v3.0.0
+- pkg:composer/laravelui5/odata@v3.0.1
