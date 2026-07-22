@@ -137,3 +137,4 @@
 - pkg:composer/league/commonmark@2.8.0
 - pkg:composer/league/commonmark@2.8.1
 - pkg:composer/league/commonmark@2.8.2
+- pkg:composer/league/commonmark@2.8.3
