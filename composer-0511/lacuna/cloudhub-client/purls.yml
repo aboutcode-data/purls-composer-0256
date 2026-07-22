@@ -26,3 +26,4 @@
 - pkg:composer/lacuna/cloudhub-client@1.0.6
 - pkg:composer/lacuna/cloudhub-client@1.0.7
 - pkg:composer/lacuna/cloudhub-client@1.0.8
+- pkg:composer/lacuna/cloudhub-client@2.0.0
