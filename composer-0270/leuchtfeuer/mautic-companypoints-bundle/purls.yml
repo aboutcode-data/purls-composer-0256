@@ -10,6 +10,7 @@
 - pkg:composer/leuchtfeuer/mautic-companypoints-bundle@1.4.2
 - pkg:composer/leuchtfeuer/mautic-companypoints-bundle@5.0.0
 - pkg:composer/leuchtfeuer/mautic-companypoints-bundle@5.0.1
+- pkg:composer/leuchtfeuer/mautic-companypoints-bundle@5.0.2
 - pkg:composer/leuchtfeuer/mautic-companypoints-bundle@6.0.0
 - pkg:composer/leuchtfeuer/mautic-companypoints-bundle@v1.0.0
 - pkg:composer/leuchtfeuer/mautic-companypoints-bundle@v1.1.0
