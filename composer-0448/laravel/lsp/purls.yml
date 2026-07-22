@@ -22,3 +22,4 @@
 - pkg:composer/laravel/lsp@v0.0.24
 - pkg:composer/laravel/lsp@v0.0.25
 - pkg:composer/laravel/lsp@v0.0.26
+- pkg:composer/laravel/lsp@v0.0.27
