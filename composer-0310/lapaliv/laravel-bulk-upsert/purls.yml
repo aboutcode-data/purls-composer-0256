@@ -64,3 +64,4 @@
 - pkg:composer/lapaliv/laravel-bulk-upsert@2.2.8
 - pkg:composer/lapaliv/laravel-bulk-upsert@2.2.9
 - pkg:composer/lapaliv/laravel-bulk-upsert@v3.0.0
+- pkg:composer/lapaliv/laravel-bulk-upsert@v3.0.1
