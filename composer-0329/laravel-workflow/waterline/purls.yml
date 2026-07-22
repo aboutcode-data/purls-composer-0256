@@ -64,6 +64,15 @@
 - pkg:composer/laravel-workflow/waterline@2.0.0-alpha.129
 - pkg:composer/laravel-workflow/waterline@2.0.0-alpha.13
 - pkg:composer/laravel-workflow/waterline@2.0.0-alpha.130
+- pkg:composer/laravel-workflow/waterline@2.0.0-alpha.131
+- pkg:composer/laravel-workflow/waterline@2.0.0-alpha.132
+- pkg:composer/laravel-workflow/waterline@2.0.0-alpha.133
+- pkg:composer/laravel-workflow/waterline@2.0.0-alpha.134
+- pkg:composer/laravel-workflow/waterline@2.0.0-alpha.135
+- pkg:composer/laravel-workflow/waterline@2.0.0-alpha.136
+- pkg:composer/laravel-workflow/waterline@2.0.0-alpha.137
+- pkg:composer/laravel-workflow/waterline@2.0.0-alpha.138
+- pkg:composer/laravel-workflow/waterline@2.0.0-alpha.139
 - pkg:composer/laravel-workflow/waterline@2.0.0-alpha.14
 - pkg:composer/laravel-workflow/waterline@2.0.0-alpha.15
 - pkg:composer/laravel-workflow/waterline@2.0.0-alpha.16
@@ -158,3 +167,7 @@
 - pkg:composer/laravel-workflow/waterline@2.0.0-alpha.97
 - pkg:composer/laravel-workflow/waterline@2.0.0-alpha.98
 - pkg:composer/laravel-workflow/waterline@2.0.0-alpha.99
+- pkg:composer/laravel-workflow/waterline@2.0.0-beta.1
+- pkg:composer/laravel-workflow/waterline@2.0.0-beta.2
+- pkg:composer/laravel-workflow/waterline@2.0.0-beta.3
+- pkg:composer/laravel-workflow/waterline@2.0.0-beta.4
