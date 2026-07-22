@@ -3,3 +3,4 @@
 - pkg:composer/kenshodigital/kirby-minify@1.1.1
 - pkg:composer/kenshodigital/kirby-minify@1.2.0
 - pkg:composer/kenshodigital/kirby-minify@2.0.0
+- pkg:composer/kenshodigital/kirby-minify@2.1.0
