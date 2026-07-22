@@ -1,5 +1,6 @@
 - pkg:composer/littlerocket/laminas-pdf@3.0.0
 - pkg:composer/littlerocket/laminas-pdf@3.0.1
+- pkg:composer/littlerocket/laminas-pdf@3.0.10
 - pkg:composer/littlerocket/laminas-pdf@3.0.2
 - pkg:composer/littlerocket/laminas-pdf@3.0.3
 - pkg:composer/littlerocket/laminas-pdf@3.0.4
