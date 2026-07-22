@@ -249,6 +249,9 @@
 - pkg:composer/livebuzz/control-sdk@v3.1.9
 - pkg:composer/livebuzz/control-sdk@v3.1.90
 - pkg:composer/livebuzz/control-sdk@v3.1.91
+- pkg:composer/livebuzz/control-sdk@v3.10.0
+- pkg:composer/livebuzz/control-sdk@v3.11.0
+- pkg:composer/livebuzz/control-sdk@v3.11.1
 - pkg:composer/livebuzz/control-sdk@v3.2.0
 - pkg:composer/livebuzz/control-sdk@v3.2.1
 - pkg:composer/livebuzz/control-sdk@v3.2.2
@@ -536,3 +539,9 @@
 - pkg:composer/livebuzz/control-sdk@v6.2.0
 - pkg:composer/livebuzz/control-sdk@v6.2.1
 - pkg:composer/livebuzz/control-sdk@v6.2.2
+- pkg:composer/livebuzz/control-sdk@v6.3.0
+- pkg:composer/livebuzz/control-sdk@v6.3.1
+- pkg:composer/livebuzz/control-sdk@v6.3.2
+- pkg:composer/livebuzz/control-sdk@v6.3.3
+- pkg:composer/livebuzz/control-sdk@v6.3.4
+- pkg:composer/livebuzz/control-sdk@v6.4.0
