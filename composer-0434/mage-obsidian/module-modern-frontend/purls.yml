@@ -10,3 +10,6 @@
 - pkg:composer/mage-obsidian/module-modern-frontend@2.6.1
 - pkg:composer/mage-obsidian/module-modern-frontend@2.7.0
 - pkg:composer/mage-obsidian/module-modern-frontend@2.7.1
+- pkg:composer/mage-obsidian/module-modern-frontend@2.8.0
+- pkg:composer/mage-obsidian/module-modern-frontend@2.8.1
+- pkg:composer/mage-obsidian/module-modern-frontend@2.9.0
