@@ -1,5 +1,6 @@
 - pkg:composer/milpa/example-agent-ready-blog@v0.1.0
 - pkg:composer/milpa/example-agent-ready-blog@v0.10.0
+- pkg:composer/milpa/example-agent-ready-blog@v0.11.0
 - pkg:composer/milpa/example-agent-ready-blog@v0.2.0
 - pkg:composer/milpa/example-agent-ready-blog@v0.3.0
 - pkg:composer/milpa/example-agent-ready-blog@v0.3.1
