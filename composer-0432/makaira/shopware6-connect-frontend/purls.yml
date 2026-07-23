@@ -3,6 +3,7 @@
 - pkg:composer/makaira/shopware6-connect-frontend@1.1.4
 - pkg:composer/makaira/shopware6-connect-frontend@1.1.5
 - pkg:composer/makaira/shopware6-connect-frontend@1.1.6
+- pkg:composer/makaira/shopware6-connect-frontend@1.10.0
 - pkg:composer/makaira/shopware6-connect-frontend@1.2.0
 - pkg:composer/makaira/shopware6-connect-frontend@1.2.1
 - pkg:composer/makaira/shopware6-connect-frontend@1.2.2
