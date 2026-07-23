@@ -5,6 +5,9 @@
 - pkg:composer/macropay-solutions/php-kernel@1.0.0-RC-14
 - pkg:composer/macropay-solutions/php-kernel@1.0.0-RC-15
 - pkg:composer/macropay-solutions/php-kernel@1.0.0-RC-16
+- pkg:composer/macropay-solutions/php-kernel@1.0.0-RC-17
+- pkg:composer/macropay-solutions/php-kernel@1.0.0-RC-18
+- pkg:composer/macropay-solutions/php-kernel@1.0.0-RC-19
 - pkg:composer/macropay-solutions/php-kernel@1.0.0-RC-2
 - pkg:composer/macropay-solutions/php-kernel@1.0.0-RC-3
 - pkg:composer/macropay-solutions/php-kernel@1.0.0-RC-4
