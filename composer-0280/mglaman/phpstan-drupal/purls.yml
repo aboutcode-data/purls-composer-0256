@@ -104,6 +104,8 @@
 - pkg:composer/mglaman/phpstan-drupal@2.0.14
 - pkg:composer/mglaman/phpstan-drupal@2.0.15
 - pkg:composer/mglaman/phpstan-drupal@2.0.16
+- pkg:composer/mglaman/phpstan-drupal@2.0.17
+- pkg:composer/mglaman/phpstan-drupal@2.0.18
 - pkg:composer/mglaman/phpstan-drupal@2.0.2
 - pkg:composer/mglaman/phpstan-drupal@2.0.3
 - pkg:composer/mglaman/phpstan-drupal@2.0.4
@@ -112,3 +114,5 @@
 - pkg:composer/mglaman/phpstan-drupal@2.0.7
 - pkg:composer/mglaman/phpstan-drupal@2.0.8
 - pkg:composer/mglaman/phpstan-drupal@2.0.9
+- pkg:composer/mglaman/phpstan-drupal@2.1.0
+- pkg:composer/mglaman/phpstan-drupal@2.1.1
