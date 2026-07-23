@@ -39,3 +39,5 @@
 - pkg:composer/lwplugins/lw-seo@v1.3.7
 - pkg:composer/lwplugins/lw-seo@v1.3.8
 - pkg:composer/lwplugins/lw-seo@v1.3.9
+- pkg:composer/lwplugins/lw-seo@v1.4.0
+- pkg:composer/lwplugins/lw-seo@v1.4.1
