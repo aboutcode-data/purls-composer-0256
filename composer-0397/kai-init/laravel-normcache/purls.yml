@@ -11,3 +11,4 @@
 - pkg:composer/kai-init/laravel-normcache@v2.2.1
 - pkg:composer/kai-init/laravel-normcache@v2.4.0
 - pkg:composer/kai-init/laravel-normcache@v3.0.0
+- pkg:composer/kai-init/laravel-normcache@v3.1.0
