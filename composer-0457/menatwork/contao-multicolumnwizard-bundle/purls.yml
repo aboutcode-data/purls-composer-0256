@@ -45,3 +45,5 @@
 - pkg:composer/menatwork/contao-multicolumnwizard-bundle@3.6.7
 - pkg:composer/menatwork/contao-multicolumnwizard-bundle@3.6.8
 - pkg:composer/menatwork/contao-multicolumnwizard-bundle@3.6.9
+- pkg:composer/menatwork/contao-multicolumnwizard-bundle@3.7.0
+- pkg:composer/menatwork/contao-multicolumnwizard-bundle@3.7.1
