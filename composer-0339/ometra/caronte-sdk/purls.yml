@@ -24,3 +24,11 @@
 - pkg:composer/ometra/caronte-sdk@4.6.0
 - pkg:composer/ometra/caronte-sdk@5.0.0
 - pkg:composer/ometra/caronte-sdk@5.0.0-rc.1
+- pkg:composer/ometra/caronte-sdk@6.0.0
+- pkg:composer/ometra/caronte-sdk@7.0.0
+- pkg:composer/ometra/caronte-sdk@7.1.0
+- pkg:composer/ometra/caronte-sdk@7.1.1
+- pkg:composer/ometra/caronte-sdk@7.1.2
+- pkg:composer/ometra/caronte-sdk@8.0.0
+- pkg:composer/ometra/caronte-sdk@8.1.0
+- pkg:composer/ometra/caronte-sdk@8.1.1
