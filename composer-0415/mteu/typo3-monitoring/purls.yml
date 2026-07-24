@@ -11,3 +11,4 @@
 - pkg:composer/mteu/typo3-monitoring@0.4.4
 - pkg:composer/mteu/typo3-monitoring@0.5.0
 - pkg:composer/mteu/typo3-monitoring@0.5.1
+- pkg:composer/mteu/typo3-monitoring@1.0.0
