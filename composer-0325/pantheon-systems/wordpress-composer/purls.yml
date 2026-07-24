@@ -313,10 +313,13 @@
 - pkg:composer/pantheon-systems/wordpress-composer@6.8.3
 - pkg:composer/pantheon-systems/wordpress-composer@6.8.4
 - pkg:composer/pantheon-systems/wordpress-composer@6.8.5
+- pkg:composer/pantheon-systems/wordpress-composer@6.8.6
 - pkg:composer/pantheon-systems/wordpress-composer@6.9
 - pkg:composer/pantheon-systems/wordpress-composer@6.9.1
 - pkg:composer/pantheon-systems/wordpress-composer@6.9.2
 - pkg:composer/pantheon-systems/wordpress-composer@6.9.3
 - pkg:composer/pantheon-systems/wordpress-composer@6.9.4
+- pkg:composer/pantheon-systems/wordpress-composer@6.9.5
 - pkg:composer/pantheon-systems/wordpress-composer@7.0
 - pkg:composer/pantheon-systems/wordpress-composer@7.0.1
+- pkg:composer/pantheon-systems/wordpress-composer@7.0.2
