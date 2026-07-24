@@ -1,5 +1,6 @@
 - pkg:composer/paynl/sdk@1.5.13
 - pkg:composer/paynl/sdk@1.5.18
+- pkg:composer/paynl/sdk@1.6.11
 - pkg:composer/paynl/sdk@1.6.6
 - pkg:composer/paynl/sdk@1.6.7
 - pkg:composer/paynl/sdk@2.2.0
