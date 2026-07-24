@@ -20,3 +20,5 @@
 - pkg:composer/paperdoc-dev/paperdoc-lib@v0.8.1
 - pkg:composer/paperdoc-dev/paperdoc-lib@v0.8.2
 - pkg:composer/paperdoc-dev/paperdoc-lib@v0.8.3
+- pkg:composer/paperdoc-dev/paperdoc-lib@v1.0.0
+- pkg:composer/paperdoc-dev/paperdoc-lib@v1.0.1
