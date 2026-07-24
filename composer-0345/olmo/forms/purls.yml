@@ -75,3 +75,4 @@
 - pkg:composer/olmo/forms@v2.0.58
 - pkg:composer/olmo/forms@v3.0.0
 - pkg:composer/olmo/forms@v3.0.1
+- pkg:composer/olmo/forms@v3.0.2
