@@ -1,2 +1,3 @@
 - pkg:composer/opsfour/s3-server@v1.0.0
 - pkg:composer/opsfour/s3-server@v1.1.0
+- pkg:composer/opsfour/s3-server@v1.2.0
