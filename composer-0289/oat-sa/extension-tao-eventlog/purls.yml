@@ -63,3 +63,4 @@
 - pkg:composer/oat-sa/extension-tao-eventlog@v4.0.0
 - pkg:composer/oat-sa/extension-tao-eventlog@v4.1.0
 - pkg:composer/oat-sa/extension-tao-eventlog@v4.1.1
+- pkg:composer/oat-sa/extension-tao-eventlog@v4.1.2
