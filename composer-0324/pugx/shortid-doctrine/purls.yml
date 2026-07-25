@@ -11,3 +11,4 @@
 - pkg:composer/pugx/shortid-doctrine@v1.1.0
 - pkg:composer/pugx/shortid-doctrine@v1.2.0
 - pkg:composer/pugx/shortid-doctrine@v1.3.0
+- pkg:composer/pugx/shortid-doctrine@v1.4.0
