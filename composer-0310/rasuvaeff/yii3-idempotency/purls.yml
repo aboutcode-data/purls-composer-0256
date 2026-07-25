@@ -1,2 +1,4 @@
 - pkg:composer/rasuvaeff/yii3-idempotency@v1.0.0
 - pkg:composer/rasuvaeff/yii3-idempotency@v1.0.1
+- pkg:composer/rasuvaeff/yii3-idempotency@v1.1.0
+- pkg:composer/rasuvaeff/yii3-idempotency@v1.1.1
