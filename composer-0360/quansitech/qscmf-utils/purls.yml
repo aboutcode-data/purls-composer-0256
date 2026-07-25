@@ -30,3 +30,5 @@
 - pkg:composer/quansitech/qscmf-utils@v1.9.0
 - pkg:composer/quansitech/qscmf-utils@v1.9.1
 - pkg:composer/quansitech/qscmf-utils@v1.9.2
+- pkg:composer/quansitech/qscmf-utils@v2.0
+- pkg:composer/quansitech/qscmf-utils@v2.0.1
