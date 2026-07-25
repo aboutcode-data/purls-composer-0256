@@ -40,3 +40,5 @@
 - pkg:composer/pixelgrade/nova-blocks@2.1.7
 - pkg:composer/pixelgrade/nova-blocks@2.1.9
 - pkg:composer/pixelgrade/nova-blocks@2.2.0
+- pkg:composer/pixelgrade/nova-blocks@2.3.0
+- pkg:composer/pixelgrade/nova-blocks@2.4.0
