@@ -32,3 +32,4 @@
 - pkg:composer/phpgt/http@v1.3.6
 - pkg:composer/phpgt/http@v1.3.7
 - pkg:composer/phpgt/http@v1.3.8
+- pkg:composer/phpgt/http@v1.3.9
