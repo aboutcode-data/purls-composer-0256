@@ -44,3 +44,4 @@
 - pkg:composer/spryker/user-merchant-portal-gui@3.5.0
 - pkg:composer/spryker/user-merchant-portal-gui@4.0.0
 - pkg:composer/spryker/user-merchant-portal-gui@4.1.0
+- pkg:composer/spryker/user-merchant-portal-gui@4.2.0
