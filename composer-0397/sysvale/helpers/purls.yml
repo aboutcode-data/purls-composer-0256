@@ -5,3 +5,4 @@
 - pkg:composer/sysvale/helpers@2.2
 - pkg:composer/sysvale/helpers@2.3
 - pkg:composer/sysvale/helpers@2.5
+- pkg:composer/sysvale/helpers@v2.6
