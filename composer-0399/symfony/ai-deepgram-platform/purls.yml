@@ -1,1 +1,2 @@
 - pkg:composer/symfony/ai-deepgram-platform@v0.11.0
+- pkg:composer/symfony/ai-deepgram-platform@v0.12.0
