@@ -4,6 +4,8 @@
 - pkg:composer/renolit/static-info-tables-tr@12.4.1
 - pkg:composer/renolit/static-info-tables-tr@13.4.0
 - pkg:composer/renolit/static-info-tables-tr@13.4.1
+- pkg:composer/renolit/static-info-tables-tr@13.4.2
+- pkg:composer/renolit/static-info-tables-tr@14.3.0
 - pkg:composer/renolit/static-info-tables-tr@6.8.0
 - pkg:composer/renolit/static-info-tables-tr@6.8.1
 - pkg:composer/renolit/static-info-tables-tr@6.9.0
