@@ -1,3 +1,4 @@
 - pkg:composer/struct/struct@1.6.5
 - pkg:composer/struct/struct@1.6.6
 - pkg:composer/struct/struct@2.0.0
+- pkg:composer/struct/struct@2.0.1
