@@ -143,6 +143,7 @@
 - pkg:composer/sulu/skeleton@2.6.22
 - pkg:composer/sulu/skeleton@2.6.23
 - pkg:composer/sulu/skeleton@2.6.24
+- pkg:composer/sulu/skeleton@2.6.25
 - pkg:composer/sulu/skeleton@2.6.3
 - pkg:composer/sulu/skeleton@2.6.4
 - pkg:composer/sulu/skeleton@2.6.5
@@ -169,3 +170,4 @@
 - pkg:composer/sulu/skeleton@3.0.5
 - pkg:composer/sulu/skeleton@3.0.6
 - pkg:composer/sulu/skeleton@3.0.7
+- pkg:composer/sulu/skeleton@3.0.8
