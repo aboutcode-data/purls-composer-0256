@@ -31,3 +31,4 @@
 - pkg:composer/spryker/security-gui@2.5.0
 - pkg:composer/spryker/security-gui@2.6.0
 - pkg:composer/spryker/security-gui@2.7.0
+- pkg:composer/spryker/security-gui@2.8.0
