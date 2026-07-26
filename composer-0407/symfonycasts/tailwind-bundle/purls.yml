@@ -27,3 +27,4 @@
 - pkg:composer/symfonycasts/tailwind-bundle@v0.7.1
 - pkg:composer/symfonycasts/tailwind-bundle@v0.8.0
 - pkg:composer/symfonycasts/tailwind-bundle@v0.9.0
+- pkg:composer/symfonycasts/tailwind-bundle@v1.0.0
