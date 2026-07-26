@@ -1,4 +1,5 @@
 - pkg:composer/repat/laravel-job-models@0.1
+- pkg:composer/repat/laravel-job-models@0.11
 - pkg:composer/repat/laravel-job-models@0.2
 - pkg:composer/repat/laravel-job-models@0.3
 - pkg:composer/repat/laravel-job-models@0.4
