@@ -53,7 +53,14 @@
 - pkg:composer/restruct/silverstripe-admintweaks@3.13.0
 - pkg:composer/restruct/silverstripe-admintweaks@3.14.0
 - pkg:composer/restruct/silverstripe-admintweaks@3.15.0
+- pkg:composer/restruct/silverstripe-admintweaks@3.16.0
+- pkg:composer/restruct/silverstripe-admintweaks@3.17.0
+- pkg:composer/restruct/silverstripe-admintweaks@3.17.1
+- pkg:composer/restruct/silverstripe-admintweaks@3.18.0
+- pkg:composer/restruct/silverstripe-admintweaks@3.19.0
 - pkg:composer/restruct/silverstripe-admintweaks@3.2.0
+- pkg:composer/restruct/silverstripe-admintweaks@3.20.1
+- pkg:composer/restruct/silverstripe-admintweaks@3.20.2
 - pkg:composer/restruct/silverstripe-admintweaks@3.3.0
 - pkg:composer/restruct/silverstripe-admintweaks@3.3.1
 - pkg:composer/restruct/silverstripe-admintweaks@3.3.2
