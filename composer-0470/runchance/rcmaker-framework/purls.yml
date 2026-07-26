@@ -36,3 +36,6 @@
 - pkg:composer/runchance/rcmaker-framework@v3.0.4
 - pkg:composer/runchance/rcmaker-framework@v3.0.5
 - pkg:composer/runchance/rcmaker-framework@v3.0.6
+- pkg:composer/runchance/rcmaker-framework@v3.1.0
+- pkg:composer/runchance/rcmaker-framework@v3.1.1
+- pkg:composer/runchance/rcmaker-framework@v3.1.2
