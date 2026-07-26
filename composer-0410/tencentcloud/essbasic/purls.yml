@@ -476,6 +476,9 @@
 - pkg:composer/tencentcloud/essbasic@3.0.1625
 - pkg:composer/tencentcloud/essbasic@3.0.1626
 - pkg:composer/tencentcloud/essbasic@3.0.1627
+- pkg:composer/tencentcloud/essbasic@3.0.1628
+- pkg:composer/tencentcloud/essbasic@3.0.1629
+- pkg:composer/tencentcloud/essbasic@3.0.1632
 - pkg:composer/tencentcloud/essbasic@3.0.480
 - pkg:composer/tencentcloud/essbasic@3.0.481
 - pkg:composer/tencentcloud/essbasic@3.0.482

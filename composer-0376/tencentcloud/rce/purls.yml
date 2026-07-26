@@ -401,6 +401,9 @@
 - pkg:composer/tencentcloud/rce@3.0.1591
 - pkg:composer/tencentcloud/rce@3.0.1601
 - pkg:composer/tencentcloud/rce@3.0.1619
+- pkg:composer/tencentcloud/rce@3.0.1629
+- pkg:composer/tencentcloud/rce@3.0.1630
+- pkg:composer/tencentcloud/rce@3.0.1632
 - pkg:composer/tencentcloud/rce@3.0.334
 - pkg:composer/tencentcloud/rce@3.0.335
 - pkg:composer/tencentcloud/rce@3.0.336
