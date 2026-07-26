@@ -214,3 +214,6 @@
 - pkg:composer/telnyx/telnyx-php@v7.90.0
 - pkg:composer/telnyx/telnyx-php@v7.91.0
 - pkg:composer/telnyx/telnyx-php@v7.92.0
+- pkg:composer/telnyx/telnyx-php@v7.93.0
+- pkg:composer/telnyx/telnyx-php@v7.94.0
+- pkg:composer/telnyx/telnyx-php@v7.95.0
