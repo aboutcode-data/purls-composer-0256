@@ -8,3 +8,4 @@
 - pkg:composer/umanit/doctrine-singleton-bundle@2.0.3
 - pkg:composer/umanit/doctrine-singleton-bundle@2.0.4
 - pkg:composer/umanit/doctrine-singleton-bundle@2.0.5
+- pkg:composer/umanit/doctrine-singleton-bundle@3.0.0
