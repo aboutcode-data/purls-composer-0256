@@ -183,6 +183,14 @@
 - pkg:composer/unleash/client@v2.1.080
 - pkg:composer/unleash/client@v2.1.081
 - pkg:composer/unleash/client@v2.1.082
+- pkg:composer/unleash/client@v2.10.072
+- pkg:composer/unleash/client@v2.10.073
+- pkg:composer/unleash/client@v2.10.074
+- pkg:composer/unleash/client@v2.10.080
+- pkg:composer/unleash/client@v2.10.081
+- pkg:composer/unleash/client@v2.10.082
+- pkg:composer/unleash/client@v2.10.083
+- pkg:composer/unleash/client@v2.10.084
 - pkg:composer/unleash/client@v2.2.072
 - pkg:composer/unleash/client@v2.2.073
 - pkg:composer/unleash/client@v2.2.074
