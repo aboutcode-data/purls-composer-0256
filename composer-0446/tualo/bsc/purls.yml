@@ -107,6 +107,8 @@
 - pkg:composer/tualo/bsc@1.6.0
 - pkg:composer/tualo/bsc@1.6.1
 - pkg:composer/tualo/bsc@1.6.10
+- pkg:composer/tualo/bsc@1.6.11
+- pkg:composer/tualo/bsc@1.6.12
 - pkg:composer/tualo/bsc@1.6.2
 - pkg:composer/tualo/bsc@1.6.3
 - pkg:composer/tualo/bsc@1.6.4
