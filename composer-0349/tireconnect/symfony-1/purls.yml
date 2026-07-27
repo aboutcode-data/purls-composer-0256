@@ -12,3 +12,4 @@
 - pkg:composer/tireconnect/symfony-1@1.6.0
 - pkg:composer/tireconnect/symfony-1@1.6.1
 - pkg:composer/tireconnect/symfony-1@1.6.2
+- pkg:composer/tireconnect/symfony-1@1.7.0
