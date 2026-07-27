@@ -11,3 +11,6 @@
 - pkg:composer/seigisoft/seigicms-security-bundle@v0.0.13
 - pkg:composer/seigisoft/seigicms-security-bundle@v0.0.13-alpha1
 - pkg:composer/seigisoft/seigicms-security-bundle@v0.0.14
+- pkg:composer/seigisoft/seigicms-security-bundle@v0.0.15
+- pkg:composer/seigisoft/seigicms-security-bundle@v0.0.15-alpha
+- pkg:composer/seigisoft/seigicms-security-bundle@v0.0.16
