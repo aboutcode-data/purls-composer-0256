@@ -6,3 +6,5 @@
 - pkg:composer/xphp-lang/language-server@v0.2.3
 - pkg:composer/xphp-lang/language-server@v0.2.4
 - pkg:composer/xphp-lang/language-server@v0.2.5
+- pkg:composer/xphp-lang/language-server@v0.3.0
+- pkg:composer/xphp-lang/language-server@v0.3.1
