@@ -4,3 +4,4 @@
 - pkg:composer/worldline-acquiring/acquiring-sdk-php@1.2.0
 - pkg:composer/worldline-acquiring/acquiring-sdk-php@1.3.0
 - pkg:composer/worldline-acquiring/acquiring-sdk-php@1.3.1
+- pkg:composer/worldline-acquiring/acquiring-sdk-php@2.0.0
