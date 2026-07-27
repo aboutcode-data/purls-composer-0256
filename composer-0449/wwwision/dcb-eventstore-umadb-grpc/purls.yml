@@ -1,1 +1,2 @@
 - pkg:composer/wwwision/dcb-eventstore-umadb-grpc@1.0.0
+- pkg:composer/wwwision/dcb-eventstore-umadb-grpc@2.0.0
