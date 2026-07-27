@@ -20,6 +20,7 @@
 - pkg:composer/symfony/models-dev@v110.0
 - pkg:composer/symfony/models-dev@v111.0
 - pkg:composer/symfony/models-dev@v112.0
+- pkg:composer/symfony/models-dev@v113.0
 - pkg:composer/symfony/models-dev@v12.0
 - pkg:composer/symfony/models-dev@v12.1
 - pkg:composer/symfony/models-dev@v12.2
