@@ -29,3 +29,6 @@
 - pkg:composer/topi-team/shopware6-plugin@2.3.2
 - pkg:composer/topi-team/shopware6-plugin@2.3.3
 - pkg:composer/topi-team/shopware6-plugin@2.4.0
+- pkg:composer/topi-team/shopware6-plugin@3.0.0
+- pkg:composer/topi-team/shopware6-plugin@3.0.1
+- pkg:composer/topi-team/shopware6-plugin@3.0.2
