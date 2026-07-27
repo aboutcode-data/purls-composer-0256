@@ -12,3 +12,4 @@
 - pkg:composer/webprofil/matomo-ingest@13.0.1
 - pkg:composer/webprofil/matomo-ingest@13.0.2
 - pkg:composer/webprofil/matomo-ingest@13.0.3
+- pkg:composer/webprofil/matomo-ingest@14.0.0
