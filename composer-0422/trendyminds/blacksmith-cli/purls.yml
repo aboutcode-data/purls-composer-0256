@@ -33,3 +33,4 @@
 - pkg:composer/trendyminds/blacksmith-cli@2.7.3
 - pkg:composer/trendyminds/blacksmith-cli@2.7.4
 - pkg:composer/trendyminds/blacksmith-cli@2.8.0
+- pkg:composer/trendyminds/blacksmith-cli@3.0.0
