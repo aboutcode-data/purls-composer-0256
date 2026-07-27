@@ -32,3 +32,6 @@
 - pkg:composer/torqit/data-importer-extensions-bundle@v5.6.2
 - pkg:composer/torqit/data-importer-extensions-bundle@v5.6.3
 - pkg:composer/torqit/data-importer-extensions-bundle@v6.0.0
+- pkg:composer/torqit/data-importer-extensions-bundle@v6.0.1
+- pkg:composer/torqit/data-importer-extensions-bundle@v6.1.1
+- pkg:composer/torqit/data-importer-extensions-bundle@v6.1.2
