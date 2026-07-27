@@ -198,6 +198,8 @@
 - pkg:composer/typo3/testing-framework@8.2.7
 - pkg:composer/typo3/testing-framework@8.3.0
 - pkg:composer/typo3/testing-framework@8.3.1
+- pkg:composer/typo3/testing-framework@8.3.2
+- pkg:composer/typo3/testing-framework@8.3.3
 - pkg:composer/typo3/testing-framework@9.0.0
 - pkg:composer/typo3/testing-framework@9.0.1
 - pkg:composer/typo3/testing-framework@9.0.2
@@ -210,3 +212,5 @@
 - pkg:composer/typo3/testing-framework@9.3.0
 - pkg:composer/typo3/testing-framework@9.4.0
 - pkg:composer/typo3/testing-framework@9.5.0
+- pkg:composer/typo3/testing-framework@9.6.0
+- pkg:composer/typo3/testing-framework@9.6.1
