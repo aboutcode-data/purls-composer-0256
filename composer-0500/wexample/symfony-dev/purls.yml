@@ -141,3 +141,4 @@
 - pkg:composer/wexample/symfony-dev@3.0.2
 - pkg:composer/wexample/symfony-dev@3.0.3
 - pkg:composer/wexample/symfony-dev@4.0.0
+- pkg:composer/wexample/symfony-dev@4.0.1
