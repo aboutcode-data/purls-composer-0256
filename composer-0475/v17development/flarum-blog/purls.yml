@@ -2,6 +2,8 @@
 - pkg:composer/v17development/flarum-blog@0.4.2
 - pkg:composer/v17development/flarum-blog@1.0.0
 - pkg:composer/v17development/flarum-blog@1.0.1
+- pkg:composer/v17development/flarum-blog@2.0.0-beta.1
+- pkg:composer/v17development/flarum-blog@2.0.0-beta.2
 - pkg:composer/v17development/flarum-blog@v0.1.0
 - pkg:composer/v17development/flarum-blog@v0.1.1
 - pkg:composer/v17development/flarum-blog@v0.1.2
