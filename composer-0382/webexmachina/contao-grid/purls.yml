@@ -36,3 +36,4 @@
 - pkg:composer/webexmachina/contao-grid@v1.0.7
 - pkg:composer/webexmachina/contao-grid@v1.0.8
 - pkg:composer/webexmachina/contao-grid@v1.0.9
+- pkg:composer/webexmachina/contao-grid@v2.0.0
