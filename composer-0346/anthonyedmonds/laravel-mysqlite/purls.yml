@@ -16,3 +16,5 @@
 - pkg:composer/anthonyedmonds/laravel-mysqlite@4.0.0
 - pkg:composer/anthonyedmonds/laravel-mysqlite@4.1.0
 - pkg:composer/anthonyedmonds/laravel-mysqlite@4.2.0
+- pkg:composer/anthonyedmonds/laravel-mysqlite@4.2.1
+- pkg:composer/anthonyedmonds/laravel-mysqlite@4.2.2
