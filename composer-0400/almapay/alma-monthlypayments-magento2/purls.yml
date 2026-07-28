@@ -59,3 +59,4 @@
 - pkg:composer/almapay/alma-monthlypayments-magento2@5.7.1
 - pkg:composer/almapay/alma-monthlypayments-magento2@5.8.0
 - pkg:composer/almapay/alma-monthlypayments-magento2@5.8.1
+- pkg:composer/almapay/alma-monthlypayments-magento2@5.8.2
