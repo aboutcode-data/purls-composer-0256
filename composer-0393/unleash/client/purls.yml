@@ -1,3 +1,4 @@
+- pkg:composer/unleash/client@2.10.1
 - pkg:composer/unleash/client@2.9.2
 - pkg:composer/unleash/client@v1.0.073
 - pkg:composer/unleash/client@v1.0.074
