@@ -325,6 +325,9 @@
 - pkg:composer/adrianbj/tracy-debugger@5.0.5
 - pkg:composer/adrianbj/tracy-debugger@5.0.50
 - pkg:composer/adrianbj/tracy-debugger@5.0.51
+- pkg:composer/adrianbj/tracy-debugger@5.0.52
+- pkg:composer/adrianbj/tracy-debugger@5.0.53
+- pkg:composer/adrianbj/tracy-debugger@5.0.54
 - pkg:composer/adrianbj/tracy-debugger@5.0.6
 - pkg:composer/adrianbj/tracy-debugger@5.0.7
 - pkg:composer/adrianbj/tracy-debugger@5.0.8
