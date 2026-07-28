@@ -1,5 +1,6 @@
 - pkg:composer/sparrowhawk-labs/pinion-ui@v0.10.0
 - pkg:composer/sparrowhawk-labs/pinion-ui@v0.10.1
+- pkg:composer/sparrowhawk-labs/pinion-ui@v0.10.2
 - pkg:composer/sparrowhawk-labs/pinion-ui@v0.4.5
 - pkg:composer/sparrowhawk-labs/pinion-ui@v0.4.6
 - pkg:composer/sparrowhawk-labs/pinion-ui@v0.5.0
