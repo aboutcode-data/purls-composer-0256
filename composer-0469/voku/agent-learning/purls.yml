@@ -11,3 +11,6 @@
 - pkg:composer/voku/agent-learning@0.8.0
 - pkg:composer/voku/agent-learning@0.8.1
 - pkg:composer/voku/agent-learning@0.8.4
+- pkg:composer/voku/agent-learning@0.8.5
+- pkg:composer/voku/agent-learning@0.8.6
+- pkg:composer/voku/agent-learning@0.8.7
