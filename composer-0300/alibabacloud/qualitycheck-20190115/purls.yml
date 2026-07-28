@@ -1,5 +1,6 @@
 - pkg:composer/alibabacloud/qualitycheck-20190115@1.0.0
 - pkg:composer/alibabacloud/qualitycheck-20190115@1.0.1
+- pkg:composer/alibabacloud/qualitycheck-20190115@10.0.0
 - pkg:composer/alibabacloud/qualitycheck-20190115@4.1.0
 - pkg:composer/alibabacloud/qualitycheck-20190115@4.12.2
 - pkg:composer/alibabacloud/qualitycheck-20190115@4.12.3
@@ -28,3 +29,5 @@
 - pkg:composer/alibabacloud/qualitycheck-20190115@9.1.0
 - pkg:composer/alibabacloud/qualitycheck-20190115@9.1.1
 - pkg:composer/alibabacloud/qualitycheck-20190115@9.2.0
+- pkg:composer/alibabacloud/qualitycheck-20190115@9.2.1
+- pkg:composer/alibabacloud/qualitycheck-20190115@9.2.2
