@@ -1,1 +1,4 @@
 - pkg:composer/acetonesoft/acetone-api-php@v1.0.0b
+- pkg:composer/acetonesoft/acetone-api-php@v1.1.0
+- pkg:composer/acetonesoft/acetone-api-php@v1.1.1
+- pkg:composer/acetonesoft/acetone-api-php@v1.1.2
