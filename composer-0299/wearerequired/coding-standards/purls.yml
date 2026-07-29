@@ -40,5 +40,6 @@
 - pkg:composer/wearerequired/coding-standards@6.0.1-alpha.6
 - pkg:composer/wearerequired/coding-standards@7.0.0
 - pkg:composer/wearerequired/coding-standards@7.0.0-alpha.0
+- pkg:composer/wearerequired/coding-standards@7.0.1
 - pkg:composer/wearerequired/coding-standards@v1.5.0-beta.2
 - pkg:composer/wearerequired/coding-standards@v1.5.0-beta.3
