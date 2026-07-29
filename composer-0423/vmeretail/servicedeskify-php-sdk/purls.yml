@@ -10,3 +10,4 @@
 - pkg:composer/vmeretail/servicedeskify-php-sdk@v1.1.2
 - pkg:composer/vmeretail/servicedeskify-php-sdk@v2.0.0
 - pkg:composer/vmeretail/servicedeskify-php-sdk@v2.1.0
+- pkg:composer/vmeretail/servicedeskify-php-sdk@v3.0.0
