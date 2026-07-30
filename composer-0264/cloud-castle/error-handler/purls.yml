@@ -1,2 +1,5 @@
 - pkg:composer/cloud-castle/error-handler@v0.1.0
 - pkg:composer/cloud-castle/error-handler@v0.1.1
+- pkg:composer/cloud-castle/error-handler@v1.0.0
+- pkg:composer/cloud-castle/error-handler@v1.0.1
+- pkg:composer/cloud-castle/error-handler@v1.0.2
