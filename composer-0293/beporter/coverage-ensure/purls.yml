@@ -1,2 +1,3 @@
 - pkg:composer/beporter/coverage-ensure@1.1.0
 - pkg:composer/beporter/coverage-ensure@1.1.1
+- pkg:composer/beporter/coverage-ensure@1.1.2
