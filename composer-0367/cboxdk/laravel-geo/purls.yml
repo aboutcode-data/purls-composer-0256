@@ -1,3 +1,4 @@
+- pkg:composer/cboxdk/laravel-geo@0.5.0
 - pkg:composer/cboxdk/laravel-geo@v0.1.0
 - pkg:composer/cboxdk/laravel-geo@v0.2.0
 - pkg:composer/cboxdk/laravel-geo@v0.2.1
