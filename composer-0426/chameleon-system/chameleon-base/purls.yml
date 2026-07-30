@@ -217,5 +217,8 @@
 - pkg:composer/chameleon-system/chameleon-base@8.0.69
 - pkg:composer/chameleon-system/chameleon-base@8.0.7
 - pkg:composer/chameleon-system/chameleon-base@8.0.70
+- pkg:composer/chameleon-system/chameleon-base@8.0.71
+- pkg:composer/chameleon-system/chameleon-base@8.0.72
+- pkg:composer/chameleon-system/chameleon-base@8.0.73
 - pkg:composer/chameleon-system/chameleon-base@8.0.8
 - pkg:composer/chameleon-system/chameleon-base@8.0.9
