@@ -10,3 +10,5 @@
 - pkg:composer/antchain/acm@1.6.0
 - pkg:composer/antchain/acm@1.6.10
 - pkg:composer/antchain/acm@1.6.11
+- pkg:composer/antchain/acm@1.6.12
+- pkg:composer/antchain/acm@1.6.13
