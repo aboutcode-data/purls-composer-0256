@@ -8,8 +8,15 @@
 - pkg:composer/andydefer/laravel-addresses@v2.1.0
 - pkg:composer/andydefer/laravel-addresses@v2.2.0
 - pkg:composer/andydefer/laravel-addresses@v2.2.1
+- pkg:composer/andydefer/laravel-addresses@v2.2.10
+- pkg:composer/andydefer/laravel-addresses@v2.2.11
+- pkg:composer/andydefer/laravel-addresses@v2.2.12
+- pkg:composer/andydefer/laravel-addresses@v2.2.13
 - pkg:composer/andydefer/laravel-addresses@v2.2.2
 - pkg:composer/andydefer/laravel-addresses@v2.2.3
 - pkg:composer/andydefer/laravel-addresses@v2.2.4
 - pkg:composer/andydefer/laravel-addresses@v2.2.5
 - pkg:composer/andydefer/laravel-addresses@v2.2.6
+- pkg:composer/andydefer/laravel-addresses@v2.2.7
+- pkg:composer/andydefer/laravel-addresses@v2.2.8
+- pkg:composer/andydefer/laravel-addresses@v2.2.9

@@ -43,6 +43,16 @@
 - pkg:composer/andydefer/laravel-indexer@v0.21.0
 - pkg:composer/andydefer/laravel-indexer@v0.21.1
 - pkg:composer/andydefer/laravel-indexer@v0.22.0
+- pkg:composer/andydefer/laravel-indexer@v0.22.1
+- pkg:composer/andydefer/laravel-indexer@v0.22.10
+- pkg:composer/andydefer/laravel-indexer@v0.22.2
+- pkg:composer/andydefer/laravel-indexer@v0.22.3
+- pkg:composer/andydefer/laravel-indexer@v0.22.4
+- pkg:composer/andydefer/laravel-indexer@v0.22.5
+- pkg:composer/andydefer/laravel-indexer@v0.22.6
+- pkg:composer/andydefer/laravel-indexer@v0.22.7
+- pkg:composer/andydefer/laravel-indexer@v0.22.8
+- pkg:composer/andydefer/laravel-indexer@v0.22.9
 - pkg:composer/andydefer/laravel-indexer@v0.3.0
 - pkg:composer/andydefer/laravel-indexer@v0.4.0
 - pkg:composer/andydefer/laravel-indexer@v0.5.0
