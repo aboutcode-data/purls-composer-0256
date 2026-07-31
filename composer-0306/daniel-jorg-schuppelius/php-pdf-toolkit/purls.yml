@@ -16,6 +16,13 @@
 - pkg:composer/daniel-jorg-schuppelius/php-pdf-toolkit@v0.14
 - pkg:composer/daniel-jorg-schuppelius/php-pdf-toolkit@v0.14.1
 - pkg:composer/daniel-jorg-schuppelius/php-pdf-toolkit@v0.14.2
+- pkg:composer/daniel-jorg-schuppelius/php-pdf-toolkit@v0.14.2.1
+- pkg:composer/daniel-jorg-schuppelius/php-pdf-toolkit@v0.15
+- pkg:composer/daniel-jorg-schuppelius/php-pdf-toolkit@v0.15.1
+- pkg:composer/daniel-jorg-schuppelius/php-pdf-toolkit@v0.15.2
+- pkg:composer/daniel-jorg-schuppelius/php-pdf-toolkit@v0.15.3
+- pkg:composer/daniel-jorg-schuppelius/php-pdf-toolkit@v0.15.4
+- pkg:composer/daniel-jorg-schuppelius/php-pdf-toolkit@v0.15.5
 - pkg:composer/daniel-jorg-schuppelius/php-pdf-toolkit@v0.2
 - pkg:composer/daniel-jorg-schuppelius/php-pdf-toolkit@v0.2.1
 - pkg:composer/daniel-jorg-schuppelius/php-pdf-toolkit@v0.2.2
