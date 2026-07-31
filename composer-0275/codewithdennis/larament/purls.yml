@@ -82,3 +82,5 @@
 - pkg:composer/codewithdennis/larament@v6.2.5
 - pkg:composer/codewithdennis/larament@v6.2.6
 - pkg:composer/codewithdennis/larament@v7.0.0
+- pkg:composer/codewithdennis/larament@v7.0.1
+- pkg:composer/codewithdennis/larament@v7.0.2
