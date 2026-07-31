@@ -28,6 +28,8 @@
 - pkg:composer/crefopay/php-clientlibrary@2.0.2
 - pkg:composer/crefopay/php-clientlibrary@2.2.0
 - pkg:composer/crefopay/php-clientlibrary@2.2.1
+- pkg:composer/crefopay/php-clientlibrary@2.2.2
 - pkg:composer/crefopay/php-clientlibrary@3.0.0
 - pkg:composer/crefopay/php-clientlibrary@3.0.1
 - pkg:composer/crefopay/php-clientlibrary@3.1.0
+- pkg:composer/crefopay/php-clientlibrary@3.2.0
