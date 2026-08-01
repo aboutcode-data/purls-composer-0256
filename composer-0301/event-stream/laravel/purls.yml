@@ -1,1 +1,2 @@
 - pkg:composer/event-stream/laravel@v1.0.0
+- pkg:composer/event-stream/laravel@v1.0.1
