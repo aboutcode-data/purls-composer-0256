@@ -76,3 +76,4 @@
 - pkg:composer/eappointment/zmsclient@2.30.07
 - pkg:composer/eappointment/zmsclient@2.30.07-patch2
 - pkg:composer/eappointment/zmsclient@2.30.07-patch3
+- pkg:composer/eappointment/zmsclient@2.30.08
