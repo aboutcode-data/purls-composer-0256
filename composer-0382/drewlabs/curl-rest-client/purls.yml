@@ -16,3 +16,6 @@
 - pkg:composer/drewlabs/curl-rest-client@v0.4.1
 - pkg:composer/drewlabs/curl-rest-client@v0.4.2
 - pkg:composer/drewlabs/curl-rest-client@v0.4.3
+- pkg:composer/drewlabs/curl-rest-client@v0.4.4
+- pkg:composer/drewlabs/curl-rest-client@v0.4.5
+- pkg:composer/drewlabs/curl-rest-client@v0.4.6
