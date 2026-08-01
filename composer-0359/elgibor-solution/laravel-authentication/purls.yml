@@ -18,3 +18,4 @@
 - pkg:composer/elgibor-solution/laravel-authentication@v1.1.8
 - pkg:composer/elgibor-solution/laravel-authentication@v1.1.9
 - pkg:composer/elgibor-solution/laravel-authentication@v1.2.0
+- pkg:composer/elgibor-solution/laravel-authentication@v1.3.0
