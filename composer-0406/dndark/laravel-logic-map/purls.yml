@@ -13,3 +13,5 @@
 - pkg:composer/dndark/laravel-logic-map@v1.3.2
 - pkg:composer/dndark/laravel-logic-map@v1.3.3
 - pkg:composer/dndark/laravel-logic-map@v2.0.0
+- pkg:composer/dndark/laravel-logic-map@v2.1.0
+- pkg:composer/dndark/laravel-logic-map@v2.1.1
