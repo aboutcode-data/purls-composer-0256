@@ -2,4 +2,6 @@
 - pkg:composer/igorkgg/laravel-filesystem-akamai-netstorage@11.0.0
 - pkg:composer/igorkgg/laravel-filesystem-akamai-netstorage@12.0.0
 - pkg:composer/igorkgg/laravel-filesystem-akamai-netstorage@13.0.0
+- pkg:composer/igorkgg/laravel-filesystem-akamai-netstorage@13.0.1
+- pkg:composer/igorkgg/laravel-filesystem-akamai-netstorage@13.0.2
 - pkg:composer/igorkgg/laravel-filesystem-akamai-netstorage@9.0.0
