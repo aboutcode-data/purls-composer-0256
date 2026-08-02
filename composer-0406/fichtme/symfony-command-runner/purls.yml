@@ -12,3 +12,5 @@
 - pkg:composer/fichtme/symfony-command-runner@2.0.3
 - pkg:composer/fichtme/symfony-command-runner@3.0.1
 - pkg:composer/fichtme/symfony-command-runner@4.0.1
+- pkg:composer/fichtme/symfony-command-runner@5.0.0
+- pkg:composer/fichtme/symfony-command-runner@5.0.1
