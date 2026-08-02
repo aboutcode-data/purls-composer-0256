@@ -214,3 +214,5 @@
 - pkg:composer/hyperf/database@v3.2.0-rc.2
 - pkg:composer/hyperf/database@v3.2.0-rc.3
 - pkg:composer/hyperf/database@v3.2.1
+- pkg:composer/hyperf/database@v3.2.2
+- pkg:composer/hyperf/database@v3.2.3
