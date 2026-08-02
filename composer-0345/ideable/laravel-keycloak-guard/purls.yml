@@ -1,2 +1,3 @@
 - pkg:composer/ideable/laravel-keycloak-guard@v1.6.4
 - pkg:composer/ideable/laravel-keycloak-guard@v1.6.5
+- pkg:composer/ideable/laravel-keycloak-guard@v2.0.1
