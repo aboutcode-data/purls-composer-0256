@@ -18,3 +18,4 @@
 - pkg:composer/islandora/islandora_mirador@2.4.0
 - pkg:composer/islandora/islandora_mirador@2.4.1
 - pkg:composer/islandora/islandora_mirador@2.4.2
+- pkg:composer/islandora/islandora_mirador@3.0.0
