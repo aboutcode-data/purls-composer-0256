@@ -8,3 +8,5 @@
 - pkg:composer/infocyph/cachelayer@1.5
 - pkg:composer/infocyph/cachelayer@1.5.1
 - pkg:composer/infocyph/cachelayer@1.6
+- pkg:composer/infocyph/cachelayer@2.0
+- pkg:composer/infocyph/cachelayer@2.0.1
