@@ -3,3 +3,4 @@
 - pkg:composer/harungecit/php-email-validator@2.0.0
 - pkg:composer/harungecit/php-email-validator@v3.0.0
 - pkg:composer/harungecit/php-email-validator@v3.0.1
+- pkg:composer/harungecit/php-email-validator@v3.1.0
