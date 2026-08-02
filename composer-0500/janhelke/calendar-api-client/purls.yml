@@ -1,1 +1,7 @@
+- pkg:composer/janhelke/calendar-api-client@v10.0.0
 - pkg:composer/janhelke/calendar-api-client@v11.0.0
+- pkg:composer/janhelke/calendar-api-client@v11.1.0
+- pkg:composer/janhelke/calendar-api-client@v12.0.0
+- pkg:composer/janhelke/calendar-api-client@v12.0.1
+- pkg:composer/janhelke/calendar-api-client@v13.0.0
+- pkg:composer/janhelke/calendar-api-client@v13.0.1

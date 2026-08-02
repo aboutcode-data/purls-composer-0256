@@ -1,2 +1,10 @@
+- pkg:composer/janhelke/calendar-frontend@v10.0.0
 - pkg:composer/janhelke/calendar-frontend@v11.0.0
+- pkg:composer/janhelke/calendar-frontend@v11.1.0
+- pkg:composer/janhelke/calendar-frontend@v11.1.1
+- pkg:composer/janhelke/calendar-frontend@v12.0.0
+- pkg:composer/janhelke/calendar-frontend@v12.0.1
+- pkg:composer/janhelke/calendar-frontend@v13.0.0
+- pkg:composer/janhelke/calendar-frontend@v13.0.1
+- pkg:composer/janhelke/calendar-frontend@v13.1.0
 - pkg:composer/janhelke/calendar-frontend@v9.0.0
