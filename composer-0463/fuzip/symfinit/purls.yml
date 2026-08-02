@@ -1,1 +1,2 @@
-- pkg:composer/fuzip/symfinit@1.0.0-rc1
+- pkg:composer/fuzip/symfinit@v1.0.0
+- pkg:composer/fuzip/symfinit@v1.0.1
