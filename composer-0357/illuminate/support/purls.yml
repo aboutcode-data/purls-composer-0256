@@ -348,6 +348,8 @@
 - pkg:composer/illuminate/support@v13.2.0
 - pkg:composer/illuminate/support@v13.20.0
 - pkg:composer/illuminate/support@v13.21.1
+- pkg:composer/illuminate/support@v13.22.0
+- pkg:composer/illuminate/support@v13.23.0
 - pkg:composer/illuminate/support@v13.3.0
 - pkg:composer/illuminate/support@v13.4.0
 - pkg:composer/illuminate/support@v13.5.0
