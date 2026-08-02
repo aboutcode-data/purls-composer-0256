@@ -120,3 +120,4 @@
 - pkg:composer/google/cloud-storage@v2.2.0
 - pkg:composer/google/cloud-storage@v2.3.0
 - pkg:composer/google/cloud-storage@v2.4.0
+- pkg:composer/google/cloud-storage@v2.5.0
