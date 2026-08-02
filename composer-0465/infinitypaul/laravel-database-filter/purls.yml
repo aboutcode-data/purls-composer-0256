@@ -8,3 +8,4 @@
 - pkg:composer/infinitypaul/laravel-database-filter@3.0.0
 - pkg:composer/infinitypaul/laravel-database-filter@4.0.0
 - pkg:composer/infinitypaul/laravel-database-filter@5.0.0
+- pkg:composer/infinitypaul/laravel-database-filter@5.0.1
