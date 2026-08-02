@@ -28,3 +28,5 @@
 - pkg:composer/frittenkeez/laravel-vouchers@0.7.2
 - pkg:composer/frittenkeez/laravel-vouchers@0.7.3
 - pkg:composer/frittenkeez/laravel-vouchers@0.8.0
+- pkg:composer/frittenkeez/laravel-vouchers@0.8.1
+- pkg:composer/frittenkeez/laravel-vouchers@0.9.0
