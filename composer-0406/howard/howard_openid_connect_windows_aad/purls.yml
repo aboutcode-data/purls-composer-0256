@@ -1,5 +1,6 @@
 - pkg:composer/howard/howard_openid_connect_windows_aad@11.0.0
 - pkg:composer/howard/howard_openid_connect_windows_aad@11.0.1
+- pkg:composer/howard/howard_openid_connect_windows_aad@11.0.11
 - pkg:composer/howard/howard_openid_connect_windows_aad@11.0.2
 - pkg:composer/howard/howard_openid_connect_windows_aad@11.0.3
 - pkg:composer/howard/howard_openid_connect_windows_aad@11.0.4
