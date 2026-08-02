@@ -16,3 +16,4 @@
 - pkg:composer/foxws/laravel-streamer@1.6.0
 - pkg:composer/foxws/laravel-streamer@1.7.0
 - pkg:composer/foxws/laravel-streamer@1.8.0
+- pkg:composer/foxws/laravel-streamer@2.0.0
