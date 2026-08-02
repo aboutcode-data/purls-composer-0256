@@ -27,3 +27,4 @@
 - pkg:composer/happyr/doctrine-specification@v2.0.1
 - pkg:composer/happyr/doctrine-specification@v2.0.2
 - pkg:composer/happyr/doctrine-specification@v2.1.0
+- pkg:composer/happyr/doctrine-specification@v2.2.0
