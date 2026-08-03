@@ -4,3 +4,4 @@
 - pkg:composer/kurozumi/web-scraper-bundle@v6.1.3
 - pkg:composer/kurozumi/web-scraper-bundle@v6.1.4
 - pkg:composer/kurozumi/web-scraper-bundle@v6.1.5
+- pkg:composer/kurozumi/web-scraper-bundle@v7.0.0
