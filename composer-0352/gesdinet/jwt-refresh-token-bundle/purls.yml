@@ -50,4 +50,5 @@
 - pkg:composer/gesdinet/jwt-refresh-token-bundle@v1.3.0
 - pkg:composer/gesdinet/jwt-refresh-token-bundle@v1.4.0
 - pkg:composer/gesdinet/jwt-refresh-token-bundle@v1.5.0
+- pkg:composer/gesdinet/jwt-refresh-token-bundle@v1.5.1
 - pkg:composer/gesdinet/jwt-refresh-token-bundle@v2.0.0
