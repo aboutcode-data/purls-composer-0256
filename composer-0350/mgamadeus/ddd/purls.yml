@@ -302,6 +302,13 @@
 - pkg:composer/mgamadeus/ddd@2.5.9
 - pkg:composer/mgamadeus/ddd@2.50.0
 - pkg:composer/mgamadeus/ddd@2.51.0
+- pkg:composer/mgamadeus/ddd@2.51.1
+- pkg:composer/mgamadeus/ddd@2.51.2
+- pkg:composer/mgamadeus/ddd@2.52.0
+- pkg:composer/mgamadeus/ddd@2.52.1
+- pkg:composer/mgamadeus/ddd@2.53.0
+- pkg:composer/mgamadeus/ddd@2.53.1
+- pkg:composer/mgamadeus/ddd@2.53.2
 - pkg:composer/mgamadeus/ddd@2.6.0
 - pkg:composer/mgamadeus/ddd@2.6.1
 - pkg:composer/mgamadeus/ddd@2.6.2
