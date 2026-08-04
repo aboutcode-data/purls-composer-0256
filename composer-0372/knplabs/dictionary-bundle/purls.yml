@@ -27,3 +27,4 @@
 - pkg:composer/knplabs/dictionary-bundle@v3.3.1
 - pkg:composer/knplabs/dictionary-bundle@v3.4.0
 - pkg:composer/knplabs/dictionary-bundle@v3.5.0
+- pkg:composer/knplabs/dictionary-bundle@v3.6.0
