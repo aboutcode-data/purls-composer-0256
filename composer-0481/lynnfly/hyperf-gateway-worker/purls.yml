@@ -1,2 +1,3 @@
 - pkg:composer/lynnfly/hyperf-gateway-worker@1.0.0
 - pkg:composer/lynnfly/hyperf-gateway-worker@1.0.1
+- pkg:composer/lynnfly/hyperf-gateway-worker@2.0.0
