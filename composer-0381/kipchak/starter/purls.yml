@@ -28,3 +28,5 @@
 - pkg:composer/kipchak/starter@2.7
 - pkg:composer/kipchak/starter@2.8
 - pkg:composer/kipchak/starter@2.9
+- pkg:composer/kipchak/starter@3.0
+- pkg:composer/kipchak/starter@3.1
