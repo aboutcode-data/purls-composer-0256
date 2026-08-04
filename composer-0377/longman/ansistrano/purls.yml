@@ -57,3 +57,4 @@
 - pkg:composer/longman/ansistrano@3.3.0
 - pkg:composer/longman/ansistrano@3.4.0
 - pkg:composer/longman/ansistrano@3.5.0
+- pkg:composer/longman/ansistrano@3.6.0
