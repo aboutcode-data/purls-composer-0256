@@ -1,6 +1,13 @@
 - pkg:composer/mage-obsidian/module-modern-frontend@2.0.0
 - pkg:composer/mage-obsidian/module-modern-frontend@2.0.1
 - pkg:composer/mage-obsidian/module-modern-frontend@2.1.0
+- pkg:composer/mage-obsidian/module-modern-frontend@2.10.0
+- pkg:composer/mage-obsidian/module-modern-frontend@2.11.0
+- pkg:composer/mage-obsidian/module-modern-frontend@2.12.0
+- pkg:composer/mage-obsidian/module-modern-frontend@2.12.1
+- pkg:composer/mage-obsidian/module-modern-frontend@2.13.0
+- pkg:composer/mage-obsidian/module-modern-frontend@2.14.0
+- pkg:composer/mage-obsidian/module-modern-frontend@2.15.0
 - pkg:composer/mage-obsidian/module-modern-frontend@2.2.0
 - pkg:composer/mage-obsidian/module-modern-frontend@2.2.1
 - pkg:composer/mage-obsidian/module-modern-frontend@2.3.0
@@ -13,3 +20,4 @@
 - pkg:composer/mage-obsidian/module-modern-frontend@2.8.0
 - pkg:composer/mage-obsidian/module-modern-frontend@2.8.1
 - pkg:composer/mage-obsidian/module-modern-frontend@2.9.0
+- pkg:composer/mage-obsidian/module-modern-frontend@2.9.1
