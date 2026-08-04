@@ -10,3 +10,4 @@
 - pkg:composer/infocyph/phpprobe@0.5
 - pkg:composer/infocyph/phpprobe@0.6
 - pkg:composer/infocyph/phpprobe@0.7
+- pkg:composer/infocyph/phpprobe@0.8
