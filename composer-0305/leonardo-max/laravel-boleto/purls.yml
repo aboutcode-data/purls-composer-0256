@@ -41,3 +41,4 @@
 - pkg:composer/leonardo-max/laravel-boleto@1.6
 - pkg:composer/leonardo-max/laravel-boleto@1.7
 - pkg:composer/leonardo-max/laravel-boleto@1.8
+- pkg:composer/leonardo-max/laravel-boleto@1.9
