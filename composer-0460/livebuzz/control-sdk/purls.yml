@@ -549,3 +549,4 @@
 - pkg:composer/livebuzz/control-sdk@v6.5.0
 - pkg:composer/livebuzz/control-sdk@v6.6.0
 - pkg:composer/livebuzz/control-sdk@v6.7.0
+- pkg:composer/livebuzz/control-sdk@v6.8.0
