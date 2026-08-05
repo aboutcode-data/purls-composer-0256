@@ -173,3 +173,4 @@
 - pkg:composer/nosto/php-sdk@7.7.5
 - pkg:composer/nosto/php-sdk@7.7.6
 - pkg:composer/nosto/php-sdk@7.7.7
+- pkg:composer/nosto/php-sdk@8.0.0
