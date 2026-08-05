@@ -15,6 +15,7 @@
 - pkg:composer/laravel/slack-notification-channel@v3.0.1
 - pkg:composer/laravel/slack-notification-channel@v3.1.0
 - pkg:composer/laravel/slack-notification-channel@v3.1.1
+- pkg:composer/laravel/slack-notification-channel@v3.10.0
 - pkg:composer/laravel/slack-notification-channel@v3.2.0
 - pkg:composer/laravel/slack-notification-channel@v3.3.0
 - pkg:composer/laravel/slack-notification-channel@v3.3.1
