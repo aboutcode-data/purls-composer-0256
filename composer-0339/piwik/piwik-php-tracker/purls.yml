@@ -28,3 +28,5 @@
 - pkg:composer/piwik/piwik-php-tracker@3.3.1
 - pkg:composer/piwik/piwik-php-tracker@3.3.2
 - pkg:composer/piwik/piwik-php-tracker@3.4.0
+- pkg:composer/piwik/piwik-php-tracker@4.0.0
+- pkg:composer/piwik/piwik-php-tracker@4.0.1
