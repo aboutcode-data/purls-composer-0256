@@ -41,3 +41,4 @@
 - pkg:composer/pion/laravel-chunk-upload@v1.5.6
 - pkg:composer/pion/laravel-chunk-upload@v1.5.7
 - pkg:composer/pion/laravel-chunk-upload@v1.6.0
+- pkg:composer/pion/laravel-chunk-upload@v1.6.1
