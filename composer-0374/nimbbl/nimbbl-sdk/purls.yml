@@ -2,3 +2,4 @@
 - pkg:composer/nimbbl/nimbbl-sdk@v2.0.0
 - pkg:composer/nimbbl/nimbbl-sdk@v3.0.0
 - pkg:composer/nimbbl/nimbbl-sdk@v4.0.0
+- pkg:composer/nimbbl/nimbbl-sdk@v4.1.0-alpha.1
