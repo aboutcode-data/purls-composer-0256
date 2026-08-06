@@ -53,6 +53,8 @@
 - pkg:composer/progalaxyelabs/stonescriptphp@7.4.0
 - pkg:composer/progalaxyelabs/stonescriptphp@7.4.1
 - pkg:composer/progalaxyelabs/stonescriptphp@7.5.0
+- pkg:composer/progalaxyelabs/stonescriptphp@7.6.0
+- pkg:composer/progalaxyelabs/stonescriptphp@7.6.1
 - pkg:composer/progalaxyelabs/stonescriptphp@v1.0.0
 - pkg:composer/progalaxyelabs/stonescriptphp@v1.0.1
 - pkg:composer/progalaxyelabs/stonescriptphp@v1.1.0
