@@ -74,6 +74,7 @@
 - pkg:composer/rapidez/statamic@4.8.0
 - pkg:composer/rapidez/statamic@4.8.1
 - pkg:composer/rapidez/statamic@4.8.2
+- pkg:composer/rapidez/statamic@4.9.0
 - pkg:composer/rapidez/statamic@5.0.0
 - pkg:composer/rapidez/statamic@5.1.0
 - pkg:composer/rapidez/statamic@5.2.0
