@@ -230,6 +230,7 @@
 - pkg:composer/rapidez/core@2.25.0
 - pkg:composer/rapidez/core@2.25.1
 - pkg:composer/rapidez/core@2.26.0
+- pkg:composer/rapidez/core@2.27.0
 - pkg:composer/rapidez/core@2.3.0
 - pkg:composer/rapidez/core@2.4.0
 - pkg:composer/rapidez/core@2.4.1
@@ -298,3 +299,4 @@
 - pkg:composer/rapidez/core@5.1.0
 - pkg:composer/rapidez/core@5.2.0
 - pkg:composer/rapidez/core@5.3.0
+- pkg:composer/rapidez/core@5.4.0
