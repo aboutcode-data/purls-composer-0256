@@ -70,6 +70,7 @@
 - pkg:composer/phpcsstandards/php_codesniffer@3.13.3
 - pkg:composer/phpcsstandards/php_codesniffer@3.13.4
 - pkg:composer/phpcsstandards/php_codesniffer@3.13.5
+- pkg:composer/phpcsstandards/php_codesniffer@3.13.6
 - pkg:composer/phpcsstandards/php_codesniffer@3.2.0
 - pkg:composer/phpcsstandards/php_codesniffer@3.2.1
 - pkg:composer/phpcsstandards/php_codesniffer@3.2.2
@@ -104,3 +105,5 @@
 - pkg:composer/phpcsstandards/php_codesniffer@4.0.0-RC1
 - pkg:composer/phpcsstandards/php_codesniffer@4.0.0beta1
 - pkg:composer/phpcsstandards/php_codesniffer@4.0.1
+- pkg:composer/phpcsstandards/php_codesniffer@4.0.2
+- pkg:composer/phpcsstandards/php_codesniffer@4.0.4
