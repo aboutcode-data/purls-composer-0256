@@ -23,6 +23,7 @@
 - pkg:composer/netresearch/agent-github-project@v2.15.11
 - pkg:composer/netresearch/agent-github-project@v2.15.12
 - pkg:composer/netresearch/agent-github-project@v2.15.13
+- pkg:composer/netresearch/agent-github-project@v2.15.14
 - pkg:composer/netresearch/agent-github-project@v2.15.2
 - pkg:composer/netresearch/agent-github-project@v2.15.3
 - pkg:composer/netresearch/agent-github-project@v2.15.4
