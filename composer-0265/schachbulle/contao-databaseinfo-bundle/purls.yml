@@ -1,3 +1,5 @@
 - pkg:composer/schachbulle/contao-databaseinfo-bundle@1.0.0
 - pkg:composer/schachbulle/contao-databaseinfo-bundle@1.0.1
 - pkg:composer/schachbulle/contao-databaseinfo-bundle@2.0.0
+- pkg:composer/schachbulle/contao-databaseinfo-bundle@3.0.0
+- pkg:composer/schachbulle/contao-databaseinfo-bundle@3.0.1

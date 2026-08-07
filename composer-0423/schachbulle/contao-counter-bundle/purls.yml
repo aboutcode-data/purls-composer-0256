@@ -21,3 +21,11 @@
 - pkg:composer/schachbulle/contao-counter-bundle@1.2.6
 - pkg:composer/schachbulle/contao-counter-bundle@1.2.7
 - pkg:composer/schachbulle/contao-counter-bundle@1.2.8
+- pkg:composer/schachbulle/contao-counter-bundle@1.2.9
+- pkg:composer/schachbulle/contao-counter-bundle@2.0.0
+- pkg:composer/schachbulle/contao-counter-bundle@2.0.2
+- pkg:composer/schachbulle/contao-counter-bundle@2.1.0
+- pkg:composer/schachbulle/contao-counter-bundle@2.2.0
+- pkg:composer/schachbulle/contao-counter-bundle@2.3.0
+- pkg:composer/schachbulle/contao-counter-bundle@2.3.1
+- pkg:composer/schachbulle/contao-counter-bundle@2.4.0
