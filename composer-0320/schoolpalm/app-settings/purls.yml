@@ -1,1 +1,4 @@
 - pkg:composer/schoolpalm/app-settings@1.0.0
+- pkg:composer/schoolpalm/app-settings@1.1.0
+- pkg:composer/schoolpalm/app-settings@2.0.0
+- pkg:composer/schoolpalm/app-settings@2.0.1
