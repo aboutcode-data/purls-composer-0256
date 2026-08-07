@@ -27,3 +27,4 @@
 - pkg:composer/sherlockode/configuration-bundle@v0.6.0
 - pkg:composer/sherlockode/configuration-bundle@v0.7.0
 - pkg:composer/sherlockode/configuration-bundle@v0.7.1
+- pkg:composer/sherlockode/configuration-bundle@v0.8.0
