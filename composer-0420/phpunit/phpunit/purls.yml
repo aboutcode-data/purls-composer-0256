@@ -311,6 +311,7 @@
 - pkg:composer/phpunit/phpunit@13.2.4
 - pkg:composer/phpunit/phpunit@13.2.5
 - pkg:composer/phpunit/phpunit@13.2.6
+- pkg:composer/phpunit/phpunit@13.3.0
 - pkg:composer/phpunit/phpunit@3.7.0
 - pkg:composer/phpunit/phpunit@3.7.1
 - pkg:composer/phpunit/phpunit@3.7.10
