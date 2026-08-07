@@ -52,3 +52,4 @@
 - pkg:composer/nosto/module-nostocmp@5.3.1
 - pkg:composer/nosto/module-nostocmp@5.3.2
 - pkg:composer/nosto/module-nostocmp@5.4.0
+- pkg:composer/nosto/module-nostocmp@6.0.0
