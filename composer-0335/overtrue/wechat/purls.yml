@@ -373,6 +373,7 @@
 - pkg:composer/overtrue/wechat@6.2.2
 - pkg:composer/overtrue/wechat@6.2.3
 - pkg:composer/overtrue/wechat@6.2.4
+- pkg:composer/overtrue/wechat@6.20.0
 - pkg:composer/overtrue/wechat@6.3.0
 - pkg:composer/overtrue/wechat@6.3.1
 - pkg:composer/overtrue/wechat@6.3.2
