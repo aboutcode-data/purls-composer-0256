@@ -2,3 +2,4 @@
 - pkg:composer/spectrocoin/prestashop-merchant@2.0.1
 - pkg:composer/spectrocoin/prestashop-merchant@2.1.0
 - pkg:composer/spectrocoin/prestashop-merchant@2.1.1
+- pkg:composer/spectrocoin/prestashop-merchant@2.1.2
