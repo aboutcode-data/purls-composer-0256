@@ -5,3 +5,4 @@
 - pkg:composer/thelia/take-customer-account-module@1.2.1
 - pkg:composer/thelia/take-customer-account-module@2.0.0
 - pkg:composer/thelia/take-customer-account-module@2.0.1
+- pkg:composer/thelia/take-customer-account-module@3.0.0

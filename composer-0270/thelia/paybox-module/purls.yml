@@ -13,3 +13,4 @@
 - pkg:composer/thelia/paybox-module@2.2.4
 - pkg:composer/thelia/paybox-module@2.2.5
 - pkg:composer/thelia/paybox-module@2.2.7
+- pkg:composer/thelia/paybox-module@3.0.0

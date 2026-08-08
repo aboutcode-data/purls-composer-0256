@@ -20,3 +20,4 @@
 - pkg:composer/thelia/page-module@1.2.5
 - pkg:composer/thelia/page-module@1.2.6
 - pkg:composer/thelia/page-module@1.2.7
+- pkg:composer/thelia/page-module@2.0.0
