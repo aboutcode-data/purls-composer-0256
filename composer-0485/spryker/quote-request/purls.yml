@@ -21,3 +21,4 @@
 - pkg:composer/spryker/quote-request@2.6.1
 - pkg:composer/spryker/quote-request@2.7.0
 - pkg:composer/spryker/quote-request@2.8.0
+- pkg:composer/spryker/quote-request@2.8.1
