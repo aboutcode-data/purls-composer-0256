@@ -35,3 +35,4 @@
 - pkg:composer/thelia/colissimo-label-module@2.2.1
 - pkg:composer/thelia/colissimo-label-module@2.2.2
 - pkg:composer/thelia/colissimo-label-module@2.2.3
+- pkg:composer/thelia/colissimo-label-module@3.0.0
