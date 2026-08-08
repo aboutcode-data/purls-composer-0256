@@ -1,2 +1,4 @@
-- pkg:composer/tavp/tavphub@v1.0.0
-- pkg:composer/tavp/tavphub@v1.1.0
+- pkg:composer/tavp/tavphub@v0.0.0
+- pkg:composer/tavp/tavphub@v0.1.0
+- pkg:composer/tavp/tavphub@v0.1.1
+- pkg:composer/tavp/tavphub@v0.1.2
