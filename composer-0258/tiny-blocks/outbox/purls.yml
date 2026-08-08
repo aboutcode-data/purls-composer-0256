@@ -5,3 +5,4 @@
 - pkg:composer/tiny-blocks/outbox@3.2.0
 - pkg:composer/tiny-blocks/outbox@4.0.0
 - pkg:composer/tiny-blocks/outbox@5.0.0
+- pkg:composer/tiny-blocks/outbox@5.1.0
