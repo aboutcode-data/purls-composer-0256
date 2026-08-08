@@ -46,3 +46,5 @@
 - pkg:composer/tinywan/jwt@v1.8.7
 - pkg:composer/tinywan/jwt@v1.9.0
 - pkg:composer/tinywan/jwt@v1.9.1
+- pkg:composer/tinywan/jwt@v2.0.0
+- pkg:composer/tinywan/jwt@v2.0.1
