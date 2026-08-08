@@ -2,3 +2,5 @@
 - pkg:composer/torqie/laravel-passwordless@v1.0.1
 - pkg:composer/torqie/laravel-passwordless@v1.2.0
 - pkg:composer/torqie/laravel-passwordless@v2.0.0
+- pkg:composer/torqie/laravel-passwordless@v2.1.0
+- pkg:composer/torqie/laravel-passwordless@v2.1.1
