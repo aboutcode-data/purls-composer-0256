@@ -1,8 +1,14 @@
+- pkg:composer/spora-ai/spora-core@0.12.0
 - pkg:composer/spora-ai/spora-core@0.2.0
 - pkg:composer/spora-ai/spora-core@0.3.0
 - pkg:composer/spora-ai/spora-core@v0.10.0
 - pkg:composer/spora-ai/spora-core@v0.11.0
 - pkg:composer/spora-ai/spora-core@v0.11.1
+- pkg:composer/spora-ai/spora-core@v0.13.0
+- pkg:composer/spora-ai/spora-core@v0.14.0
+- pkg:composer/spora-ai/spora-core@v0.14.1
+- pkg:composer/spora-ai/spora-core@v0.14.2
+- pkg:composer/spora-ai/spora-core@v0.15.0
 - pkg:composer/spora-ai/spora-core@v0.4.0
 - pkg:composer/spora-ai/spora-core@v0.4.1
 - pkg:composer/spora-ai/spora-core@v0.4.2
