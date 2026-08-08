@@ -18,6 +18,8 @@
 - pkg:composer/su-sws/stanford_media@11.2.3
 - pkg:composer/su-sws/stanford_media@11.3.0
 - pkg:composer/su-sws/stanford_media@11.3.1
+- pkg:composer/su-sws/stanford_media@11.3.2
+- pkg:composer/su-sws/stanford_media@11.3.3
 - pkg:composer/su-sws/stanford_media@8.2.0
 - pkg:composer/su-sws/stanford_media@8.2.0-alpha.1
 - pkg:composer/su-sws/stanford_media@8.2.0-alpha.2
