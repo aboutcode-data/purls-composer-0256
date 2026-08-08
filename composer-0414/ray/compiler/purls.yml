@@ -34,6 +34,7 @@
 - pkg:composer/ray/compiler@1.13.0
 - pkg:composer/ray/compiler@1.13.1
 - pkg:composer/ray/compiler@1.14.0
+- pkg:composer/ray/compiler@1.15.0
 - pkg:composer/ray/compiler@1.2.0
 - pkg:composer/ray/compiler@1.2.1
 - pkg:composer/ray/compiler@1.2.2
