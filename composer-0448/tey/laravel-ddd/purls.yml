@@ -29,3 +29,5 @@
 - pkg:composer/tey/laravel-ddd@v2.1.2
 - pkg:composer/tey/laravel-ddd@v3.0.0
 - pkg:composer/tey/laravel-ddd@v3.0.1
+- pkg:composer/tey/laravel-ddd@v3.1.0
+- pkg:composer/tey/laravel-ddd@v3.1.1
