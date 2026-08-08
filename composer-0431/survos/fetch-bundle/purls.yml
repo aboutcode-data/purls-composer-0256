@@ -83,6 +83,8 @@
 - pkg:composer/survos/fetch-bundle@2.10.8
 - pkg:composer/survos/fetch-bundle@2.10.9
 - pkg:composer/survos/fetch-bundle@2.18.12
+- pkg:composer/survos/fetch-bundle@2.19.0
+- pkg:composer/survos/fetch-bundle@2.19.1
 - pkg:composer/survos/fetch-bundle@2.2.0
 - pkg:composer/survos/fetch-bundle@2.2.1
 - pkg:composer/survos/fetch-bundle@2.2.2
