@@ -51,3 +51,4 @@
 - pkg:composer/pluswerk/mail-logger@5.0.6
 - pkg:composer/pluswerk/mail-logger@6.0.0
 - pkg:composer/pluswerk/mail-logger@6.1.0
+- pkg:composer/pluswerk/mail-logger@6.2.0
