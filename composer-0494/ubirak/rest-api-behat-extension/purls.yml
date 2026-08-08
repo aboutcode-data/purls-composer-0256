@@ -36,3 +36,4 @@
 - pkg:composer/ubirak/rest-api-behat-extension@v8.2.0
 - pkg:composer/ubirak/rest-api-behat-extension@v8.3.0
 - pkg:composer/ubirak/rest-api-behat-extension@v9.0.0
+- pkg:composer/ubirak/rest-api-behat-extension@v9.0.1
