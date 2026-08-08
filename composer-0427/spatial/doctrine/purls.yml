@@ -34,3 +34,13 @@
 - pkg:composer/spatial/doctrine@v1.0.1
 - pkg:composer/spatial/doctrine@v2.0.0
 - pkg:composer/spatial/doctrine@v4.0.0-alpha5.1
+- pkg:composer/spatial/doctrine@v4.1.0
+- pkg:composer/spatial/doctrine@v4.1.1
+- pkg:composer/spatial/doctrine@v4.2.0
+- pkg:composer/spatial/doctrine@v4.2.1
+- pkg:composer/spatial/doctrine@v4.2.2
+- pkg:composer/spatial/doctrine@v4.2.3
+- pkg:composer/spatial/doctrine@v4.2.4
+- pkg:composer/spatial/doctrine@v4.2.5
+- pkg:composer/spatial/doctrine@v4.2.6
+- pkg:composer/spatial/doctrine@v4.2.7
