@@ -7,3 +7,4 @@
 - pkg:composer/thelia/force-phone-module@1.2.5
 - pkg:composer/thelia/force-phone-module@2.0.2
 - pkg:composer/thelia/force-phone-module@2.1.0
+- pkg:composer/thelia/force-phone-module@3.0.0
