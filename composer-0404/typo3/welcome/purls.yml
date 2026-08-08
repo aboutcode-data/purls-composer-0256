@@ -77,3 +77,4 @@
 - pkg:composer/typo3/welcome@9.0.0-beta10
 - pkg:composer/typo3/welcome@9.0.0-beta11
 - pkg:composer/typo3/welcome@9.1.0
+- pkg:composer/typo3/welcome@9.1.2
