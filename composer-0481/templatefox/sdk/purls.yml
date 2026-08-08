@@ -1,5 +1,7 @@
 - pkg:composer/templatefox/sdk@v1.10.0
 - pkg:composer/templatefox/sdk@v1.11.0
+- pkg:composer/templatefox/sdk@v1.12.0
+- pkg:composer/templatefox/sdk@v1.13.0
 - pkg:composer/templatefox/sdk@v1.3.0
 - pkg:composer/templatefox/sdk@v1.4.0
 - pkg:composer/templatefox/sdk@v1.5.0
