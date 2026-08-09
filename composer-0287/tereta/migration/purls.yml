@@ -10,6 +10,7 @@
 - pkg:composer/tereta/migration@2.0.10
 - pkg:composer/tereta/migration@2.0.11
 - pkg:composer/tereta/migration@2.0.13
+- pkg:composer/tereta/migration@2.0.15
 - pkg:composer/tereta/migration@2.0.2
 - pkg:composer/tereta/migration@2.0.3
 - pkg:composer/tereta/migration@2.0.4
