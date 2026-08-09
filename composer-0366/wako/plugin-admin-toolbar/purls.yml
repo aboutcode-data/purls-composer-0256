@@ -6,3 +6,4 @@
 - pkg:composer/wako/plugin-admin-toolbar@1.5.0
 - pkg:composer/wako/plugin-admin-toolbar@1.5.1
 - pkg:composer/wako/plugin-admin-toolbar@1.5.2
+- pkg:composer/wako/plugin-admin-toolbar@2.0.0
