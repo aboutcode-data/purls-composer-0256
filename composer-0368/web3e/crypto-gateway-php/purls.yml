@@ -1,3 +1,4 @@
 - pkg:composer/web3e/crypto-gateway-php@v0.1.0
 - pkg:composer/web3e/crypto-gateway-php@v1.0.0
 - pkg:composer/web3e/crypto-gateway-php@v1.0.1
+- pkg:composer/web3e/crypto-gateway-php@v1.0.2
