@@ -26,4 +26,6 @@
 - pkg:composer/wouterj/eloquent-bundle@2.6.0
 - pkg:composer/wouterj/eloquent-bundle@2.7.0
 - pkg:composer/wouterj/eloquent-bundle@2.7.1
+- pkg:composer/wouterj/eloquent-bundle@2.8.0
+- pkg:composer/wouterj/eloquent-bundle@2.8.1
 - pkg:composer/wouterj/eloquent-bundle@v0.1.0
