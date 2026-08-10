@@ -32,6 +32,7 @@
 - pkg:composer/wp-pay-gateways/adyen@4.2.3
 - pkg:composer/wp-pay-gateways/adyen@4.3.0
 - pkg:composer/wp-pay-gateways/adyen@4.3.1
+- pkg:composer/wp-pay-gateways/adyen@v4.10.0
 - pkg:composer/wp-pay-gateways/adyen@v4.4.0
 - pkg:composer/wp-pay-gateways/adyen@v4.4.1
 - pkg:composer/wp-pay-gateways/adyen@v4.4.2

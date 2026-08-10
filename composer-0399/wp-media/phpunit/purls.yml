@@ -14,3 +14,4 @@
 - pkg:composer/wp-media/phpunit@v3.0.2
 - pkg:composer/wp-media/phpunit@v3.0.3
 - pkg:composer/wp-media/phpunit@v3.0.4
+- pkg:composer/wp-media/phpunit@v3.1
