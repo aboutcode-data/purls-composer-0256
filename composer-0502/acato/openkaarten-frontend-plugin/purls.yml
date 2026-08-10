@@ -13,3 +13,4 @@
 - pkg:composer/acato/openkaarten-frontend-plugin@0.3.4
 - pkg:composer/acato/openkaarten-frontend-plugin@0.4.0
 - pkg:composer/acato/openkaarten-frontend-plugin@0.4.1
+- pkg:composer/acato/openkaarten-frontend-plugin@v0.4.2
