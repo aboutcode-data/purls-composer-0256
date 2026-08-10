@@ -9,4 +9,5 @@
 - pkg:composer/thelia/thelia-skeleton@2.5.4
 - pkg:composer/thelia/thelia-skeleton@2.5.5
 - pkg:composer/thelia/thelia-skeleton@2.6.0
+- pkg:composer/thelia/thelia-skeleton@2.6.1
 - pkg:composer/thelia/thelia-skeleton@3.0.0-beta3
