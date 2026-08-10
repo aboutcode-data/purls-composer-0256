@@ -21,6 +21,9 @@
 - pkg:composer/wyrihaximus/async-test-utilities@13.3.0
 - pkg:composer/wyrihaximus/async-test-utilities@13.4.0
 - pkg:composer/wyrihaximus/async-test-utilities@13.4.1
+- pkg:composer/wyrihaximus/async-test-utilities@13.5.0
+- pkg:composer/wyrihaximus/async-test-utilities@13.5.1
+- pkg:composer/wyrihaximus/async-test-utilities@13.5.2
 - pkg:composer/wyrihaximus/async-test-utilities@2.0.0
 - pkg:composer/wyrihaximus/async-test-utilities@2.0.0-alpha1
 - pkg:composer/wyrihaximus/async-test-utilities@2.0.0-alpha2
