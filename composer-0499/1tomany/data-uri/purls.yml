@@ -51,3 +51,6 @@
 - pkg:composer/1tomany/data-uri@v6.0.7
 - pkg:composer/1tomany/data-uri@v6.0.8
 - pkg:composer/1tomany/data-uri@v6.0.9
+- pkg:composer/1tomany/data-uri@v7.0.0
+- pkg:composer/1tomany/data-uri@v7.0.1
+- pkg:composer/1tomany/data-uri@v7.0.2
