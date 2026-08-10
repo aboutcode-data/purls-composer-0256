@@ -3,3 +3,4 @@
 - pkg:composer/yicmf/worker@0.5
 - pkg:composer/yicmf/worker@0.6
 - pkg:composer/yicmf/worker@0.7
+- pkg:composer/yicmf/worker@1.0.0
