@@ -1,4 +1,6 @@
 - pkg:composer/zaalbarxx/laravel-eloquent-state-machines@7.0.0
+- pkg:composer/zaalbarxx/laravel-eloquent-state-machines@8.0.0
+- pkg:composer/zaalbarxx/laravel-eloquent-state-machines@8.0.1
 - pkg:composer/zaalbarxx/laravel-eloquent-state-machines@v1.0.0
 - pkg:composer/zaalbarxx/laravel-eloquent-state-machines@v1.0.1
 - pkg:composer/zaalbarxx/laravel-eloquent-state-machines@v1.1.0
