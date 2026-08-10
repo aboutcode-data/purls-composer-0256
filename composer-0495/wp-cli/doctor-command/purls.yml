@@ -8,3 +8,4 @@
 - pkg:composer/wp-cli/doctor-command@v2.3.0
 - pkg:composer/wp-cli/doctor-command@v2.3.1
 - pkg:composer/wp-cli/doctor-command@v2.3.2
+- pkg:composer/wp-cli/doctor-command@v3.0.0

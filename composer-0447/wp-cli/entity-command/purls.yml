@@ -54,6 +54,7 @@
 - pkg:composer/wp-cli/entity-command@v2.8.10
 - pkg:composer/wp-cli/entity-command@v2.8.11
 - pkg:composer/wp-cli/entity-command@v2.8.12
+- pkg:composer/wp-cli/entity-command@v2.8.13
 - pkg:composer/wp-cli/entity-command@v2.8.2
 - pkg:composer/wp-cli/entity-command@v2.8.3
 - pkg:composer/wp-cli/entity-command@v2.8.4
@@ -62,3 +63,5 @@
 - pkg:composer/wp-cli/entity-command@v2.8.7
 - pkg:composer/wp-cli/entity-command@v2.8.8
 - pkg:composer/wp-cli/entity-command@v2.8.9
+- pkg:composer/wp-cli/entity-command@v3.0.0
+- pkg:composer/wp-cli/entity-command@v3.0.1
