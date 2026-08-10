@@ -63,3 +63,4 @@
 - pkg:composer/wpify/scoper@3.2.7
 - pkg:composer/wpify/scoper@3.2.8
 - pkg:composer/wpify/scoper@3.2.9
+- pkg:composer/wpify/scoper@4.0.0
