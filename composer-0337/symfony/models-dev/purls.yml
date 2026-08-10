@@ -38,6 +38,7 @@
 - pkg:composer/symfony/models-dev@v124.0
 - pkg:composer/symfony/models-dev@v125.0
 - pkg:composer/symfony/models-dev@v126.0
+- pkg:composer/symfony/models-dev@v127.0
 - pkg:composer/symfony/models-dev@v13.0
 - pkg:composer/symfony/models-dev@v14.0
 - pkg:composer/symfony/models-dev@v15.0
