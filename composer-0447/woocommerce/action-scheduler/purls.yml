@@ -53,5 +53,6 @@
 - pkg:composer/woocommerce/action-scheduler@3.9.2
 - pkg:composer/woocommerce/action-scheduler@3.9.3
 - pkg:composer/woocommerce/action-scheduler@4.0.0
+- pkg:composer/woocommerce/action-scheduler@4.1.0
 - pkg:composer/woocommerce/action-scheduler@v2.1.1
 - pkg:composer/woocommerce/action-scheduler@v3.1.5
