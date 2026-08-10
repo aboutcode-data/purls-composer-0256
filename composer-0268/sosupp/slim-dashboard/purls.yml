@@ -100,6 +100,7 @@
 - pkg:composer/sosupp/slim-dashboard@v2.1.1
 - pkg:composer/sosupp/slim-dashboard@v2.1.2
 - pkg:composer/sosupp/slim-dashboard@v2.10.0
+- pkg:composer/sosupp/slim-dashboard@v2.11.0
 - pkg:composer/sosupp/slim-dashboard@v2.2.0
 - pkg:composer/sosupp/slim-dashboard@v2.2.1
 - pkg:composer/sosupp/slim-dashboard@v2.3.0
