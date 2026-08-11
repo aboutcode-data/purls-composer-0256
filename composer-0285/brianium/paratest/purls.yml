@@ -147,6 +147,7 @@
 - pkg:composer/brianium/paratest@v7.22.4
 - pkg:composer/brianium/paratest@v7.23.0
 - pkg:composer/brianium/paratest@v7.23.1
+- pkg:composer/brianium/paratest@v7.24.0
 - pkg:composer/brianium/paratest@v7.3.0
 - pkg:composer/brianium/paratest@v7.3.1
 - pkg:composer/brianium/paratest@v7.3.2
