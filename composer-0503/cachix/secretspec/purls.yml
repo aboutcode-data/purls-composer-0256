@@ -1,3 +1,5 @@
 - pkg:composer/cachix/secretspec@v0.15.0
 - pkg:composer/cachix/secretspec@v0.16.0
 - pkg:composer/cachix/secretspec@v0.17.0
+- pkg:composer/cachix/secretspec@v0.17.1
+- pkg:composer/cachix/secretspec@v0.18.0
