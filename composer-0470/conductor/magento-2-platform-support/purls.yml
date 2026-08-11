@@ -11,3 +11,5 @@
 - pkg:composer/conductor/magento-2-platform-support@0.9.9
 - pkg:composer/conductor/magento-2-platform-support@1.0.0
 - pkg:composer/conductor/magento-2-platform-support@2.0.1
+- pkg:composer/conductor/magento-2-platform-support@3.1.0
+- pkg:composer/conductor/magento-2-platform-support@3.1.1
