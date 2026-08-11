@@ -1,5 +1,6 @@
 - pkg:composer/carnage/php-graphql-client@1.14.0
 - pkg:composer/carnage/php-graphql-client@1.14.1
+- pkg:composer/carnage/php-graphql-client@1.15.0
 - pkg:composer/carnage/php-graphql-client@v0.1
 - pkg:composer/carnage/php-graphql-client@v0.1.1
 - pkg:composer/carnage/php-graphql-client@v0.1.2
