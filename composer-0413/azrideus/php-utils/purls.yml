@@ -132,6 +132,7 @@
 - pkg:composer/azrideus/php-utils@v1.1.213
 - pkg:composer/azrideus/php-utils@v1.1.214
 - pkg:composer/azrideus/php-utils@v1.1.215
+- pkg:composer/azrideus/php-utils@v1.1.216
 - pkg:composer/azrideus/php-utils@v1.1.22
 - pkg:composer/azrideus/php-utils@v1.1.23
 - pkg:composer/azrideus/php-utils@v1.1.24
