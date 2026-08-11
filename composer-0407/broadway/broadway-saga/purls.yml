@@ -11,3 +11,5 @@
 - pkg:composer/broadway/broadway-saga@0.8.0
 - pkg:composer/broadway/broadway-saga@0.9.0
 - pkg:composer/broadway/broadway-saga@1.0.0
+- pkg:composer/broadway/broadway-saga@2.0.0
+- pkg:composer/broadway/broadway-saga@2.0.1
