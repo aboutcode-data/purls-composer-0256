@@ -1,2 +1,4 @@
 - pkg:composer/boneframework/deep-links@v0.1.0
 - pkg:composer/boneframework/deep-links@v0.2.0
+- pkg:composer/boneframework/deep-links@v0.2.1
+- pkg:composer/boneframework/deep-links@v0.2.2
