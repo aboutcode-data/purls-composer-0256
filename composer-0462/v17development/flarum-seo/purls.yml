@@ -27,6 +27,7 @@
 - pkg:composer/v17development/flarum-seo@4.0.0-beta.5
 - pkg:composer/v17development/flarum-seo@4.0.0-beta.6
 - pkg:composer/v17development/flarum-seo@4.0.0-beta.7
+- pkg:composer/v17development/flarum-seo@4.0.0-beta.8
 - pkg:composer/v17development/flarum-seo@v1.6.0
 - pkg:composer/v17development/flarum-seo@v1.6.1
 - pkg:composer/v17development/flarum-seo@v1.6.2
