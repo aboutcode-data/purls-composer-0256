@@ -9,3 +9,4 @@
 - pkg:composer/avto-dev/data-migrations-laravel@v2.5.0
 - pkg:composer/avto-dev/data-migrations-laravel@v2.6.0
 - pkg:composer/avto-dev/data-migrations-laravel@v2.7.0
+- pkg:composer/avto-dev/data-migrations-laravel@v2.8.0
