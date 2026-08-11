@@ -161,3 +161,6 @@
 - pkg:composer/cego/request-insurance@3.7.2
 - pkg:composer/cego/request-insurance@3.7.3
 - pkg:composer/cego/request-insurance@4.0.0
+- pkg:composer/cego/request-insurance@4.0.1
+- pkg:composer/cego/request-insurance@4.0.2
+- pkg:composer/cego/request-insurance@4.0.3
