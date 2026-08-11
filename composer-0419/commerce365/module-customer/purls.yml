@@ -9,3 +9,4 @@
 - pkg:composer/commerce365/module-customer@1.0.7
 - pkg:composer/commerce365/module-customer@1.0.8
 - pkg:composer/commerce365/module-customer@1.0.9
+- pkg:composer/commerce365/module-customer@1.1.0-beta

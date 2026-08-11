@@ -19,3 +19,4 @@
 - pkg:composer/commerce365/module-customer-price-hyva-compatibility@2.0.3
 - pkg:composer/commerce365/module-customer-price-hyva-compatibility@2.0.4
 - pkg:composer/commerce365/module-customer-price-hyva-compatibility@2.0.5
+- pkg:composer/commerce365/module-customer-price-hyva-compatibility@2.1.0-beta
