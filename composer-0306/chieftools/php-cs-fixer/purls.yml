@@ -7,3 +7,7 @@
 - pkg:composer/chieftools/php-cs-fixer@v1.0.6
 - pkg:composer/chieftools/php-cs-fixer@v1.0.7
 - pkg:composer/chieftools/php-cs-fixer@v1.0.8
+- pkg:composer/chieftools/php-cs-fixer@v1.1.0
+- pkg:composer/chieftools/php-cs-fixer@v1.1.1
+- pkg:composer/chieftools/php-cs-fixer@v1.1.2
+- pkg:composer/chieftools/php-cs-fixer@v1.1.3
