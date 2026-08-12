@@ -24,3 +24,4 @@
 - pkg:composer/craftcms/commerce-mollie@4.3.1
 - pkg:composer/craftcms/commerce-mollie@4.4.0
 - pkg:composer/craftcms/commerce-mollie@4.4.1
+- pkg:composer/craftcms/commerce-mollie@4.4.2
