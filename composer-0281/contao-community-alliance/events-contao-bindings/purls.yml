@@ -20,3 +20,4 @@
 - pkg:composer/contao-community-alliance/events-contao-bindings@5.0.0
 - pkg:composer/contao-community-alliance/events-contao-bindings@5.0.1
 - pkg:composer/contao-community-alliance/events-contao-bindings@5.7.0
+- pkg:composer/contao-community-alliance/events-contao-bindings@5.7.1
