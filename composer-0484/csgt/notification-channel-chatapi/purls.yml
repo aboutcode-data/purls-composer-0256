@@ -17,6 +17,7 @@
 - pkg:composer/csgt/notification-channel-chatapi@v6.0.2
 - pkg:composer/csgt/notification-channel-chatapi@v7.0.0
 - pkg:composer/csgt/notification-channel-chatapi@v7.0.1
+- pkg:composer/csgt/notification-channel-chatapi@v7.0.10
 - pkg:composer/csgt/notification-channel-chatapi@v7.0.2
 - pkg:composer/csgt/notification-channel-chatapi@v7.0.3
 - pkg:composer/csgt/notification-channel-chatapi@v7.0.4
