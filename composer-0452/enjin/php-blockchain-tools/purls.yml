@@ -19,3 +19,7 @@
 - pkg:composer/enjin/php-blockchain-tools@v2.0.1
 - pkg:composer/enjin/php-blockchain-tools@v3.0.0
 - pkg:composer/enjin/php-blockchain-tools@v3.0.1
+- pkg:composer/enjin/php-blockchain-tools@v3.1.0
+- pkg:composer/enjin/php-blockchain-tools@v4.0.0
+- pkg:composer/enjin/php-blockchain-tools@v4.0.1
+- pkg:composer/enjin/php-blockchain-tools@v4.0.2
