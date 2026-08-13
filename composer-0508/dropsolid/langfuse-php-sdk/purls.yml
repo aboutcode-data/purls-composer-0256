@@ -1,4 +1,6 @@
 - pkg:composer/dropsolid/langfuse-php-sdk@v1.0.0
 - pkg:composer/dropsolid/langfuse-php-sdk@v1.1.0
 - pkg:composer/dropsolid/langfuse-php-sdk@v1.2.0
+- pkg:composer/dropsolid/langfuse-php-sdk@v1.3.0
 - pkg:composer/dropsolid/langfuse-php-sdk@v1.3.0-rc.1
+- pkg:composer/dropsolid/langfuse-php-sdk@v1.3.0-rc.2
