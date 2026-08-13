@@ -12,3 +12,4 @@
 - pkg:composer/flightphp/tracy-extensions@v0.2.6
 - pkg:composer/flightphp/tracy-extensions@v0.2.7
 - pkg:composer/flightphp/tracy-extensions@v0.2.8
+- pkg:composer/flightphp/tracy-extensions@v0.3.0
