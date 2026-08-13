@@ -1,4 +1,5 @@
 - pkg:composer/duckdev/wp-queue-process@2.0.0
+- pkg:composer/duckdev/wp-queue-process@3.0.0
 - pkg:composer/duckdev/wp-queue-process@v1.0.0
 - pkg:composer/duckdev/wp-queue-process@v1.0.1
 - pkg:composer/duckdev/wp-queue-process@v1.0.2
