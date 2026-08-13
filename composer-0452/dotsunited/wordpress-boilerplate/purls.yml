@@ -68,6 +68,7 @@
 - pkg:composer/dotsunited/wordpress-boilerplate@v16.0.2
 - pkg:composer/dotsunited/wordpress-boilerplate@v16.1.0
 - pkg:composer/dotsunited/wordpress-boilerplate@v17.0.0
+- pkg:composer/dotsunited/wordpress-boilerplate@v18.0.0
 - pkg:composer/dotsunited/wordpress-boilerplate@v2.0.0
 - pkg:composer/dotsunited/wordpress-boilerplate@v3.0.0
 - pkg:composer/dotsunited/wordpress-boilerplate@v3.0.1
