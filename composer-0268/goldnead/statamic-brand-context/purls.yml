@@ -16,3 +16,7 @@
 - pkg:composer/goldnead/statamic-brand-context@v1.5.1
 - pkg:composer/goldnead/statamic-brand-context@v1.6.0
 - pkg:composer/goldnead/statamic-brand-context@v1.7.0
+- pkg:composer/goldnead/statamic-brand-context@v1.8.0
+- pkg:composer/goldnead/statamic-brand-context@v1.9.0
+- pkg:composer/goldnead/statamic-brand-context@v1.9.1
+- pkg:composer/goldnead/statamic-brand-context@v1.9.2
