@@ -5,6 +5,9 @@
 - pkg:composer/ellephanty/controller@v0.0.13
 - pkg:composer/ellephanty/controller@v0.0.14
 - pkg:composer/ellephanty/controller@v0.0.15
+- pkg:composer/ellephanty/controller@v0.0.17
+- pkg:composer/ellephanty/controller@v0.0.18
+- pkg:composer/ellephanty/controller@v0.0.19
 - pkg:composer/ellephanty/controller@v0.0.2
 - pkg:composer/ellephanty/controller@v0.0.3
 - pkg:composer/ellephanty/controller@v0.0.4
