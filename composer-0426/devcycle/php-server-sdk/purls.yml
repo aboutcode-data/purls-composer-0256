@@ -5,6 +5,7 @@
 - pkg:composer/devcycle/php-server-sdk@2.1.1
 - pkg:composer/devcycle/php-server-sdk@2.2.0
 - pkg:composer/devcycle/php-server-sdk@2.2.1
+- pkg:composer/devcycle/php-server-sdk@2.2.2
 - pkg:composer/devcycle/php-server-sdk@v1.0.0
 - pkg:composer/devcycle/php-server-sdk@v1.0.1
 - pkg:composer/devcycle/php-server-sdk@v1.0.2
