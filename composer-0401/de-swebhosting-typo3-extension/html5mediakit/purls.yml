@@ -10,6 +10,7 @@
 - pkg:composer/de-swebhosting-typo3-extension/html5mediakit@v12.2.0
 - pkg:composer/de-swebhosting-typo3-extension/html5mediakit@v13.4.0
 - pkg:composer/de-swebhosting-typo3-extension/html5mediakit@v13.5.0
+- pkg:composer/de-swebhosting-typo3-extension/html5mediakit@v14.0.0
 - pkg:composer/de-swebhosting-typo3-extension/html5mediakit@v9.0.0
 - pkg:composer/de-swebhosting-typo3-extension/html5mediakit@v9.0.1
 - pkg:composer/de-swebhosting-typo3-extension/html5mediakit@v9.1.0
