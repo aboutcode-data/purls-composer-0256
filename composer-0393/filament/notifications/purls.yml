@@ -770,6 +770,7 @@
 - pkg:composer/filament/notifications@v4.12.3
 - pkg:composer/filament/notifications@v4.12.4
 - pkg:composer/filament/notifications@v4.12.5
+- pkg:composer/filament/notifications@v4.12.6
 - pkg:composer/filament/notifications@v4.2.0
 - pkg:composer/filament/notifications@v4.2.1
 - pkg:composer/filament/notifications@v4.2.2
@@ -856,3 +857,4 @@
 - pkg:composer/filament/notifications@v5.7.3
 - pkg:composer/filament/notifications@v5.7.4
 - pkg:composer/filament/notifications@v5.7.5
+- pkg:composer/filament/notifications@v5.7.6
