@@ -35,3 +35,4 @@
 - pkg:composer/datatables.net/editor-php@2.5.0
 - pkg:composer/datatables.net/editor-php@2.5.1
 - pkg:composer/datatables.net/editor-php@2.5.2
+- pkg:composer/datatables.net/editor-php@3.0.0
