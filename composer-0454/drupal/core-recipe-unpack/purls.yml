@@ -45,3 +45,4 @@
 - pkg:composer/drupal/core-recipe-unpack@11.4.2
 - pkg:composer/drupal/core-recipe-unpack@11.4.3
 - pkg:composer/drupal/core-recipe-unpack@11.4.4
+- pkg:composer/drupal/core-recipe-unpack@11.4.5
