@@ -10,3 +10,5 @@
 - pkg:composer/conduction/hydra-gates@v1.6.0
 - pkg:composer/conduction/hydra-gates@v1.7.0
 - pkg:composer/conduction/hydra-gates@v1.7.1
+- pkg:composer/conduction/hydra-gates@v1.7.2
+- pkg:composer/conduction/hydra-gates@v1.7.3
