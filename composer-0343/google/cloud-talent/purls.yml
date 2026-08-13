@@ -62,3 +62,4 @@
 - pkg:composer/google/cloud-talent@v2.2.0
 - pkg:composer/google/cloud-talent@v2.2.1
 - pkg:composer/google/cloud-talent@v2.3.0
+- pkg:composer/google/cloud-talent@v2.3.1

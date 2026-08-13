@@ -37,3 +37,4 @@
 - pkg:composer/google/cloud-vpc-access@v2.1.1
 - pkg:composer/google/cloud-vpc-access@v2.1.2
 - pkg:composer/google/cloud-vpc-access@v2.2.0
+- pkg:composer/google/cloud-vpc-access@v2.3.0

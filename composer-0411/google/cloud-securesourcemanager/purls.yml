@@ -7,6 +7,7 @@
 - pkg:composer/google/cloud-securesourcemanager@v0.2.5
 - pkg:composer/google/cloud-securesourcemanager@v1.0.0
 - pkg:composer/google/cloud-securesourcemanager@v1.1.0
+- pkg:composer/google/cloud-securesourcemanager@v1.10.0
 - pkg:composer/google/cloud-securesourcemanager@v1.2.0
 - pkg:composer/google/cloud-securesourcemanager@v1.3.0
 - pkg:composer/google/cloud-securesourcemanager@v1.3.1

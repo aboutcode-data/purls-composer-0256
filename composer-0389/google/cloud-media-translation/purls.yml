@@ -28,3 +28,4 @@
 - pkg:composer/google/cloud-media-translation@v0.6.0
 - pkg:composer/google/cloud-media-translation@v0.6.1
 - pkg:composer/google/cloud-media-translation@v0.6.2
+- pkg:composer/google/cloud-media-translation@v0.7.0
