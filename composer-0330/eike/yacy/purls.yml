@@ -7,3 +7,5 @@
 - pkg:composer/eike/yacy@4.0.1
 - pkg:composer/eike/yacy@4.0.2
 - pkg:composer/eike/yacy@5.0.0
+- pkg:composer/eike/yacy@5.2.0
+- pkg:composer/eike/yacy@6.0.0
