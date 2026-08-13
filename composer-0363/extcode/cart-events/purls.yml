@@ -1,3 +1,4 @@
+- pkg:composer/extcode/cart-events@6.0.0
 - pkg:composer/extcode/cart-events@v1.0.0
 - pkg:composer/extcode/cart-events@v1.0.1
 - pkg:composer/extcode/cart-events@v1.1.0
