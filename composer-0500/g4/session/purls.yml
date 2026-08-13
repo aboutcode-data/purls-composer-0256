@@ -19,6 +19,7 @@
 - pkg:composer/g4/session@2.3.0
 - pkg:composer/g4/session@2.4.0
 - pkg:composer/g4/session@2.4.1
+- pkg:composer/g4/session@2.4.2
 - pkg:composer/g4/session@3.0.0
 - pkg:composer/g4/session@3.1.0
 - pkg:composer/g4/session@3.1.1
