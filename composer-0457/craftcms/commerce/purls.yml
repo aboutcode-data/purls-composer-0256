@@ -223,6 +223,7 @@
 - pkg:composer/craftcms/commerce@4.11.2
 - pkg:composer/craftcms/commerce@4.12.0
 - pkg:composer/craftcms/commerce@4.12.1
+- pkg:composer/craftcms/commerce@4.12.2
 - pkg:composer/craftcms/commerce@4.2.0
 - pkg:composer/craftcms/commerce@4.2.1
 - pkg:composer/craftcms/commerce@4.2.10
