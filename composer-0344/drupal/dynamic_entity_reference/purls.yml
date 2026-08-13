@@ -4,6 +4,7 @@
 - pkg:composer/drupal/dynamic_entity_reference@3.2.0
 - pkg:composer/drupal/dynamic_entity_reference@3.2.1
 - pkg:composer/drupal/dynamic_entity_reference@3.2.2
+- pkg:composer/drupal/dynamic_entity_reference@3.2.3
 - pkg:composer/drupal/dynamic_entity_reference@4.0.0-alpha1
 - pkg:composer/drupal/dynamic_entity_reference@4.0.0-alpha2
 - pkg:composer/drupal/dynamic_entity_reference@4.0.0-alpha3
