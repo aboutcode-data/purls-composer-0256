@@ -1,3 +1,4 @@
 - pkg:composer/joby/smol-uid@v1.0.0
 - pkg:composer/joby/smol-uid@v1.0.0-beta1
 - pkg:composer/joby/smol-uid@v1.1.0
+- pkg:composer/joby/smol-uid@v1.2.0
