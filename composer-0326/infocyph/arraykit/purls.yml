@@ -17,3 +17,5 @@
 - pkg:composer/infocyph/arraykit@4.5.2
 - pkg:composer/infocyph/arraykit@4.6
 - pkg:composer/infocyph/arraykit@4.6.1
+- pkg:composer/infocyph/arraykit@5.0
+- pkg:composer/infocyph/arraykit@5.1

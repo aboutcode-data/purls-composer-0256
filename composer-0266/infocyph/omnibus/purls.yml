@@ -1,2 +1,5 @@
 - pkg:composer/infocyph/omnibus@1.0.0
 - pkg:composer/infocyph/omnibus@1.0.1
+- pkg:composer/infocyph/omnibus@2.0
+- pkg:composer/infocyph/omnibus@2.1
+- pkg:composer/infocyph/omnibus@2.1.1
