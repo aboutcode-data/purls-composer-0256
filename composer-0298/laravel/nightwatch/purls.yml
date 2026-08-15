@@ -68,6 +68,8 @@
 - pkg:composer/laravel/nightwatch@v1.28.3
 - pkg:composer/laravel/nightwatch@v1.28.4
 - pkg:composer/laravel/nightwatch@v1.28.5
+- pkg:composer/laravel/nightwatch@v1.28.6
+- pkg:composer/laravel/nightwatch@v1.28.7
 - pkg:composer/laravel/nightwatch@v1.3.0
 - pkg:composer/laravel/nightwatch@v1.4.0
 - pkg:composer/laravel/nightwatch@v1.5.0
