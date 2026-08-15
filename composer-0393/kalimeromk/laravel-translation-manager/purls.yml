@@ -6,3 +6,5 @@
 - pkg:composer/kalimeromk/laravel-translation-manager@v1.6
 - pkg:composer/kalimeromk/laravel-translation-manager@v1.7
 - pkg:composer/kalimeromk/laravel-translation-manager@v2.0
+- pkg:composer/kalimeromk/laravel-translation-manager@v2.1
+- pkg:composer/kalimeromk/laravel-translation-manager@v2.1.1
