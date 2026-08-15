@@ -156,3 +156,4 @@
 - pkg:composer/drupal/varbase_project@9.1.9
 - pkg:composer/drupal/varbase_project@9.2.0
 - pkg:composer/drupal/varbase_project@9.2.1
+- pkg:composer/drupal/varbase_project@9.2.2
