@@ -2,3 +2,4 @@
 - pkg:composer/leafs/mail@v2.0.0
 - pkg:composer/leafs/mail@v2.1
 - pkg:composer/leafs/mail@v2.2
+- pkg:composer/leafs/mail@v5.0

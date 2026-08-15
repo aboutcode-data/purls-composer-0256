@@ -1,3 +1,4 @@
 - pkg:composer/leafs/fetch@v0.1
 - pkg:composer/leafs/fetch@v0.2
 - pkg:composer/leafs/fetch@v0.3
+- pkg:composer/leafs/fetch@v5.0
