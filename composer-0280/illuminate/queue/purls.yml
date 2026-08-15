@@ -321,6 +321,8 @@
 - pkg:composer/illuminate/queue@v12.62.0
 - pkg:composer/illuminate/queue@v12.63.0
 - pkg:composer/illuminate/queue@v12.64.0
+- pkg:composer/illuminate/queue@v12.65.0
+- pkg:composer/illuminate/queue@v12.66.0
 - pkg:composer/illuminate/queue@v12.7.0
 - pkg:composer/illuminate/queue@v12.7.1
 - pkg:composer/illuminate/queue@v12.7.2
@@ -351,6 +353,8 @@
 - pkg:composer/illuminate/queue@v13.21.1
 - pkg:composer/illuminate/queue@v13.22.0
 - pkg:composer/illuminate/queue@v13.23.0
+- pkg:composer/illuminate/queue@v13.24.0
+- pkg:composer/illuminate/queue@v13.25.0
 - pkg:composer/illuminate/queue@v13.3.0
 - pkg:composer/illuminate/queue@v13.4.0
 - pkg:composer/illuminate/queue@v13.5.0
