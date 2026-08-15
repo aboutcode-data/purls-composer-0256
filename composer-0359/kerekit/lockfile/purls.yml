@@ -6,3 +6,5 @@
 - pkg:composer/kerekit/lockfile@v1.1.1
 - pkg:composer/kerekit/lockfile@v1.2.0
 - pkg:composer/kerekit/lockfile@v2.0.0
+- pkg:composer/kerekit/lockfile@v2.1.0
+- pkg:composer/kerekit/lockfile@v2.1.1
