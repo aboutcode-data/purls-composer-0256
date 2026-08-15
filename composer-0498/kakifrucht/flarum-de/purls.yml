@@ -77,6 +77,8 @@
 - pkg:composer/kakifrucht/flarum-de@1.25.22
 - pkg:composer/kakifrucht/flarum-de@1.25.23
 - pkg:composer/kakifrucht/flarum-de@1.25.24
+- pkg:composer/kakifrucht/flarum-de@1.25.25
+- pkg:composer/kakifrucht/flarum-de@1.25.26
 - pkg:composer/kakifrucht/flarum-de@1.25.3
 - pkg:composer/kakifrucht/flarum-de@1.25.4
 - pkg:composer/kakifrucht/flarum-de@1.25.5
@@ -109,6 +111,8 @@
 - pkg:composer/kakifrucht/flarum-de@2.0.1
 - pkg:composer/kakifrucht/flarum-de@2.0.10
 - pkg:composer/kakifrucht/flarum-de@2.0.11
+- pkg:composer/kakifrucht/flarum-de@2.0.12
+- pkg:composer/kakifrucht/flarum-de@2.0.13
 - pkg:composer/kakifrucht/flarum-de@2.0.2
 - pkg:composer/kakifrucht/flarum-de@2.0.3
 - pkg:composer/kakifrucht/flarum-de@2.0.4
