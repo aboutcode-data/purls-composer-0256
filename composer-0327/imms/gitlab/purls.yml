@@ -18,3 +18,5 @@
 - pkg:composer/imms/gitlab@1.1.7
 - pkg:composer/imms/gitlab@1.1.8
 - pkg:composer/imms/gitlab@1.1.9
+- pkg:composer/imms/gitlab@2.0.0
+- pkg:composer/imms/gitlab@2.0.1
