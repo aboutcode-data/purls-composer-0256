@@ -150,11 +150,13 @@
 - pkg:composer/humanmade/core@23.0.5
 - pkg:composer/humanmade/core@23.0.6
 - pkg:composer/humanmade/core@23.0.7
+- pkg:composer/humanmade/core@23.0.8
 - pkg:composer/humanmade/core@24.0.0
 - pkg:composer/humanmade/core@24.0.0-beta.1
 - pkg:composer/humanmade/core@24.0.1
 - pkg:composer/humanmade/core@24.0.10
 - pkg:composer/humanmade/core@24.0.11
+- pkg:composer/humanmade/core@24.0.12
 - pkg:composer/humanmade/core@24.0.2
 - pkg:composer/humanmade/core@24.0.3
 - pkg:composer/humanmade/core@24.0.4
@@ -173,10 +175,12 @@
 - pkg:composer/humanmade/core@25.0.6
 - pkg:composer/humanmade/core@25.0.7
 - pkg:composer/humanmade/core@25.0.8
+- pkg:composer/humanmade/core@25.0.9
 - pkg:composer/humanmade/core@26.0.0
 - pkg:composer/humanmade/core@26.0.0-beta.1
 - pkg:composer/humanmade/core@26.0.0-beta.2
 - pkg:composer/humanmade/core@26.0.1
+- pkg:composer/humanmade/core@26.0.10
 - pkg:composer/humanmade/core@26.0.2
 - pkg:composer/humanmade/core@26.0.3
 - pkg:composer/humanmade/core@26.0.4
