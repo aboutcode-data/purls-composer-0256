@@ -4,3 +4,4 @@
 - pkg:composer/novvor/identity-sdk-php@v1.2.0
 - pkg:composer/novvor/identity-sdk-php@v2.0.0
 - pkg:composer/novvor/identity-sdk-php@v2.5.0
+- pkg:composer/novvor/identity-sdk-php@v2.5.1
