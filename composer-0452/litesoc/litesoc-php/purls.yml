@@ -6,3 +6,4 @@
 - pkg:composer/litesoc/litesoc-php@v2.3.1
 - pkg:composer/litesoc/litesoc-php@v2.4.0
 - pkg:composer/litesoc/litesoc-php@v2.5.0
+- pkg:composer/litesoc/litesoc-php@v2.6.0
