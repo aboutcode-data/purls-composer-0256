@@ -23,6 +23,7 @@
 - pkg:composer/oat-sa/extension-lti-proctoring@v10.6.0
 - pkg:composer/oat-sa/extension-lti-proctoring@v10.6.1
 - pkg:composer/oat-sa/extension-lti-proctoring@v10.6.2
+- pkg:composer/oat-sa/extension-lti-proctoring@v10.6.3
 - pkg:composer/oat-sa/extension-lti-proctoring@v2.0.0
 - pkg:composer/oat-sa/extension-lti-proctoring@v2.1.0
 - pkg:composer/oat-sa/extension-lti-proctoring@v2.2.0
