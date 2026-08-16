@@ -35,6 +35,7 @@
 - pkg:composer/netseu/checkout@1.5.1
 - pkg:composer/netseu/checkout@1.5.10
 - pkg:composer/netseu/checkout@1.5.11
+- pkg:composer/netseu/checkout@1.5.12
 - pkg:composer/netseu/checkout@1.5.2
 - pkg:composer/netseu/checkout@1.5.3
 - pkg:composer/netseu/checkout@1.5.4
@@ -60,3 +61,4 @@
 - pkg:composer/netseu/checkout@2.1.5
 - pkg:composer/netseu/checkout@2.1.6
 - pkg:composer/netseu/checkout@2.2.0
+- pkg:composer/netseu/checkout@2.2.1
