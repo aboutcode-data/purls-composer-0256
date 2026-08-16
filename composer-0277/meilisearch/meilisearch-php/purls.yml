@@ -57,6 +57,7 @@
 - pkg:composer/meilisearch/meilisearch-php@v1.15.0
 - pkg:composer/meilisearch/meilisearch-php@v1.16.0
 - pkg:composer/meilisearch/meilisearch-php@v1.16.1
+- pkg:composer/meilisearch/meilisearch-php@v1.17.0
 - pkg:composer/meilisearch/meilisearch-php@v1.2.0
 - pkg:composer/meilisearch/meilisearch-php@v1.2.1
 - pkg:composer/meilisearch/meilisearch-php@v1.3.0
