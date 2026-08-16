@@ -210,6 +210,8 @@
 - pkg:composer/mittwald/api-client@v2.1.211
 - pkg:composer/mittwald/api-client@v2.1.212
 - pkg:composer/mittwald/api-client@v2.1.213
+- pkg:composer/mittwald/api-client@v2.1.214
+- pkg:composer/mittwald/api-client@v2.1.215
 - pkg:composer/mittwald/api-client@v2.1.22
 - pkg:composer/mittwald/api-client@v2.1.23
 - pkg:composer/mittwald/api-client@v2.1.24
