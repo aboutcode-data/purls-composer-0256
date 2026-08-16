@@ -19,6 +19,7 @@
 - pkg:composer/mimmi20/mezzio-generic-authorization-laminasviewrenderer@4.0.4
 - pkg:composer/mimmi20/mezzio-generic-authorization-laminasviewrenderer@4.0.5
 - pkg:composer/mimmi20/mezzio-generic-authorization-laminasviewrenderer@4.0.6
+- pkg:composer/mimmi20/mezzio-generic-authorization-laminasviewrenderer@4.0.7
 - pkg:composer/mimmi20/mezzio-generic-authorization-laminasviewrenderer@5.0.0
 - pkg:composer/mimmi20/mezzio-generic-authorization-laminasviewrenderer@5.0.1
 - pkg:composer/mimmi20/mezzio-generic-authorization-laminasviewrenderer@5.0.2
@@ -27,6 +28,8 @@
 - pkg:composer/mimmi20/mezzio-generic-authorization-laminasviewrenderer@5.0.5
 - pkg:composer/mimmi20/mezzio-generic-authorization-laminasviewrenderer@5.0.6
 - pkg:composer/mimmi20/mezzio-generic-authorization-laminasviewrenderer@5.0.7
+- pkg:composer/mimmi20/mezzio-generic-authorization-laminasviewrenderer@5.0.8
 - pkg:composer/mimmi20/mezzio-generic-authorization-laminasviewrenderer@6.0.0
 - pkg:composer/mimmi20/mezzio-generic-authorization-laminasviewrenderer@6.0.1
 - pkg:composer/mimmi20/mezzio-generic-authorization-laminasviewrenderer@6.0.2
+- pkg:composer/mimmi20/mezzio-generic-authorization-laminasviewrenderer@6.0.3
