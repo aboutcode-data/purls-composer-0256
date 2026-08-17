@@ -20,6 +20,7 @@
 - pkg:composer/lagdo/dbadmin-driver-pgsql@v0.22.0
 - pkg:composer/lagdo/dbadmin-driver-pgsql@v0.23.0
 - pkg:composer/lagdo/dbadmin-driver-pgsql@v0.23.1
+- pkg:composer/lagdo/dbadmin-driver-pgsql@v0.23.2
 - pkg:composer/lagdo/dbadmin-driver-pgsql@v0.3.0
 - pkg:composer/lagdo/dbadmin-driver-pgsql@v0.3.1
 - pkg:composer/lagdo/dbadmin-driver-pgsql@v0.4.0
