@@ -79,3 +79,4 @@
 - pkg:composer/payum/payum-bundle@2.6.2
 - pkg:composer/payum/payum-bundle@2.7.0
 - pkg:composer/payum/payum-bundle@2.7.1
+- pkg:composer/payum/payum-bundle@2.7.2
