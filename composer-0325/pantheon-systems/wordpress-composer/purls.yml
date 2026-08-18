@@ -59,6 +59,7 @@
 - pkg:composer/pantheon-systems/wordpress-composer@5.0.24
 - pkg:composer/pantheon-systems/wordpress-composer@5.0.25
 - pkg:composer/pantheon-systems/wordpress-composer@5.0.26
+- pkg:composer/pantheon-systems/wordpress-composer@5.0.27
 - pkg:composer/pantheon-systems/wordpress-composer@5.0.3
 - pkg:composer/pantheon-systems/wordpress-composer@5.0.4
 - pkg:composer/pantheon-systems/wordpress-composer@5.0.6
@@ -82,6 +83,7 @@
 - pkg:composer/pantheon-systems/wordpress-composer@5.1.21
 - pkg:composer/pantheon-systems/wordpress-composer@5.1.22
 - pkg:composer/pantheon-systems/wordpress-composer@5.1.23
+- pkg:composer/pantheon-systems/wordpress-composer@5.1.24
 - pkg:composer/pantheon-systems/wordpress-composer@5.1.3
 - pkg:composer/pantheon-systems/wordpress-composer@5.1.4
 - pkg:composer/pantheon-systems/wordpress-composer@5.1.5
@@ -108,6 +110,7 @@
 - pkg:composer/pantheon-systems/wordpress-composer@5.2.23
 - pkg:composer/pantheon-systems/wordpress-composer@5.2.24
 - pkg:composer/pantheon-systems/wordpress-composer@5.2.25
+- pkg:composer/pantheon-systems/wordpress-composer@5.2.26
 - pkg:composer/pantheon-systems/wordpress-composer@5.2.3
 - pkg:composer/pantheon-systems/wordpress-composer@5.2.4
 - pkg:composer/pantheon-systems/wordpress-composer@5.2.5
@@ -131,6 +134,7 @@
 - pkg:composer/pantheon-systems/wordpress-composer@5.3.20
 - pkg:composer/pantheon-systems/wordpress-composer@5.3.21
 - pkg:composer/pantheon-systems/wordpress-composer@5.3.22
+- pkg:composer/pantheon-systems/wordpress-composer@5.3.23
 - pkg:composer/pantheon-systems/wordpress-composer@5.3.3
 - pkg:composer/pantheon-systems/wordpress-composer@5.3.4
 - pkg:composer/pantheon-systems/wordpress-composer@5.3.5
@@ -152,6 +156,7 @@
 - pkg:composer/pantheon-systems/wordpress-composer@5.4.19
 - pkg:composer/pantheon-systems/wordpress-composer@5.4.2
 - pkg:composer/pantheon-systems/wordpress-composer@5.4.20
+- pkg:composer/pantheon-systems/wordpress-composer@5.4.21
 - pkg:composer/pantheon-systems/wordpress-composer@5.4.3
 - pkg:composer/pantheon-systems/wordpress-composer@5.4.4
 - pkg:composer/pantheon-systems/wordpress-composer@5.4.5
@@ -172,6 +177,7 @@
 - pkg:composer/pantheon-systems/wordpress-composer@5.5.18
 - pkg:composer/pantheon-systems/wordpress-composer@5.5.19
 - pkg:composer/pantheon-systems/wordpress-composer@5.5.2
+- pkg:composer/pantheon-systems/wordpress-composer@5.5.20
 - pkg:composer/pantheon-systems/wordpress-composer@5.5.3
 - pkg:composer/pantheon-systems/wordpress-composer@5.5.4
 - pkg:composer/pantheon-systems/wordpress-composer@5.5.5
@@ -190,6 +196,7 @@
 - pkg:composer/pantheon-systems/wordpress-composer@5.6.16
 - pkg:composer/pantheon-systems/wordpress-composer@5.6.17
 - pkg:composer/pantheon-systems/wordpress-composer@5.6.18
+- pkg:composer/pantheon-systems/wordpress-composer@5.6.19
 - pkg:composer/pantheon-systems/wordpress-composer@5.6.2
 - pkg:composer/pantheon-systems/wordpress-composer@5.6.3
 - pkg:composer/pantheon-systems/wordpress-composer@5.6.4
@@ -207,6 +214,7 @@
 - pkg:composer/pantheon-systems/wordpress-composer@5.7.14
 - pkg:composer/pantheon-systems/wordpress-composer@5.7.15
 - pkg:composer/pantheon-systems/wordpress-composer@5.7.16
+- pkg:composer/pantheon-systems/wordpress-composer@5.7.17
 - pkg:composer/pantheon-systems/wordpress-composer@5.7.2
 - pkg:composer/pantheon-systems/wordpress-composer@5.7.3
 - pkg:composer/pantheon-systems/wordpress-composer@5.7.4
@@ -222,6 +230,7 @@
 - pkg:composer/pantheon-systems/wordpress-composer@5.8.12
 - pkg:composer/pantheon-systems/wordpress-composer@5.8.13
 - pkg:composer/pantheon-systems/wordpress-composer@5.8.14
+- pkg:composer/pantheon-systems/wordpress-composer@5.8.15
 - pkg:composer/pantheon-systems/wordpress-composer@5.8.2
 - pkg:composer/pantheon-systems/wordpress-composer@5.8.3
 - pkg:composer/pantheon-systems/wordpress-composer@5.8.4
@@ -238,6 +247,7 @@
 - pkg:composer/pantheon-systems/wordpress-composer@5.9.13
 - pkg:composer/pantheon-systems/wordpress-composer@5.9.14
 - pkg:composer/pantheon-systems/wordpress-composer@5.9.15
+- pkg:composer/pantheon-systems/wordpress-composer@5.9.16
 - pkg:composer/pantheon-systems/wordpress-composer@5.9.2
 - pkg:composer/pantheon-systems/wordpress-composer@5.9.3
 - pkg:composer/pantheon-systems/wordpress-composer@5.9.4
@@ -252,6 +262,7 @@
 - pkg:composer/pantheon-systems/wordpress-composer@6.0.11
 - pkg:composer/pantheon-systems/wordpress-composer@6.0.12
 - pkg:composer/pantheon-systems/wordpress-composer@6.0.13
+- pkg:composer/pantheon-systems/wordpress-composer@6.0.14
 - pkg:composer/pantheon-systems/wordpress-composer@6.0.2
 - pkg:composer/pantheon-systems/wordpress-composer@6.0.3
 - pkg:composer/pantheon-systems/wordpress-composer@6.0.4
@@ -264,6 +275,7 @@
 - pkg:composer/pantheon-systems/wordpress-composer@6.1.1
 - pkg:composer/pantheon-systems/wordpress-composer@6.1.10
 - pkg:composer/pantheon-systems/wordpress-composer@6.1.11
+- pkg:composer/pantheon-systems/wordpress-composer@6.1.12
 - pkg:composer/pantheon-systems/wordpress-composer@6.1.2
 - pkg:composer/pantheon-systems/wordpress-composer@6.1.3
 - pkg:composer/pantheon-systems/wordpress-composer@6.1.4
@@ -275,6 +287,7 @@
 - pkg:composer/pantheon-systems/wordpress-composer@6.2
 - pkg:composer/pantheon-systems/wordpress-composer@6.2.1
 - pkg:composer/pantheon-systems/wordpress-composer@6.2.10
+- pkg:composer/pantheon-systems/wordpress-composer@6.2.11
 - pkg:composer/pantheon-systems/wordpress-composer@6.2.2
 - pkg:composer/pantheon-systems/wordpress-composer@6.2.3
 - pkg:composer/pantheon-systems/wordpress-composer@6.2.4
@@ -285,6 +298,7 @@
 - pkg:composer/pantheon-systems/wordpress-composer@6.2.9
 - pkg:composer/pantheon-systems/wordpress-composer@6.3
 - pkg:composer/pantheon-systems/wordpress-composer@6.3.1
+- pkg:composer/pantheon-systems/wordpress-composer@6.3.10
 - pkg:composer/pantheon-systems/wordpress-composer@6.3.2
 - pkg:composer/pantheon-systems/wordpress-composer@6.3.3
 - pkg:composer/pantheon-systems/wordpress-composer@6.3.4
@@ -295,6 +309,7 @@
 - pkg:composer/pantheon-systems/wordpress-composer@6.3.9
 - pkg:composer/pantheon-systems/wordpress-composer@6.4
 - pkg:composer/pantheon-systems/wordpress-composer@6.4.1
+- pkg:composer/pantheon-systems/wordpress-composer@6.4.10
 - pkg:composer/pantheon-systems/wordpress-composer@6.4.2
 - pkg:composer/pantheon-systems/wordpress-composer@6.4.3
 - pkg:composer/pantheon-systems/wordpress-composer@6.4.4
@@ -304,6 +319,7 @@
 - pkg:composer/pantheon-systems/wordpress-composer@6.4.8
 - pkg:composer/pantheon-systems/wordpress-composer@6.4.9
 - pkg:composer/pantheon-systems/wordpress-composer@6.5
+- pkg:composer/pantheon-systems/wordpress-composer@6.5.10
 - pkg:composer/pantheon-systems/wordpress-composer@6.5.2
 - pkg:composer/pantheon-systems/wordpress-composer@6.5.3
 - pkg:composer/pantheon-systems/wordpress-composer@6.5.4
@@ -319,6 +335,7 @@
 - pkg:composer/pantheon-systems/wordpress-composer@6.6.4
 - pkg:composer/pantheon-systems/wordpress-composer@6.6.5
 - pkg:composer/pantheon-systems/wordpress-composer@6.6.6
+- pkg:composer/pantheon-systems/wordpress-composer@6.6.7
 - pkg:composer/pantheon-systems/wordpress-composer@6.7
 - pkg:composer/pantheon-systems/wordpress-composer@6.7.1
 - pkg:composer/pantheon-systems/wordpress-composer@6.7.2
@@ -326,6 +343,7 @@
 - pkg:composer/pantheon-systems/wordpress-composer@6.7.4
 - pkg:composer/pantheon-systems/wordpress-composer@6.7.5
 - pkg:composer/pantheon-systems/wordpress-composer@6.7.6
+- pkg:composer/pantheon-systems/wordpress-composer@6.7.7
 - pkg:composer/pantheon-systems/wordpress-composer@6.8
 - pkg:composer/pantheon-systems/wordpress-composer@6.8.1
 - pkg:composer/pantheon-systems/wordpress-composer@6.8.2
@@ -334,6 +352,7 @@
 - pkg:composer/pantheon-systems/wordpress-composer@6.8.5
 - pkg:composer/pantheon-systems/wordpress-composer@6.8.6
 - pkg:composer/pantheon-systems/wordpress-composer@6.8.7
+- pkg:composer/pantheon-systems/wordpress-composer@6.8.8
 - pkg:composer/pantheon-systems/wordpress-composer@6.9
 - pkg:composer/pantheon-systems/wordpress-composer@6.9.1
 - pkg:composer/pantheon-systems/wordpress-composer@6.9.2
@@ -341,7 +360,9 @@
 - pkg:composer/pantheon-systems/wordpress-composer@6.9.4
 - pkg:composer/pantheon-systems/wordpress-composer@6.9.5
 - pkg:composer/pantheon-systems/wordpress-composer@6.9.6
+- pkg:composer/pantheon-systems/wordpress-composer@6.9.7
 - pkg:composer/pantheon-systems/wordpress-composer@7.0
 - pkg:composer/pantheon-systems/wordpress-composer@7.0.1
 - pkg:composer/pantheon-systems/wordpress-composer@7.0.2
 - pkg:composer/pantheon-systems/wordpress-composer@7.0.3
+- pkg:composer/pantheon-systems/wordpress-composer@7.0.4
