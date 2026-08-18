@@ -2,3 +2,4 @@
 - pkg:composer/phattarachai/laravel-db-console@v0.1.1
 - pkg:composer/phattarachai/laravel-db-console@v0.1.2
 - pkg:composer/phattarachai/laravel-db-console@v0.2.0
+- pkg:composer/phattarachai/laravel-db-console@v0.3.0
