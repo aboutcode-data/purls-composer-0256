@@ -46,3 +46,5 @@
 - pkg:composer/oranfry/ledger@4.3.0
 - pkg:composer/oranfry/ledger@4.4.0
 - pkg:composer/oranfry/ledger@4.5.0
+- pkg:composer/oranfry/ledger@5.0.0
+- pkg:composer/oranfry/ledger@5.1.0

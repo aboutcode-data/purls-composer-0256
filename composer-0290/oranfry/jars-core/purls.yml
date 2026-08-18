@@ -20,6 +20,8 @@
 - pkg:composer/oranfry/jars-core@10.3.2
 - pkg:composer/oranfry/jars-core@10.3.3
 - pkg:composer/oranfry/jars-core@10.3.4
+- pkg:composer/oranfry/jars-core@12.0.0
+- pkg:composer/oranfry/jars-core@12.0.1
 - pkg:composer/oranfry/jars-core@2.0.0
 - pkg:composer/oranfry/jars-core@2.0.1
 - pkg:composer/oranfry/jars-core@2.1.0
