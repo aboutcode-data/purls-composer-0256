@@ -232,6 +232,8 @@
 - pkg:composer/pimcore/pimcore@v2026.2.5
 - pkg:composer/pimcore/pimcore@v2026.2.6
 - pkg:composer/pimcore/pimcore@v2026.2.7
+- pkg:composer/pimcore/pimcore@v2026.2.8
+- pkg:composer/pimcore/pimcore@v2026.2.9
 - pkg:composer/pimcore/pimcore@v5.0.0
 - pkg:composer/pimcore/pimcore@v5.0.0-RC
 - pkg:composer/pimcore/pimcore@v5.0.1
