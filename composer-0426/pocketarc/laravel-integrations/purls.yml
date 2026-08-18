@@ -33,3 +33,4 @@
 - pkg:composer/pocketarc/laravel-integrations@5.5.0
 - pkg:composer/pocketarc/laravel-integrations@6.0.0
 - pkg:composer/pocketarc/laravel-integrations@6.1.0
+- pkg:composer/pocketarc/laravel-integrations@6.2.0
