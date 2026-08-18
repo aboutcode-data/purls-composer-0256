@@ -1,2 +1,4 @@
 - pkg:composer/platine-php/expression@v1.0.0
+- pkg:composer/platine-php/expression@v1.0.1
 - pkg:composer/platine-php/expression@v2.0.0
+- pkg:composer/platine-php/expression@v2.0.1
