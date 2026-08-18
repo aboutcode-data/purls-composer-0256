@@ -45,3 +45,4 @@
 - pkg:composer/paradoxlabs/tokenbase@4.7.3
 - pkg:composer/paradoxlabs/tokenbase@4.8.0
 - pkg:composer/paradoxlabs/tokenbase@5.0.0
+- pkg:composer/paradoxlabs/tokenbase@5.1.0
