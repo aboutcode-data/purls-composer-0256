@@ -63,3 +63,5 @@
 - pkg:composer/pxlrbt/filament-excel@v3.5.0
 - pkg:composer/pxlrbt/filament-excel@v3.6.0
 - pkg:composer/pxlrbt/filament-excel@v3.6.1
+- pkg:composer/pxlrbt/filament-excel@v4.0.0
+- pkg:composer/pxlrbt/filament-excel@v4.1.0
