@@ -16,8 +16,11 @@
 - pkg:composer/shopware/paypal-sdk@v1.7.0
 - pkg:composer/shopware/paypal-sdk@v1.7.1
 - pkg:composer/shopware/paypal-sdk@v1.8.0
+- pkg:composer/shopware/paypal-sdk@v1.9.0
 - pkg:composer/shopware/paypal-sdk@v2.0.0
 - pkg:composer/shopware/paypal-sdk@v2.0.1
 - pkg:composer/shopware/paypal-sdk@v2.1.0
 - pkg:composer/shopware/paypal-sdk@v2.2.0
 - pkg:composer/shopware/paypal-sdk@v2.3.0
+- pkg:composer/shopware/paypal-sdk@v2.4.0
+- pkg:composer/shopware/paypal-sdk@v2.5.0
