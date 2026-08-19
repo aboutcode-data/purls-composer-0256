@@ -77,6 +77,8 @@
 - pkg:composer/spryker/product-storage@1.53.0
 - pkg:composer/spryker/product-storage@1.54.0
 - pkg:composer/spryker/product-storage@1.54.1
+- pkg:composer/spryker/product-storage@1.55.0
+- pkg:composer/spryker/product-storage@1.56.0
 - pkg:composer/spryker/product-storage@1.6.0
 - pkg:composer/spryker/product-storage@1.7.0
 - pkg:composer/spryker/product-storage@1.8.0
