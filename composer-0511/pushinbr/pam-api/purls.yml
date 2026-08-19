@@ -46,3 +46,6 @@
 - pkg:composer/pushinbr/pam-api@v0.1.7
 - pkg:composer/pushinbr/pam-api@v0.1.8
 - pkg:composer/pushinbr/pam-api@v0.1.9
+- pkg:composer/pushinbr/pam-api@v1.0.0
+- pkg:composer/pushinbr/pam-api@v1.0.1
+- pkg:composer/pushinbr/pam-api@v1.0.2
