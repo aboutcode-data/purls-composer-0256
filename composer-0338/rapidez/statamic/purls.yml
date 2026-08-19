@@ -110,3 +110,4 @@
 - pkg:composer/rapidez/statamic@8.0.1
 - pkg:composer/rapidez/statamic@8.1.0
 - pkg:composer/rapidez/statamic@8.1.1
+- pkg:composer/rapidez/statamic@8.2.0
