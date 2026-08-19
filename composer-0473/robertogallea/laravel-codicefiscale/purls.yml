@@ -43,3 +43,5 @@
 - pkg:composer/robertogallea/laravel-codicefiscale@2.2.1
 - pkg:composer/robertogallea/laravel-codicefiscale@2.3.0
 - pkg:composer/robertogallea/laravel-codicefiscale@2.3.1
+- pkg:composer/robertogallea/laravel-codicefiscale@3.0.0
+- pkg:composer/robertogallea/laravel-codicefiscale@3.0.1
