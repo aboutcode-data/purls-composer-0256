@@ -5,3 +5,8 @@
 - pkg:composer/stougeiro/http-contract@v3.1.0
 - pkg:composer/stougeiro/http-contract@v3.2.0
 - pkg:composer/stougeiro/http-contract@v3.2.1
+- pkg:composer/stougeiro/http-contract@v3.3.0
+- pkg:composer/stougeiro/http-contract@v3.4.0
+- pkg:composer/stougeiro/http-contract@v3.5.0
+- pkg:composer/stougeiro/http-contract@v3.6.0
+- pkg:composer/stougeiro/http-contract@v4.0.0
