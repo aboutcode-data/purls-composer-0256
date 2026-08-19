@@ -33,3 +33,4 @@
 - pkg:composer/pragmarx/google2fa@v8.0.2
 - pkg:composer/pragmarx/google2fa@v8.0.3
 - pkg:composer/pragmarx/google2fa@v9.0.0
+- pkg:composer/pragmarx/google2fa@v9.1.0
