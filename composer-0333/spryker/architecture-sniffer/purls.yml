@@ -16,3 +16,4 @@
 - pkg:composer/spryker/architecture-sniffer@0.5.8
 - pkg:composer/spryker/architecture-sniffer@0.5.9
 - pkg:composer/spryker/architecture-sniffer@0.6.0
+- pkg:composer/spryker/architecture-sniffer@0.6.1
