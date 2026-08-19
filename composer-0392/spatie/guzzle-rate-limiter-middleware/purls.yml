@@ -9,3 +9,4 @@
 - pkg:composer/spatie/guzzle-rate-limiter-middleware@2.0.0
 - pkg:composer/spatie/guzzle-rate-limiter-middleware@2.0.1
 - pkg:composer/spatie/guzzle-rate-limiter-middleware@2.1.0
+- pkg:composer/spatie/guzzle-rate-limiter-middleware@2.2.0
