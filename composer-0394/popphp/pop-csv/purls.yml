@@ -19,3 +19,4 @@
 - pkg:composer/popphp/pop-csv@4.2.3
 - pkg:composer/popphp/pop-csv@4.2.4
 - pkg:composer/popphp/pop-csv@4.2.5
+- pkg:composer/popphp/pop-csv@5.0.0

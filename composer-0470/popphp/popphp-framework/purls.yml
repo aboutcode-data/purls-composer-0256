@@ -54,3 +54,7 @@
 - pkg:composer/popphp/popphp-framework@5.4.0
 - pkg:composer/popphp/popphp-framework@5.5.0
 - pkg:composer/popphp/popphp-framework@6.0.0
+- pkg:composer/popphp/popphp-framework@7.0.0
+- pkg:composer/popphp/popphp-framework@7.0.1
+- pkg:composer/popphp/popphp-framework@7.0.2
+- pkg:composer/popphp/popphp-framework@7.0.3
