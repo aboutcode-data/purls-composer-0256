@@ -1,3 +1,4 @@
 - pkg:composer/shetabit/transformer@v1.0
 - pkg:composer/shetabit/transformer@v2.0
 - pkg:composer/shetabit/transformer@v2.0.1
+- pkg:composer/shetabit/transformer@v3.0.0
