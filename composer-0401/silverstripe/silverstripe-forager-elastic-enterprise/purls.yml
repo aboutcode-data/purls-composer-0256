@@ -1,3 +1,4 @@
 - pkg:composer/silverstripe/silverstripe-forager-elastic-enterprise@1.0.0
 - pkg:composer/silverstripe/silverstripe-forager-elastic-enterprise@1.0.1
 - pkg:composer/silverstripe/silverstripe-forager-elastic-enterprise@1.1.0
+- pkg:composer/silverstripe/silverstripe-forager-elastic-enterprise@2.0.0-alpha1
