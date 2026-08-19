@@ -37,6 +37,10 @@
 - pkg:composer/shieldci/laravel@v1.12.4
 - pkg:composer/shieldci/laravel@v1.12.5
 - pkg:composer/shieldci/laravel@v1.12.6
+- pkg:composer/shieldci/laravel@v1.13.0
+- pkg:composer/shieldci/laravel@v1.13.1
+- pkg:composer/shieldci/laravel@v1.13.2
+- pkg:composer/shieldci/laravel@v1.13.3
 - pkg:composer/shieldci/laravel@v1.2.0
 - pkg:composer/shieldci/laravel@v1.3.0
 - pkg:composer/shieldci/laravel@v1.4.0
