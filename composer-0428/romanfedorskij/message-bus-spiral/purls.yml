@@ -1,3 +1,4 @@
 - pkg:composer/romanfedorskij/message-bus-spiral@v0.1.0
 - pkg:composer/romanfedorskij/message-bus-spiral@v1.0.0
 - pkg:composer/romanfedorskij/message-bus-spiral@v2.0.0
+- pkg:composer/romanfedorskij/message-bus-spiral@v5.0.0
