@@ -19,6 +19,7 @@
 - pkg:composer/polidog/relayer@v0.24.0
 - pkg:composer/polidog/relayer@v0.25.0
 - pkg:composer/polidog/relayer@v0.26.0
+- pkg:composer/polidog/relayer@v0.27.0
 - pkg:composer/polidog/relayer@v0.3.0
 - pkg:composer/polidog/relayer@v0.4.0
 - pkg:composer/polidog/relayer@v0.5.0
