@@ -17,6 +17,8 @@
 - pkg:composer/pingram/php@1.0.19
 - pkg:composer/pingram/php@1.0.20
 - pkg:composer/pingram/php@1.0.22
+- pkg:composer/pingram/php@1.0.23
+- pkg:composer/pingram/php@1.0.24
 - pkg:composer/pingram/php@1.0.3
 - pkg:composer/pingram/php@1.0.5
 - pkg:composer/pingram/php@1.0.6
