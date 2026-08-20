@@ -1,0 +1,5 @@
+- pkg:composer/telegga/laravel-sdk@v1.0
+- pkg:composer/telegga/laravel-sdk@v1.0.1
+- pkg:composer/telegga/laravel-sdk@v2.0.0
+- pkg:composer/telegga/laravel-sdk@v3.0.0
+- pkg:composer/telegga/laravel-sdk@v3.0.1
