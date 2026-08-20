@@ -140,3 +140,5 @@
 - pkg:composer/tecnickcom/tc-lib-pdf-font@3.9.0
 - pkg:composer/tecnickcom/tc-lib-pdf-font@3.9.1
 - pkg:composer/tecnickcom/tc-lib-pdf-font@3.9.2
+- pkg:composer/tecnickcom/tc-lib-pdf-font@4.0.0
+- pkg:composer/tecnickcom/tc-lib-pdf-font@4.0.1
