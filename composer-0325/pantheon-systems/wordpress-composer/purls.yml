@@ -366,3 +366,4 @@
 - pkg:composer/pantheon-systems/wordpress-composer@7.0.2
 - pkg:composer/pantheon-systems/wordpress-composer@7.0.3
 - pkg:composer/pantheon-systems/wordpress-composer@7.0.4
+- pkg:composer/pantheon-systems/wordpress-composer@7.1
