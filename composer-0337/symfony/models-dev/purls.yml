@@ -39,7 +39,16 @@
 - pkg:composer/symfony/models-dev@v125.0
 - pkg:composer/symfony/models-dev@v126.0
 - pkg:composer/symfony/models-dev@v127.0
+- pkg:composer/symfony/models-dev@v128.0
+- pkg:composer/symfony/models-dev@v129.0
 - pkg:composer/symfony/models-dev@v13.0
+- pkg:composer/symfony/models-dev@v130.0
+- pkg:composer/symfony/models-dev@v131.0
+- pkg:composer/symfony/models-dev@v132.0
+- pkg:composer/symfony/models-dev@v133.0
+- pkg:composer/symfony/models-dev@v134.0
+- pkg:composer/symfony/models-dev@v135.0
+- pkg:composer/symfony/models-dev@v136.0
 - pkg:composer/symfony/models-dev@v14.0
 - pkg:composer/symfony/models-dev@v15.0
 - pkg:composer/symfony/models-dev@v15.1
