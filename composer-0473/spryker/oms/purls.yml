@@ -87,6 +87,7 @@
 - pkg:composer/spryker/oms@11.54.0
 - pkg:composer/spryker/oms@11.54.1
 - pkg:composer/spryker/oms@11.54.2
+- pkg:composer/spryker/oms@11.54.3
 - pkg:composer/spryker/oms@11.6.0
 - pkg:composer/spryker/oms@11.7.0
 - pkg:composer/spryker/oms@11.8.0
