@@ -24,4 +24,6 @@
 - pkg:composer/thingstelemetry/laravel-traccar@v1.0.21
 - pkg:composer/thingstelemetry/laravel-traccar@v1.0.22
 - pkg:composer/thingstelemetry/laravel-traccar@v1.0.25
+- pkg:composer/thingstelemetry/laravel-traccar@v1.0.30
+- pkg:composer/thingstelemetry/laravel-traccar@v1.0.32
 - pkg:composer/thingstelemetry/laravel-traccar@v1.0.9
