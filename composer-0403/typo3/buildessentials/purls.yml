@@ -87,4 +87,6 @@
 - pkg:composer/typo3/buildessentials@9.0.0-beta1
 - pkg:composer/typo3/buildessentials@9.0.0-beta10
 - pkg:composer/typo3/buildessentials@9.0.0-beta11
+- pkg:composer/typo3/buildessentials@9.0.1
 - pkg:composer/typo3/buildessentials@9.1.2
+- pkg:composer/typo3/buildessentials@9.1.3
