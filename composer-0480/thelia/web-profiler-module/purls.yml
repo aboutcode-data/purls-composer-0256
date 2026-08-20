@@ -8,4 +8,7 @@
 - pkg:composer/thelia/web-profiler-module@2.5.5
 - pkg:composer/thelia/web-profiler-module@2.6.0
 - pkg:composer/thelia/web-profiler-module@2.6.1
+- pkg:composer/thelia/web-profiler-module@2.6.2
 - pkg:composer/thelia/web-profiler-module@3.0.0
+- pkg:composer/thelia/web-profiler-module@3.0.1
+- pkg:composer/thelia/web-profiler-module@3.0.2
