@@ -137,6 +137,7 @@
 - pkg:composer/survos/tabler-bundle@2.2.5
 - pkg:composer/survos/tabler-bundle@2.24.0
 - pkg:composer/survos/tabler-bundle@2.24.14
+- pkg:composer/survos/tabler-bundle@2.24.24
 - pkg:composer/survos/tabler-bundle@2.3.0
 - pkg:composer/survos/tabler-bundle@2.4.0
 - pkg:composer/survos/tabler-bundle@2.4.1
