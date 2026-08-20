@@ -53,6 +53,7 @@
 - pkg:composer/survos/ai-claims-bundle@2.2.3
 - pkg:composer/survos/ai-claims-bundle@2.2.4
 - pkg:composer/survos/ai-claims-bundle@2.2.5
+- pkg:composer/survos/ai-claims-bundle@2.24.24
 - pkg:composer/survos/ai-claims-bundle@2.24.8
 - pkg:composer/survos/ai-claims-bundle@2.3.0
 - pkg:composer/survos/ai-claims-bundle@2.4.0
