@@ -17,13 +17,14 @@
 - pkg:composer/posio/cabinet-kit@0.3.27
 - pkg:composer/posio/cabinet-kit@0.3.28
 - pkg:composer/posio/cabinet-kit@0.3.29
+- pkg:composer/posio/cabinet-kit@0.3.30
+- pkg:composer/posio/cabinet-kit@0.3.31
 - pkg:composer/posio/cabinet-kit@0.3.4
 - pkg:composer/posio/cabinet-kit@0.3.5
 - pkg:composer/posio/cabinet-kit@0.3.6
 - pkg:composer/posio/cabinet-kit@0.3.7
 - pkg:composer/posio/cabinet-kit@0.3.8
 - pkg:composer/posio/cabinet-kit@0.3.9
-- pkg:composer/posio/cabinet-kit@2.3.30
 - pkg:composer/posio/cabinet-kit@v0.1.0
 - pkg:composer/posio/cabinet-kit@v0.1.1
 - pkg:composer/posio/cabinet-kit@v0.1.2
