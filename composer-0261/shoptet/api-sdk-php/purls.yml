@@ -13,6 +13,7 @@
 - pkg:composer/shoptet/api-sdk-php@v0.4.10
 - pkg:composer/shoptet/api-sdk-php@v0.4.11
 - pkg:composer/shoptet/api-sdk-php@v0.4.12
+- pkg:composer/shoptet/api-sdk-php@v0.4.13
 - pkg:composer/shoptet/api-sdk-php@v0.4.2
 - pkg:composer/shoptet/api-sdk-php@v0.4.3
 - pkg:composer/shoptet/api-sdk-php@v0.4.4
