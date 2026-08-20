@@ -128,12 +128,15 @@
 - pkg:composer/survos/tabler-bundle@2.18.18
 - pkg:composer/survos/tabler-bundle@2.18.20
 - pkg:composer/survos/tabler-bundle@2.18.8
+- pkg:composer/survos/tabler-bundle@2.19.2
 - pkg:composer/survos/tabler-bundle@2.2.0
 - pkg:composer/survos/tabler-bundle@2.2.1
 - pkg:composer/survos/tabler-bundle@2.2.2
 - pkg:composer/survos/tabler-bundle@2.2.3
 - pkg:composer/survos/tabler-bundle@2.2.4
 - pkg:composer/survos/tabler-bundle@2.2.5
+- pkg:composer/survos/tabler-bundle@2.24.0
+- pkg:composer/survos/tabler-bundle@2.24.14
 - pkg:composer/survos/tabler-bundle@2.3.0
 - pkg:composer/survos/tabler-bundle@2.4.0
 - pkg:composer/survos/tabler-bundle@2.4.1

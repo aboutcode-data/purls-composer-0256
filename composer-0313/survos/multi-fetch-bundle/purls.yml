@@ -85,12 +85,14 @@
 - pkg:composer/survos/multi-fetch-bundle@2.18.12
 - pkg:composer/survos/multi-fetch-bundle@2.19.0
 - pkg:composer/survos/multi-fetch-bundle@2.19.1
+- pkg:composer/survos/multi-fetch-bundle@2.19.2
 - pkg:composer/survos/multi-fetch-bundle@2.2.0
 - pkg:composer/survos/multi-fetch-bundle@2.2.1
 - pkg:composer/survos/multi-fetch-bundle@2.2.2
 - pkg:composer/survos/multi-fetch-bundle@2.2.3
 - pkg:composer/survos/multi-fetch-bundle@2.2.4
 - pkg:composer/survos/multi-fetch-bundle@2.2.5
+- pkg:composer/survos/multi-fetch-bundle@2.24.16
 - pkg:composer/survos/multi-fetch-bundle@2.3.0
 - pkg:composer/survos/multi-fetch-bundle@2.4.0
 - pkg:composer/survos/multi-fetch-bundle@2.4.1
