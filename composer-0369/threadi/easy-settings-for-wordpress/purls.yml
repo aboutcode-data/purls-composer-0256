@@ -65,4 +65,6 @@
 - pkg:composer/threadi/easy-settings-for-wordpress@3.0.0
 - pkg:composer/threadi/easy-settings-for-wordpress@3.0.1
 - pkg:composer/threadi/easy-settings-for-wordpress@3.0.2
+- pkg:composer/threadi/easy-settings-for-wordpress@3.1.0
+- pkg:composer/threadi/easy-settings-for-wordpress@3.1.2
 - pkg:composer/threadi/easy-settings-for-wordpress@v1.17.2
