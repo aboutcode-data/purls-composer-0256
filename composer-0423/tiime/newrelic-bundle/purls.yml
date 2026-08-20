@@ -2,3 +2,4 @@
 - pkg:composer/tiime/newrelic-bundle@v1.0.1
 - pkg:composer/tiime/newrelic-bundle@v1.0.2
 - pkg:composer/tiime/newrelic-bundle@v1.0.3
+- pkg:composer/tiime/newrelic-bundle@v2.0.0
