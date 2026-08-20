@@ -18,3 +18,5 @@
 - pkg:composer/toropyga/base@v1.5.3
 - pkg:composer/toropyga/base@v2.0.0
 - pkg:composer/toropyga/base@v2.0.1
+- pkg:composer/toropyga/base@v2.0.2
+- pkg:composer/toropyga/base@v2.0.3
