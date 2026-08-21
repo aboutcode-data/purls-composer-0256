@@ -8,3 +8,4 @@
 - pkg:composer/yproximite/payum-system-pay@v2.0.1
 - pkg:composer/yproximite/payum-system-pay@v2.1.0
 - pkg:composer/yproximite/payum-system-pay@v2.1.1
+- pkg:composer/yproximite/payum-system-pay@v3.0.0
