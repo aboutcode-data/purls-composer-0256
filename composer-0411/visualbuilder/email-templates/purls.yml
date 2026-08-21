@@ -99,3 +99,8 @@
 - pkg:composer/visualbuilder/email-templates@5.0.7
 - pkg:composer/visualbuilder/email-templates@5.0.8
 - pkg:composer/visualbuilder/email-templates@5.1.0
+- pkg:composer/visualbuilder/email-templates@5.2.0
+- pkg:composer/visualbuilder/email-templates@5.3.0
+- pkg:composer/visualbuilder/email-templates@5.4.0
+- pkg:composer/visualbuilder/email-templates@5.5.0
+- pkg:composer/visualbuilder/email-templates@5.6.0
