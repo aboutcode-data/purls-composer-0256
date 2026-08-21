@@ -12,3 +12,5 @@
 - pkg:composer/zk2/human-to-tsquery@v3.0.0
 - pkg:composer/zk2/human-to-tsquery@v3.0.1
 - pkg:composer/zk2/human-to-tsquery@v3.0.2
+- pkg:composer/zk2/human-to-tsquery@v3.1.0
+- pkg:composer/zk2/human-to-tsquery@v3.2.0
