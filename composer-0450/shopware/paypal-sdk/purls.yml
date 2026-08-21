@@ -24,3 +24,4 @@
 - pkg:composer/shopware/paypal-sdk@v2.3.0
 - pkg:composer/shopware/paypal-sdk@v2.4.0
 - pkg:composer/shopware/paypal-sdk@v2.5.0
+- pkg:composer/shopware/paypal-sdk@v2.6.0
