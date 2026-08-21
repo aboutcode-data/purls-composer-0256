@@ -13,3 +13,5 @@
 - pkg:composer/zairakai/laravel-twitch@v2.0.9
 - pkg:composer/zairakai/laravel-twitch@v3.0.0
 - pkg:composer/zairakai/laravel-twitch@v3.1.0
+- pkg:composer/zairakai/laravel-twitch@v3.2.0
+- pkg:composer/zairakai/laravel-twitch@v3.2.1
