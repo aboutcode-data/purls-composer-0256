@@ -21,6 +21,7 @@
 - pkg:composer/wordplate/wordplate@12.10.2
 - pkg:composer/wordplate/wordplate@12.11.0
 - pkg:composer/wordplate/wordplate@12.11.1
+- pkg:composer/wordplate/wordplate@12.11.2
 - pkg:composer/wordplate/wordplate@12.2.0
 - pkg:composer/wordplate/wordplate@12.3.0
 - pkg:composer/wordplate/wordplate@12.3.1
