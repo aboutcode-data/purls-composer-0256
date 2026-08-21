@@ -65,3 +65,4 @@
 - pkg:composer/wp-cli/entity-command@v2.8.9
 - pkg:composer/wp-cli/entity-command@v3.0.0
 - pkg:composer/wp-cli/entity-command@v3.0.1
+- pkg:composer/wp-cli/entity-command@v3.0.2
