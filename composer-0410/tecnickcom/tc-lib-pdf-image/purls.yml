@@ -108,6 +108,7 @@
 - pkg:composer/tecnickcom/tc-lib-pdf-image@3.12.1
 - pkg:composer/tecnickcom/tc-lib-pdf-image@3.12.2
 - pkg:composer/tecnickcom/tc-lib-pdf-image@3.12.3
+- pkg:composer/tecnickcom/tc-lib-pdf-image@3.12.4
 - pkg:composer/tecnickcom/tc-lib-pdf-image@3.2.0
 - pkg:composer/tecnickcom/tc-lib-pdf-image@3.3.0
 - pkg:composer/tecnickcom/tc-lib-pdf-image@3.4.0
