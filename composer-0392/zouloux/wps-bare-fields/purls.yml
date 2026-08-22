@@ -23,6 +23,9 @@
 - pkg:composer/zouloux/wps-bare-fields@0.12.6
 - pkg:composer/zouloux/wps-bare-fields@0.12.7
 - pkg:composer/zouloux/wps-bare-fields@0.13.0
+- pkg:composer/zouloux/wps-bare-fields@0.13.1
+- pkg:composer/zouloux/wps-bare-fields@0.13.2
+- pkg:composer/zouloux/wps-bare-fields@0.13.3
 - pkg:composer/zouloux/wps-bare-fields@0.2.0
 - pkg:composer/zouloux/wps-bare-fields@0.2.1
 - pkg:composer/zouloux/wps-bare-fields@0.2.10
