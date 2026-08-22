@@ -208,3 +208,5 @@
 - pkg:composer/therealworld/tools-plugin@v3.2.7
 - pkg:composer/therealworld/tools-plugin@v3.2.8
 - pkg:composer/therealworld/tools-plugin@v3.2.9
+- pkg:composer/therealworld/tools-plugin@v3.3.0
+- pkg:composer/therealworld/tools-plugin@v3.3.1
