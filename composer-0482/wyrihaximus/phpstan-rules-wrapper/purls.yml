@@ -41,6 +41,7 @@
 - pkg:composer/wyrihaximus/phpstan-rules-wrapper@14.2.0
 - pkg:composer/wyrihaximus/phpstan-rules-wrapper@14.3.0
 - pkg:composer/wyrihaximus/phpstan-rules-wrapper@14.4.0
+- pkg:composer/wyrihaximus/phpstan-rules-wrapper@14.5.0
 - pkg:composer/wyrihaximus/phpstan-rules-wrapper@2.0.0
 - pkg:composer/wyrihaximus/phpstan-rules-wrapper@2.0.1
 - pkg:composer/wyrihaximus/phpstan-rules-wrapper@2.0.2
