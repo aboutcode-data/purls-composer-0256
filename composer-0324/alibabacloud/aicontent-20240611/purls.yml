@@ -24,3 +24,6 @@
 - pkg:composer/alibabacloud/aicontent-20240611@6.5.1
 - pkg:composer/alibabacloud/aicontent-20240611@6.6.0
 - pkg:composer/alibabacloud/aicontent-20240611@6.7.0
+- pkg:composer/alibabacloud/aicontent-20240611@6.7.1
+- pkg:composer/alibabacloud/aicontent-20240611@6.8.0
+- pkg:composer/alibabacloud/aicontent-20240611@6.9.0
