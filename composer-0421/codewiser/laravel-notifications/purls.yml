@@ -40,6 +40,8 @@
 - pkg:composer/codewiser/laravel-notifications@v1.2.13
 - pkg:composer/codewiser/laravel-notifications@v1.2.14
 - pkg:composer/codewiser/laravel-notifications@v1.2.15
+- pkg:composer/codewiser/laravel-notifications@v1.2.16
+- pkg:composer/codewiser/laravel-notifications@v1.2.17
 - pkg:composer/codewiser/laravel-notifications@v1.2.2
 - pkg:composer/codewiser/laravel-notifications@v1.2.3
 - pkg:composer/codewiser/laravel-notifications@v1.2.4
