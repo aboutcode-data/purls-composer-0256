@@ -1,4 +1,6 @@
 - pkg:composer/bspdx/keystone@0.6.0
+- pkg:composer/bspdx/keystone@v0.10.0
+- pkg:composer/bspdx/keystone@v0.10.1
 - pkg:composer/bspdx/keystone@v0.7.0
 - pkg:composer/bspdx/keystone@v0.7.1
 - pkg:composer/bspdx/keystone@v0.8.0
