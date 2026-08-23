@@ -13,3 +13,8 @@
 - pkg:composer/cache/taggable-cache@1.0.0
 - pkg:composer/cache/taggable-cache@1.1.0
 - pkg:composer/cache/taggable-cache@1.2.0
+- pkg:composer/cache/taggable-cache@2.0.0
+- pkg:composer/cache/taggable-cache@2.0.1
+- pkg:composer/cache/taggable-cache@2.0.2
+- pkg:composer/cache/taggable-cache@2.1.0
+- pkg:composer/cache/taggable-cache@3.0.0

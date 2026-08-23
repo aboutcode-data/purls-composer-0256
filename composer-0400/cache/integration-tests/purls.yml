@@ -7,6 +7,7 @@
 - pkg:composer/cache/integration-tests@0.15.0
 - pkg:composer/cache/integration-tests@0.16.0
 - pkg:composer/cache/integration-tests@0.17.0
+- pkg:composer/cache/integration-tests@0.18.0
 - pkg:composer/cache/integration-tests@0.2.0
 - pkg:composer/cache/integration-tests@0.3.0
 - pkg:composer/cache/integration-tests@0.4.0
@@ -21,3 +22,7 @@
 - pkg:composer/cache/integration-tests@0.8.0
 - pkg:composer/cache/integration-tests@0.9.0
 - pkg:composer/cache/integration-tests@0.9.1
+- pkg:composer/cache/integration-tests@1.0.2
+- pkg:composer/cache/integration-tests@1.0.3
+- pkg:composer/cache/integration-tests@1.0.4
+- pkg:composer/cache/integration-tests@1.0.5

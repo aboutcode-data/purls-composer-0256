@@ -8,3 +8,8 @@
 - pkg:composer/cache/psr-6-doctrine-bridge@3.0.1
 - pkg:composer/cache/psr-6-doctrine-bridge@3.1.0
 - pkg:composer/cache/psr-6-doctrine-bridge@3.2.0
+- pkg:composer/cache/psr-6-doctrine-bridge@4.0.0
+- pkg:composer/cache/psr-6-doctrine-bridge@4.0.1
+- pkg:composer/cache/psr-6-doctrine-bridge@4.0.2
+- pkg:composer/cache/psr-6-doctrine-bridge@4.0.3
+- pkg:composer/cache/psr-6-doctrine-bridge@4.0.4
