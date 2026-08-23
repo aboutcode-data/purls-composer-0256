@@ -12,3 +12,5 @@
 - pkg:composer/becklyn/ddd-symfony-bridge@5.2.0
 - pkg:composer/becklyn/ddd-symfony-bridge@6.0.0
 - pkg:composer/becklyn/ddd-symfony-bridge@6.1.0
+- pkg:composer/becklyn/ddd-symfony-bridge@6.2.0
+- pkg:composer/becklyn/ddd-symfony-bridge@6.2.1
