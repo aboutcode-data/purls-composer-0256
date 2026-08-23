@@ -5,3 +5,4 @@
 - pkg:composer/blueweb/newrelic-nette@2.0.2
 - pkg:composer/blueweb/newrelic-nette@3.0.0
 - pkg:composer/blueweb/newrelic-nette@4.0.0
+- pkg:composer/blueweb/newrelic-nette@4.1.0
