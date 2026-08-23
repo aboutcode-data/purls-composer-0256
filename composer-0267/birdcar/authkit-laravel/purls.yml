@@ -9,3 +9,6 @@
 - pkg:composer/birdcar/authkit-laravel@v0.7.0
 - pkg:composer/birdcar/authkit-laravel@v0.8.0
 - pkg:composer/birdcar/authkit-laravel@v1.0.0
+- pkg:composer/birdcar/authkit-laravel@v1.0.1
+- pkg:composer/birdcar/authkit-laravel@v2.0.0
+- pkg:composer/birdcar/authkit-laravel@v2.1.0
