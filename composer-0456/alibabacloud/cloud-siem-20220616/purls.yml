@@ -22,3 +22,5 @@
 - pkg:composer/alibabacloud/cloud-siem-20220616@6.1.0
 - pkg:composer/alibabacloud/cloud-siem-20220616@6.2.0
 - pkg:composer/alibabacloud/cloud-siem-20220616@6.2.1
+- pkg:composer/alibabacloud/cloud-siem-20220616@6.2.2
+- pkg:composer/alibabacloud/cloud-siem-20220616@6.2.3
