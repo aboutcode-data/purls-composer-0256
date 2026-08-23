@@ -1,3 +1,6 @@
 - pkg:composer/acquia/department_of_eudaimonia@1.0.0
 - pkg:composer/acquia/department_of_eudaimonia@2.0.0
 - pkg:composer/acquia/department_of_eudaimonia@3.0.0
+- pkg:composer/acquia/department_of_eudaimonia@4.0.0
+- pkg:composer/acquia/department_of_eudaimonia@4.0.1
+- pkg:composer/acquia/department_of_eudaimonia@4.0.2
