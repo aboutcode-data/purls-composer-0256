@@ -161,6 +161,10 @@
 - pkg:composer/carthage-software/mago@1.44.0
 - pkg:composer/carthage-software/mago@1.45.0
 - pkg:composer/carthage-software/mago@1.46.0
+- pkg:composer/carthage-software/mago@1.47.0
+- pkg:composer/carthage-software/mago@1.47.1
+- pkg:composer/carthage-software/mago@1.47.2
+- pkg:composer/carthage-software/mago@1.47.3
 - pkg:composer/carthage-software/mago@1.5.0
 - pkg:composer/carthage-software/mago@1.6.0
 - pkg:composer/carthage-software/mago@1.7.0
