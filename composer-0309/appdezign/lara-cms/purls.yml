@@ -61,6 +61,7 @@
 - pkg:composer/appdezign/lara-cms@8.2.44
 - pkg:composer/appdezign/lara-cms@8.2.45
 - pkg:composer/appdezign/lara-cms@8.2.46
+- pkg:composer/appdezign/lara-cms@8.2.47
 - pkg:composer/appdezign/lara-cms@8.2.5
 - pkg:composer/appdezign/lara-cms@8.2.6
 - pkg:composer/appdezign/lara-cms@8.2.7
@@ -92,3 +93,4 @@
 - pkg:composer/appdezign/lara-cms@8.7.3
 - pkg:composer/appdezign/lara-cms@8.7.4
 - pkg:composer/appdezign/lara-cms@8.7.5
+- pkg:composer/appdezign/lara-cms@8.7.6
