@@ -80,3 +80,6 @@
 - pkg:composer/avadim/fast-excel-reader@v4.1.0
 - pkg:composer/avadim/fast-excel-reader@v4.2.0
 - pkg:composer/avadim/fast-excel-reader@v4.3.0
+- pkg:composer/avadim/fast-excel-reader@v4.4.0
+- pkg:composer/avadim/fast-excel-reader@v4.4.1
+- pkg:composer/avadim/fast-excel-reader@v4.4.2
