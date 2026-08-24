@@ -45,3 +45,4 @@
 - pkg:composer/andydefer/laravel-otp@v1.1.9
 - pkg:composer/andydefer/laravel-otp@v1.2.0
 - pkg:composer/andydefer/laravel-otp@v1.2.1
+- pkg:composer/andydefer/laravel-otp@v1.2.2

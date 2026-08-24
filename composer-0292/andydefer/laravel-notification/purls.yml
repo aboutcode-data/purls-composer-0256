@@ -101,6 +101,7 @@
 - pkg:composer/andydefer/laravel-notification@v1.5.11
 - pkg:composer/andydefer/laravel-notification@v1.5.12
 - pkg:composer/andydefer/laravel-notification@v1.5.13
+- pkg:composer/andydefer/laravel-notification@v1.5.14
 - pkg:composer/andydefer/laravel-notification@v1.5.2
 - pkg:composer/andydefer/laravel-notification@v1.5.3
 - pkg:composer/andydefer/laravel-notification@v1.5.4
