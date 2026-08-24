@@ -62,3 +62,4 @@
 - pkg:composer/cpsit/project-builder@3.0.0
 - pkg:composer/cpsit/project-builder@3.0.1
 - pkg:composer/cpsit/project-builder@3.0.2
+- pkg:composer/cpsit/project-builder@3.0.3
