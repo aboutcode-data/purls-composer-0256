@@ -2,3 +2,4 @@
 - pkg:composer/cli-v1/cli-sdk@1.0.12
 - pkg:composer/cli-v1/cli-sdk@1.0.13
 - pkg:composer/cli-v1/cli-sdk@10.1.0
+- pkg:composer/cli-v1/cli-sdk@10.1.2
