@@ -7,3 +7,5 @@
 - pkg:composer/corecaching/core-caching@v1.1.4
 - pkg:composer/corecaching/core-caching@v1.1.5
 - pkg:composer/corecaching/core-caching@v1.1.6
+- pkg:composer/corecaching/core-caching@v1.1.7
+- pkg:composer/corecaching/core-caching@v1.1.8
