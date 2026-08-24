@@ -1,3 +1,4 @@
 - pkg:composer/compwright/oauth2-fieldedge@v1.0.0
 - pkg:composer/compwright/oauth2-fieldedge@v1.1.0
 - pkg:composer/compwright/oauth2-fieldedge@v2.0.0
+- pkg:composer/compwright/oauth2-fieldedge@v3.0.0
