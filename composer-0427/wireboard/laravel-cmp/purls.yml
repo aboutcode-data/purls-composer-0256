@@ -1,5 +1,8 @@
 - pkg:composer/wireboard/laravel-cmp@1.3.0
 - pkg:composer/wireboard/laravel-cmp@1.4.0
+- pkg:composer/wireboard/laravel-cmp@1.5.0
+- pkg:composer/wireboard/laravel-cmp@1.5.1
+- pkg:composer/wireboard/laravel-cmp@1.5.2
 - pkg:composer/wireboard/laravel-cmp@v1.0.0
 - pkg:composer/wireboard/laravel-cmp@v1.1.0
 - pkg:composer/wireboard/laravel-cmp@v1.2.0
