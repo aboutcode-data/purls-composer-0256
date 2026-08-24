@@ -591,7 +591,13 @@
 - pkg:composer/dashed/dashed-core@v4.33.0
 - pkg:composer/dashed/dashed-core@v4.34.0
 - pkg:composer/dashed/dashed-core@v4.35.0
+- pkg:composer/dashed/dashed-core@v4.36.0
+- pkg:composer/dashed/dashed-core@v4.37.0
+- pkg:composer/dashed/dashed-core@v4.38.0
+- pkg:composer/dashed/dashed-core@v4.39.0
+- pkg:composer/dashed/dashed-core@v4.39.1
 - pkg:composer/dashed/dashed-core@v4.4.0
+- pkg:composer/dashed/dashed-core@v4.40.0
 - pkg:composer/dashed/dashed-core@v4.5.0
 - pkg:composer/dashed/dashed-core@v4.5.1
 - pkg:composer/dashed/dashed-core@v4.5.2
