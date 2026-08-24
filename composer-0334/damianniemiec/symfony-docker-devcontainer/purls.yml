@@ -1,3 +1,5 @@
 - pkg:composer/damianniemiec/symfony-docker-devcontainer@v0.1.0
 - pkg:composer/damianniemiec/symfony-docker-devcontainer@v0.1.1
 - pkg:composer/damianniemiec/symfony-docker-devcontainer@v0.1.2
+- pkg:composer/damianniemiec/symfony-docker-devcontainer@v0.1.3
+- pkg:composer/damianniemiec/symfony-docker-devcontainer@v0.1.4
