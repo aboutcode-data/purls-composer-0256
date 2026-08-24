@@ -16,3 +16,4 @@
 - pkg:composer/concrete5/dependency-patches@1.7.7
 - pkg:composer/concrete5/dependency-patches@1.7.8
 - pkg:composer/concrete5/dependency-patches@1.8.0
+- pkg:composer/concrete5/dependency-patches@1.8.1
