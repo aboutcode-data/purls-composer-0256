@@ -7,3 +7,4 @@
 - pkg:composer/dynamic/silverstripe-shopify@1.2.3
 - pkg:composer/dynamic/silverstripe-shopify@1.3.0
 - pkg:composer/dynamic/silverstripe-shopify@1.4.0
+- pkg:composer/dynamic/silverstripe-shopify@1.4.1
