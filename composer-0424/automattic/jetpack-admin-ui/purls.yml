@@ -1,5 +1,6 @@
 - pkg:composer/automattic/jetpack-admin-ui@v0.1.0
 - pkg:composer/automattic/jetpack-admin-ui@v0.1.1
+- pkg:composer/automattic/jetpack-admin-ui@v0.10.0
 - pkg:composer/automattic/jetpack-admin-ui@v0.2.0
 - pkg:composer/automattic/jetpack-admin-ui@v0.2.1
 - pkg:composer/automattic/jetpack-admin-ui@v0.2.10
