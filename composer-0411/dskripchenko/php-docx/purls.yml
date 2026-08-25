@@ -10,6 +10,7 @@
 - pkg:composer/dskripchenko/php-docx@v1.13.2
 - pkg:composer/dskripchenko/php-docx@v1.13.3
 - pkg:composer/dskripchenko/php-docx@v1.14.0
+- pkg:composer/dskripchenko/php-docx@v1.14.1
 - pkg:composer/dskripchenko/php-docx@v1.2.0
 - pkg:composer/dskripchenko/php-docx@v1.2.1
 - pkg:composer/dskripchenko/php-docx@v1.3.0
