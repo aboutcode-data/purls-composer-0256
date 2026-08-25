@@ -49,3 +49,6 @@
 - pkg:composer/dschuppelius/php-config-toolkit@v0.5.3
 - pkg:composer/dschuppelius/php-config-toolkit@v0.5.4
 - pkg:composer/dschuppelius/php-config-toolkit@v0.5.5
+- pkg:composer/dschuppelius/php-config-toolkit@v0.5.6
+- pkg:composer/dschuppelius/php-config-toolkit@v0.5.7
+- pkg:composer/dschuppelius/php-config-toolkit@v0.5.8
