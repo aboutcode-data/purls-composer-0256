@@ -22,6 +22,7 @@
 - pkg:composer/flarum/flarum@v1.7.0
 - pkg:composer/flarum/flarum@v1.8.0
 - pkg:composer/flarum/flarum@v1.8.1
+- pkg:composer/flarum/flarum@v1.8.19
 - pkg:composer/flarum/flarum@v2.0.0-beta.1
 - pkg:composer/flarum/flarum@v2.0.0-beta.2
 - pkg:composer/flarum/flarum@v2.0.0-beta.3
@@ -34,3 +35,5 @@
 - pkg:composer/flarum/flarum@v2.0.0-rc.3
 - pkg:composer/flarum/flarum@v2.0.0-rc.4
 - pkg:composer/flarum/flarum@v2.0.0-rc.5
+- pkg:composer/flarum/flarum@v2.0.0-rc.6
+- pkg:composer/flarum/flarum@v2.0.0-rc.7
