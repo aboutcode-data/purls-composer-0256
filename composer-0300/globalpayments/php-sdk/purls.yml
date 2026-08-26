@@ -99,6 +99,7 @@
 - pkg:composer/globalpayments/php-sdk@14.4.1
 - pkg:composer/globalpayments/php-sdk@14.4.2
 - pkg:composer/globalpayments/php-sdk@14.4.3
+- pkg:composer/globalpayments/php-sdk@14.4.4
 - pkg:composer/globalpayments/php-sdk@2.0.0
 - pkg:composer/globalpayments/php-sdk@2.0.1
 - pkg:composer/globalpayments/php-sdk@2.0.2
