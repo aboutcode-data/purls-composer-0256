@@ -1,3 +1,4 @@
 - pkg:composer/gacela-project/gacela-env-config-reader@0.1
 - pkg:composer/gacela-project/gacela-env-config-reader@0.2
 - pkg:composer/gacela-project/gacela-env-config-reader@0.3
+- pkg:composer/gacela-project/gacela-env-config-reader@0.4.0
