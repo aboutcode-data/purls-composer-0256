@@ -163,6 +163,9 @@
 - pkg:composer/flarum-lang/russian@1.59.71
 - pkg:composer/flarum-lang/russian@1.59.72
 - pkg:composer/flarum-lang/russian@1.59.73
+- pkg:composer/flarum-lang/russian@1.59.74
+- pkg:composer/flarum-lang/russian@1.59.75
+- pkg:composer/flarum-lang/russian@1.59.76
 - pkg:composer/flarum-lang/russian@1.59.8
 - pkg:composer/flarum-lang/russian@1.59.9
 - pkg:composer/flarum-lang/russian@1.6.0
@@ -232,6 +235,12 @@
 - pkg:composer/flarum-lang/russian@2.0.63
 - pkg:composer/flarum-lang/russian@2.0.64
 - pkg:composer/flarum-lang/russian@2.0.65
+- pkg:composer/flarum-lang/russian@2.0.66
+- pkg:composer/flarum-lang/russian@2.0.67
+- pkg:composer/flarum-lang/russian@2.0.68
+- pkg:composer/flarum-lang/russian@2.0.69
 - pkg:composer/flarum-lang/russian@2.0.7
+- pkg:composer/flarum-lang/russian@2.0.70
+- pkg:composer/flarum-lang/russian@2.0.71
 - pkg:composer/flarum-lang/russian@2.0.8
 - pkg:composer/flarum-lang/russian@2.0.9
