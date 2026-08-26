@@ -44,3 +44,4 @@
 - pkg:composer/fingerprint/server-sdk@7.3.0
 - pkg:composer/fingerprint/server-sdk@7.4.0
 - pkg:composer/fingerprint/server-sdk@7.5.0
+- pkg:composer/fingerprint/server-sdk@7.6.0
