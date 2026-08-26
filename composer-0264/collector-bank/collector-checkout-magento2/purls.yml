@@ -1,3 +1,4 @@
+- pkg:composer/collector-bank/collector-checkout-magento2@1.0.56
 - pkg:composer/collector-bank/collector-checkout-magento2@V1.0.1
 - pkg:composer/collector-bank/collector-checkout-magento2@v1.0.0
 - pkg:composer/collector-bank/collector-checkout-magento2@v1.0.10
