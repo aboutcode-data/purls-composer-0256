@@ -1,4 +1,6 @@
 - pkg:composer/gember/event-sourcing-universal-service-provider@0.1.0
+- pkg:composer/gember/event-sourcing-universal-service-provider@0.10.0
+- pkg:composer/gember/event-sourcing-universal-service-provider@0.11.0
 - pkg:composer/gember/event-sourcing-universal-service-provider@0.2.0
 - pkg:composer/gember/event-sourcing-universal-service-provider@0.3.0
 - pkg:composer/gember/event-sourcing-universal-service-provider@0.3.1
