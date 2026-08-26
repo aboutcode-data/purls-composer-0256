@@ -24,3 +24,4 @@
 - pkg:composer/elegantly/laravel-stripe@v2.4.3
 - pkg:composer/elegantly/laravel-stripe@v2.5.0
 - pkg:composer/elegantly/laravel-stripe@v2.6.0
+- pkg:composer/elegantly/laravel-stripe@v2.6.1
