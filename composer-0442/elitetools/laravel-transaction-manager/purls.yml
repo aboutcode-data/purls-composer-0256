@@ -1,1 +1,2 @@
 - pkg:composer/elitetools/laravel-transaction-manager@1.1
+- pkg:composer/elitetools/laravel-transaction-manager@1.2
