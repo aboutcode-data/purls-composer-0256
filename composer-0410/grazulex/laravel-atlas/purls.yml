@@ -12,3 +12,4 @@
 - pkg:composer/grazulex/laravel-atlas@v1.5.0
 - pkg:composer/grazulex/laravel-atlas@v1.6.0
 - pkg:composer/grazulex/laravel-atlas@v1.7.5
+- pkg:composer/grazulex/laravel-atlas@v2.0.0
