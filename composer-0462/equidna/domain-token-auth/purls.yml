@@ -2,3 +2,4 @@
 - pkg:composer/equidna/domain-token-auth@2.0.0
 - pkg:composer/equidna/domain-token-auth@2.1.0
 - pkg:composer/equidna/domain-token-auth@2.2.0
+- pkg:composer/equidna/domain-token-auth@2.3.0
