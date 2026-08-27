@@ -41,6 +41,8 @@
 - pkg:composer/gp247/front@2.0.12
 - pkg:composer/gp247/front@2.0.13
 - pkg:composer/gp247/front@2.0.14
+- pkg:composer/gp247/front@2.0.15
+- pkg:composer/gp247/front@2.0.16
 - pkg:composer/gp247/front@2.0.2
 - pkg:composer/gp247/front@2.0.3
 - pkg:composer/gp247/front@2.0.4
@@ -48,3 +50,5 @@
 - pkg:composer/gp247/front@2.0.7
 - pkg:composer/gp247/front@2.0.8
 - pkg:composer/gp247/front@2.0.9
+- pkg:composer/gp247/front@2.1
+- pkg:composer/gp247/front@2.1.1
