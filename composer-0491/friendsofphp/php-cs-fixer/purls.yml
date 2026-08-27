@@ -380,6 +380,7 @@
 - pkg:composer/friendsofphp/php-cs-fixer@v3.95.20
 - pkg:composer/friendsofphp/php-cs-fixer@v3.95.21
 - pkg:composer/friendsofphp/php-cs-fixer@v3.95.22
+- pkg:composer/friendsofphp/php-cs-fixer@v3.95.23
 - pkg:composer/friendsofphp/php-cs-fixer@v3.95.3
 - pkg:composer/friendsofphp/php-cs-fixer@v3.95.4
 - pkg:composer/friendsofphp/php-cs-fixer@v3.95.5
