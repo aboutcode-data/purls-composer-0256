@@ -7,6 +7,7 @@
 - pkg:composer/goldnead/statamic-brand-context@v1.1.1
 - pkg:composer/goldnead/statamic-brand-context@v1.1.2
 - pkg:composer/goldnead/statamic-brand-context@v1.1.3
+- pkg:composer/goldnead/statamic-brand-context@v1.11.0
 - pkg:composer/goldnead/statamic-brand-context@v1.2.0
 - pkg:composer/goldnead/statamic-brand-context@v1.2.1
 - pkg:composer/goldnead/statamic-brand-context@v1.2.2
