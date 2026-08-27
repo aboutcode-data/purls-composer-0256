@@ -24,6 +24,7 @@
 - pkg:composer/google/cloud-discoveryengine@v1.11.1
 - pkg:composer/google/cloud-discoveryengine@v1.12.0
 - pkg:composer/google/cloud-discoveryengine@v1.13.0
+- pkg:composer/google/cloud-discoveryengine@v1.14.0
 - pkg:composer/google/cloud-discoveryengine@v1.2.0
 - pkg:composer/google/cloud-discoveryengine@v1.3.0
 - pkg:composer/google/cloud-discoveryengine@v1.3.1
