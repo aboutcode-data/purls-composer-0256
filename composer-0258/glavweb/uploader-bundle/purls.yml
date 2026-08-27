@@ -72,3 +72,4 @@
 - pkg:composer/glavweb/uploader-bundle@v3.7.0
 - pkg:composer/glavweb/uploader-bundle@v3.7.1
 - pkg:composer/glavweb/uploader-bundle@v4.0.0
+- pkg:composer/glavweb/uploader-bundle@v4.1.0
