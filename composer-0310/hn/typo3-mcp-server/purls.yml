@@ -15,3 +15,4 @@
 - pkg:composer/hn/typo3-mcp-server@v0.4.3
 - pkg:composer/hn/typo3-mcp-server@v0.4.4
 - pkg:composer/hn/typo3-mcp-server@v0.5.0
+- pkg:composer/hn/typo3-mcp-server@v0.6.0
