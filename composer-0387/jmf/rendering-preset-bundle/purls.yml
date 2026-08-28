@@ -6,3 +6,4 @@
 - pkg:composer/jmf/rendering-preset-bundle@2.0.0
 - pkg:composer/jmf/rendering-preset-bundle@2.0.0-rc1
 - pkg:composer/jmf/rendering-preset-bundle@2.0.2
+- pkg:composer/jmf/rendering-preset-bundle@3.0.0
