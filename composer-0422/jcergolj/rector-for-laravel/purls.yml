@@ -4,3 +4,4 @@
 - pkg:composer/jcergolj/rector-for-laravel@v0.9
 - pkg:composer/jcergolj/rector-for-laravel@v1.0
 - pkg:composer/jcergolj/rector-for-laravel@v2
+- pkg:composer/jcergolj/rector-for-laravel@v3
