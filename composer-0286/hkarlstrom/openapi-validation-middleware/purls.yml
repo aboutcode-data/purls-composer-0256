@@ -33,3 +33,4 @@
 - pkg:composer/hkarlstrom/openapi-validation-middleware@0.5.3
 - pkg:composer/hkarlstrom/openapi-validation-middleware@0.5.4
 - pkg:composer/hkarlstrom/openapi-validation-middleware@0.5.5
+- pkg:composer/hkarlstrom/openapi-validation-middleware@0.6
