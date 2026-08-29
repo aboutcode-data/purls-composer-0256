@@ -1,5 +1,9 @@
 - pkg:composer/larastash/vue@1.0.0
 - pkg:composer/larastash/vue@1.0.1
+- pkg:composer/larastash/vue@13.0.0
+- pkg:composer/larastash/vue@13.0.4
+- pkg:composer/larastash/vue@13.0.5
+- pkg:composer/larastash/vue@13.0.6
 - pkg:composer/larastash/vue@2.0.0
 - pkg:composer/larastash/vue@2.0.1
 - pkg:composer/larastash/vue@2.0.10
