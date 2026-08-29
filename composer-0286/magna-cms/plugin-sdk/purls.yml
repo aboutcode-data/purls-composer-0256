@@ -1,2 +1,4 @@
 - pkg:composer/magna-cms/plugin-sdk@v1.0.0
 - pkg:composer/magna-cms/plugin-sdk@v1.3.0
+- pkg:composer/magna-cms/plugin-sdk@v1.4.0
+- pkg:composer/magna-cms/plugin-sdk@v1.5.0
