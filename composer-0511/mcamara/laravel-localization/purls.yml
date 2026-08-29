@@ -99,3 +99,4 @@
 - pkg:composer/mcamara/laravel-localization@v2.3.0
 - pkg:composer/mcamara/laravel-localization@v2.4.0
 - pkg:composer/mcamara/laravel-localization@v2.4.1
+- pkg:composer/mcamara/laravel-localization@v2.4.2
