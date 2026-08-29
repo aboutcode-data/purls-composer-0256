@@ -12,3 +12,4 @@
 - pkg:composer/laramint/laravel-brain@v2.3.0
 - pkg:composer/laramint/laravel-brain@v2.3.1
 - pkg:composer/laramint/laravel-brain@v2.4.0
+- pkg:composer/laramint/laravel-brain@v2.5.0
