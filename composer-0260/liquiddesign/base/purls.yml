@@ -58,6 +58,7 @@
 - pkg:composer/liquiddesign/base@v2.0.2
 - pkg:composer/liquiddesign/base@v2.0.3
 - pkg:composer/liquiddesign/base@v2.0.33
+- pkg:composer/liquiddesign/base@v2.0.34
 - pkg:composer/liquiddesign/base@v2.0.4
 - pkg:composer/liquiddesign/base@v2.0.5
 - pkg:composer/liquiddesign/base@v2.0.6
