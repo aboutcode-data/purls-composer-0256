@@ -26,3 +26,4 @@
 - pkg:composer/leafs/http@v4.1
 - pkg:composer/leafs/http@v4.2
 - pkg:composer/leafs/http@v5.0
+- pkg:composer/leafs/http@v5.0.1

@@ -60,5 +60,6 @@
 - pkg:composer/league/flysystem-sftp@3.25.1
 - pkg:composer/league/flysystem-sftp@3.28.0
 - pkg:composer/league/flysystem-sftp@3.3.0
+- pkg:composer/league/flysystem-sftp@3.35.3
 - pkg:composer/league/flysystem-sftp@3.5.2
 - pkg:composer/league/flysystem-sftp@3.6.0
