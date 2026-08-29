@@ -1,2 +1,6 @@
 - pkg:composer/laravel-solo/live-reload@v1.0.0
 - pkg:composer/laravel-solo/live-reload@v1.1.0
+- pkg:composer/laravel-solo/live-reload@v2.0.0
+- pkg:composer/laravel-solo/live-reload@v2.0.1
+- pkg:composer/laravel-solo/live-reload@v2.0.2
+- pkg:composer/laravel-solo/live-reload@v2.0.3
