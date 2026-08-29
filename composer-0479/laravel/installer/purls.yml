@@ -120,6 +120,7 @@
 - pkg:composer/laravel/installer@v5.30.0
 - pkg:composer/laravel/installer@v5.31.0
 - pkg:composer/laravel/installer@v5.31.1
+- pkg:composer/laravel/installer@v5.32.0
 - pkg:composer/laravel/installer@v5.4.0
 - pkg:composer/laravel/installer@v5.5.0
 - pkg:composer/laravel/installer@v5.5.1

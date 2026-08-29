@@ -45,3 +45,4 @@
 - pkg:composer/laravel/pulse@v1.7.3
 - pkg:composer/laravel/pulse@v1.7.4
 - pkg:composer/laravel/pulse@v1.8.0
+- pkg:composer/laravel/pulse@v1.8.1
