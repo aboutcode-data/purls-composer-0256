@@ -1,1 +1,3 @@
 - pkg:composer/jooservices/dto@v3.0.0
+- pkg:composer/jooservices/dto@v3.1.0
+- pkg:composer/jooservices/dto@v3.2.0
