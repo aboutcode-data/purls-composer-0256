@@ -85,6 +85,7 @@
 - pkg:composer/lagdo/jaxon-dbadmin@v0.34.1
 - pkg:composer/lagdo/jaxon-dbadmin@v0.34.2
 - pkg:composer/lagdo/jaxon-dbadmin@v0.34.3
+- pkg:composer/lagdo/jaxon-dbadmin@v0.34.4
 - pkg:composer/lagdo/jaxon-dbadmin@v0.4.0
 - pkg:composer/lagdo/jaxon-dbadmin@v0.4.1
 - pkg:composer/lagdo/jaxon-dbadmin@v0.4.2
