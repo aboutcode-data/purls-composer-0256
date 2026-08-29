@@ -30,6 +30,10 @@
 - pkg:composer/goldnead/statamic-automations@v1.9.1
 - pkg:composer/goldnead/statamic-automations@v2.0.0
 - pkg:composer/goldnead/statamic-automations@v2.1.0
+- pkg:composer/goldnead/statamic-automations@v2.10.0
+- pkg:composer/goldnead/statamic-automations@v2.11.0
+- pkg:composer/goldnead/statamic-automations@v2.12.0
+- pkg:composer/goldnead/statamic-automations@v2.13.0
 - pkg:composer/goldnead/statamic-automations@v2.2.0
 - pkg:composer/goldnead/statamic-automations@v2.2.1
 - pkg:composer/goldnead/statamic-automations@v2.3.0
