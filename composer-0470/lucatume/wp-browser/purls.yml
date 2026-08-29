@@ -346,6 +346,7 @@
 - pkg:composer/lucatume/wp-browser@3.7.9
 - pkg:composer/lucatume/wp-browser@3.8.0
 - pkg:composer/lucatume/wp-browser@3.8.1
+- pkg:composer/lucatume/wp-browser@3.8.2
 - pkg:composer/lucatume/wp-browser@4.0.0
 - pkg:composer/lucatume/wp-browser@4.0.1
 - pkg:composer/lucatume/wp-browser@4.0.10
@@ -418,3 +419,4 @@
 - pkg:composer/lucatume/wp-browser@4.6.1
 - pkg:composer/lucatume/wp-browser@4.7.0
 - pkg:composer/lucatume/wp-browser@4.7.1
+- pkg:composer/lucatume/wp-browser@4.7.2
