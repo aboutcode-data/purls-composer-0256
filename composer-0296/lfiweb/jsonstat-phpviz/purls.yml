@@ -13,3 +13,5 @@
 - pkg:composer/lfiweb/jsonstat-phpviz@4.1
 - pkg:composer/lfiweb/jsonstat-phpviz@5.0.0
 - pkg:composer/lfiweb/jsonstat-phpviz@5.0.1
+- pkg:composer/lfiweb/jsonstat-phpviz@5.1
+- pkg:composer/lfiweb/jsonstat-phpviz@5.1.1
