@@ -2,3 +2,7 @@
 - pkg:composer/lettermint/laravel-rabbitmq@0.1.1
 - pkg:composer/lettermint/laravel-rabbitmq@0.2.0
 - pkg:composer/lettermint/laravel-rabbitmq@1.0.0
+- pkg:composer/lettermint/laravel-rabbitmq@v1.1.0
+- pkg:composer/lettermint/laravel-rabbitmq@v1.2.0
+- pkg:composer/lettermint/laravel-rabbitmq@v1.2.1
+- pkg:composer/lettermint/laravel-rabbitmq@v1.3.0
