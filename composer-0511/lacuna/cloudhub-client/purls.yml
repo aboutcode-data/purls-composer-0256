@@ -30,3 +30,4 @@
 - pkg:composer/lacuna/cloudhub-client@2.0.1-rc1
 - pkg:composer/lacuna/cloudhub-client@2.0.1-rc2
 - pkg:composer/lacuna/cloudhub-client@2.0.1-rc3
+- pkg:composer/lacuna/cloudhub-client@2.0.2
