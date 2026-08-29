@@ -90,3 +90,4 @@
 - pkg:composer/krsque/php-ext-protobuf-stubs@35.1.0
 - pkg:composer/krsque/php-ext-protobuf-stubs@35.1.1
 - pkg:composer/krsque/php-ext-protobuf-stubs@35.1.2
+- pkg:composer/krsque/php-ext-protobuf-stubs@36.0.0

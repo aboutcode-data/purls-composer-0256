@@ -62,3 +62,4 @@
 - pkg:composer/kronos/log@v5.4.1
 - pkg:composer/kronos/log@v6.0.0
 - pkg:composer/kronos/log@v6.1.0
+- pkg:composer/kronos/log@v7.0.0
