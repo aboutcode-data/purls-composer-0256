@@ -11,6 +11,7 @@
 - pkg:composer/mapbender/openlayers6-es5@0.4.3
 - pkg:composer/mapbender/openlayers6-es5@0.4.3.1
 - pkg:composer/mapbender/openlayers6-es5@0.4.3.2
+- pkg:composer/mapbender/openlayers6-es5@10.10.0.0
 - pkg:composer/mapbender/openlayers6-es5@10.2.0.0
 - pkg:composer/mapbender/openlayers6-es5@10.6.1.0
 - pkg:composer/mapbender/openlayers6-es5@10.6.1.1
