@@ -1,3 +1,4 @@
 - pkg:composer/krok/laravel-oas@1.0.0
 - pkg:composer/krok/laravel-oas@1.1.0
 - pkg:composer/krok/laravel-oas@2.0.0
+- pkg:composer/krok/laravel-oas@2.1.0
