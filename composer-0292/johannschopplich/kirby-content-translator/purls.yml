@@ -74,6 +74,7 @@
 - pkg:composer/johannschopplich/kirby-content-translator@3.13.1
 - pkg:composer/johannschopplich/kirby-content-translator@3.13.2
 - pkg:composer/johannschopplich/kirby-content-translator@3.14.0
+- pkg:composer/johannschopplich/kirby-content-translator@3.15.0
 - pkg:composer/johannschopplich/kirby-content-translator@3.2.0
 - pkg:composer/johannschopplich/kirby-content-translator@3.2.1
 - pkg:composer/johannschopplich/kirby-content-translator@3.2.2
