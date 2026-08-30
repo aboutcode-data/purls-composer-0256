@@ -74,6 +74,7 @@
 - pkg:composer/openspout/openspout@v5.10.1
 - pkg:composer/openspout/openspout@v5.10.2
 - pkg:composer/openspout/openspout@v5.10.3
+- pkg:composer/openspout/openspout@v5.11.0
 - pkg:composer/openspout/openspout@v5.2.0
 - pkg:composer/openspout/openspout@v5.2.1
 - pkg:composer/openspout/openspout@v5.2.2
