@@ -1,2 +1,3 @@
 - pkg:composer/part-db/exchanger@v3.0.0
 - pkg:composer/part-db/exchanger@v3.1.0
+- pkg:composer/part-db/exchanger@v3.2.0
