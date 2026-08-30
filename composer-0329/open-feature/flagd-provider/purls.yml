@@ -9,4 +9,5 @@
 - pkg:composer/open-feature/flagd-provider@1.0.0
 - pkg:composer/open-feature/flagd-provider@1.1.0
 - pkg:composer/open-feature/flagd-provider@1.1.1
+- pkg:composer/open-feature/flagd-provider@2.0.0
 - pkg:composer/open-feature/flagd-provider@v0.0.1
