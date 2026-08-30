@@ -53,6 +53,8 @@
 - pkg:composer/metapphu/apollo@3.2.14
 - pkg:composer/metapphu/apollo@3.2.15
 - pkg:composer/metapphu/apollo@3.2.16
+- pkg:composer/metapphu/apollo@3.2.17
+- pkg:composer/metapphu/apollo@3.2.18
 - pkg:composer/metapphu/apollo@3.2.2
 - pkg:composer/metapphu/apollo@3.2.3
 - pkg:composer/metapphu/apollo@3.2.4
@@ -61,3 +63,5 @@
 - pkg:composer/metapphu/apollo@3.2.7
 - pkg:composer/metapphu/apollo@3.2.8
 - pkg:composer/metapphu/apollo@3.2.9
+- pkg:composer/metapphu/apollo@3.3.0
+- pkg:composer/metapphu/apollo@3.3.1
