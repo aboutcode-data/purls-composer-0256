@@ -19,6 +19,7 @@
 - pkg:composer/mollie/magento@v5.0.3
 - pkg:composer/mollie/magento@v5.0.4
 - pkg:composer/mollie/magento@v5.1.0
+- pkg:composer/mollie/magento@v5.10.0
 - pkg:composer/mollie/magento@v5.3.0
 - pkg:composer/mollie/magento@v5.4.0
 - pkg:composer/mollie/magento@v5.5.0
