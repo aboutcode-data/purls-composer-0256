@@ -58,3 +58,4 @@
 - pkg:composer/nette/http@v3.3.3
 - pkg:composer/nette/http@v3.3.4
 - pkg:composer/nette/http@v3.4.0
+- pkg:composer/nette/http@v3.4.1
