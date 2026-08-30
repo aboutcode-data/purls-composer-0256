@@ -17,3 +17,4 @@
 - pkg:composer/microsoft/kiota-serialization-text@2.0.0
 - pkg:composer/microsoft/kiota-serialization-text@2.0.1
 - pkg:composer/microsoft/kiota-serialization-text@2.0.2
+- pkg:composer/microsoft/kiota-serialization-text@2.1.0
