@@ -475,3 +475,4 @@
 - pkg:composer/olmo/core@v3.0.9
 - pkg:composer/olmo/core@v3.1.0
 - pkg:composer/olmo/core@v3.1.1
+- pkg:composer/olmo/core@v3.1.2
