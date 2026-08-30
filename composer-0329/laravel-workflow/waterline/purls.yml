@@ -208,6 +208,8 @@
 - pkg:composer/laravel-workflow/waterline@2.0.0-rc.30
 - pkg:composer/laravel-workflow/waterline@2.0.0-rc.31
 - pkg:composer/laravel-workflow/waterline@2.0.0-rc.32
+- pkg:composer/laravel-workflow/waterline@2.0.0-rc.33
+- pkg:composer/laravel-workflow/waterline@2.0.0-rc.34
 - pkg:composer/laravel-workflow/waterline@2.0.0-rc.4
 - pkg:composer/laravel-workflow/waterline@2.0.0-rc.5
 - pkg:composer/laravel-workflow/waterline@2.0.0-rc.6
