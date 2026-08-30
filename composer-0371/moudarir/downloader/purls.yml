@@ -4,4 +4,10 @@
 - pkg:composer/moudarir/downloader@2.2.0
 - pkg:composer/moudarir/downloader@2.3.0
 - pkg:composer/moudarir/downloader@2.3.1
+- pkg:composer/moudarir/downloader@2.4.0
+- pkg:composer/moudarir/downloader@3.0.0
+- pkg:composer/moudarir/downloader@3.1.0
+- pkg:composer/moudarir/downloader@3.1.1
+- pkg:composer/moudarir/downloader@3.1.2
+- pkg:composer/moudarir/downloader@3.2.0
 - pkg:composer/moudarir/downloader@v1.0.0
