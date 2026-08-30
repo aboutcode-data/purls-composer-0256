@@ -27,6 +27,7 @@
 - pkg:composer/newsman/magento2x@2.3.33
 - pkg:composer/newsman/magento2x@2.3.34
 - pkg:composer/newsman/magento2x@2.3.35
+- pkg:composer/newsman/magento2x@2.3.36
 - pkg:composer/newsman/magento2x@2.3.4
 - pkg:composer/newsman/magento2x@2.3.5
 - pkg:composer/newsman/magento2x@2.3.6
@@ -69,6 +70,7 @@
 - pkg:composer/newsman/magento2x@2.4.128
 - pkg:composer/newsman/magento2x@2.4.129
 - pkg:composer/newsman/magento2x@2.4.13
+- pkg:composer/newsman/magento2x@2.4.130
 - pkg:composer/newsman/magento2x@2.4.14
 - pkg:composer/newsman/magento2x@2.4.15
 - pkg:composer/newsman/magento2x@2.4.150
@@ -82,6 +84,7 @@
 - pkg:composer/newsman/magento2x@2.4.158
 - pkg:composer/newsman/magento2x@2.4.159
 - pkg:composer/newsman/magento2x@2.4.16
+- pkg:composer/newsman/magento2x@2.4.160
 - pkg:composer/newsman/magento2x@2.4.17
 - pkg:composer/newsman/magento2x@2.4.18
 - pkg:composer/newsman/magento2x@2.4.19
@@ -104,6 +107,7 @@
 - pkg:composer/newsman/magento2x@2.4.34
 - pkg:composer/newsman/magento2x@2.4.35
 - pkg:composer/newsman/magento2x@2.4.36
+- pkg:composer/newsman/magento2x@2.4.37
 - pkg:composer/newsman/magento2x@2.4.4
 - pkg:composer/newsman/magento2x@2.4.5
 - pkg:composer/newsman/magento2x@2.4.50
@@ -117,6 +121,7 @@
 - pkg:composer/newsman/magento2x@2.4.58
 - pkg:composer/newsman/magento2x@2.4.59
 - pkg:composer/newsman/magento2x@2.4.6
+- pkg:composer/newsman/magento2x@2.4.60
 - pkg:composer/newsman/magento2x@2.4.7
 - pkg:composer/newsman/magento2x@2.4.8
 - pkg:composer/newsman/magento2x@2.4.9
@@ -153,6 +158,8 @@
 - pkg:composer/newsman/magento2x@2.6.10
 - pkg:composer/newsman/magento2x@2.6.100
 - pkg:composer/newsman/magento2x@2.6.101
+- pkg:composer/newsman/magento2x@2.6.102
+- pkg:composer/newsman/magento2x@2.6.11
 - pkg:composer/newsman/magento2x@2.6.2
 - pkg:composer/newsman/magento2x@2.6.3
 - pkg:composer/newsman/magento2x@2.6.4
@@ -164,6 +171,7 @@
 - pkg:composer/newsman/magento2x@2.7.0
 - pkg:composer/newsman/magento2x@2.7.1
 - pkg:composer/newsman/magento2x@2.7.10
+- pkg:composer/newsman/magento2x@2.7.11
 - pkg:composer/newsman/magento2x@2.7.2
 - pkg:composer/newsman/magento2x@2.7.3
 - pkg:composer/newsman/magento2x@2.7.4
