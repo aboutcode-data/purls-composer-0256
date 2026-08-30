@@ -55,6 +55,9 @@
 - pkg:composer/phalcon/ide-stubs@v5.2.1
 - pkg:composer/phalcon/ide-stubs@v5.2.2
 - pkg:composer/phalcon/ide-stubs@v5.2.3
+- pkg:composer/phalcon/ide-stubs@v5.20.0
+- pkg:composer/phalcon/ide-stubs@v5.20.1
+- pkg:composer/phalcon/ide-stubs@v5.20.3
 - pkg:composer/phalcon/ide-stubs@v5.3.0
 - pkg:composer/phalcon/ide-stubs@v5.3.1
 - pkg:composer/phalcon/ide-stubs@v5.4.0
