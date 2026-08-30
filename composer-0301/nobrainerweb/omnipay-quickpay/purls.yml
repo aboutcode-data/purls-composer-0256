@@ -4,3 +4,6 @@
 - pkg:composer/nobrainerweb/omnipay-quickpay@v1.0.1
 - pkg:composer/nobrainerweb/omnipay-quickpay@v1.0.2
 - pkg:composer/nobrainerweb/omnipay-quickpay@v3.0
+- pkg:composer/nobrainerweb/omnipay-quickpay@v4.0
+- pkg:composer/nobrainerweb/omnipay-quickpay@v4.1
+- pkg:composer/nobrainerweb/omnipay-quickpay@v4.2
