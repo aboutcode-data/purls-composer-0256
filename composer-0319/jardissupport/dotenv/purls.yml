@@ -15,3 +15,6 @@
 - pkg:composer/jardissupport/dotenv@v1.2.2
 - pkg:composer/jardissupport/dotenv@v1.3.0
 - pkg:composer/jardissupport/dotenv@v1.3.1
+- pkg:composer/jardissupport/dotenv@v1.4.0
+- pkg:composer/jardissupport/dotenv@v1.4.1
+- pkg:composer/jardissupport/dotenv@v1.5.0
