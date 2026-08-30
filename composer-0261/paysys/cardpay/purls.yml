@@ -4,3 +4,4 @@
 - pkg:composer/paysys/cardpay@v0.1-beta
 - pkg:composer/paysys/cardpay@v0.1.1
 - pkg:composer/paysys/cardpay@v0.1.2
+- pkg:composer/paysys/cardpay@v0.2.0
