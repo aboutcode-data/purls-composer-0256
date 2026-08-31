@@ -68,3 +68,4 @@
 - pkg:composer/mongdch/mon-util@1.6.6
 - pkg:composer/mongdch/mon-util@1.6.7
 - pkg:composer/mongdch/mon-util@1.6.8
+- pkg:composer/mongdch/mon-util@1.6.9
