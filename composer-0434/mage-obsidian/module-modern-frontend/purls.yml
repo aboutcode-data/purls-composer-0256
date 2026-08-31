@@ -13,6 +13,7 @@
 - pkg:composer/mage-obsidian/module-modern-frontend@2.16.0
 - pkg:composer/mage-obsidian/module-modern-frontend@2.17.0
 - pkg:composer/mage-obsidian/module-modern-frontend@2.17.1
+- pkg:composer/mage-obsidian/module-modern-frontend@2.18.0
 - pkg:composer/mage-obsidian/module-modern-frontend@2.2.0
 - pkg:composer/mage-obsidian/module-modern-frontend@2.2.1
 - pkg:composer/mage-obsidian/module-modern-frontend@2.3.0
