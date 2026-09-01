@@ -1,3 +1,4 @@
 - pkg:composer/setasign/phpcs-teamcity-report@1.0.0
 - pkg:composer/setasign/phpcs-teamcity-report@v1.0.1
 - pkg:composer/setasign/phpcs-teamcity-report@v1.1.0
+- pkg:composer/setasign/phpcs-teamcity-report@v1.1.1
