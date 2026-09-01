@@ -8,3 +8,4 @@
 - pkg:composer/supplycart/laravel-eventsauce@0.5.0
 - pkg:composer/supplycart/laravel-eventsauce@0.6.0
 - pkg:composer/supplycart/laravel-eventsauce@1.0.0
+- pkg:composer/supplycart/laravel-eventsauce@2.0.0
