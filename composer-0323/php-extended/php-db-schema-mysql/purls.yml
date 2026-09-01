@@ -106,6 +106,8 @@
 - pkg:composer/php-extended/php-db-schema-mysql@9.7.19
 - pkg:composer/php-extended/php-db-schema-mysql@9.7.2
 - pkg:composer/php-extended/php-db-schema-mysql@9.7.20
+- pkg:composer/php-extended/php-db-schema-mysql@9.7.21
+- pkg:composer/php-extended/php-db-schema-mysql@9.7.22
 - pkg:composer/php-extended/php-db-schema-mysql@9.7.3
 - pkg:composer/php-extended/php-db-schema-mysql@9.7.4
 - pkg:composer/php-extended/php-db-schema-mysql@9.7.5
