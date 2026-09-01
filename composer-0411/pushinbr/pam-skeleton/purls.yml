@@ -49,3 +49,5 @@
 - pkg:composer/pushinbr/pam-skeleton@v1.0.0
 - pkg:composer/pushinbr/pam-skeleton@v1.0.1
 - pkg:composer/pushinbr/pam-skeleton@v1.0.2
+- pkg:composer/pushinbr/pam-skeleton@v2.0.0
+- pkg:composer/pushinbr/pam-skeleton@v2.0.1

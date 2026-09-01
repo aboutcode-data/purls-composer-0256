@@ -225,6 +225,7 @@
 - pkg:composer/putyourlightson/craft-blitz@4.23.2
 - pkg:composer/putyourlightson/craft-blitz@4.23.20
 - pkg:composer/putyourlightson/craft-blitz@4.23.21
+- pkg:composer/putyourlightson/craft-blitz@4.23.22
 - pkg:composer/putyourlightson/craft-blitz@4.23.3
 - pkg:composer/putyourlightson/craft-blitz@4.23.4
 - pkg:composer/putyourlightson/craft-blitz@4.23.5
@@ -290,6 +291,7 @@
 - pkg:composer/putyourlightson/craft-blitz@5.12.11
 - pkg:composer/putyourlightson/craft-blitz@5.12.12
 - pkg:composer/putyourlightson/craft-blitz@5.12.13
+- pkg:composer/putyourlightson/craft-blitz@5.12.14
 - pkg:composer/putyourlightson/craft-blitz@5.12.2
 - pkg:composer/putyourlightson/craft-blitz@5.12.3
 - pkg:composer/putyourlightson/craft-blitz@5.12.4
