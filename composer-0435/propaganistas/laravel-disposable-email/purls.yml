@@ -100,3 +100,4 @@
 - pkg:composer/propaganistas/laravel-disposable-email@2.4.9
 - pkg:composer/propaganistas/laravel-disposable-email@2.5.0
 - pkg:composer/propaganistas/laravel-disposable-email@2.5.1
+- pkg:composer/propaganistas/laravel-disposable-email@2.5.2
