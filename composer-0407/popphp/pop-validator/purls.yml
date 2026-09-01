@@ -37,3 +37,5 @@
 - pkg:composer/popphp/pop-validator@4.8.0
 - pkg:composer/popphp/pop-validator@4.8.1
 - pkg:composer/popphp/pop-validator@5.0.0
+- pkg:composer/popphp/pop-validator@5.0.1
+- pkg:composer/popphp/pop-validator@5.0.2
