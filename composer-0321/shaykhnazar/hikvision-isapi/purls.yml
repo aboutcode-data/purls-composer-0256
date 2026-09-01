@@ -27,3 +27,6 @@
 - pkg:composer/shaykhnazar/hikvision-isapi@v1.5.3
 - pkg:composer/shaykhnazar/hikvision-isapi@v1.5.4
 - pkg:composer/shaykhnazar/hikvision-isapi@v1.6.0
+- pkg:composer/shaykhnazar/hikvision-isapi@v2.0.0-beta.1
+- pkg:composer/shaykhnazar/hikvision-isapi@v2.0.0-beta.2
+- pkg:composer/shaykhnazar/hikvision-isapi@v2.0.0-beta.3
