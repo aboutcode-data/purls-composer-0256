@@ -34,6 +34,8 @@
 - pkg:composer/swissup/core@1.12.7
 - pkg:composer/swissup/core@1.12.8
 - pkg:composer/swissup/core@1.12.9
+- pkg:composer/swissup/core@1.13.0
+- pkg:composer/swissup/core@1.13.1
 - pkg:composer/swissup/core@1.7.0
 - pkg:composer/swissup/core@1.7.1
 - pkg:composer/swissup/core@1.7.2
