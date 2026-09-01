@@ -35,6 +35,11 @@
 - pkg:composer/smking/laravel@v0.21.1
 - pkg:composer/smking/laravel@v0.21.2
 - pkg:composer/smking/laravel@v0.21.3
+- pkg:composer/smking/laravel@v0.21.4
+- pkg:composer/smking/laravel@v0.21.5
+- pkg:composer/smking/laravel@v0.21.6
+- pkg:composer/smking/laravel@v0.21.7
+- pkg:composer/smking/laravel@v0.21.8
 - pkg:composer/smking/laravel@v0.3.0
 - pkg:composer/smking/laravel@v0.4.0
 - pkg:composer/smking/laravel@v0.5.0
