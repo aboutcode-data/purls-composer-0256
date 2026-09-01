@@ -403,6 +403,7 @@
 - pkg:composer/neuron-core/neuron-ai@3.16.5
 - pkg:composer/neuron-core/neuron-ai@3.16.6
 - pkg:composer/neuron-core/neuron-ai@3.16.7
+- pkg:composer/neuron-core/neuron-ai@3.16.8
 - pkg:composer/neuron-core/neuron-ai@3.2.0
 - pkg:composer/neuron-core/neuron-ai@3.2.1
 - pkg:composer/neuron-core/neuron-ai@3.2.10
