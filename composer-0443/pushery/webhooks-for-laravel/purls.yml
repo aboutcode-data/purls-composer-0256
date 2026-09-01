@@ -34,3 +34,8 @@
 - pkg:composer/pushery/webhooks-for-laravel@v1.8.0
 - pkg:composer/pushery/webhooks-for-laravel@v1.9.0
 - pkg:composer/pushery/webhooks-for-laravel@v1.9.1
+- pkg:composer/pushery/webhooks-for-laravel@v2.0.0
+- pkg:composer/pushery/webhooks-for-laravel@v2.0.1
+- pkg:composer/pushery/webhooks-for-laravel@v2.1.0
+- pkg:composer/pushery/webhooks-for-laravel@v2.2.0
+- pkg:composer/pushery/webhooks-for-laravel@v2.3.0
