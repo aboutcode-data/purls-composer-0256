@@ -47,6 +47,10 @@
 - pkg:composer/posthog/posthog-php@4.13.0
 - pkg:composer/posthog/posthog-php@4.13.1
 - pkg:composer/posthog/posthog-php@4.13.2
+- pkg:composer/posthog/posthog-php@4.13.3
+- pkg:composer/posthog/posthog-php@4.13.4
+- pkg:composer/posthog/posthog-php@4.13.5
+- pkg:composer/posthog/posthog-php@4.13.6
 - pkg:composer/posthog/posthog-php@4.2.0
 - pkg:composer/posthog/posthog-php@4.2.1
 - pkg:composer/posthog/posthog-php@4.2.2
