@@ -276,6 +276,7 @@
 - pkg:composer/phpunit/phpunit@12.5.31
 - pkg:composer/phpunit/phpunit@12.5.32
 - pkg:composer/phpunit/phpunit@12.5.33
+- pkg:composer/phpunit/phpunit@12.5.34
 - pkg:composer/phpunit/phpunit@12.5.4
 - pkg:composer/phpunit/phpunit@12.5.5
 - pkg:composer/phpunit/phpunit@12.5.6
@@ -313,6 +314,7 @@
 - pkg:composer/phpunit/phpunit@13.2.6
 - pkg:composer/phpunit/phpunit@13.3.0
 - pkg:composer/phpunit/phpunit@13.3.1
+- pkg:composer/phpunit/phpunit@13.3.2
 - pkg:composer/phpunit/phpunit@3.7.0
 - pkg:composer/phpunit/phpunit@3.7.1
 - pkg:composer/phpunit/phpunit@3.7.10
