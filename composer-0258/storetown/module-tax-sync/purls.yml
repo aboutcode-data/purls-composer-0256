@@ -3,3 +3,5 @@
 - pkg:composer/storetown/module-tax-sync@1.4.0
 - pkg:composer/storetown/module-tax-sync@1.4.1
 - pkg:composer/storetown/module-tax-sync@1.4.2
+- pkg:composer/storetown/module-tax-sync@v1.5.0
+- pkg:composer/storetown/module-tax-sync@v1.5.1
