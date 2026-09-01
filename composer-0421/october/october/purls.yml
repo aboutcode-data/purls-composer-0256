@@ -289,3 +289,4 @@
 - pkg:composer/october/october@v4.3.6
 - pkg:composer/october/october@v4.3.8
 - pkg:composer/october/october@v4.4.0
+- pkg:composer/october/october@v4.4.1
