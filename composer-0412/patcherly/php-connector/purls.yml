@@ -1,4 +1,5 @@
 - pkg:composer/patcherly/php-connector@v2.5.1
 - pkg:composer/patcherly/php-connector@v2.5.13
 - pkg:composer/patcherly/php-connector@v2.5.15
+- pkg:composer/patcherly/php-connector@v2.5.19
 - pkg:composer/patcherly/php-connector@v2.5.8
