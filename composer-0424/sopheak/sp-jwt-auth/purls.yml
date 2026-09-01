@@ -16,3 +16,7 @@
 - pkg:composer/sopheak/sp-jwt-auth@0.1.20-beta.35
 - pkg:composer/sopheak/sp-jwt-auth@0.1.20-beta.37
 - pkg:composer/sopheak/sp-jwt-auth@0.1.20-beta.42
+- pkg:composer/sopheak/sp-jwt-auth@0.1.23-beta.46
+- pkg:composer/sopheak/sp-jwt-auth@0.1.23-beta.47
+- pkg:composer/sopheak/sp-jwt-auth@0.1.23-beta.48
+- pkg:composer/sopheak/sp-jwt-auth@0.1.23-beta.50
