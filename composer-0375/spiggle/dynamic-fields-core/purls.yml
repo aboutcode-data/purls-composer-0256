@@ -1,2 +1,6 @@
 - pkg:composer/spiggle/dynamic-fields-core@1.2.0
 - pkg:composer/spiggle/dynamic-fields-core@1.2.1
+- pkg:composer/spiggle/dynamic-fields-core@2.0.0
+- pkg:composer/spiggle/dynamic-fields-core@2.1.0
+- pkg:composer/spiggle/dynamic-fields-core@2.1.1
+- pkg:composer/spiggle/dynamic-fields-core@2.1.2
