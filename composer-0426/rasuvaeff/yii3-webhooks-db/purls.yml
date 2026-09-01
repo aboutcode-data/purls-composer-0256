@@ -3,3 +3,4 @@
 - pkg:composer/rasuvaeff/yii3-webhooks-db@v2.0.0
 - pkg:composer/rasuvaeff/yii3-webhooks-db@v2.0.1
 - pkg:composer/rasuvaeff/yii3-webhooks-db@v2.0.2
+- pkg:composer/rasuvaeff/yii3-webhooks-db@v3.0.0
