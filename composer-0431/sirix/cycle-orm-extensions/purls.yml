@@ -7,3 +7,4 @@
 - pkg:composer/sirix/cycle-orm-extensions@3.0.0
 - pkg:composer/sirix/cycle-orm-extensions@3.0.1
 - pkg:composer/sirix/cycle-orm-extensions@4.0.0
+- pkg:composer/sirix/cycle-orm-extensions@5.0.0
