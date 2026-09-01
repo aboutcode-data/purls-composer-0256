@@ -288,3 +288,5 @@
 - pkg:composer/sgalinski/sg-jobs@8.0.6
 - pkg:composer/sgalinski/sg-jobs@8.0.7
 - pkg:composer/sgalinski/sg-jobs@8.0.8
+- pkg:composer/sgalinski/sg-jobs@8.1.0
+- pkg:composer/sgalinski/sg-jobs@8.1.1
