@@ -73,3 +73,5 @@
 - pkg:composer/quantumh/laravel-visits@v4.0.7
 - pkg:composer/quantumh/laravel-visits@v4.0.8
 - pkg:composer/quantumh/laravel-visits@v4.0.9
+- pkg:composer/quantumh/laravel-visits@v5.0.0
+- pkg:composer/quantumh/laravel-visits@v5.0.1
