@@ -66,6 +66,7 @@
 - pkg:composer/stfalcon-studio/api-bundle@v1.6.1
 - pkg:composer/stfalcon-studio/api-bundle@v1.6.2
 - pkg:composer/stfalcon-studio/api-bundle@v1.6.3
+- pkg:composer/stfalcon-studio/api-bundle@v1.6.4
 - pkg:composer/stfalcon-studio/api-bundle@v2.0.0
 - pkg:composer/stfalcon-studio/api-bundle@v2.1.0
 - pkg:composer/stfalcon-studio/api-bundle@v2.2.0
@@ -87,3 +88,5 @@
 - pkg:composer/stfalcon-studio/api-bundle@v3.6.0
 - pkg:composer/stfalcon-studio/api-bundle@v3.6.1
 - pkg:composer/stfalcon-studio/api-bundle@v3.6.2
+- pkg:composer/stfalcon-studio/api-bundle@v3.6.3
+- pkg:composer/stfalcon-studio/api-bundle@v3.6.4
