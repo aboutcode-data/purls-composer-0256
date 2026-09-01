@@ -13,3 +13,4 @@
 - pkg:composer/pekral/rector-rules@0.4.6
 - pkg:composer/pekral/rector-rules@0.4.7
 - pkg:composer/pekral/rector-rules@0.4.8
+- pkg:composer/pekral/rector-rules@0.5
