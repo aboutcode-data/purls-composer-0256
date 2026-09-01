@@ -7,3 +7,4 @@
 - pkg:composer/superius/omnihub-rabbitmq-listener@v1.0.6
 - pkg:composer/superius/omnihub-rabbitmq-listener@v1.0.7
 - pkg:composer/superius/omnihub-rabbitmq-listener@v1.0.8
+- pkg:composer/superius/omnihub-rabbitmq-listener@v1.0.9
