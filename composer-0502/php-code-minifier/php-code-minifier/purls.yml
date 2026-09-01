@@ -5,3 +5,6 @@
 - pkg:composer/php-code-minifier/php-code-minifier@v1.2.1
 - pkg:composer/php-code-minifier/php-code-minifier@v1.2.2
 - pkg:composer/php-code-minifier/php-code-minifier@v1.2.3
+- pkg:composer/php-code-minifier/php-code-minifier@v1.2.4
+- pkg:composer/php-code-minifier/php-code-minifier@v1.3.0
+- pkg:composer/php-code-minifier/php-code-minifier@v1.4.0
