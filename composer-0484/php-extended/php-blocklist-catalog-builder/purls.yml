@@ -79,3 +79,5 @@
 - pkg:composer/php-extended/php-blocklist-catalog-builder@9.0.5
 - pkg:composer/php-extended/php-blocklist-catalog-builder@9.0.6
 - pkg:composer/php-extended/php-blocklist-catalog-builder@9.0.7
+- pkg:composer/php-extended/php-blocklist-catalog-builder@9.0.8
+- pkg:composer/php-extended/php-blocklist-catalog-builder@9.0.9
