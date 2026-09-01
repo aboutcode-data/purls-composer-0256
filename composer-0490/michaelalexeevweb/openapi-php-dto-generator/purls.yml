@@ -77,7 +77,10 @@
 - pkg:composer/michaelalexeevweb/openapi-php-dto-generator@2.15.16
 - pkg:composer/michaelalexeevweb/openapi-php-dto-generator@2.15.17
 - pkg:composer/michaelalexeevweb/openapi-php-dto-generator@2.15.18
+- pkg:composer/michaelalexeevweb/openapi-php-dto-generator@2.15.19
 - pkg:composer/michaelalexeevweb/openapi-php-dto-generator@2.15.2
+- pkg:composer/michaelalexeevweb/openapi-php-dto-generator@2.15.20
+- pkg:composer/michaelalexeevweb/openapi-php-dto-generator@2.15.21
 - pkg:composer/michaelalexeevweb/openapi-php-dto-generator@2.15.3
 - pkg:composer/michaelalexeevweb/openapi-php-dto-generator@2.15.4
 - pkg:composer/michaelalexeevweb/openapi-php-dto-generator@2.15.5
