@@ -33,3 +33,7 @@
 - pkg:composer/phplrt/position-contracts@3.7.3
 - pkg:composer/phplrt/position-contracts@3.7.4
 - pkg:composer/phplrt/position-contracts@3.7.5
+- pkg:composer/phplrt/position-contracts@4.0.0-beta5
+- pkg:composer/phplrt/position-contracts@4.0.0-beta6
+- pkg:composer/phplrt/position-contracts@4.0.0-rc1
+- pkg:composer/phplrt/position-contracts@4.0.0-rc2
