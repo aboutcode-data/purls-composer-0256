@@ -3,3 +3,4 @@
 - pkg:composer/rasuvaeff/yii3-outbox-webhooks-bridge@v1.0.2
 - pkg:composer/rasuvaeff/yii3-outbox-webhooks-bridge@v1.0.3
 - pkg:composer/rasuvaeff/yii3-outbox-webhooks-bridge@v1.0.4
+- pkg:composer/rasuvaeff/yii3-outbox-webhooks-bridge@v1.0.5
