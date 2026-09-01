@@ -7,6 +7,7 @@
 - pkg:composer/packagefactory/grammar@v0.10.5
 - pkg:composer/packagefactory/grammar@v0.11.0
 - pkg:composer/packagefactory/grammar@v0.11.1
+- pkg:composer/packagefactory/grammar@v0.12.0
 - pkg:composer/packagefactory/grammar@v0.2.0
 - pkg:composer/packagefactory/grammar@v0.2.1
 - pkg:composer/packagefactory/grammar@v0.2.2
