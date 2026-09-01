@@ -137,7 +137,10 @@
 - pkg:composer/phpseclib/phpseclib@3.0.54
 - pkg:composer/phpseclib/phpseclib@3.0.55
 - pkg:composer/phpseclib/phpseclib@3.0.56
+- pkg:composer/phpseclib/phpseclib@3.0.57
 - pkg:composer/phpseclib/phpseclib@3.0.6
 - pkg:composer/phpseclib/phpseclib@3.0.7
 - pkg:composer/phpseclib/phpseclib@3.0.8
 - pkg:composer/phpseclib/phpseclib@3.0.9
+- pkg:composer/phpseclib/phpseclib@4.0.0
+- pkg:composer/phpseclib/phpseclib@4.0.1
