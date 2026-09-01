@@ -5,3 +5,5 @@
 - pkg:composer/quillstack/benchmark@1.0.5
 - pkg:composer/quillstack/benchmark@1.0.6
 - pkg:composer/quillstack/benchmark@1.0.7
+- pkg:composer/quillstack/benchmark@v2.0.0
+- pkg:composer/quillstack/benchmark@v2.1.0
