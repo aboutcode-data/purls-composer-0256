@@ -25,6 +25,7 @@
 - pkg:composer/php4u/module-watchtower-m2-connector@v1.26.0
 - pkg:composer/php4u/module-watchtower-m2-connector@v1.27.0
 - pkg:composer/php4u/module-watchtower-m2-connector@v1.28.0
+- pkg:composer/php4u/module-watchtower-m2-connector@v1.29.0
 - pkg:composer/php4u/module-watchtower-m2-connector@v1.3.0
 - pkg:composer/php4u/module-watchtower-m2-connector@v1.4.0
 - pkg:composer/php4u/module-watchtower-m2-connector@v1.4.1
