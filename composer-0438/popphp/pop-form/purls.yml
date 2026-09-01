@@ -64,3 +64,6 @@
 - pkg:composer/popphp/pop-form@4.2.6
 - pkg:composer/popphp/pop-form@4.2.7
 - pkg:composer/popphp/pop-form@5.0.0
+- pkg:composer/popphp/pop-form@5.0.1
+- pkg:composer/popphp/pop-form@5.0.2
+- pkg:composer/popphp/pop-form@5.0.3

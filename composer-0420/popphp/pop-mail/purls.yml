@@ -33,3 +33,6 @@
 - pkg:composer/popphp/pop-mail@4.0.6
 - pkg:composer/popphp/pop-mail@4.0.7
 - pkg:composer/popphp/pop-mail@5.0.0
+- pkg:composer/popphp/pop-mail@5.0.1
+- pkg:composer/popphp/pop-mail@5.0.2
+- pkg:composer/popphp/pop-mail@5.0.3
