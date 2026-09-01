@@ -8,3 +8,4 @@
 - pkg:composer/simplecms/region@1.0.8
 - pkg:composer/simplecms/region@1.1.0
 - pkg:composer/simplecms/region@1.1.1
+- pkg:composer/simplecms/region@v1.2.0
