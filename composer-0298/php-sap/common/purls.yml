@@ -12,3 +12,4 @@
 - pkg:composer/php-sap/common@v6.0.0
 - pkg:composer/php-sap/common@v6.1.0
 - pkg:composer/php-sap/common@v6.1.2
+- pkg:composer/php-sap/common@v6.1.3
