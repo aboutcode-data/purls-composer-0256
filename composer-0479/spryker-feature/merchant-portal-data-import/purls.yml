@@ -2,3 +2,4 @@
 - pkg:composer/spryker-feature/merchant-portal-data-import@202602.0
 - pkg:composer/spryker-feature/merchant-portal-data-import@202604.0
 - pkg:composer/spryker-feature/merchant-portal-data-import@202606.0
+- pkg:composer/spryker-feature/merchant-portal-data-import@202608.0
