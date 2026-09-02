@@ -10,3 +10,4 @@
 - pkg:composer/silverstripe/selectupload@2.0.0-beta1
 - pkg:composer/silverstripe/selectupload@2.1.0
 - pkg:composer/silverstripe/selectupload@2.1.1
+- pkg:composer/silverstripe/selectupload@3.0.0
