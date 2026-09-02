@@ -3,6 +3,9 @@
 - pkg:composer/namirasoft/inference@1.4.2
 - pkg:composer/namirasoft/inference@1.5.0
 - pkg:composer/namirasoft/inference@1.5.1
+- pkg:composer/namirasoft/inference@1.5.10
+- pkg:composer/namirasoft/inference@1.5.11
+- pkg:composer/namirasoft/inference@1.5.12
 - pkg:composer/namirasoft/inference@1.5.2
 - pkg:composer/namirasoft/inference@1.5.3
 - pkg:composer/namirasoft/inference@1.5.4
