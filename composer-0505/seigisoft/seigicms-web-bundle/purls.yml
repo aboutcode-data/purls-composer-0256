@@ -51,3 +51,4 @@
 - pkg:composer/seigisoft/seigicms-web-bundle@v0.4.5
 - pkg:composer/seigisoft/seigicms-web-bundle@v0.4.6
 - pkg:composer/seigisoft/seigicms-web-bundle@v0.5.0
+- pkg:composer/seigisoft/seigicms-web-bundle@v0.6.0
