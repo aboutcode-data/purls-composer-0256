@@ -25,6 +25,7 @@
 - pkg:composer/thieleundklose/autotranslate@v2.1.1
 - pkg:composer/thieleundklose/autotranslate@v2.1.2
 - pkg:composer/thieleundklose/autotranslate@v2.1.3
+- pkg:composer/thieleundklose/autotranslate@v2.10.0
 - pkg:composer/thieleundklose/autotranslate@v2.2.0
 - pkg:composer/thieleundklose/autotranslate@v2.2.1
 - pkg:composer/thieleundklose/autotranslate@v2.2.2
@@ -56,3 +57,4 @@
 - pkg:composer/thieleundklose/autotranslate@v3.2.1
 - pkg:composer/thieleundklose/autotranslate@v3.2.2
 - pkg:composer/thieleundklose/autotranslate@v3.3.0
+- pkg:composer/thieleundklose/autotranslate@v3.4.0
