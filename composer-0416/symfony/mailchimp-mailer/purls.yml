@@ -155,6 +155,7 @@
 - pkg:composer/symfony/mailchimp-mailer@v7.4.0-RC1
 - pkg:composer/symfony/mailchimp-mailer@v7.4.13
 - pkg:composer/symfony/mailchimp-mailer@v7.4.14
+- pkg:composer/symfony/mailchimp-mailer@v7.4.18
 - pkg:composer/symfony/mailchimp-mailer@v7.4.6
 - pkg:composer/symfony/mailchimp-mailer@v8.0.0
 - pkg:composer/symfony/mailchimp-mailer@v8.0.0-BETA1
@@ -167,3 +168,4 @@
 - pkg:composer/symfony/mailchimp-mailer@v8.1.0-BETA3
 - pkg:composer/symfony/mailchimp-mailer@v8.1.0-RC1
 - pkg:composer/symfony/mailchimp-mailer@v8.1.1
+- pkg:composer/symfony/mailchimp-mailer@v8.1.6

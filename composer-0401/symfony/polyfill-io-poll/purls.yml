@@ -1,1 +1,2 @@
 - pkg:composer/symfony/polyfill-io-poll@v1.41.0
+- pkg:composer/symfony/polyfill-io-poll@v1.42.0
