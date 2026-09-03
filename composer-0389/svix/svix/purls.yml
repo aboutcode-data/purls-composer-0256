@@ -231,3 +231,4 @@
 - pkg:composer/svix/svix@v2.0.0-rc.2
 - pkg:composer/svix/svix@v2.1.0
 - pkg:composer/svix/svix@v2.2.0
+- pkg:composer/svix/svix@v2.3.0
