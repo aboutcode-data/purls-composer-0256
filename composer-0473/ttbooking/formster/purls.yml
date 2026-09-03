@@ -2,6 +2,7 @@
 - pkg:composer/ttbooking/formster@v1.1.0
 - pkg:composer/ttbooking/formster@v1.1.1
 - pkg:composer/ttbooking/formster@v1.1.2
+- pkg:composer/ttbooking/formster@v1.10.0
 - pkg:composer/ttbooking/formster@v1.2.0
 - pkg:composer/ttbooking/formster@v1.2.1
 - pkg:composer/ttbooking/formster@v1.2.2
@@ -28,3 +29,4 @@
 - pkg:composer/ttbooking/formster@v1.7.2
 - pkg:composer/ttbooking/formster@v1.8.0
 - pkg:composer/ttbooking/formster@v1.8.1
+- pkg:composer/ttbooking/formster@v1.9.0
