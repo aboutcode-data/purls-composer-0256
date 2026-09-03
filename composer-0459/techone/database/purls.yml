@@ -2,3 +2,5 @@
 - pkg:composer/techone/database@v0.2
 - pkg:composer/techone/database@v1.0.0
 - pkg:composer/techone/database@v2.0.0
+- pkg:composer/techone/database@v2.0.1
+- pkg:composer/techone/database@v2.1.0
