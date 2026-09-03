@@ -115,6 +115,7 @@
 - pkg:composer/symfony/uid@v7.4.0
 - pkg:composer/symfony/uid@v7.4.0-BETA1
 - pkg:composer/symfony/uid@v7.4.0-RC1
+- pkg:composer/symfony/uid@v7.4.17
 - pkg:composer/symfony/uid@v7.4.4
 - pkg:composer/symfony/uid@v7.4.8
 - pkg:composer/symfony/uid@v7.4.9
@@ -127,3 +128,4 @@
 - pkg:composer/symfony/uid@v8.1.0
 - pkg:composer/symfony/uid@v8.1.0-BETA1
 - pkg:composer/symfony/uid@v8.1.4
+- pkg:composer/symfony/uid@v8.1.5
