@@ -13,3 +13,5 @@
 - pkg:composer/symfonicat/analytics@v3.4.0
 - pkg:composer/symfonicat/analytics@v3.5.0
 - pkg:composer/symfonicat/analytics@v3.6.0
+- pkg:composer/symfonicat/analytics@v3.7.0
+- pkg:composer/symfonicat/analytics@v3.8.0
