@@ -37,6 +37,9 @@
 - pkg:composer/testo/testo@0.10.40
 - pkg:composer/testo/testo@0.10.41
 - pkg:composer/testo/testo@0.10.42
+- pkg:composer/testo/testo@0.10.43
+- pkg:composer/testo/testo@0.10.44
+- pkg:composer/testo/testo@0.10.45
 - pkg:composer/testo/testo@0.10.5
 - pkg:composer/testo/testo@0.10.6
 - pkg:composer/testo/testo@0.10.7
