@@ -554,6 +554,8 @@
 - pkg:composer/symfony/css-selector@v6.4.24
 - pkg:composer/symfony/css-selector@v6.4.3
 - pkg:composer/symfony/css-selector@v6.4.34
+- pkg:composer/symfony/css-selector@v6.4.44
+- pkg:composer/symfony/css-selector@v6.4.45
 - pkg:composer/symfony/css-selector@v6.4.7
 - pkg:composer/symfony/css-selector@v6.4.8
 - pkg:composer/symfony/css-selector@v7.0.0
@@ -579,6 +581,8 @@
 - pkg:composer/symfony/css-selector@v7.4.0-BETA1
 - pkg:composer/symfony/css-selector@v7.4.0-BETA2
 - pkg:composer/symfony/css-selector@v7.4.0-RC1
+- pkg:composer/symfony/css-selector@v7.4.17
+- pkg:composer/symfony/css-selector@v7.4.18
 - pkg:composer/symfony/css-selector@v7.4.6
 - pkg:composer/symfony/css-selector@v7.4.8
 - pkg:composer/symfony/css-selector@v7.4.9
@@ -592,3 +596,5 @@
 - pkg:composer/symfony/css-selector@v8.1.0
 - pkg:composer/symfony/css-selector@v8.1.0-BETA1
 - pkg:composer/symfony/css-selector@v8.1.0-BETA3
+- pkg:composer/symfony/css-selector@v8.1.5
+- pkg:composer/symfony/css-selector@v8.1.6
