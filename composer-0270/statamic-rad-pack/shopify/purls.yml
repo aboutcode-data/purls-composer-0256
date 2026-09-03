@@ -109,3 +109,5 @@
 - pkg:composer/statamic-rad-pack/shopify@v7.8.3
 - pkg:composer/statamic-rad-pack/shopify@v7.8.4
 - pkg:composer/statamic-rad-pack/shopify@v7.8.5
+- pkg:composer/statamic-rad-pack/shopify@v7.8.6
+- pkg:composer/statamic-rad-pack/shopify@v7.9.0
