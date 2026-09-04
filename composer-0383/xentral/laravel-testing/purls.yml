@@ -10,3 +10,4 @@
 - pkg:composer/xentral/laravel-testing@0.5.1
 - pkg:composer/xentral/laravel-testing@0.6.0
 - pkg:composer/xentral/laravel-testing@0.6.1
+- pkg:composer/xentral/laravel-testing@0.6.2

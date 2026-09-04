@@ -23,6 +23,11 @@
 - pkg:composer/xentral/laravel-api@0.17.2
 - pkg:composer/xentral/laravel-api@0.18.0
 - pkg:composer/xentral/laravel-api@0.18.1
+- pkg:composer/xentral/laravel-api@0.18.2
+- pkg:composer/xentral/laravel-api@0.18.3
+- pkg:composer/xentral/laravel-api@0.19.0
+- pkg:composer/xentral/laravel-api@0.20.0
+- pkg:composer/xentral/laravel-api@0.20.1
 - pkg:composer/xentral/laravel-api@0.3.1
 - pkg:composer/xentral/laravel-api@0.3.2
 - pkg:composer/xentral/laravel-api@0.3.3
