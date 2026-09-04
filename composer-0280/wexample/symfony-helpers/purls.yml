@@ -180,3 +180,6 @@
 - pkg:composer/wexample/symfony-helpers@2.0.3
 - pkg:composer/wexample/symfony-helpers@3.0.0
 - pkg:composer/wexample/symfony-helpers@4.0.0
+- pkg:composer/wexample/symfony-helpers@5.0.0
+- pkg:composer/wexample/symfony-helpers@6.0.0
+- pkg:composer/wexample/symfony-helpers@7.0.0

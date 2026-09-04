@@ -114,3 +114,6 @@
 - pkg:composer/wexample/symfony-pdf@1.0.92
 - pkg:composer/wexample/symfony-pdf@1.0.93
 - pkg:composer/wexample/symfony-pdf@1.0.94
+- pkg:composer/wexample/symfony-pdf@1.0.95
+- pkg:composer/wexample/symfony-pdf@1.0.96
+- pkg:composer/wexample/symfony-pdf@1.0.97
