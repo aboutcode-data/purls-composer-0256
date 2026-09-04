@@ -4,3 +4,4 @@
 - pkg:composer/waapi/waapi-laravel-sdk@v1.0.3
 - pkg:composer/waapi/waapi-laravel-sdk@v1.1.0
 - pkg:composer/waapi/waapi-laravel-sdk@v1.2.0
+- pkg:composer/waapi/waapi-laravel-sdk@v2.0.0
