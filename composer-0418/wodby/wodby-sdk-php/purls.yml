@@ -32,3 +32,4 @@
 - pkg:composer/wodby/wodby-sdk-php@4.5.1
 - pkg:composer/wodby/wodby-sdk-php@4.6.0
 - pkg:composer/wodby/wodby-sdk-php@4.7.0
+- pkg:composer/wodby/wodby-sdk-php@4.8.0
