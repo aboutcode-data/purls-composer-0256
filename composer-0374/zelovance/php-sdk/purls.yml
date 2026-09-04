@@ -1,2 +1,4 @@
 - pkg:composer/zelovance/php-sdk@v0.1.0
 - pkg:composer/zelovance/php-sdk@v0.1.1
+- pkg:composer/zelovance/php-sdk@v0.2.0-beta.1
+- pkg:composer/zelovance/php-sdk@v0.2.0-beta.2
