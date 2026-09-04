@@ -16,3 +16,5 @@
 - pkg:composer/upon/mlang@v2.0.2
 - pkg:composer/upon/mlang@v2.1.0
 - pkg:composer/upon/mlang@v2.1.1
+- pkg:composer/upon/mlang@v3.0.0
+- pkg:composer/upon/mlang@v3.1.0
