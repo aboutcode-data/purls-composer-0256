@@ -48,3 +48,5 @@
 - pkg:composer/xwp/stream@v4.2.2-rc.1
 - pkg:composer/xwp/stream@v4.3.0
 - pkg:composer/xwp/stream@v4.3.0-rc.1
+- pkg:composer/xwp/stream@v4.4.0
+- pkg:composer/xwp/stream@v4.4.0-rc.1
