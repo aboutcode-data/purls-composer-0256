@@ -27,6 +27,7 @@
 - pkg:composer/vwo/vwo-fme-php-sdk@1.55.0
 - pkg:composer/vwo/vwo-fme-php-sdk@1.56.0
 - pkg:composer/vwo/vwo-fme-php-sdk@1.6.0
+- pkg:composer/vwo/vwo-fme-php-sdk@1.62.0
 - pkg:composer/vwo/vwo-fme-php-sdk@1.7.0
 - pkg:composer/vwo/vwo-fme-php-sdk@1.7.1
 - pkg:composer/vwo/vwo-fme-php-sdk@1.7.2
