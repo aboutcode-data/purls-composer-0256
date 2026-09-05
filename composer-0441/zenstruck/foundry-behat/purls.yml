@@ -3,3 +3,4 @@
 - pkg:composer/zenstruck/foundry-behat@v2.11.3
 - pkg:composer/zenstruck/foundry-behat@v2.11.4
 - pkg:composer/zenstruck/foundry-behat@v2.12.0
+- pkg:composer/zenstruck/foundry-behat@v2.12.1
