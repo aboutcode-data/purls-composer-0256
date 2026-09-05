@@ -26,3 +26,4 @@
 - pkg:composer/actengage/laravel-message-gears@v0.9.3
 - pkg:composer/actengage/laravel-message-gears@v1.0.0
 - pkg:composer/actengage/laravel-message-gears@v4.0.0
+- pkg:composer/actengage/laravel-message-gears@v4.0.1
