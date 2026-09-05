@@ -2,6 +2,10 @@
 - pkg:composer/adachsoft/ai-agent@v0.1.1
 - pkg:composer/adachsoft/ai-agent@v0.1.2
 - pkg:composer/adachsoft/ai-agent@v0.10.0
+- pkg:composer/adachsoft/ai-agent@v0.11.0
+- pkg:composer/adachsoft/ai-agent@v0.11.1
+- pkg:composer/adachsoft/ai-agent@v0.11.2
+- pkg:composer/adachsoft/ai-agent@v0.12.0
 - pkg:composer/adachsoft/ai-agent@v0.2.0
 - pkg:composer/adachsoft/ai-agent@v0.2.1
 - pkg:composer/adachsoft/ai-agent@v0.3.0
