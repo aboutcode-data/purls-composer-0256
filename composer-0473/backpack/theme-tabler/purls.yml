@@ -36,6 +36,7 @@
 - pkg:composer/backpack/theme-tabler@1.2.9
 - pkg:composer/backpack/theme-tabler@2.0.0
 - pkg:composer/backpack/theme-tabler@2.0.1
+- pkg:composer/backpack/theme-tabler@2.0.10
 - pkg:composer/backpack/theme-tabler@2.0.2
 - pkg:composer/backpack/theme-tabler@2.0.3
 - pkg:composer/backpack/theme-tabler@2.0.4
@@ -43,3 +44,4 @@
 - pkg:composer/backpack/theme-tabler@2.0.6
 - pkg:composer/backpack/theme-tabler@2.0.7
 - pkg:composer/backpack/theme-tabler@2.0.8
+- pkg:composer/backpack/theme-tabler@2.0.9
