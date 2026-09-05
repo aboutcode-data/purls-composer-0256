@@ -1,4 +1,5 @@
 - pkg:composer/ae/salesforce-rest-sdk@2.0.0
+- pkg:composer/ae/salesforce-rest-sdk@2.0.2
 - pkg:composer/ae/salesforce-rest-sdk@v1.0.0
 - pkg:composer/ae/salesforce-rest-sdk@v1.1.0
 - pkg:composer/ae/salesforce-rest-sdk@v1.1.1
