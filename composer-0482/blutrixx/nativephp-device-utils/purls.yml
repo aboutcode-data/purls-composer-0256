@@ -1,1 +1,4 @@
 - pkg:composer/blutrixx/nativephp-device-utils@1.0.0
+- pkg:composer/blutrixx/nativephp-device-utils@v1.1.0
+- pkg:composer/blutrixx/nativephp-device-utils@v1.2.0
+- pkg:composer/blutrixx/nativephp-device-utils@v1.3.0
