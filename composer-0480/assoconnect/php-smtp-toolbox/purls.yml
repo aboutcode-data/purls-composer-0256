@@ -1,6 +1,8 @@
 - pkg:composer/assoconnect/php-smtp-toolbox@v1.0.0
 - pkg:composer/assoconnect/php-smtp-toolbox@v2.0.0
 - pkg:composer/assoconnect/php-smtp-toolbox@v2.1.0
+- pkg:composer/assoconnect/php-smtp-toolbox@v2.10.0
+- pkg:composer/assoconnect/php-smtp-toolbox@v2.11.0
 - pkg:composer/assoconnect/php-smtp-toolbox@v2.2.0
 - pkg:composer/assoconnect/php-smtp-toolbox@v2.2.1
 - pkg:composer/assoconnect/php-smtp-toolbox@v2.2.10
