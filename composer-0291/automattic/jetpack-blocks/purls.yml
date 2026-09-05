@@ -62,3 +62,4 @@
 - pkg:composer/automattic/jetpack-blocks@v3.3.4
 - pkg:composer/automattic/jetpack-blocks@v3.3.5
 - pkg:composer/automattic/jetpack-blocks@v3.3.6
+- pkg:composer/automattic/jetpack-blocks@v4.0.0

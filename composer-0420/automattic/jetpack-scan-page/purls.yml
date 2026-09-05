@@ -15,3 +15,4 @@
 - pkg:composer/automattic/jetpack-scan-page@v0.1.7
 - pkg:composer/automattic/jetpack-scan-page@v0.1.8
 - pkg:composer/automattic/jetpack-scan-page@v0.1.9
+- pkg:composer/automattic/jetpack-scan-page@v0.2.0

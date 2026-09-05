@@ -62,3 +62,4 @@
 - pkg:composer/automattic/jetpack-redirect@v3.0.7
 - pkg:composer/automattic/jetpack-redirect@v3.0.8
 - pkg:composer/automattic/jetpack-redirect@v3.0.9
+- pkg:composer/automattic/jetpack-redirect@v4.0.0
