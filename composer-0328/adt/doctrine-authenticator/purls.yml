@@ -24,6 +24,9 @@
 - pkg:composer/adt/doctrine-authenticator@v1.8.0
 - pkg:composer/adt/doctrine-authenticator@v2.0
 - pkg:composer/adt/doctrine-authenticator@v2.1
+- pkg:composer/adt/doctrine-authenticator@v2.10
+- pkg:composer/adt/doctrine-authenticator@v2.10.1
+- pkg:composer/adt/doctrine-authenticator@v2.10.2
 - pkg:composer/adt/doctrine-authenticator@v2.2
 - pkg:composer/adt/doctrine-authenticator@v2.2.1
 - pkg:composer/adt/doctrine-authenticator@v2.2.2
@@ -55,3 +58,4 @@
 - pkg:composer/adt/doctrine-authenticator@v2.7.3
 - pkg:composer/adt/doctrine-authenticator@v2.7.4
 - pkg:composer/adt/doctrine-authenticator@v2.8
+- pkg:composer/adt/doctrine-authenticator@v2.9
