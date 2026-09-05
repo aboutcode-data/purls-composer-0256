@@ -14,7 +14,11 @@
 - pkg:composer/andydefer/algo-kit@v0.8.14
 - pkg:composer/andydefer/algo-kit@v0.8.15
 - pkg:composer/andydefer/algo-kit@v0.8.16
+- pkg:composer/andydefer/algo-kit@v0.8.17
+- pkg:composer/andydefer/algo-kit@v0.8.18
+- pkg:composer/andydefer/algo-kit@v0.8.19
 - pkg:composer/andydefer/algo-kit@v0.8.2
+- pkg:composer/andydefer/algo-kit@v0.8.20
 - pkg:composer/andydefer/algo-kit@v0.8.3
 - pkg:composer/andydefer/algo-kit@v0.8.4
 - pkg:composer/andydefer/algo-kit@v0.8.5
@@ -22,3 +26,5 @@
 - pkg:composer/andydefer/algo-kit@v0.8.7
 - pkg:composer/andydefer/algo-kit@v0.8.8
 - pkg:composer/andydefer/algo-kit@v0.8.9
+- pkg:composer/andydefer/algo-kit@v0.9.0
+- pkg:composer/andydefer/algo-kit@v0.9.1
