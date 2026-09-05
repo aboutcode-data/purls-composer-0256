@@ -2,3 +2,4 @@
 - pkg:composer/bladepdf/laravel@v1.0.2
 - pkg:composer/bladepdf/laravel@v1.0.3
 - pkg:composer/bladepdf/laravel@v1.0.4
+- pkg:composer/bladepdf/laravel@v2.0.0

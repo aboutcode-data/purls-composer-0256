@@ -1,2 +1,3 @@
 - pkg:composer/bladepdf/spatie-laravel-pdf-driver@v1.0.2
 - pkg:composer/bladepdf/spatie-laravel-pdf-driver@v1.0.3
+- pkg:composer/bladepdf/spatie-laravel-pdf-driver@v2.0.0
