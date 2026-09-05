@@ -21,11 +21,13 @@
 - pkg:composer/zero-to-prod/data-model@v81.17.1
 - pkg:composer/zero-to-prod/data-model@v81.18.0
 - pkg:composer/zero-to-prod/data-model@v81.18.1
+- pkg:composer/zero-to-prod/data-model@v81.19.0
 - pkg:composer/zero-to-prod/data-model@v81.2.0
 - pkg:composer/zero-to-prod/data-model@v81.2.1
 - pkg:composer/zero-to-prod/data-model@v81.2.2
 - pkg:composer/zero-to-prod/data-model@v81.2.3
 - pkg:composer/zero-to-prod/data-model@v81.2.4
+- pkg:composer/zero-to-prod/data-model@v81.20.0
 - pkg:composer/zero-to-prod/data-model@v81.3.0
 - pkg:composer/zero-to-prod/data-model@v81.4.0
 - pkg:composer/zero-to-prod/data-model@v81.4.1
