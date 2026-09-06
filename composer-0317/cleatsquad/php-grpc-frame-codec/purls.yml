@@ -1,0 +1,4 @@
+- pkg:composer/cleatsquad/php-grpc-frame-codec@v1.0.0
+- pkg:composer/cleatsquad/php-grpc-frame-codec@v1.0.1
+- pkg:composer/cleatsquad/php-grpc-frame-codec@v2.0.0
+- pkg:composer/cleatsquad/php-grpc-frame-codec@v2.1.0
