@@ -36,3 +36,5 @@
 - pkg:composer/ceus-media/mail@2.6.1
 - pkg:composer/ceus-media/mail@2.6.2
 - pkg:composer/ceus-media/mail@2.7.0
+- pkg:composer/ceus-media/mail@2.7.1
+- pkg:composer/ceus-media/mail@2.8.0
