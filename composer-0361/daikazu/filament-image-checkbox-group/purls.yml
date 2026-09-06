@@ -1,4 +1,5 @@
 - pkg:composer/daikazu/filament-image-checkbox-group@1.0.0
+- pkg:composer/daikazu/filament-image-checkbox-group@v1.0.1
 - pkg:composer/daikazu/filament-image-checkbox-group@v2.0.0
 - pkg:composer/daikazu/filament-image-checkbox-group@v2.0.1
 - pkg:composer/daikazu/filament-image-checkbox-group@v2.1.0
