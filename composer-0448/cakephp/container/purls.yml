@@ -1,1 +1,2 @@
 - pkg:composer/cakephp/container@5.4.1
+- pkg:composer/cakephp/container@5.4.2
