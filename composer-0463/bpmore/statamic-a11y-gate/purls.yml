@@ -11,3 +11,4 @@
 - pkg:composer/bpmore/statamic-a11y-gate@v0.5.3
 - pkg:composer/bpmore/statamic-a11y-gate@v0.5.4
 - pkg:composer/bpmore/statamic-a11y-gate@v0.6.0
+- pkg:composer/bpmore/statamic-a11y-gate@v0.7.0
