@@ -39,3 +39,4 @@
 - pkg:composer/casbin/laravel-authz@v4.1.0
 - pkg:composer/casbin/laravel-authz@v4.1.1
 - pkg:composer/casbin/laravel-authz@v5.0.0
+- pkg:composer/casbin/laravel-authz@v5.1.0
