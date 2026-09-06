@@ -3,3 +3,4 @@
 - pkg:composer/cleantalk/http@1.1.0
 - pkg:composer/cleantalk/http@1.2.0
 - pkg:composer/cleantalk/http@1.3.0
+- pkg:composer/cleantalk/http@2.0.0
