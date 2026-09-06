@@ -30,3 +30,4 @@
 - pkg:composer/carbon/plausible@2.0.1
 - pkg:composer/carbon/plausible@2.0.2
 - pkg:composer/carbon/plausible@2.1.0
+- pkg:composer/carbon/plausible@3.0.0
