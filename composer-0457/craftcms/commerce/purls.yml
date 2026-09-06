@@ -388,4 +388,5 @@
 - pkg:composer/craftcms/commerce@5.7.0
 - pkg:composer/craftcms/commerce@5.7.1
 - pkg:composer/craftcms/commerce@5.7.2
+- pkg:composer/craftcms/commerce@5.7.3
 - pkg:composer/craftcms/commerce@6.0.0-alpha.9
