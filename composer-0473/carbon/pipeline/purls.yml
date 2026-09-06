@@ -95,3 +95,4 @@
 - pkg:composer/carbon/pipeline@0.9.6
 - pkg:composer/carbon/pipeline@1.0.0
 - pkg:composer/carbon/pipeline@1.0.1
+- pkg:composer/carbon/pipeline@1.0.2
