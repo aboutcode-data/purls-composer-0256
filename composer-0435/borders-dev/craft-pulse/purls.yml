@@ -19,6 +19,9 @@
 - pkg:composer/borders-dev/craft-pulse@4.1.4
 - pkg:composer/borders-dev/craft-pulse@4.2.0
 - pkg:composer/borders-dev/craft-pulse@4.3.0
+- pkg:composer/borders-dev/craft-pulse@4.4.0
+- pkg:composer/borders-dev/craft-pulse@4.5.0
+- pkg:composer/borders-dev/craft-pulse@4.5.1
 - pkg:composer/borders-dev/craft-pulse@5.0.0
 - pkg:composer/borders-dev/craft-pulse@5.0.1
 - pkg:composer/borders-dev/craft-pulse@5.0.2
@@ -36,3 +39,8 @@
 - pkg:composer/borders-dev/craft-pulse@5.2.4
 - pkg:composer/borders-dev/craft-pulse@5.3.0
 - pkg:composer/borders-dev/craft-pulse@5.4.0
+- pkg:composer/borders-dev/craft-pulse@5.5.0
+- pkg:composer/borders-dev/craft-pulse@5.6.0
+- pkg:composer/borders-dev/craft-pulse@5.7.0
+- pkg:composer/borders-dev/craft-pulse@5.8.0
+- pkg:composer/borders-dev/craft-pulse@5.8.1
