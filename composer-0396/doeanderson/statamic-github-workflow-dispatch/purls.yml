@@ -6,3 +6,4 @@
 - pkg:composer/doeanderson/statamic-github-workflow-dispatch@0.0.6
 - pkg:composer/doeanderson/statamic-github-workflow-dispatch@0.1.0
 - pkg:composer/doeanderson/statamic-github-workflow-dispatch@0.1.1
+- pkg:composer/doeanderson/statamic-github-workflow-dispatch@0.1.2
