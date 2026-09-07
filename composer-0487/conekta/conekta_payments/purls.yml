@@ -36,3 +36,4 @@
 - pkg:composer/conekta/conekta_payments@5.3.4
 - pkg:composer/conekta/conekta_payments@5.5.0
 - pkg:composer/conekta/conekta_payments@5.5.1
+- pkg:composer/conekta/conekta_payments@5.5.2
