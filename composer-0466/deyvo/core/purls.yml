@@ -1,5 +1,7 @@
 - pkg:composer/deyvo/core@v0.1.0
 - pkg:composer/deyvo/core@v0.10.0
+- pkg:composer/deyvo/core@v0.10.1
+- pkg:composer/deyvo/core@v0.10.2
 - pkg:composer/deyvo/core@v0.2.0
 - pkg:composer/deyvo/core@v0.3.0
 - pkg:composer/deyvo/core@v0.4.0
