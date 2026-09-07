@@ -10,6 +10,7 @@
 - pkg:composer/danog/php-rtc-dtls@1.1.9
 - pkg:composer/danog/php-rtc-dtls@2.0.0
 - pkg:composer/danog/php-rtc-dtls@2.0.1
+- pkg:composer/danog/php-rtc-dtls@2.0.2
 - pkg:composer/danog/php-rtc-dtls@v1.0.0
 - pkg:composer/danog/php-rtc-dtls@v1.0.1000
 - pkg:composer/danog/php-rtc-dtls@v1.0.1001
