@@ -1,3 +1,5 @@
 - pkg:composer/dmitryrechkin/php-obfuscator@1.0.0
 - pkg:composer/dmitryrechkin/php-obfuscator@1.0.1
 - pkg:composer/dmitryrechkin/php-obfuscator@v1.1.0
+- pkg:composer/dmitryrechkin/php-obfuscator@v1.1.1
+- pkg:composer/dmitryrechkin/php-obfuscator@v1.1.2
