@@ -165,6 +165,8 @@
 - pkg:composer/andydefer/laravel-task@v4.13.33
 - pkg:composer/andydefer/laravel-task@v4.13.34
 - pkg:composer/andydefer/laravel-task@v4.13.35
+- pkg:composer/andydefer/laravel-task@v4.13.36
+- pkg:composer/andydefer/laravel-task@v4.13.37
 - pkg:composer/andydefer/laravel-task@v4.13.4
 - pkg:composer/andydefer/laravel-task@v4.13.5
 - pkg:composer/andydefer/laravel-task@v4.13.6

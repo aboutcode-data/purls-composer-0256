@@ -125,6 +125,7 @@
 - pkg:composer/andydefer/laravel-nemesis@v1.16.5
 - pkg:composer/andydefer/laravel-nemesis@v1.16.6
 - pkg:composer/andydefer/laravel-nemesis@v1.16.7
+- pkg:composer/andydefer/laravel-nemesis@v1.16.8
 - pkg:composer/andydefer/laravel-nemesis@v1.2.0
 - pkg:composer/andydefer/laravel-nemesis@v1.3.0
 - pkg:composer/andydefer/laravel-nemesis@v1.3.1

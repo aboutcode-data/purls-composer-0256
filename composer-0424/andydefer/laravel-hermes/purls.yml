@@ -122,6 +122,8 @@
 - pkg:composer/andydefer/laravel-hermes@v0.17.5
 - pkg:composer/andydefer/laravel-hermes@v0.17.6
 - pkg:composer/andydefer/laravel-hermes@v0.17.7
+- pkg:composer/andydefer/laravel-hermes@v0.17.8
+- pkg:composer/andydefer/laravel-hermes@v0.17.9
 - pkg:composer/andydefer/laravel-hermes@v0.2.0
 - pkg:composer/andydefer/laravel-hermes@v0.2.1
 - pkg:composer/andydefer/laravel-hermes@v0.2.10
