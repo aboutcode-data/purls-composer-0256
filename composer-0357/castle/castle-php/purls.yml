@@ -20,3 +20,5 @@
 - pkg:composer/castle/castle-php@3.1.0
 - pkg:composer/castle/castle-php@3.2.0
 - pkg:composer/castle/castle-php@4.0.0
+- pkg:composer/castle/castle-php@4.1.1
+- pkg:composer/castle/castle-php@v4.1.0
