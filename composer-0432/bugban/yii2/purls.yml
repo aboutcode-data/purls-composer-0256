@@ -7,3 +7,5 @@
 - pkg:composer/bugban/yii2@v1.5.0
 - pkg:composer/bugban/yii2@v1.5.2
 - pkg:composer/bugban/yii2@v1.5.3
+- pkg:composer/bugban/yii2@v1.7.0
+- pkg:composer/bugban/yii2@v1.7.1
