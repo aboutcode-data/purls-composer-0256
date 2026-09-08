@@ -303,3 +303,4 @@
 - pkg:composer/ecotone/redis@1.98.3
 - pkg:composer/ecotone/redis@1.98.4
 - pkg:composer/ecotone/redis@1.99.0
+- pkg:composer/ecotone/redis@2.0.0-beta.1
