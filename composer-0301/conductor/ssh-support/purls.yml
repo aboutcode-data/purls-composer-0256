@@ -6,3 +6,4 @@
 - pkg:composer/conductor/ssh-support@3.0.0
 - pkg:composer/conductor/ssh-support@4.1.0
 - pkg:composer/conductor/ssh-support@4.1.1
+- pkg:composer/conductor/ssh-support@5.0.0
