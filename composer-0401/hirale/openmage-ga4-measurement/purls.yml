@@ -7,3 +7,5 @@
 - pkg:composer/hirale/openmage-ga4-measurement@v1.1.5
 - pkg:composer/hirale/openmage-ga4-measurement@v2.0.1
 - pkg:composer/hirale/openmage-ga4-measurement@v2.1.0
+- pkg:composer/hirale/openmage-ga4-measurement@v4.0.0
+- pkg:composer/hirale/openmage-ga4-measurement@v4.1.0
