@@ -180,9 +180,11 @@
 - pkg:composer/demos-europe/demosplan-core@v4.55.0
 - pkg:composer/demos-europe/demosplan-core@v4.57.0
 - pkg:composer/demos-europe/demosplan-core@v4.58.0
+- pkg:composer/demos-europe/demosplan-core@v4.59.0
 - pkg:composer/demos-europe/demosplan-core@v4.6.0
 - pkg:composer/demos-europe/demosplan-core@v4.6.3
 - pkg:composer/demos-europe/demosplan-core@v4.6.5
+- pkg:composer/demos-europe/demosplan-core@v4.60.0
 - pkg:composer/demos-europe/demosplan-core@v4.7.0
 - pkg:composer/demos-europe/demosplan-core@v4.8.0
 - pkg:composer/demos-europe/demosplan-core@v4.9.0
