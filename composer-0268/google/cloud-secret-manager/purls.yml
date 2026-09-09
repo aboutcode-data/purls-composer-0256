@@ -56,3 +56,4 @@
 - pkg:composer/google/cloud-secret-manager@v2.4.0
 - pkg:composer/google/cloud-secret-manager@v2.5.0
 - pkg:composer/google/cloud-secret-manager@v2.5.1
+- pkg:composer/google/cloud-secret-manager@v2.5.2
