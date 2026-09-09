@@ -26,6 +26,7 @@
 - pkg:composer/fingerprint/fingerprint-pro-server-api-sdk@6.11.0
 - pkg:composer/fingerprint/fingerprint-pro-server-api-sdk@6.11.0-beta.0
 - pkg:composer/fingerprint/fingerprint-pro-server-api-sdk@6.12.0
+- pkg:composer/fingerprint/fingerprint-pro-server-api-sdk@6.13.0
 - pkg:composer/fingerprint/fingerprint-pro-server-api-sdk@6.2.0
 - pkg:composer/fingerprint/fingerprint-pro-server-api-sdk@6.2.1
 - pkg:composer/fingerprint/fingerprint-pro-server-api-sdk@6.3.0
