@@ -5,6 +5,7 @@
 - pkg:composer/goldnead/statamic-automations@v1.1.0
 - pkg:composer/goldnead/statamic-automations@v1.1.1
 - pkg:composer/goldnead/statamic-automations@v1.1.2
+- pkg:composer/goldnead/statamic-automations@v1.10.0
 - pkg:composer/goldnead/statamic-automations@v1.11.0
 - pkg:composer/goldnead/statamic-automations@v1.2.0
 - pkg:composer/goldnead/statamic-automations@v1.2.1
@@ -34,6 +35,13 @@
 - pkg:composer/goldnead/statamic-automations@v2.11.0
 - pkg:composer/goldnead/statamic-automations@v2.12.0
 - pkg:composer/goldnead/statamic-automations@v2.13.0
+- pkg:composer/goldnead/statamic-automations@v2.14.0
+- pkg:composer/goldnead/statamic-automations@v2.14.1
+- pkg:composer/goldnead/statamic-automations@v2.14.2
+- pkg:composer/goldnead/statamic-automations@v2.15.5
+- pkg:composer/goldnead/statamic-automations@v2.16.0
+- pkg:composer/goldnead/statamic-automations@v2.17.0
+- pkg:composer/goldnead/statamic-automations@v2.18.0
 - pkg:composer/goldnead/statamic-automations@v2.2.0
 - pkg:composer/goldnead/statamic-automations@v2.2.1
 - pkg:composer/goldnead/statamic-automations@v2.3.0
