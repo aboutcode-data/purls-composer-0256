@@ -55,3 +55,4 @@
 - pkg:composer/google/cloud-batch@v1.4.2
 - pkg:composer/google/cloud-batch@v1.5.0
 - pkg:composer/google/cloud-batch@v1.5.1
+- pkg:composer/google/cloud-batch@v1.6.0
