@@ -12,3 +12,4 @@
 - pkg:composer/hugomyb/filament-error-mailer@v5.0.0.0
 - pkg:composer/hugomyb/filament-error-mailer@v5.1.0.0
 - pkg:composer/hugomyb/filament-error-mailer@v5.2.0.0
+- pkg:composer/hugomyb/filament-error-mailer@v5.2.0.1
