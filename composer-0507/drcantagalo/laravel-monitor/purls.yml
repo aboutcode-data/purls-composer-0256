@@ -42,6 +42,9 @@
 - pkg:composer/drcantagalo/laravel-monitor@v0.2.1
 - pkg:composer/drcantagalo/laravel-monitor@v0.20.0
 - pkg:composer/drcantagalo/laravel-monitor@v0.20.1
+- pkg:composer/drcantagalo/laravel-monitor@v0.20.2
+- pkg:composer/drcantagalo/laravel-monitor@v0.20.3
+- pkg:composer/drcantagalo/laravel-monitor@v0.22.0
 - pkg:composer/drcantagalo/laravel-monitor@v0.3.0
 - pkg:composer/drcantagalo/laravel-monitor@v0.4.0
 - pkg:composer/drcantagalo/laravel-monitor@v0.7.0
