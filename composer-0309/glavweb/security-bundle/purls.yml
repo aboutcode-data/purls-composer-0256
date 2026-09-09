@@ -16,3 +16,4 @@
 - pkg:composer/glavweb/security-bundle@v6.3.0
 - pkg:composer/glavweb/security-bundle@v6.3.1
 - pkg:composer/glavweb/security-bundle@v7.0.0
+- pkg:composer/glavweb/security-bundle@v7.1.0
