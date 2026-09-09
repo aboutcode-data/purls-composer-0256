@@ -23,3 +23,4 @@
 - pkg:composer/eppo/php-sdk@v4.1.2
 - pkg:composer/eppo/php-sdk@v4.2.0
 - pkg:composer/eppo/php-sdk@v4.2.1
+- pkg:composer/eppo/php-sdk@v4.3.0
