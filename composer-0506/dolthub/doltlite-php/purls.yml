@@ -8,3 +8,4 @@
 - pkg:composer/dolthub/doltlite-php@0.50.6
 - pkg:composer/dolthub/doltlite-php@0.50.7
 - pkg:composer/dolthub/doltlite-php@0.50.8
+- pkg:composer/dolthub/doltlite-php@0.50.9
