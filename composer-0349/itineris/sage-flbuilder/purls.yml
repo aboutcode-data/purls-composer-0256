@@ -19,6 +19,8 @@
 - pkg:composer/itineris/sage-flbuilder@0.15.5
 - pkg:composer/itineris/sage-flbuilder@0.15.6
 - pkg:composer/itineris/sage-flbuilder@0.15.7
+- pkg:composer/itineris/sage-flbuilder@0.15.8
+- pkg:composer/itineris/sage-flbuilder@0.16.0
 - pkg:composer/itineris/sage-flbuilder@0.2.0
 - pkg:composer/itineris/sage-flbuilder@0.3.0
 - pkg:composer/itineris/sage-flbuilder@0.3.1
