@@ -11,3 +11,5 @@
 - pkg:composer/jardiscore/kernel@v2.1.0
 - pkg:composer/jardiscore/kernel@v2.2.0
 - pkg:composer/jardiscore/kernel@v2.3.0
+- pkg:composer/jardiscore/kernel@v2.4.0
+- pkg:composer/jardiscore/kernel@v2.4.1
