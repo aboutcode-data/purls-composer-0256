@@ -8,3 +8,5 @@
 - pkg:composer/fetch-hive/sdk@0.2.6
 - pkg:composer/fetch-hive/sdk@0.2.7
 - pkg:composer/fetch-hive/sdk@0.2.8
+- pkg:composer/fetch-hive/sdk@0.2.9
+- pkg:composer/fetch-hive/sdk@0.3.0
