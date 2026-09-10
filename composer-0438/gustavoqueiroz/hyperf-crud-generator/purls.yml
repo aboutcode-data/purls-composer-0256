@@ -2,3 +2,4 @@
 - pkg:composer/gustavoqueiroz/hyperf-crud-generator@v1.0.0
 - pkg:composer/gustavoqueiroz/hyperf-crud-generator@v1.1.0
 - pkg:composer/gustavoqueiroz/hyperf-crud-generator@v1.1.1
+- pkg:composer/gustavoqueiroz/hyperf-crud-generator@v1.2
