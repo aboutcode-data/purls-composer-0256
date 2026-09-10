@@ -135,3 +135,5 @@
 - pkg:composer/joedolson/my-calendar@v3.8.0
 - pkg:composer/joedolson/my-calendar@v3.8.1
 - pkg:composer/joedolson/my-calendar@v3.8.2
+- pkg:composer/joedolson/my-calendar@v3.8.3
+- pkg:composer/joedolson/my-calendar@v3.8.4
