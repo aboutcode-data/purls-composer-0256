@@ -7,3 +7,5 @@
 - pkg:composer/fomvasss/laravel-billing@0.5.2
 - pkg:composer/fomvasss/laravel-billing@0.6.0
 - pkg:composer/fomvasss/laravel-billing@0.6.1
+- pkg:composer/fomvasss/laravel-billing@0.6.2
+- pkg:composer/fomvasss/laravel-billing@0.7.0
