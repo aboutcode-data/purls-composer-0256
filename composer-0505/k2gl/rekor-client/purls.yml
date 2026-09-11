@@ -1,2 +1,4 @@
 - pkg:composer/k2gl/rekor-client@1.0.0
 - pkg:composer/k2gl/rekor-client@1.0.1
+- pkg:composer/k2gl/rekor-client@1.1.0
+- pkg:composer/k2gl/rekor-client@1.2.0
