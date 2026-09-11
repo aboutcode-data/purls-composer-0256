@@ -28,3 +28,4 @@
 - pkg:composer/lameco/deployer-tasks@2.0.0
 - pkg:composer/lameco/deployer-tasks@2.1.0
 - pkg:composer/lameco/deployer-tasks@2.2.0
+- pkg:composer/lameco/deployer-tasks@2.3.0
