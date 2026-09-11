@@ -41,6 +41,7 @@
 - pkg:composer/lindemannrock/craft-logging-library@5.17.0
 - pkg:composer/lindemannrock/craft-logging-library@5.18.0
 - pkg:composer/lindemannrock/craft-logging-library@5.18.1
+- pkg:composer/lindemannrock/craft-logging-library@5.18.2
 - pkg:composer/lindemannrock/craft-logging-library@5.2.0
 - pkg:composer/lindemannrock/craft-logging-library@5.2.1
 - pkg:composer/lindemannrock/craft-logging-library@5.2.2
