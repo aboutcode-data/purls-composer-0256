@@ -111,6 +111,7 @@
 - pkg:composer/laravel/passport@v13.7.4
 - pkg:composer/laravel/passport@v13.7.5
 - pkg:composer/laravel/passport@v13.7.6
+- pkg:composer/laravel/passport@v13.8.0
 - pkg:composer/laravel/passport@v2.0.0
 - pkg:composer/laravel/passport@v2.0.1
 - pkg:composer/laravel/passport@v2.0.10
