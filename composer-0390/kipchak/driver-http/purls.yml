@@ -24,3 +24,4 @@
 - pkg:composer/kipchak/driver-http@2.3
 - pkg:composer/kipchak/driver-http@2.4
 - pkg:composer/kipchak/driver-http@2.5
+- pkg:composer/kipchak/driver-http@2.6
