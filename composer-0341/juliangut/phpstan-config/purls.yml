@@ -3,3 +3,4 @@
 - pkg:composer/juliangut/phpstan-config@1.2
 - pkg:composer/juliangut/phpstan-config@1.3
 - pkg:composer/juliangut/phpstan-config@1.4
+- pkg:composer/juliangut/phpstan-config@2.0
