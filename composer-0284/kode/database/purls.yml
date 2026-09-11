@@ -22,6 +22,7 @@
 - pkg:composer/kode/database@1.15.8
 - pkg:composer/kode/database@1.16.0
 - pkg:composer/kode/database@1.17.0
+- pkg:composer/kode/database@1.17.1
 - pkg:composer/kode/database@1.8.0
 - pkg:composer/kode/database@1.8.2
 - pkg:composer/kode/database@1.8.3
