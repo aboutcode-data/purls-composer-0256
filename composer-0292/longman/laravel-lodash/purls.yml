@@ -63,6 +63,7 @@
 - pkg:composer/longman/laravel-lodash@14.0.1
 - pkg:composer/longman/laravel-lodash@15.0.0
 - pkg:composer/longman/laravel-lodash@15.1.0
+- pkg:composer/longman/laravel-lodash@16.0.0
 - pkg:composer/longman/laravel-lodash@2.0.0
 - pkg:composer/longman/laravel-lodash@2.0.1
 - pkg:composer/longman/laravel-lodash@2.0.2
