@@ -47,6 +47,7 @@
 - pkg:composer/karmabunny/rdb@v1.33.21
 - pkg:composer/karmabunny/rdb@v1.34.21
 - pkg:composer/karmabunny/rdb@v1.34.22
+- pkg:composer/karmabunny/rdb@v1.34.23
 - pkg:composer/karmabunny/rdb@v1.4.3
 - pkg:composer/karmabunny/rdb@v1.5.3
 - pkg:composer/karmabunny/rdb@v1.6.4
@@ -56,3 +57,10 @@
 - pkg:composer/karmabunny/rdb@v1.8.6
 - pkg:composer/karmabunny/rdb@v1.8.7
 - pkg:composer/karmabunny/rdb@v1.9.7
+- pkg:composer/karmabunny/rdb@v2.34.22
+- pkg:composer/karmabunny/rdb@v2.34.23
+- pkg:composer/karmabunny/rdb@v2.35.23
+- pkg:composer/karmabunny/rdb@v2.35.24
+- pkg:composer/karmabunny/rdb@v3.35.24
+- pkg:composer/karmabunny/rdb@v3.35.25
+- pkg:composer/karmabunny/rdb@v3.35.26
