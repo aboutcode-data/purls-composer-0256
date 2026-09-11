@@ -190,6 +190,7 @@
 - pkg:composer/lipemat/wordpress-libs@6.0.0-beta.1
 - pkg:composer/lipemat/wordpress-libs@6.0.0-beta.3
 - pkg:composer/lipemat/wordpress-libs@6.0.0-beta.4
+- pkg:composer/lipemat/wordpress-libs@6.1.0
 - pkg:composer/lipemat/wordpress-libs@v2.15.0
 - pkg:composer/lipemat/wordpress-libs@v2.15.1
 - pkg:composer/lipemat/wordpress-libs@v2.16.0
