@@ -393,3 +393,5 @@
 - pkg:composer/october/rain@v4.3.5
 - pkg:composer/october/rain@v4.3.8
 - pkg:composer/october/rain@v4.4.0
+- pkg:composer/october/rain@v4.4.2
+- pkg:composer/october/rain@v4.4.5
