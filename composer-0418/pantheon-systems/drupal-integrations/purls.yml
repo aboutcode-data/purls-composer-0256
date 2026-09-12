@@ -10,6 +10,7 @@
 - pkg:composer/pantheon-systems/drupal-integrations@11.1.0
 - pkg:composer/pantheon-systems/drupal-integrations@11.1.0-beta1
 - pkg:composer/pantheon-systems/drupal-integrations@11.2.0
+- pkg:composer/pantheon-systems/drupal-integrations@12.0.0-beta1
 - pkg:composer/pantheon-systems/drupal-integrations@8.0.0
 - pkg:composer/pantheon-systems/drupal-integrations@8.0.1
 - pkg:composer/pantheon-systems/drupal-integrations@8.0.2
