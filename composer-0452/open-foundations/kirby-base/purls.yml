@@ -727,6 +727,17 @@
 - pkg:composer/open-foundations/kirby-base@3.33.0
 - pkg:composer/open-foundations/kirby-base@3.33.1
 - pkg:composer/open-foundations/kirby-base@3.34.0
+- pkg:composer/open-foundations/kirby-base@3.34.1
+- pkg:composer/open-foundations/kirby-base@3.34.2
+- pkg:composer/open-foundations/kirby-base@3.34.3
+- pkg:composer/open-foundations/kirby-base@3.35.0
+- pkg:composer/open-foundations/kirby-base@3.35.1
+- pkg:composer/open-foundations/kirby-base@3.36.0
+- pkg:composer/open-foundations/kirby-base@3.36.1
+- pkg:composer/open-foundations/kirby-base@3.36.2
+- pkg:composer/open-foundations/kirby-base@3.37.0
+- pkg:composer/open-foundations/kirby-base@3.37.1
+- pkg:composer/open-foundations/kirby-base@3.38.0
 - pkg:composer/open-foundations/kirby-base@3.4.0
 - pkg:composer/open-foundations/kirby-base@3.4.1
 - pkg:composer/open-foundations/kirby-base@3.5.0
