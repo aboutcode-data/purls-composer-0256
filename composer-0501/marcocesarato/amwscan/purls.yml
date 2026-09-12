@@ -31,9 +31,9 @@
 - pkg:composer/marcocesarato/amwscan@0.21.3
 - pkg:composer/marcocesarato/amwscan@0.21.4
 - pkg:composer/marcocesarato/amwscan@0.21.5
-- pkg:composer/marcocesarato/amwscan@0.24.6
-- pkg:composer/marcocesarato/amwscan@0.24.7
-- pkg:composer/marcocesarato/amwscan@0.24.8
+- pkg:composer/marcocesarato/amwscan@0.21.6
+- pkg:composer/marcocesarato/amwscan@0.21.7
+- pkg:composer/marcocesarato/amwscan@0.21.8
 - pkg:composer/marcocesarato/amwscan@v0.4.0.39
 - pkg:composer/marcocesarato/amwscan@v0.4.0.50
 - pkg:composer/marcocesarato/amwscan@v0.4.0.53
