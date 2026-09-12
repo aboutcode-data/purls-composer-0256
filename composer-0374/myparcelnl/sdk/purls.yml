@@ -19,6 +19,8 @@
 - pkg:composer/myparcelnl/sdk@10.7.1
 - pkg:composer/myparcelnl/sdk@10.7.10
 - pkg:composer/myparcelnl/sdk@10.7.11
+- pkg:composer/myparcelnl/sdk@10.7.12
+- pkg:composer/myparcelnl/sdk@10.7.13
 - pkg:composer/myparcelnl/sdk@10.7.2
 - pkg:composer/myparcelnl/sdk@10.7.3
 - pkg:composer/myparcelnl/sdk@10.7.4
