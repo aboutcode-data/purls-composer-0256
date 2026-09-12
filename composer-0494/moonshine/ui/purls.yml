@@ -94,6 +94,9 @@
 - pkg:composer/moonshine/ui@4.13.0
 - pkg:composer/moonshine/ui@4.15.0
 - pkg:composer/moonshine/ui@4.16.1
+- pkg:composer/moonshine/ui@4.18.2
+- pkg:composer/moonshine/ui@4.19.0
+- pkg:composer/moonshine/ui@4.19.1
 - pkg:composer/moonshine/ui@4.2.0
 - pkg:composer/moonshine/ui@4.2.1
 - pkg:composer/moonshine/ui@4.2.2
