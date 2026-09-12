@@ -25,6 +25,7 @@
 - pkg:composer/middag-io/framework@v1.16.0
 - pkg:composer/middag-io/framework@v1.17.0
 - pkg:composer/middag-io/framework@v1.18.0
+- pkg:composer/middag-io/framework@v1.18.1
 - pkg:composer/middag-io/framework@v1.2.0
 - pkg:composer/middag-io/framework@v1.2.1
 - pkg:composer/middag-io/framework@v1.3.0
