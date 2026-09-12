@@ -21,6 +21,7 @@
 - pkg:composer/mariosimao/notion-sdk-php@v1.15.0
 - pkg:composer/mariosimao/notion-sdk-php@v1.16.0
 - pkg:composer/mariosimao/notion-sdk-php@v1.17.0
+- pkg:composer/mariosimao/notion-sdk-php@v1.17.1
 - pkg:composer/mariosimao/notion-sdk-php@v1.2.0
 - pkg:composer/mariosimao/notion-sdk-php@v1.3.0
 - pkg:composer/mariosimao/notion-sdk-php@v1.4.0
