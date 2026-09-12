@@ -117,3 +117,4 @@
 - pkg:composer/mglaman/phpstan-drupal@2.1.0
 - pkg:composer/mglaman/phpstan-drupal@2.1.1
 - pkg:composer/mglaman/phpstan-drupal@2.1.2
+- pkg:composer/mglaman/phpstan-drupal@2.2.0
