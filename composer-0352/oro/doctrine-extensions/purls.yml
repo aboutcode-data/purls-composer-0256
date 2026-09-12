@@ -27,12 +27,15 @@
 - pkg:composer/oro/doctrine-extensions@2.0.0
 - pkg:composer/oro/doctrine-extensions@2.0.1
 - pkg:composer/oro/doctrine-extensions@2.0.2
+- pkg:composer/oro/doctrine-extensions@2.0.2.1
 - pkg:composer/oro/doctrine-extensions@2.0.3
 - pkg:composer/oro/doctrine-extensions@2.0.4
 - pkg:composer/oro/doctrine-extensions@2.0.5
+- pkg:composer/oro/doctrine-extensions@2.0.6
 - pkg:composer/oro/doctrine-extensions@3.0
 - pkg:composer/oro/doctrine-extensions@3.0-alpha1
 - pkg:composer/oro/doctrine-extensions@3.0-alpha2
 - pkg:composer/oro/doctrine-extensions@3.0-alpha3
 - pkg:composer/oro/doctrine-extensions@3.0-alpha4
 - pkg:composer/oro/doctrine-extensions@3.0-beta1
+- pkg:composer/oro/doctrine-extensions@3.0.1
