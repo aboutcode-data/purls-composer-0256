@@ -19,5 +19,6 @@
 - pkg:composer/longitude-one/doctrine-spatial@5.0.3
 - pkg:composer/longitude-one/doctrine-spatial@5.0.4
 - pkg:composer/longitude-one/doctrine-spatial@5.0.5
+- pkg:composer/longitude-one/doctrine-spatial@6.0.0
 - pkg:composer/longitude-one/doctrine-spatial@6.0.0-RC.1
 - pkg:composer/longitude-one/doctrine-spatial@6.0.0.RC.0
