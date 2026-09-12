@@ -9,3 +9,4 @@
 - pkg:composer/mahocommerce/module-przelewy24@v2.4.0
 - pkg:composer/mahocommerce/module-przelewy24@v3.0.0
 - pkg:composer/mahocommerce/module-przelewy24@v3.0.1
+- pkg:composer/mahocommerce/module-przelewy24@v3.1.0
