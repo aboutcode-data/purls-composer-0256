@@ -1,3 +1,4 @@
+- pkg:composer/php-bug-catcher/bug-catcher@0.1.4
 - pkg:composer/php-bug-catcher/bug-catcher@1.0.5
 - pkg:composer/php-bug-catcher/bug-catcher@1.0.6
 - pkg:composer/php-bug-catcher/bug-catcher@1.0.7
@@ -21,6 +22,9 @@
 - pkg:composer/php-bug-catcher/bug-catcher@1.5.1
 - pkg:composer/php-bug-catcher/bug-catcher@1.5.2
 - pkg:composer/php-bug-catcher/bug-catcher@1.6.0
+- pkg:composer/php-bug-catcher/bug-catcher@1.7.0
+- pkg:composer/php-bug-catcher/bug-catcher@1.8.0
+- pkg:composer/php-bug-catcher/bug-catcher@1.8.1
 - pkg:composer/php-bug-catcher/bug-catcher@v1.0.0
 - pkg:composer/php-bug-catcher/bug-catcher@v1.0.1
 - pkg:composer/php-bug-catcher/bug-catcher@v1.0.2
