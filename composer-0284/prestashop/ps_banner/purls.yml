@@ -6,3 +6,4 @@
 - pkg:composer/prestashop/ps_banner@v2.1.0
 - pkg:composer/prestashop/ps_banner@v2.1.1
 - pkg:composer/prestashop/ps_banner@v2.1.2
+- pkg:composer/prestashop/ps_banner@v3.0.0
