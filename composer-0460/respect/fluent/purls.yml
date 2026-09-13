@@ -1,3 +1,4 @@
 - pkg:composer/respect/fluent@1.0.0
 - pkg:composer/respect/fluent@2.0.0
 - pkg:composer/respect/fluent@2.0.1
+- pkg:composer/respect/fluent@3.0.0
