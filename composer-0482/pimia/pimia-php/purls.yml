@@ -7,7 +7,12 @@
 - pkg:composer/pimia/pimia-php@v0.15.0
 - pkg:composer/pimia/pimia-php@v0.16.0
 - pkg:composer/pimia/pimia-php@v0.17.0
+- pkg:composer/pimia/pimia-php@v0.18.0
+- pkg:composer/pimia/pimia-php@v0.19.0
 - pkg:composer/pimia/pimia-php@v0.2.0
+- pkg:composer/pimia/pimia-php@v0.20.0
+- pkg:composer/pimia/pimia-php@v0.21.0
+- pkg:composer/pimia/pimia-php@v0.27.0
 - pkg:composer/pimia/pimia-php@v0.3.0
 - pkg:composer/pimia/pimia-php@v0.4.0
 - pkg:composer/pimia/pimia-php@v0.5.0
