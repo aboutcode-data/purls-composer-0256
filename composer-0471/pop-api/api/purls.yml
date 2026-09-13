@@ -117,6 +117,8 @@
 - pkg:composer/pop-api/api@19.2.0
 - pkg:composer/pop-api/api@19.2.1
 - pkg:composer/pop-api/api@19.2.2
+- pkg:composer/pop-api/api@19.2.3
+- pkg:composer/pop-api/api@19.2.4
 - pkg:composer/pop-api/api@2.0.0
 - pkg:composer/pop-api/api@2.0.1
 - pkg:composer/pop-api/api@2.1.0
