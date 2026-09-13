@@ -23,3 +23,5 @@
 - pkg:composer/rebuy/serializer@3.3.0
 - pkg:composer/rebuy/serializer@3.4.0
 - pkg:composer/rebuy/serializer@3.5.0
+- pkg:composer/rebuy/serializer@3.6.0
+- pkg:composer/rebuy/serializer@3.6.1
