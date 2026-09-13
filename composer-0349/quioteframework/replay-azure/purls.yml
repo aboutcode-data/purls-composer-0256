@@ -1,3 +1,4 @@
 - pkg:composer/quioteframework/replay-azure@v4.0.0
 - pkg:composer/quioteframework/replay-azure@v4.0.0-RC1
 - pkg:composer/quioteframework/replay-azure@v4.0.1
+- pkg:composer/quioteframework/replay-azure@v4.1.0
