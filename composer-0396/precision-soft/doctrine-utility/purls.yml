@@ -31,3 +31,4 @@
 - pkg:composer/precision-soft/doctrine-utility@v4.1.9
 - pkg:composer/precision-soft/doctrine-utility@v4.2.0
 - pkg:composer/precision-soft/doctrine-utility@v4.3.1
+- pkg:composer/precision-soft/doctrine-utility@v4.4.0
