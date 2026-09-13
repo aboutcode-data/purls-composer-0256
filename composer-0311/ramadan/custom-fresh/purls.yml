@@ -26,3 +26,5 @@
 - pkg:composer/ramadan/custom-fresh@v1.2.3
 - pkg:composer/ramadan/custom-fresh@v2.0.0
 - pkg:composer/ramadan/custom-fresh@v2.0.0-alpha.1
+- pkg:composer/ramadan/custom-fresh@v2.1.0
+- pkg:composer/ramadan/custom-fresh@v2.1.0-alpha.1
