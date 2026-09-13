@@ -1,2 +1,9 @@
 - pkg:composer/pulseindex/pulseindex-php@v1.0.0
 - pkg:composer/pulseindex/pulseindex-php@v2.0.0
+- pkg:composer/pulseindex/pulseindex-php@v3.0.0
+- pkg:composer/pulseindex/pulseindex-php@v3.1.0
+- pkg:composer/pulseindex/pulseindex-php@v4.0.0
+- pkg:composer/pulseindex/pulseindex-php@v4.0.1
+- pkg:composer/pulseindex/pulseindex-php@v5.0.0
+- pkg:composer/pulseindex/pulseindex-php@v5.1.0
+- pkg:composer/pulseindex/pulseindex-php@v6.0.0
