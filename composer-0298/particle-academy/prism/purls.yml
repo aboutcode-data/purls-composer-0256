@@ -29,7 +29,10 @@
 - pkg:composer/particle-academy/prism@v0.117.1
 - pkg:composer/particle-academy/prism@v0.117.2
 - pkg:composer/particle-academy/prism@v0.118.0
+- pkg:composer/particle-academy/prism@v0.119.0
 - pkg:composer/particle-academy/prism@v0.12.0
+- pkg:composer/particle-academy/prism@v0.120.0
+- pkg:composer/particle-academy/prism@v0.121.0
 - pkg:composer/particle-academy/prism@v0.13.0
 - pkg:composer/particle-academy/prism@v0.14.0
 - pkg:composer/particle-academy/prism@v0.15.0
