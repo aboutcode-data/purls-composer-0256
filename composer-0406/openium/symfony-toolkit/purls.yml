@@ -82,3 +82,4 @@
 - pkg:composer/openium/symfony-toolkit@5.1.1
 - pkg:composer/openium/symfony-toolkit@6.0.0
 - pkg:composer/openium/symfony-toolkit@6.0.1
+- pkg:composer/openium/symfony-toolkit@7.0.0
