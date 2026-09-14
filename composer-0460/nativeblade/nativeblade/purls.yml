@@ -266,3 +266,5 @@
 - pkg:composer/nativeblade/nativeblade@v37.4.9
 - pkg:composer/nativeblade/nativeblade@v37.5.0
 - pkg:composer/nativeblade/nativeblade@v37.5.2
+- pkg:composer/nativeblade/nativeblade@v37.5.3
+- pkg:composer/nativeblade/nativeblade@v37.5.4
