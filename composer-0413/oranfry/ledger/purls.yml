@@ -61,3 +61,5 @@
 - pkg:composer/oranfry/ledger@6.5.2
 - pkg:composer/oranfry/ledger@6.5.3
 - pkg:composer/oranfry/ledger@6.5.4
+- pkg:composer/oranfry/ledger@6.5.5
+- pkg:composer/oranfry/ledger@6.6.0
