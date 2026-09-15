@@ -11,3 +11,4 @@
 - pkg:composer/sidecar/craft-ga@1.0.9
 - pkg:composer/sidecar/craft-ga@2.0.0
 - pkg:composer/sidecar/craft-ga@2.0.1
+- pkg:composer/sidecar/craft-ga@2.2.0
