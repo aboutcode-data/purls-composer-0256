@@ -37,3 +37,4 @@
 - pkg:composer/spryker/currency@4.6.0
 - pkg:composer/spryker/currency@4.7.0
 - pkg:composer/spryker/currency@4.8.0
+- pkg:composer/spryker/currency@4.9.0

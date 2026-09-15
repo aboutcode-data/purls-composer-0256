@@ -32,6 +32,7 @@
 - pkg:composer/spryker/console@4.2.0
 - pkg:composer/spryker/console@4.2.1
 - pkg:composer/spryker/console@4.2.2
+- pkg:composer/spryker/console@4.20.0
 - pkg:composer/spryker/console@4.3.0
 - pkg:composer/spryker/console@4.4.0
 - pkg:composer/spryker/console@4.4.1

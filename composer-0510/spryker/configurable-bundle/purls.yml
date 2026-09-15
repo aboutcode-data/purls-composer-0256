@@ -8,3 +8,4 @@
 - pkg:composer/spryker/configurable-bundle@2.5.0
 - pkg:composer/spryker/configurable-bundle@2.5.1
 - pkg:composer/spryker/configurable-bundle@2.6.0
+- pkg:composer/spryker/configurable-bundle@2.6.1
