@@ -74,3 +74,6 @@
 - pkg:composer/mochrira/selvi-framework@2.3.3
 - pkg:composer/mochrira/selvi-framework@2.3.4
 - pkg:composer/mochrira/selvi-framework@3.0.0
+- pkg:composer/mochrira/selvi-framework@3.1.0
+- pkg:composer/mochrira/selvi-framework@3.1.1
+- pkg:composer/mochrira/selvi-framework@3.1.2
