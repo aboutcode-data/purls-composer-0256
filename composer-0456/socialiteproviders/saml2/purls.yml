@@ -1,5 +1,6 @@
 - pkg:composer/socialiteproviders/saml2@4.0.0
 - pkg:composer/socialiteproviders/saml2@4.1.0
+- pkg:composer/socialiteproviders/saml2@4.10.0
 - pkg:composer/socialiteproviders/saml2@4.2.0
 - pkg:composer/socialiteproviders/saml2@4.3.0
 - pkg:composer/socialiteproviders/saml2@4.4.0
