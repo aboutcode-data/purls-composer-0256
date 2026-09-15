@@ -26,3 +26,9 @@
 - pkg:composer/shedeza/sybase-orm@v3.9.1
 - pkg:composer/shedeza/sybase-orm@v4.0.0
 - pkg:composer/shedeza/sybase-orm@v4.0.1
+- pkg:composer/shedeza/sybase-orm@v4.1.0
+- pkg:composer/shedeza/sybase-orm@v4.1.1
+- pkg:composer/shedeza/sybase-orm@v4.2.0
+- pkg:composer/shedeza/sybase-orm@v4.2.1
+- pkg:composer/shedeza/sybase-orm@v4.2.2
+- pkg:composer/shedeza/sybase-orm@v4.3.0
