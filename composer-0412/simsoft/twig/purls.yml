@@ -1,3 +1,4 @@
 - pkg:composer/simsoft/twig@1.0.0
 - pkg:composer/simsoft/twig@1.0.1
 - pkg:composer/simsoft/twig@2.0.0
+- pkg:composer/simsoft/twig@3.0.0
