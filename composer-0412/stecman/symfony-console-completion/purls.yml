@@ -21,6 +21,7 @@
 - pkg:composer/stecman/symfony-console-completion@v0.13.0
 - pkg:composer/stecman/symfony-console-completion@v0.14.0
 - pkg:composer/stecman/symfony-console-completion@v0.15.0
+- pkg:composer/stecman/symfony-console-completion@v0.16.0
 - pkg:composer/stecman/symfony-console-completion@v0.2.0
 - pkg:composer/stecman/symfony-console-completion@v0.2.1
 - pkg:composer/stecman/symfony-console-completion@v0.2.2
