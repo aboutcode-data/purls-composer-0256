@@ -36,3 +36,7 @@
 - pkg:composer/schachbulle/contao-lizenzverwaltung-bundle@4.3.3
 - pkg:composer/schachbulle/contao-lizenzverwaltung-bundle@4.3.4
 - pkg:composer/schachbulle/contao-lizenzverwaltung-bundle@4.3.5
+- pkg:composer/schachbulle/contao-lizenzverwaltung-bundle@5.0.0
+- pkg:composer/schachbulle/contao-lizenzverwaltung-bundle@5.0.1
+- pkg:composer/schachbulle/contao-lizenzverwaltung-bundle@5.0.2
+- pkg:composer/schachbulle/contao-lizenzverwaltung-bundle@5.1.0
