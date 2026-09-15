@@ -62,3 +62,5 @@
 - pkg:composer/simple-as-fuck/php-api-toolkit@0.8.5
 - pkg:composer/simple-as-fuck/php-api-toolkit@0.8.6
 - pkg:composer/simple-as-fuck/php-api-toolkit@0.8.7
+- pkg:composer/simple-as-fuck/php-api-toolkit@0.8.8
+- pkg:composer/simple-as-fuck/php-api-toolkit@0.8.9
