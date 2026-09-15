@@ -118,6 +118,7 @@
 - pkg:composer/spryker/application@3.48.0
 - pkg:composer/spryker/application@3.48.1
 - pkg:composer/spryker/application@3.48.2
+- pkg:composer/spryker/application@3.49.0
 - pkg:composer/spryker/application@3.5.0
 - pkg:composer/spryker/application@3.6.0
 - pkg:composer/spryker/application@3.7.0

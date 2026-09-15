@@ -9,3 +9,4 @@
 - pkg:composer/spryker/cart-note-product-bundle-connector@1.0.3
 - pkg:composer/spryker/cart-note-product-bundle-connector@1.1.0
 - pkg:composer/spryker/cart-note-product-bundle-connector@1.2.0
+- pkg:composer/spryker/cart-note-product-bundle-connector@1.2.1
