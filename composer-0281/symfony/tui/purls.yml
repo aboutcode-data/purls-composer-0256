@@ -7,3 +7,4 @@
 - pkg:composer/symfony/tui@v8.1.4
 - pkg:composer/symfony/tui@v8.1.5
 - pkg:composer/symfony/tui@v8.1.6
+- pkg:composer/symfony/tui@v8.1.7
