@@ -57,3 +57,4 @@
 - pkg:composer/storepress/admin-utils@3.7.0
 - pkg:composer/storepress/admin-utils@3.8.0
 - pkg:composer/storepress/admin-utils@3.9.0
+- pkg:composer/storepress/admin-utils@4.0.0
