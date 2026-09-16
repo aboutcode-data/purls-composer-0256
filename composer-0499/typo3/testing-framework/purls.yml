@@ -214,3 +214,4 @@
 - pkg:composer/typo3/testing-framework@9.5.0
 - pkg:composer/typo3/testing-framework@9.6.0
 - pkg:composer/typo3/testing-framework@9.6.1
+- pkg:composer/typo3/testing-framework@9.7.0
