@@ -1,5 +1,6 @@
 - pkg:composer/tomatophp/filament-locations@2.0.0
 - pkg:composer/tomatophp/filament-locations@4.0.0
+- pkg:composer/tomatophp/filament-locations@5.0.0
 - pkg:composer/tomatophp/filament-locations@v1.0.0
 - pkg:composer/tomatophp/filament-locations@v1.0.1
 - pkg:composer/tomatophp/filament-locations@v1.0.2

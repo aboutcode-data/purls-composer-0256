@@ -1,6 +1,7 @@
 - pkg:composer/tomatophp/filament-accounts@2.3.0
 - pkg:composer/tomatophp/filament-accounts@2.3.3
 - pkg:composer/tomatophp/filament-accounts@4.0.0
+- pkg:composer/tomatophp/filament-accounts@5.0.0
 - pkg:composer/tomatophp/filament-accounts@v1.0.0
 - pkg:composer/tomatophp/filament-accounts@v1.0.1
 - pkg:composer/tomatophp/filament-accounts@v1.0.2
