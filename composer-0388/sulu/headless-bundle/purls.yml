@@ -24,3 +24,4 @@
 - pkg:composer/sulu/headless-bundle@3.0.0-RC1
 - pkg:composer/sulu/headless-bundle@3.0.0-RC2
 - pkg:composer/sulu/headless-bundle@3.0.1
+- pkg:composer/sulu/headless-bundle@3.0.2
