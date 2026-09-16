@@ -14,3 +14,4 @@
 - pkg:composer/tupy/filemanager@v2.2.1
 - pkg:composer/tupy/filemanager@v2.2.2
 - pkg:composer/tupy/filemanager@v3.0.0
+- pkg:composer/tupy/filemanager@v4.0.0
