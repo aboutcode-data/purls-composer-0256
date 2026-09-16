@@ -64,6 +64,7 @@
 - pkg:composer/respinar/contao-products@0.40.0
 - pkg:composer/respinar/contao-products@0.41.0
 - pkg:composer/respinar/contao-products@0.42.0
+- pkg:composer/respinar/contao-products@0.43.0
 - pkg:composer/respinar/contao-products@v0.1.0
 - pkg:composer/respinar/contao-products@v0.10.0
 - pkg:composer/respinar/contao-products@v0.10.1
