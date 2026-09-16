@@ -3,3 +3,4 @@
 - pkg:composer/sudiptpa/xero-php-sdk@v3.0.0
 - pkg:composer/sudiptpa/xero-php-sdk@v3.1.0
 - pkg:composer/sudiptpa/xero-php-sdk@v3.2.0
+- pkg:composer/sudiptpa/xero-php-sdk@v4.0.0
