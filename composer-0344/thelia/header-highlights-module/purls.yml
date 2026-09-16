@@ -12,3 +12,5 @@
 - pkg:composer/thelia/header-highlights-module@2.0.0
 - pkg:composer/thelia/header-highlights-module@2.0.1
 - pkg:composer/thelia/header-highlights-module@2.1.0
+- pkg:composer/thelia/header-highlights-module@2.1.1
+- pkg:composer/thelia/header-highlights-module@2.1.2
