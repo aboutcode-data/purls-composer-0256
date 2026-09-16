@@ -14,3 +14,5 @@
 - pkg:composer/tdoescher/googlemaps-bundle@3.0.5
 - pkg:composer/tdoescher/googlemaps-bundle@3.0.6
 - pkg:composer/tdoescher/googlemaps-bundle@3.1.0
+- pkg:composer/tdoescher/googlemaps-bundle@3.1.1
+- pkg:composer/tdoescher/googlemaps-bundle@3.1.2
