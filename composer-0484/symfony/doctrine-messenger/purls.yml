@@ -186,6 +186,7 @@
 - pkg:composer/symfony/doctrine-messenger@v7.4.14
 - pkg:composer/symfony/doctrine-messenger@v7.4.15
 - pkg:composer/symfony/doctrine-messenger@v7.4.18
+- pkg:composer/symfony/doctrine-messenger@v7.4.19
 - pkg:composer/symfony/doctrine-messenger@v7.4.3
 - pkg:composer/symfony/doctrine-messenger@v7.4.4
 - pkg:composer/symfony/doctrine-messenger@v7.4.5
@@ -208,3 +209,4 @@
 - pkg:composer/symfony/doctrine-messenger@v8.1.2
 - pkg:composer/symfony/doctrine-messenger@v8.1.4
 - pkg:composer/symfony/doctrine-messenger@v8.1.6
+- pkg:composer/symfony/doctrine-messenger@v8.1.7
