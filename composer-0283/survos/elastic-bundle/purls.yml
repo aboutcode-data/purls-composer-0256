@@ -5,3 +5,7 @@
 - pkg:composer/survos/elastic-bundle@2.24.7
 - pkg:composer/survos/elastic-bundle@2.24.8
 - pkg:composer/survos/elastic-bundle@2.24.9
+- pkg:composer/survos/elastic-bundle@2.29.0
+- pkg:composer/survos/elastic-bundle@2.29.1
+- pkg:composer/survos/elastic-bundle@2.30.1
+- pkg:composer/survos/elastic-bundle@2.30.2
