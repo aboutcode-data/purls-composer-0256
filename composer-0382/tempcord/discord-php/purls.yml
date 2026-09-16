@@ -13,3 +13,5 @@
 - pkg:composer/tempcord/discord-php@v1.3.8
 - pkg:composer/tempcord/discord-php@v1.4.0
 - pkg:composer/tempcord/discord-php@v1.4.1
+- pkg:composer/tempcord/discord-php@v1.5.0
+- pkg:composer/tempcord/discord-php@v1.6.0
