@@ -19,3 +19,4 @@
 - pkg:composer/vulnerar/agent@v1.0.1
 - pkg:composer/vulnerar/agent@v1.0.2
 - pkg:composer/vulnerar/agent@v1.0.3
+- pkg:composer/vulnerar/agent@v1.0.4
