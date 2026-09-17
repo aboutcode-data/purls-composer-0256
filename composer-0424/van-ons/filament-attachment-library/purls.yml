@@ -54,3 +54,5 @@
 - pkg:composer/van-ons/filament-attachment-library@v2.3.6
 - pkg:composer/van-ons/filament-attachment-library@v2.3.7
 - pkg:composer/van-ons/filament-attachment-library@v2.4.0
+- pkg:composer/van-ons/filament-attachment-library@v2.5.0
+- pkg:composer/van-ons/filament-attachment-library@v2.6.0
