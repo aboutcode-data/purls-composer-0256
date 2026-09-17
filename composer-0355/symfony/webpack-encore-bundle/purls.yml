@@ -1,3 +1,4 @@
+- pkg:composer/symfony/webpack-encore-bundle@2.4.2
 - pkg:composer/symfony/webpack-encore-bundle@v1.0.0
 - pkg:composer/symfony/webpack-encore-bundle@v1.1.0
 - pkg:composer/symfony/webpack-encore-bundle@v1.10.0
