@@ -60,6 +60,14 @@
 - pkg:composer/wallet/wallet@2.44.0
 - pkg:composer/wallet/wallet@2.44.1
 - pkg:composer/wallet/wallet@2.45.0
+- pkg:composer/wallet/wallet@2.46.0
+- pkg:composer/wallet/wallet@2.46.1
+- pkg:composer/wallet/wallet@2.47.0
+- pkg:composer/wallet/wallet@2.47.1
+- pkg:composer/wallet/wallet@2.47.2
+- pkg:composer/wallet/wallet@2.47.3
+- pkg:composer/wallet/wallet@2.47.4
+- pkg:composer/wallet/wallet@2.48.0
 - pkg:composer/wallet/wallet@2.5.0
 - pkg:composer/wallet/wallet@2.6.0
 - pkg:composer/wallet/wallet@2.7.0
