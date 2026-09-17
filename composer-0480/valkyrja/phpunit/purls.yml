@@ -32,7 +32,17 @@
 - pkg:composer/valkyrja/phpunit@v26.6.26
 - pkg:composer/valkyrja/phpunit@v26.6.27
 - pkg:composer/valkyrja/phpunit@v26.6.28
+- pkg:composer/valkyrja/phpunit@v26.6.29
 - pkg:composer/valkyrja/phpunit@v26.6.3
+- pkg:composer/valkyrja/phpunit@v26.6.30
+- pkg:composer/valkyrja/phpunit@v26.6.31
+- pkg:composer/valkyrja/phpunit@v26.6.32
+- pkg:composer/valkyrja/phpunit@v26.6.33
+- pkg:composer/valkyrja/phpunit@v26.6.34
+- pkg:composer/valkyrja/phpunit@v26.6.35
+- pkg:composer/valkyrja/phpunit@v26.6.36
+- pkg:composer/valkyrja/phpunit@v26.6.37
+- pkg:composer/valkyrja/phpunit@v26.6.38
 - pkg:composer/valkyrja/phpunit@v26.6.4
 - pkg:composer/valkyrja/phpunit@v26.6.5
 - pkg:composer/valkyrja/phpunit@v26.6.6
