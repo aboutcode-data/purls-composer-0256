@@ -43,6 +43,7 @@
 - pkg:composer/valkyrja/phpunit@v26.6.36
 - pkg:composer/valkyrja/phpunit@v26.6.37
 - pkg:composer/valkyrja/phpunit@v26.6.38
+- pkg:composer/valkyrja/phpunit@v26.6.39
 - pkg:composer/valkyrja/phpunit@v26.6.4
 - pkg:composer/valkyrja/phpunit@v26.6.5
 - pkg:composer/valkyrja/phpunit@v26.6.6
