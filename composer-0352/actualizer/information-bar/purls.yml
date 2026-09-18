@@ -1,3 +1,5 @@
+- pkg:composer/actualizer/information-bar@1.0.3
+- pkg:composer/actualizer/information-bar@1.0.8
 - pkg:composer/actualizer/information-bar@1.2.0
 - pkg:composer/actualizer/information-bar@1.2.1
 - pkg:composer/actualizer/information-bar@1.2.2
@@ -8,3 +10,4 @@
 - pkg:composer/actualizer/information-bar@1.4.0
 - pkg:composer/actualizer/information-bar@1.5.0
 - pkg:composer/actualizer/information-bar@1.5.1
+- pkg:composer/actualizer/information-bar@1.5.2
