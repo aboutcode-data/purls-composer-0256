@@ -19,3 +19,4 @@
 - pkg:composer/zitadel/client@4.1.0-beta.7
 - pkg:composer/zitadel/client@4.1.0-beta.8
 - pkg:composer/zitadel/client@4.1.0-beta.9
+- pkg:composer/zitadel/client@4.1.1
