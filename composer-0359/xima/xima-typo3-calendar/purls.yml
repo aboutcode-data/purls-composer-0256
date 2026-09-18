@@ -9,3 +9,6 @@
 - pkg:composer/xima/xima-typo3-calendar@2.0.1
 - pkg:composer/xima/xima-typo3-calendar@2.0.2
 - pkg:composer/xima/xima-typo3-calendar@2.1.0
+- pkg:composer/xima/xima-typo3-calendar@2.2.0
+- pkg:composer/xima/xima-typo3-calendar@2.3.0
+- pkg:composer/xima/xima-typo3-calendar@2.4.0
