@@ -24,3 +24,4 @@
 - pkg:composer/zf1s/zend-xml@1.15.6
 - pkg:composer/zf1s/zend-xml@1.16.0
 - pkg:composer/zf1s/zend-xml@1.16.1
+- pkg:composer/zf1s/zend-xml@1.16.2
