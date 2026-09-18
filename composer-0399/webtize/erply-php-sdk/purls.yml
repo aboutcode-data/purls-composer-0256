@@ -120,4 +120,5 @@
 - pkg:composer/webtize/erply-php-sdk@3.0.4
 - pkg:composer/webtize/erply-php-sdk@3.0.5
 - pkg:composer/webtize/erply-php-sdk@3.0.6
+- pkg:composer/webtize/erply-php-sdk@3.0.7
 - pkg:composer/webtize/erply-php-sdk@v1.0
