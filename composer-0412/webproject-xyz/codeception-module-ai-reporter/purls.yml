@@ -9,3 +9,4 @@
 - pkg:composer/webproject-xyz/codeception-module-ai-reporter@1.2.2
 - pkg:composer/webproject-xyz/codeception-module-ai-reporter@2.0.0
 - pkg:composer/webproject-xyz/codeception-module-ai-reporter@2.0.1
+- pkg:composer/webproject-xyz/codeception-module-ai-reporter@2.1.0
