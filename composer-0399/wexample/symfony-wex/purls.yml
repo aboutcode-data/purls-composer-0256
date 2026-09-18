@@ -2,3 +2,7 @@
 - pkg:composer/wexample/symfony-wex@1.0.0
 - pkg:composer/wexample/symfony-wex@1.0.1
 - pkg:composer/wexample/symfony-wex@1.0.2
+- pkg:composer/wexample/symfony-wex@2.0.0
+- pkg:composer/wexample/symfony-wex@2.0.1
+- pkg:composer/wexample/symfony-wex@2.0.2
+- pkg:composer/wexample/symfony-wex@3.0.0
