@@ -177,7 +177,12 @@
 - pkg:composer/xm/symfony-bundle@v2.0.126
 - pkg:composer/xm/symfony-bundle@v2.0.127
 - pkg:composer/xm/symfony-bundle@v2.0.128
+- pkg:composer/xm/symfony-bundle@v2.0.129
 - pkg:composer/xm/symfony-bundle@v2.0.13
+- pkg:composer/xm/symfony-bundle@v2.0.131
+- pkg:composer/xm/symfony-bundle@v2.0.134
+- pkg:composer/xm/symfony-bundle@v2.0.135
+- pkg:composer/xm/symfony-bundle@v2.0.136
 - pkg:composer/xm/symfony-bundle@v2.0.14
 - pkg:composer/xm/symfony-bundle@v2.0.15
 - pkg:composer/xm/symfony-bundle@v2.0.16
