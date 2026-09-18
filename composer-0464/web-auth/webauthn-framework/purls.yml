@@ -66,6 +66,7 @@
 - pkg:composer/web-auth/webauthn-framework@5.3.6
 - pkg:composer/web-auth/webauthn-framework@5.3.7
 - pkg:composer/web-auth/webauthn-framework@5.3.8
+- pkg:composer/web-auth/webauthn-framework@5.3.9
 - pkg:composer/web-auth/webauthn-framework@v1.0.0
 - pkg:composer/web-auth/webauthn-framework@v1.0.1
 - pkg:composer/web-auth/webauthn-framework@v1.1.0
