@@ -80,5 +80,6 @@
 - pkg:composer/symbiote/silverstripe-gridfieldextensions@5.2.0-beta1
 - pkg:composer/symbiote/silverstripe-gridfieldextensions@5.2.0-rc1
 - pkg:composer/symbiote/silverstripe-gridfieldextensions@5.2.1
+- pkg:composer/symbiote/silverstripe-gridfieldextensions@5.2.2
 - pkg:composer/symbiote/silverstripe-gridfieldextensions@v1.0.0
 - pkg:composer/symbiote/silverstripe-gridfieldextensions@v1.0.1
