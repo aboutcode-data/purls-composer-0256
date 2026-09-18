@@ -1,5 +1,5 @@
 - pkg:composer/activeclass/framework@2.0
-- pkg:composer/activeclass/framework@5.1.00-rc1
+- pkg:composer/activeclass/framework@5.1-rc1
 - pkg:composer/activeclass/framework@5.1.100
 - pkg:composer/activeclass/framework@5.1.101
 - pkg:composer/activeclass/framework@5.1.102
