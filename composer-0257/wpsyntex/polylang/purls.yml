@@ -94,3 +94,6 @@
 - pkg:composer/wpsyntex/polylang@3.8.5
 - pkg:composer/wpsyntex/polylang@3.8.6
 - pkg:composer/wpsyntex/polylang@3.8.7
+- pkg:composer/wpsyntex/polylang@3.8.8
+- pkg:composer/wpsyntex/polylang@3.8.9
+- pkg:composer/wpsyntex/polylang@3.9-beta1
