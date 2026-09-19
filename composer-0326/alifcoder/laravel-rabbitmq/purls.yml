@@ -9,3 +9,6 @@
 - pkg:composer/alifcoder/laravel-rabbitmq@v1.0.8
 - pkg:composer/alifcoder/laravel-rabbitmq@v1.0.9
 - pkg:composer/alifcoder/laravel-rabbitmq@v1.1.0
+- pkg:composer/alifcoder/laravel-rabbitmq@v1.2.0
+- pkg:composer/alifcoder/laravel-rabbitmq@v1.2.1
+- pkg:composer/alifcoder/laravel-rabbitmq@v1.2.2
