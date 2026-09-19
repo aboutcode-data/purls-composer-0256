@@ -11,3 +11,4 @@
 - pkg:composer/automattic/jetpack-schema@v0.2.6
 - pkg:composer/automattic/jetpack-schema@v0.2.7
 - pkg:composer/automattic/jetpack-schema@v0.2.8
+- pkg:composer/automattic/jetpack-schema@v0.3.0
