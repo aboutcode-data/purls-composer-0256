@@ -51,6 +51,7 @@
 - pkg:composer/andydefer/laravel-otp@v1.2.13
 - pkg:composer/andydefer/laravel-otp@v1.2.14
 - pkg:composer/andydefer/laravel-otp@v1.2.15
+- pkg:composer/andydefer/laravel-otp@v1.2.16
 - pkg:composer/andydefer/laravel-otp@v1.2.2
 - pkg:composer/andydefer/laravel-otp@v1.2.3
 - pkg:composer/andydefer/laravel-otp@v1.2.4
