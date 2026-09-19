@@ -1,4 +1,6 @@
 - pkg:composer/appwrite/php-clamav@1.1.0
 - pkg:composer/appwrite/php-clamav@2.0.0
+- pkg:composer/appwrite/php-clamav@2.0.1
+- pkg:composer/appwrite/php-clamav@2.0.2
 - pkg:composer/appwrite/php-clamav@v1.0.0
 - pkg:composer/appwrite/php-clamav@v1.0.1
