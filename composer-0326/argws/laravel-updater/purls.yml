@@ -119,6 +119,9 @@
 - pkg:composer/argws/laravel-updater@v0.1.204
 - pkg:composer/argws/laravel-updater@v0.1.205
 - pkg:composer/argws/laravel-updater@v0.1.206
+- pkg:composer/argws/laravel-updater@v0.1.207
+- pkg:composer/argws/laravel-updater@v0.1.208
+- pkg:composer/argws/laravel-updater@v0.1.209
 - pkg:composer/argws/laravel-updater@v0.1.21
 - pkg:composer/argws/laravel-updater@v0.1.22
 - pkg:composer/argws/laravel-updater@v0.1.23
