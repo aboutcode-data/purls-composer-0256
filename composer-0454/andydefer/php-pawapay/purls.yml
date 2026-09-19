@@ -41,3 +41,6 @@
 - pkg:composer/andydefer/php-pawapay@v0.4.8
 - pkg:composer/andydefer/php-pawapay@v0.5.0
 - pkg:composer/andydefer/php-pawapay@v0.5.1
+- pkg:composer/andydefer/php-pawapay@v0.5.2
+- pkg:composer/andydefer/php-pawapay@v0.5.3
+- pkg:composer/andydefer/php-pawapay@v0.5.4
