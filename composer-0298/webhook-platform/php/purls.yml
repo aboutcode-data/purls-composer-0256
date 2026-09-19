@@ -44,6 +44,7 @@
 - pkg:composer/webhook-platform/php@2.22.0
 - pkg:composer/webhook-platform/php@2.23.0
 - pkg:composer/webhook-platform/php@2.24.0
+- pkg:composer/webhook-platform/php@2.25.0
 - pkg:composer/webhook-platform/php@2.6.1
 - pkg:composer/webhook-platform/php@2.7.0
 - pkg:composer/webhook-platform/php@2.8.0
