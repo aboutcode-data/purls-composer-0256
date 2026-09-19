@@ -10,6 +10,7 @@
 - pkg:composer/as-cornell/as_webhook_update@v1.0.9
 - pkg:composer/as-cornell/as_webhook_update@v2.0.0
 - pkg:composer/as-cornell/as_webhook_update@v2.0.1
+- pkg:composer/as-cornell/as_webhook_update@v2.0.10
 - pkg:composer/as-cornell/as_webhook_update@v2.0.2
 - pkg:composer/as-cornell/as_webhook_update@v2.0.3
 - pkg:composer/as-cornell/as_webhook_update@v2.0.4
@@ -18,3 +19,4 @@
 - pkg:composer/as-cornell/as_webhook_update@v2.0.7
 - pkg:composer/as-cornell/as_webhook_update@v2.0.8
 - pkg:composer/as-cornell/as_webhook_update@v2.0.9
+- pkg:composer/as-cornell/as_webhook_update@v2.1.0
