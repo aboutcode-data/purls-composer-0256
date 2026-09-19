@@ -1,2 +1,4 @@
 - pkg:composer/alianet/env-sync@v1.0.0
 - pkg:composer/alianet/env-sync@v1.0.1
+- pkg:composer/alianet/env-sync@v1.1.0
+- pkg:composer/alianet/env-sync@v1.2.0
