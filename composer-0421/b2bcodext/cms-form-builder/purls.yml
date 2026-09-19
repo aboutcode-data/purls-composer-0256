@@ -10,3 +10,5 @@
 - pkg:composer/b2bcodext/cms-form-builder@2.3.0
 - pkg:composer/b2bcodext/cms-form-builder@2.4.0
 - pkg:composer/b2bcodext/cms-form-builder@2.5.0
+- pkg:composer/b2bcodext/cms-form-builder@2.5.1
+- pkg:composer/b2bcodext/cms-form-builder@2.6.0
