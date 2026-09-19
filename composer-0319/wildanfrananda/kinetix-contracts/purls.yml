@@ -1,4 +1,5 @@
 - pkg:composer/wildanfrananda/kinetix-contracts@v1.0.0
+- pkg:composer/wildanfrananda/kinetix-contracts@v1.0.10
 - pkg:composer/wildanfrananda/kinetix-contracts@v1.0.7
 - pkg:composer/wildanfrananda/kinetix-contracts@v1.0.8
 - pkg:composer/wildanfrananda/kinetix-contracts@v1.0.9
