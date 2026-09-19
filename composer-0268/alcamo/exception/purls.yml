@@ -31,7 +31,9 @@
 - pkg:composer/alcamo/exception@0.1.36
 - pkg:composer/alcamo/exception@0.1.37
 - pkg:composer/alcamo/exception@0.1.38
+- pkg:composer/alcamo/exception@0.1.39
 - pkg:composer/alcamo/exception@0.1.4
+- pkg:composer/alcamo/exception@0.1.40
 - pkg:composer/alcamo/exception@0.1.5
 - pkg:composer/alcamo/exception@0.1.6
 - pkg:composer/alcamo/exception@0.1.7
