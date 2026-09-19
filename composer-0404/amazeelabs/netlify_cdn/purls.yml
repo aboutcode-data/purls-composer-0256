@@ -1,1 +1,2 @@
 - pkg:composer/amazeelabs/netlify_cdn@1.0.3
+- pkg:composer/amazeelabs/netlify_cdn@2.0.0
