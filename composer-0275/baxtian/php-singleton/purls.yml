@@ -12,3 +12,4 @@
 - pkg:composer/baxtian/php-singleton@0.6.5
 - pkg:composer/baxtian/php-singleton@0.6.6
 - pkg:composer/baxtian/php-singleton@0.6.7
+- pkg:composer/baxtian/php-singleton@0.6.9
