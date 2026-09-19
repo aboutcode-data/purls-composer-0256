@@ -204,6 +204,8 @@
 - pkg:composer/altis/cms@24.0.10
 - pkg:composer/altis/cms@24.0.11
 - pkg:composer/altis/cms@24.0.12
+- pkg:composer/altis/cms@24.0.13
+- pkg:composer/altis/cms@24.0.14
 - pkg:composer/altis/cms@24.0.2
 - pkg:composer/altis/cms@24.0.3
 - pkg:composer/altis/cms@24.0.4
@@ -218,6 +220,8 @@
 - pkg:composer/altis/cms@25.0.10
 - pkg:composer/altis/cms@25.0.11
 - pkg:composer/altis/cms@25.0.12
+- pkg:composer/altis/cms@25.0.13
+- pkg:composer/altis/cms@25.0.14
 - pkg:composer/altis/cms@25.0.2
 - pkg:composer/altis/cms@25.0.3
 - pkg:composer/altis/cms@25.0.4
@@ -235,6 +239,8 @@
 - pkg:composer/altis/cms@26.0.12
 - pkg:composer/altis/cms@26.0.13
 - pkg:composer/altis/cms@26.0.14
+- pkg:composer/altis/cms@26.0.15
+- pkg:composer/altis/cms@26.0.16
 - pkg:composer/altis/cms@26.0.2
 - pkg:composer/altis/cms@26.0.3
 - pkg:composer/altis/cms@26.0.4
@@ -251,7 +257,12 @@
 - pkg:composer/altis/cms@27.0.4
 - pkg:composer/altis/cms@27.0.5
 - pkg:composer/altis/cms@27.0.6
+- pkg:composer/altis/cms@27.0.7
+- pkg:composer/altis/cms@27.0.8
+- pkg:composer/altis/cms@28.0.0
 - pkg:composer/altis/cms@28.0.0-beta.1
+- pkg:composer/altis/cms@28.0.1
+- pkg:composer/altis/cms@28.0.2
 - pkg:composer/altis/cms@3.0.0
 - pkg:composer/altis/cms@3.0.0-beta1
 - pkg:composer/altis/cms@3.0.0-beta2
