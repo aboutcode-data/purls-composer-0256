@@ -98,3 +98,6 @@
 - pkg:composer/dagger/dagger@v0.9.8
 - pkg:composer/dagger/dagger@v0.9.9
 - pkg:composer/dagger/dagger@v1.0.0-beta.11
+- pkg:composer/dagger/dagger@v1.0.0-beta.12
+- pkg:composer/dagger/dagger@v1.0.0-beta.13
+- pkg:composer/dagger/dagger@v1.0.0-beta.14
