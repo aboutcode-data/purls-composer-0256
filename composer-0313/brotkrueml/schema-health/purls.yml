@@ -18,3 +18,4 @@
 - pkg:composer/brotkrueml/schema-health@v2.7.0
 - pkg:composer/brotkrueml/schema-health@v2.8.0
 - pkg:composer/brotkrueml/schema-health@v2.9.0
+- pkg:composer/brotkrueml/schema-health@v3.0.0
