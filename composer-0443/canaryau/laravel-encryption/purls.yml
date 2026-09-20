@@ -8,3 +8,4 @@
 - pkg:composer/canaryau/laravel-encryption@3.0.0
 - pkg:composer/canaryau/laravel-encryption@3.0.2
 - pkg:composer/canaryau/laravel-encryption@3.0.3
+- pkg:composer/canaryau/laravel-encryption@v3.0.4
