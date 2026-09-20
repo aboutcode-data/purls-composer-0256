@@ -1,2 +1,4 @@
-- pkg:composer/daryl-peterson/librenms-device-importer@v0.1.0-alpha.01
-- pkg:composer/daryl-peterson/librenms-device-importer@v0.1.0-alpha.02
+- pkg:composer/daryl-peterson/librenms-device-importer@v0.1.0-alpha.06
+- pkg:composer/daryl-peterson/librenms-device-importer@v0.1.0-alpha.07
+- pkg:composer/daryl-peterson/librenms-device-importer@v0.1.0-alpha.08
+- pkg:composer/daryl-peterson/librenms-device-importer@v0.1.0-alpha.09
