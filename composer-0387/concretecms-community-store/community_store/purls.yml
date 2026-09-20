@@ -62,3 +62,4 @@
 - pkg:composer/concretecms-community-store/community_store@v2.7.4
 - pkg:composer/concretecms-community-store/community_store@v2.7.6
 - pkg:composer/concretecms-community-store/community_store@v2.7.7
+- pkg:composer/concretecms-community-store/community_store@v2.7.8
