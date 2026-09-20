@@ -1,0 +1,13 @@
+- pkg:composer/cattr/redmine_integration-module@2.0.0
+- pkg:composer/cattr/redmine_integration-module@2.0.1
+- pkg:composer/cattr/redmine_integration-module@3.0.0
+- pkg:composer/cattr/redmine_integration-module@4.0.0
+- pkg:composer/cattr/redmine_integration-module@4.1.0
+- pkg:composer/cattr/redmine_integration-module@v5.0.0
+- pkg:composer/cattr/redmine_integration-module@v5.0.1
+- pkg:composer/cattr/redmine_integration-module@v5.0.2
+- pkg:composer/cattr/redmine_integration-module@v5.1.0
+- pkg:composer/cattr/redmine_integration-module@v5.1.1
+- pkg:composer/cattr/redmine_integration-module@v5.1.2
+- pkg:composer/cattr/redmine_integration-module@v5.1.3
+- pkg:composer/cattr/redmine_integration-module@v5.1.4
