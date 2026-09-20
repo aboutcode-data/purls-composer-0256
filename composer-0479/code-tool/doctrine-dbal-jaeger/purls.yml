@@ -10,3 +10,4 @@
 - pkg:composer/code-tool/doctrine-dbal-jaeger@v1.4.0
 - pkg:composer/code-tool/doctrine-dbal-jaeger@v2.0.0
 - pkg:composer/code-tool/doctrine-dbal-jaeger@v2.1.0
+- pkg:composer/code-tool/doctrine-dbal-jaeger@v2.2.0

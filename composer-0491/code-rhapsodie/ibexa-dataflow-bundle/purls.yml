@@ -16,3 +16,4 @@
 - pkg:composer/code-rhapsodie/ibexa-dataflow-bundle@v6.3.0
 - pkg:composer/code-rhapsodie/ibexa-dataflow-bundle@v6.4.0
 - pkg:composer/code-rhapsodie/ibexa-dataflow-bundle@v6.5.0
+- pkg:composer/code-rhapsodie/ibexa-dataflow-bundle@v6.5.1
