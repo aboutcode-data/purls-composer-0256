@@ -6,3 +6,7 @@
 - pkg:composer/componenta/cqrs-app@v3.0.1
 - pkg:composer/componenta/cqrs-app@v3.0.2
 - pkg:composer/componenta/cqrs-app@v3.0.3
+- pkg:composer/componenta/cqrs-app@v4.0.0
+- pkg:composer/componenta/cqrs-app@v4.0.1
+- pkg:composer/componenta/cqrs-app@v4.0.2
+- pkg:composer/componenta/cqrs-app@v5.0.0
