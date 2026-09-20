@@ -130,7 +130,15 @@
 - pkg:composer/andydefer/laravel-hermes@v0.17.20
 - pkg:composer/andydefer/laravel-hermes@v0.17.21
 - pkg:composer/andydefer/laravel-hermes@v0.17.22
+- pkg:composer/andydefer/laravel-hermes@v0.17.23
+- pkg:composer/andydefer/laravel-hermes@v0.17.24
+- pkg:composer/andydefer/laravel-hermes@v0.17.25
+- pkg:composer/andydefer/laravel-hermes@v0.17.26
+- pkg:composer/andydefer/laravel-hermes@v0.17.27
+- pkg:composer/andydefer/laravel-hermes@v0.17.28
+- pkg:composer/andydefer/laravel-hermes@v0.17.29
 - pkg:composer/andydefer/laravel-hermes@v0.17.3
+- pkg:composer/andydefer/laravel-hermes@v0.17.30
 - pkg:composer/andydefer/laravel-hermes@v0.17.4
 - pkg:composer/andydefer/laravel-hermes@v0.17.5
 - pkg:composer/andydefer/laravel-hermes@v0.17.6
