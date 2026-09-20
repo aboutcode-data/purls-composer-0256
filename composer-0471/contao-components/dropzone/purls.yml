@@ -41,3 +41,8 @@
 - pkg:composer/contao-components/dropzone@6.0.0
 - pkg:composer/contao-components/dropzone@6.1.0
 - pkg:composer/contao-components/dropzone@6.2.0
+- pkg:composer/contao-components/dropzone@6.3.0
+- pkg:composer/contao-components/dropzone@6.3.1
+- pkg:composer/contao-components/dropzone@6.3.2
+- pkg:composer/contao-components/dropzone@6.3.3
+- pkg:composer/contao-components/dropzone@6.3.4
