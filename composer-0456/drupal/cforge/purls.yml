@@ -26,6 +26,7 @@
 - pkg:composer/drupal/cforge@2.1.0-alpha4
 - pkg:composer/drupal/cforge@2.1.0-alpha5
 - pkg:composer/drupal/cforge@2.1.0-beta1
+- pkg:composer/drupal/cforge@2.1.0-beta10
 - pkg:composer/drupal/cforge@2.1.0-beta2
 - pkg:composer/drupal/cforge@2.1.0-beta3
 - pkg:composer/drupal/cforge@2.1.0-beta4
