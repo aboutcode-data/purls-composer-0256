@@ -13,3 +13,4 @@
 - pkg:composer/cable8mm/laravel-social-auth@v0.5.5
 - pkg:composer/cable8mm/laravel-social-auth@v0.5.6
 - pkg:composer/cable8mm/laravel-social-auth@v0.6.0
+- pkg:composer/cable8mm/laravel-social-auth@v1.0.0
