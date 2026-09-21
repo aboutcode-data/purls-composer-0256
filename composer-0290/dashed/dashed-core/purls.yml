@@ -646,6 +646,9 @@
 - pkg:composer/dashed/dashed-core@v4.7.0
 - pkg:composer/dashed/dashed-core@v4.7.1
 - pkg:composer/dashed/dashed-core@v4.7.2
+- pkg:composer/dashed/dashed-core@v4.70.0
+- pkg:composer/dashed/dashed-core@v4.71.0
+- pkg:composer/dashed/dashed-core@v4.71.1
 - pkg:composer/dashed/dashed-core@v4.8.4
 - pkg:composer/dashed/dashed-core@v4.9.0
 - pkg:composer/dashed/dashed-core@v4.9.1
