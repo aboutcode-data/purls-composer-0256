@@ -11,3 +11,6 @@
 - pkg:composer/elpandape/warden@v2.2.1
 - pkg:composer/elpandape/warden@v2.2.2
 - pkg:composer/elpandape/warden@v3.0.0
+- pkg:composer/elpandape/warden@v3.0.1
+- pkg:composer/elpandape/warden@v3.1.0
+- pkg:composer/elpandape/warden@v3.2.0
