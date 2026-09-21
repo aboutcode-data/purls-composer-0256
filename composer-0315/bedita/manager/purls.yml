@@ -390,6 +390,7 @@
 - pkg:composer/bedita/manager@v6.14.1
 - pkg:composer/bedita/manager@v6.14.2
 - pkg:composer/bedita/manager@v6.14.3
+- pkg:composer/bedita/manager@v6.14.4
 - pkg:composer/bedita/manager@v6.2.0
 - pkg:composer/bedita/manager@v6.2.1
 - pkg:composer/bedita/manager@v6.2.2
