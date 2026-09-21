@@ -1,1 +1,4 @@
+- pkg:composer/devinspector/audit-sdk@3.1.1
+- pkg:composer/devinspector/audit-sdk@4.0.0
 - pkg:composer/devinspector/audit-sdk@v2.0.0
+- pkg:composer/devinspector/audit-sdk@v3.0.0
