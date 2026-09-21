@@ -55,3 +55,6 @@
 - pkg:composer/drupal/plus_suite@1.1.6
 - pkg:composer/drupal/plus_suite@1.1.7
 - pkg:composer/drupal/plus_suite@1.1.9
+- pkg:composer/drupal/plus_suite@2.0.0-alpha
+- pkg:composer/drupal/plus_suite@2.0.0-alpha0
+- pkg:composer/drupal/plus_suite@2.0.0-alpha1
