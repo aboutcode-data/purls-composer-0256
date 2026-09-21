@@ -546,3 +546,4 @@
 - pkg:composer/appwrite/sdk-generator@5.0.1
 - pkg:composer/appwrite/sdk-generator@5.0.2
 - pkg:composer/appwrite/sdk-generator@5.1.0
+- pkg:composer/appwrite/sdk-generator@5.1.1
