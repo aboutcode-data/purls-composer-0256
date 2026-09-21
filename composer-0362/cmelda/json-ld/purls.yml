@@ -10,3 +10,7 @@
 - pkg:composer/cmelda/json-ld@v2.0
 - pkg:composer/cmelda/json-ld@v2.3.2
 - pkg:composer/cmelda/json-ld@v2.4.0
+- pkg:composer/cmelda/json-ld@v2.5.1
+- pkg:composer/cmelda/json-ld@v2.5.2
+- pkg:composer/cmelda/json-ld@v2.5.3
+- pkg:composer/cmelda/json-ld@v2.5.4
