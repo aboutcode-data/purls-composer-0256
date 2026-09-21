@@ -1,3 +1,5 @@
 - pkg:composer/drupal/wisski_starter@1.0.0
 - pkg:composer/drupal/wisski_starter@1.0.0-alpha1
 - pkg:composer/drupal/wisski_starter@1.1.0
+- pkg:composer/drupal/wisski_starter@2.0.0
+- pkg:composer/drupal/wisski_starter@2.0.0-beta1
