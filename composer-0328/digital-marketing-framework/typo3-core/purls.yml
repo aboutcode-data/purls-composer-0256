@@ -48,3 +48,5 @@
 - pkg:composer/digital-marketing-framework/typo3-core@3.9.8
 - pkg:composer/digital-marketing-framework/typo3-core@4.0.0
 - pkg:composer/digital-marketing-framework/typo3-core@4.0.1
+- pkg:composer/digital-marketing-framework/typo3-core@4.1.0
+- pkg:composer/digital-marketing-framework/typo3-core@4.2.0
