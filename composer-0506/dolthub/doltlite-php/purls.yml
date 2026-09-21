@@ -1,6 +1,9 @@
 - pkg:composer/dolthub/doltlite-php@0.11.57
 - pkg:composer/dolthub/doltlite-php@0.50.0
 - pkg:composer/dolthub/doltlite-php@0.50.1
+- pkg:composer/dolthub/doltlite-php@0.50.10
+- pkg:composer/dolthub/doltlite-php@0.50.11
+- pkg:composer/dolthub/doltlite-php@0.50.12
 - pkg:composer/dolthub/doltlite-php@0.50.2
 - pkg:composer/dolthub/doltlite-php@0.50.3
 - pkg:composer/dolthub/doltlite-php@0.50.4
