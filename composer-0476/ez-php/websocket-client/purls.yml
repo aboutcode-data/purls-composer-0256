@@ -1,0 +1,4 @@
+- pkg:composer/ez-php/websocket-client@2.4.10
+- pkg:composer/ez-php/websocket-client@2.4.11
+- pkg:composer/ez-php/websocket-client@2.4.9
+- pkg:composer/ez-php/websocket-client@2.5.0
