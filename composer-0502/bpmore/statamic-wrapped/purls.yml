@@ -10,3 +10,6 @@
 - pkg:composer/bpmore/statamic-wrapped@v1.6.0
 - pkg:composer/bpmore/statamic-wrapped@v1.6.1
 - pkg:composer/bpmore/statamic-wrapped@v1.6.2
+- pkg:composer/bpmore/statamic-wrapped@v1.6.3
+- pkg:composer/bpmore/statamic-wrapped@v1.6.4
+- pkg:composer/bpmore/statamic-wrapped@v1.6.5
