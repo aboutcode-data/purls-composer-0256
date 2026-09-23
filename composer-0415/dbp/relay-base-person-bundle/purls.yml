@@ -47,6 +47,7 @@
 - pkg:composer/dbp/relay-base-person-bundle@v0.2.44
 - pkg:composer/dbp/relay-base-person-bundle@v0.2.45
 - pkg:composer/dbp/relay-base-person-bundle@v0.2.46
+- pkg:composer/dbp/relay-base-person-bundle@v0.2.47
 - pkg:composer/dbp/relay-base-person-bundle@v0.2.5
 - pkg:composer/dbp/relay-base-person-bundle@v0.2.6
 - pkg:composer/dbp/relay-base-person-bundle@v0.2.7
