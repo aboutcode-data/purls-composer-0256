@@ -1,3 +1,6 @@
 - pkg:composer/inclitoleo/dbmysql@v2.0.2022
 - pkg:composer/inclitoleo/dbmysql@v2.1.2022
 - pkg:composer/inclitoleo/dbmysql@v2.2.2022
+- pkg:composer/inclitoleo/dbmysql@v3.0.0
+- pkg:composer/inclitoleo/dbmysql@v3.0.1
+- pkg:composer/inclitoleo/dbmysql@v3.1.0
