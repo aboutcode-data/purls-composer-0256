@@ -229,3 +229,4 @@
 - pkg:composer/gcworld/orm@6.4.7
 - pkg:composer/gcworld/orm@6.4.8
 - pkg:composer/gcworld/orm@6.4.9
+- pkg:composer/gcworld/orm@6.5.0
