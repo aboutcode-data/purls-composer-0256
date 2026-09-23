@@ -1,2 +1,4 @@
 - pkg:composer/flow-php/flow-php-ext@0.42.0
 - pkg:composer/flow-php/flow-php-ext@0.43.0
+- pkg:composer/flow-php/flow-php-ext@0.44.0
+- pkg:composer/flow-php/flow-php-ext@0.44.1
