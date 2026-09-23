@@ -101,3 +101,4 @@
 - pkg:composer/google/cloud-trace@v2.0.1
 - pkg:composer/google/cloud-trace@v2.0.2
 - pkg:composer/google/cloud-trace@v2.0.3
+- pkg:composer/google/cloud-trace@v2.0.4
