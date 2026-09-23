@@ -91,6 +91,7 @@
 - pkg:composer/dbp/relay-formalize-bundle@v0.5.38
 - pkg:composer/dbp/relay-formalize-bundle@v0.5.39
 - pkg:composer/dbp/relay-formalize-bundle@v0.5.4
+- pkg:composer/dbp/relay-formalize-bundle@v0.5.40
 - pkg:composer/dbp/relay-formalize-bundle@v0.5.5
 - pkg:composer/dbp/relay-formalize-bundle@v0.5.6
 - pkg:composer/dbp/relay-formalize-bundle@v0.5.7
