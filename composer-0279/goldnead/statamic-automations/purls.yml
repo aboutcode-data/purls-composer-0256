@@ -42,6 +42,8 @@
 - pkg:composer/goldnead/statamic-automations@v2.16.0
 - pkg:composer/goldnead/statamic-automations@v2.17.0
 - pkg:composer/goldnead/statamic-automations@v2.18.0
+- pkg:composer/goldnead/statamic-automations@v2.18.1
+- pkg:composer/goldnead/statamic-automations@v2.19.0
 - pkg:composer/goldnead/statamic-automations@v2.2.0
 - pkg:composer/goldnead/statamic-automations@v2.2.1
 - pkg:composer/goldnead/statamic-automations@v2.3.0
