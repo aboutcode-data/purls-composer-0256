@@ -1,3 +1,4 @@
 - pkg:composer/drupal/webapi_starter@1.0.0
 - pkg:composer/drupal/webapi_starter@2.0.0
 - pkg:composer/drupal/webapi_starter@2.0.1
+- pkg:composer/drupal/webapi_starter@2.0.2
