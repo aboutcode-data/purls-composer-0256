@@ -67,6 +67,9 @@
 - pkg:composer/hasinhayder/tyro-dashboard@v1.52.0
 - pkg:composer/hasinhayder/tyro-dashboard@v1.53.0
 - pkg:composer/hasinhayder/tyro-dashboard@v1.54.0
+- pkg:composer/hasinhayder/tyro-dashboard@v1.55.0
+- pkg:composer/hasinhayder/tyro-dashboard@v1.55.1
+- pkg:composer/hasinhayder/tyro-dashboard@v1.55.2
 - pkg:composer/hasinhayder/tyro-dashboard@v1.6.0
 - pkg:composer/hasinhayder/tyro-dashboard@v1.6.1
 - pkg:composer/hasinhayder/tyro-dashboard@v1.6.2
