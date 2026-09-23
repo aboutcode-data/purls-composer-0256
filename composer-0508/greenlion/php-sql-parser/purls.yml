@@ -8,3 +8,4 @@
 - pkg:composer/greenlion/php-sql-parser@v4.5.0
 - pkg:composer/greenlion/php-sql-parser@v4.6.0
 - pkg:composer/greenlion/php-sql-parser@v4.7.0
+- pkg:composer/greenlion/php-sql-parser@v5.0.0
