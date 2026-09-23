@@ -13,6 +13,7 @@
 - pkg:composer/gedankenfolger/gedankenfolger-event@13.3.8
 - pkg:composer/gedankenfolger/gedankenfolger-event@13.4.0
 - pkg:composer/gedankenfolger/gedankenfolger-event@13.5.0
+- pkg:composer/gedankenfolger/gedankenfolger-event@13.6.0
 - pkg:composer/gedankenfolger/gedankenfolger-event@14.0.0
 - pkg:composer/gedankenfolger/gedankenfolger-event@14.0.1
 - pkg:composer/gedankenfolger/gedankenfolger-event@14.0.2
@@ -23,3 +24,4 @@
 - pkg:composer/gedankenfolger/gedankenfolger-event@14.0.7
 - pkg:composer/gedankenfolger/gedankenfolger-event@14.1.0
 - pkg:composer/gedankenfolger/gedankenfolger-event@14.2.0
+- pkg:composer/gedankenfolger/gedankenfolger-event@14.3.0
