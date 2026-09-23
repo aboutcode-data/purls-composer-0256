@@ -46,3 +46,4 @@
 - pkg:composer/google/cloud-network-connectivity@v2.5.4
 - pkg:composer/google/cloud-network-connectivity@v2.6.0
 - pkg:composer/google/cloud-network-connectivity@v2.6.1
+- pkg:composer/google/cloud-network-connectivity@v2.6.2

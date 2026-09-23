@@ -41,3 +41,4 @@
 - pkg:composer/google/cloud-filestore@v2.2.3
 - pkg:composer/google/cloud-filestore@v2.3.0
 - pkg:composer/google/cloud-filestore@v2.3.1
+- pkg:composer/google/cloud-filestore@v2.3.2

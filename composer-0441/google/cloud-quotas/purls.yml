@@ -25,3 +25,4 @@
 - pkg:composer/google/cloud-quotas@v1.6.0
 - pkg:composer/google/cloud-quotas@v1.7.0
 - pkg:composer/google/cloud-quotas@v1.7.1
+- pkg:composer/google/cloud-quotas@v1.7.2

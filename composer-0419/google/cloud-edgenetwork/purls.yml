@@ -25,3 +25,4 @@
 - pkg:composer/google/cloud-edgenetwork@v1.4.2
 - pkg:composer/google/cloud-edgenetwork@v1.5.0
 - pkg:composer/google/cloud-edgenetwork@v1.5.1
+- pkg:composer/google/cloud-edgenetwork@v1.5.2

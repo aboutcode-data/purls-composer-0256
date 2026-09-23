@@ -10,3 +10,4 @@
 - pkg:composer/google/cloud-parametermanager@v0.5.4
 - pkg:composer/google/cloud-parametermanager@v0.6.0
 - pkg:composer/google/cloud-parametermanager@v0.6.1
+- pkg:composer/google/cloud-parametermanager@v0.6.2
