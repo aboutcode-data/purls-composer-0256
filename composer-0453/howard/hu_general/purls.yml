@@ -27,6 +27,10 @@
 - pkg:composer/howard/hu_general@11.2.7
 - pkg:composer/howard/hu_general@11.3.0
 - pkg:composer/howard/hu_general@11.3.1
+- pkg:composer/howard/hu_general@11.3.2
+- pkg:composer/howard/hu_general@11.3.3
+- pkg:composer/howard/hu_general@11.3.4
+- pkg:composer/howard/hu_general@11.3.5
 - pkg:composer/howard/hu_general@8.1.0
 - pkg:composer/howard/hu_general@8.1.1
 - pkg:composer/howard/hu_general@8.1.10
