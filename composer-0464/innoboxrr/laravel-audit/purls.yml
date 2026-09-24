@@ -8,3 +8,6 @@
 - pkg:composer/innoboxrr/laravel-audit@1.2.0
 - pkg:composer/innoboxrr/laravel-audit@1.2.1
 - pkg:composer/innoboxrr/laravel-audit@1.2.2
+- pkg:composer/innoboxrr/laravel-audit@2.0.0
+- pkg:composer/innoboxrr/laravel-audit@2.1.0
+- pkg:composer/innoboxrr/laravel-audit@2.1.1
