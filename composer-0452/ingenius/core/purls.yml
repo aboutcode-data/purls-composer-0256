@@ -32,6 +32,8 @@
 - pkg:composer/ingenius/core@1.11.7
 - pkg:composer/ingenius/core@1.11.8
 - pkg:composer/ingenius/core@1.11.9
+- pkg:composer/ingenius/core@1.12.0
+- pkg:composer/ingenius/core@1.12.1
 - pkg:composer/ingenius/core@1.2.0
 - pkg:composer/ingenius/core@1.2.1
 - pkg:composer/ingenius/core@1.2.2
