@@ -2,3 +2,4 @@
 - pkg:composer/invinbg/hyperf-http-message@v1.0.1
 - pkg:composer/invinbg/hyperf-http-message@v1.0.2
 - pkg:composer/invinbg/hyperf-http-message@v1.0.3
+- pkg:composer/invinbg/hyperf-http-message@v3.2.0
