@@ -62,3 +62,7 @@
 - pkg:composer/innodite/laravel-module-maker@v4.2.0
 - pkg:composer/innodite/laravel-module-maker@v5.0.0
 - pkg:composer/innodite/laravel-module-maker@v5.0.1
+- pkg:composer/innodite/laravel-module-maker@v5.1.0
+- pkg:composer/innodite/laravel-module-maker@v5.1.1
+- pkg:composer/innodite/laravel-module-maker@v5.2.0
+- pkg:composer/innodite/laravel-module-maker@v5.2.1
