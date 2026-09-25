@@ -52,3 +52,5 @@
 - pkg:composer/laikait/laika-framework@v4.3.4
 - pkg:composer/laikait/laika-framework@v4.3.5
 - pkg:composer/laikait/laika-framework@v4.3.6
+- pkg:composer/laikait/laika-framework@v4.4.0
+- pkg:composer/laikait/laika-framework@v5.0.0

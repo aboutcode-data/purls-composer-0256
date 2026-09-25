@@ -27,3 +27,5 @@
 - pkg:composer/laikait/laika-cli@v3.0.7
 - pkg:composer/laikait/laika-cli@v3.0.8
 - pkg:composer/laikait/laika-cli@v3.0.9
+- pkg:composer/laikait/laika-cli@v3.1.0
+- pkg:composer/laikait/laika-cli@v3.1.1
