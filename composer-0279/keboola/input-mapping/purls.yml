@@ -61,3 +61,4 @@
 - pkg:composer/keboola/input-mapping@23.2.1
 - pkg:composer/keboola/input-mapping@23.3.0
 - pkg:composer/keboola/input-mapping@23.3.1
+- pkg:composer/keboola/input-mapping@23.4.0
