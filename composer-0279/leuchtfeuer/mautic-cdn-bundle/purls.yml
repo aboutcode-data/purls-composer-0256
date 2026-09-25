@@ -1,0 +1,5 @@
+- pkg:composer/leuchtfeuer/mautic-cdn-bundle@2.0.0
+- pkg:composer/leuchtfeuer/mautic-cdn-bundle@3.0.1
+- pkg:composer/leuchtfeuer/mautic-cdn-bundle@5.0.0
+- pkg:composer/leuchtfeuer/mautic-cdn-bundle@v1.0.0
+- pkg:composer/leuchtfeuer/mautic-cdn-bundle@v3.0.0
