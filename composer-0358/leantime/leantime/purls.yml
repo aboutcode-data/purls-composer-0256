@@ -103,6 +103,7 @@
 - pkg:composer/leantime/leantime@v2.3.7
 - pkg:composer/leantime/leantime@v2.3.8
 - pkg:composer/leantime/leantime@v2.3.9
+- pkg:composer/leantime/leantime@v3.10.0
 - pkg:composer/leantime/leantime@v3.4.1
 - pkg:composer/leantime/leantime@v3.4.10
 - pkg:composer/leantime/leantime@v3.4.11
