@@ -18,3 +18,6 @@
 - pkg:composer/karewan/knroute@3.0.5
 - pkg:composer/karewan/knroute@3.0.6
 - pkg:composer/karewan/knroute@3.0.7
+- pkg:composer/karewan/knroute@4.0.0
+- pkg:composer/karewan/knroute@4.0.1
+- pkg:composer/karewan/knroute@4.1.0
