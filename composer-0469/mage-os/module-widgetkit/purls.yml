@@ -17,3 +17,5 @@
 - pkg:composer/mage-os/module-widgetkit@1.4.7
 - pkg:composer/mage-os/module-widgetkit@1.4.8
 - pkg:composer/mage-os/module-widgetkit@2.0.0
+- pkg:composer/mage-os/module-widgetkit@2.1.0
+- pkg:composer/mage-os/module-widgetkit@2.2.0
