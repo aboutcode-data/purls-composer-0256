@@ -55,3 +55,6 @@
 - pkg:composer/laraxgram/core@v4.0.3
 - pkg:composer/laraxgram/core@v4.0.4
 - pkg:composer/laraxgram/core@v4.0.5
+- pkg:composer/laraxgram/core@v4.1.0
+- pkg:composer/laraxgram/core@v4.2.0
+- pkg:composer/laraxgram/core@v4.2.1
