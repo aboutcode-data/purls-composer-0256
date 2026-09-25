@@ -68,6 +68,7 @@
 - pkg:composer/laravel/boost@v2.1.6
 - pkg:composer/laravel/boost@v2.1.7
 - pkg:composer/laravel/boost@v2.1.8
+- pkg:composer/laravel/boost@v2.10.0
 - pkg:composer/laravel/boost@v2.2.0
 - pkg:composer/laravel/boost@v2.2.1
 - pkg:composer/laravel/boost@v2.2.2
@@ -102,3 +103,5 @@
 - pkg:composer/laravel/boost@v2.7.1
 - pkg:composer/laravel/boost@v2.8.0
 - pkg:composer/laravel/boost@v2.8.1
+- pkg:composer/laravel/boost@v2.9.0
+- pkg:composer/laravel/boost@v2.9.1
