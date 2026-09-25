@@ -14,6 +14,8 @@
 - pkg:composer/floorplate/fp-template-sk-export@2.0.7
 - pkg:composer/floorplate/fp-template-sk-export@2.0.8
 - pkg:composer/floorplate/fp-template-sk-export@2.0.9
+- pkg:composer/floorplate/fp-template-sk-export@2.1.0
+- pkg:composer/floorplate/fp-template-sk-export@2.1.1
 - pkg:composer/floorplate/fp-template-sk-export@v1.0.0
 - pkg:composer/floorplate/fp-template-sk-export@v1.0.1
 - pkg:composer/floorplate/fp-template-sk-export@v1.0.2
