@@ -83,6 +83,7 @@
 - pkg:composer/livewire/flux@v2.2.4
 - pkg:composer/livewire/flux@v2.2.5
 - pkg:composer/livewire/flux@v2.2.6
+- pkg:composer/livewire/flux@v2.20.0
 - pkg:composer/livewire/flux@v2.3.0
 - pkg:composer/livewire/flux@v2.3.1
 - pkg:composer/livewire/flux@v2.3.2
