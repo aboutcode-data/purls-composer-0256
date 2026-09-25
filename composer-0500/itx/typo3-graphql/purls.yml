@@ -7,3 +7,4 @@
 - pkg:composer/itx/typo3-graphql@3.0.0
 - pkg:composer/itx/typo3-graphql@3.1.0
 - pkg:composer/itx/typo3-graphql@4.0.0
+- pkg:composer/itx/typo3-graphql@4.0.1
