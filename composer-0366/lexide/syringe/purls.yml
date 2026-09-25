@@ -48,3 +48,4 @@
 - pkg:composer/lexide/syringe@2.2.5
 - pkg:composer/lexide/syringe@2.2.6
 - pkg:composer/lexide/syringe@2.3.0
+- pkg:composer/lexide/syringe@3.0.0
