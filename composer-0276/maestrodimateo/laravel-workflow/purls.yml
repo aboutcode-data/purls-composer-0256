@@ -23,3 +23,10 @@
 - pkg:composer/maestrodimateo/laravel-workflow@v2.3.0
 - pkg:composer/maestrodimateo/laravel-workflow@v2.4.0
 - pkg:composer/maestrodimateo/laravel-workflow@v2.4.1
+- pkg:composer/maestrodimateo/laravel-workflow@v2.5.0
+- pkg:composer/maestrodimateo/laravel-workflow@v2.5.1
+- pkg:composer/maestrodimateo/laravel-workflow@v2.6.0
+- pkg:composer/maestrodimateo/laravel-workflow@v2.6.1
+- pkg:composer/maestrodimateo/laravel-workflow@v2.6.2
+- pkg:composer/maestrodimateo/laravel-workflow@v2.7.0
+- pkg:composer/maestrodimateo/laravel-workflow@v2.8.0
