@@ -40,6 +40,14 @@
 - pkg:composer/netresearch/agent-typo3-testing@v5.20.5
 - pkg:composer/netresearch/agent-typo3-testing@v5.20.6
 - pkg:composer/netresearch/agent-typo3-testing@v5.20.7
+- pkg:composer/netresearch/agent-typo3-testing@v5.20.8
+- pkg:composer/netresearch/agent-typo3-testing@v5.21.0
+- pkg:composer/netresearch/agent-typo3-testing@v5.21.1
+- pkg:composer/netresearch/agent-typo3-testing@v5.21.2
+- pkg:composer/netresearch/agent-typo3-testing@v5.21.3
+- pkg:composer/netresearch/agent-typo3-testing@v5.21.4
+- pkg:composer/netresearch/agent-typo3-testing@v5.22.0
+- pkg:composer/netresearch/agent-typo3-testing@v5.22.1
 - pkg:composer/netresearch/agent-typo3-testing@v5.3.0
 - pkg:composer/netresearch/agent-typo3-testing@v5.3.1
 - pkg:composer/netresearch/agent-typo3-testing@v5.3.2
