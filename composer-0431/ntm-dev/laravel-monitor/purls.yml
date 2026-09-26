@@ -5,3 +5,5 @@
 - pkg:composer/ntm-dev/laravel-monitor@v1.0.0-beta4
 - pkg:composer/ntm-dev/laravel-monitor@v1.0.0-beta5
 - pkg:composer/ntm-dev/laravel-monitor@v1.0.0-beta6
+- pkg:composer/ntm-dev/laravel-monitor@v1.1.0
+- pkg:composer/ntm-dev/laravel-monitor@v1.2.0
