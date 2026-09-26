@@ -225,6 +225,7 @@
 - pkg:composer/mollie/mollie-api-php@v3.13.1
 - pkg:composer/mollie/mollie-api-php@v3.13.2
 - pkg:composer/mollie/mollie-api-php@v3.14.0
+- pkg:composer/mollie/mollie-api-php@v3.15.0
 - pkg:composer/mollie/mollie-api-php@v3.2.0
 - pkg:composer/mollie/mollie-api-php@v3.3.0
 - pkg:composer/mollie/mollie-api-php@v3.3.1
@@ -236,6 +237,7 @@
 - pkg:composer/mollie/mollie-api-php@v3.7.0
 - pkg:composer/mollie/mollie-api-php@v3.8.0
 - pkg:composer/mollie/mollie-api-php@v3.9.0
+- pkg:composer/mollie/mollie-api-php@v4.0.0
 - pkg:composer/mollie/mollie-api-php@v4.0.0-beta.1
 - pkg:composer/mollie/mollie-api-php@v4.0.0-beta.2
 - pkg:composer/mollie/mollie-api-php@v4.0.0-beta.3
