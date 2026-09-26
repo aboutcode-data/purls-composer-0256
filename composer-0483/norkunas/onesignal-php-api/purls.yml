@@ -51,6 +51,7 @@
 - pkg:composer/norkunas/onesignal-php-api@v2.13.0
 - pkg:composer/norkunas/onesignal-php-api@v2.14.0
 - pkg:composer/norkunas/onesignal-php-api@v2.15.0
+- pkg:composer/norkunas/onesignal-php-api@v2.16.0
 - pkg:composer/norkunas/onesignal-php-api@v2.2.0
 - pkg:composer/norkunas/onesignal-php-api@v2.3.0
 - pkg:composer/norkunas/onesignal-php-api@v2.4.0
