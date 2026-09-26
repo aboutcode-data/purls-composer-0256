@@ -61,6 +61,7 @@
 - pkg:composer/mongdch/mon-util@1.5.9
 - pkg:composer/mongdch/mon-util@1.6.0
 - pkg:composer/mongdch/mon-util@1.6.1
+- pkg:composer/mongdch/mon-util@1.6.10
 - pkg:composer/mongdch/mon-util@1.6.2
 - pkg:composer/mongdch/mon-util@1.6.3
 - pkg:composer/mongdch/mon-util@1.6.4

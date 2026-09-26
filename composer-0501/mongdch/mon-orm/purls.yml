@@ -8,6 +8,7 @@
 - pkg:composer/mongdch/mon-orm@2.5.7
 - pkg:composer/mongdch/mon-orm@2.5.8
 - pkg:composer/mongdch/mon-orm@2.5.9
+- pkg:composer/mongdch/mon-orm@3.0.0
 - pkg:composer/mongdch/mon-orm@v1.0.1
 - pkg:composer/mongdch/mon-orm@v1.0.2
 - pkg:composer/mongdch/mon-orm@v2.0.0
