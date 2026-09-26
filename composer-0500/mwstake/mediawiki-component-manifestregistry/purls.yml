@@ -8,3 +8,4 @@
 - pkg:composer/mwstake/mediawiki-component-manifestregistry@2.1.4
 - pkg:composer/mwstake/mediawiki-component-manifestregistry@3.0.0
 - pkg:composer/mwstake/mediawiki-component-manifestregistry@3.0.1
+- pkg:composer/mwstake/mediawiki-component-manifestregistry@3.0.2
