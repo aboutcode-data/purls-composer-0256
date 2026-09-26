@@ -5,3 +5,4 @@
 - pkg:composer/nicoandra/laravel-data-openapi-generator@v0.0.5
 - pkg:composer/nicoandra/laravel-data-openapi-generator@v0.0.6
 - pkg:composer/nicoandra/laravel-data-openapi-generator@v0.0.7
+- pkg:composer/nicoandra/laravel-data-openapi-generator@v0.0.8
