@@ -292,3 +292,6 @@
 - pkg:composer/october/october@v4.4.1
 - pkg:composer/october/october@v4.4.2
 - pkg:composer/october/october@v4.4.4
+- pkg:composer/october/october@v4.4.6
+- pkg:composer/october/october@v4.4.7
+- pkg:composer/october/october@v4.4.8
