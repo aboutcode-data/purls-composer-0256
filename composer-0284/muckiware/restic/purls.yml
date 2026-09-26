@@ -6,3 +6,4 @@
 - pkg:composer/muckiware/restic@v1.3.0
 - pkg:composer/muckiware/restic@v1.4.0
 - pkg:composer/muckiware/restic@v1.4.1
+- pkg:composer/muckiware/restic@v1.5.0
