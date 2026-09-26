@@ -53,3 +53,4 @@
 - pkg:composer/netzmacht/contao-toolkit@4.0.7
 - pkg:composer/netzmacht/contao-toolkit@4.0.8
 - pkg:composer/netzmacht/contao-toolkit@4.0.9
+- pkg:composer/netzmacht/contao-toolkit@4.1.0-beta1
