@@ -1,3 +1,5 @@
 - pkg:composer/masgeek/laravel-health-checker@1.0.0
 - pkg:composer/masgeek/laravel-health-checker@1.0.1
 - pkg:composer/masgeek/laravel-health-checker@1.0.2
+- pkg:composer/masgeek/laravel-health-checker@1.0.3
+- pkg:composer/masgeek/laravel-health-checker@1.1.0
