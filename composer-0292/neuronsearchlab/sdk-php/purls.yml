@@ -1,2 +1,4 @@
 - pkg:composer/neuronsearchlab/sdk-php@v1.20.0
 - pkg:composer/neuronsearchlab/sdk-php@v2.0.0
+- pkg:composer/neuronsearchlab/sdk-php@v2.1.0
+- pkg:composer/neuronsearchlab/sdk-php@v2.2.0
