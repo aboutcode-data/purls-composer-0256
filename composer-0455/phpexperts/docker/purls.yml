@@ -18,6 +18,8 @@
 - pkg:composer/phpexperts/docker@v13.0.3
 - pkg:composer/phpexperts/docker@v14.0.0
 - pkg:composer/phpexperts/docker@v14.1.0
+- pkg:composer/phpexperts/docker@v14.2.0
+- pkg:composer/phpexperts/docker@v15.0.0
 - pkg:composer/phpexperts/docker@v5.0
 - pkg:composer/phpexperts/docker@v5.0.1
 - pkg:composer/phpexperts/docker@v5.0.2
