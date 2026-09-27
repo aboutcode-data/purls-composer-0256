@@ -12,3 +12,4 @@
 - pkg:composer/phpbb/boardannouncements@1.2.0
 - pkg:composer/phpbb/boardannouncements@1.2.1
 - pkg:composer/phpbb/boardannouncements@1.3.0
+- pkg:composer/phpbb/boardannouncements@1.3.1
