@@ -89,3 +89,5 @@
 - pkg:composer/mlbrgn/laravel-medialibrary-extensions@2.7.0
 - pkg:composer/mlbrgn/laravel-medialibrary-extensions@2.8.0
 - pkg:composer/mlbrgn/laravel-medialibrary-extensions@2.8.1
+- pkg:composer/mlbrgn/laravel-medialibrary-extensions@2.8.2
+- pkg:composer/mlbrgn/laravel-medialibrary-extensions@2.8.3
