@@ -1,5 +1,8 @@
 - pkg:composer/rybakit/msgpack@v0.1.0
 - pkg:composer/rybakit/msgpack@v0.10.0
+- pkg:composer/rybakit/msgpack@v0.11.0
+- pkg:composer/rybakit/msgpack@v0.11.1
+- pkg:composer/rybakit/msgpack@v0.11.2
 - pkg:composer/rybakit/msgpack@v0.2.0
 - pkg:composer/rybakit/msgpack@v0.2.1
 - pkg:composer/rybakit/msgpack@v0.2.2
