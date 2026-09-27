@@ -10,3 +10,6 @@
 - pkg:composer/rasuvaeff/understudy-phpunit@v0.3.0
 - pkg:composer/rasuvaeff/understudy-phpunit@v0.4.0
 - pkg:composer/rasuvaeff/understudy-phpunit@v0.4.1
+- pkg:composer/rasuvaeff/understudy-phpunit@v0.5.0
+- pkg:composer/rasuvaeff/understudy-phpunit@v0.5.1
+- pkg:composer/rasuvaeff/understudy-phpunit@v1.0.0
