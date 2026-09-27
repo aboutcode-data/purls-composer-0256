@@ -1,3 +1,5 @@
 - pkg:composer/restruct/silverstripe-404logger@2.0.0
 - pkg:composer/restruct/silverstripe-404logger@2.0.1
 - pkg:composer/restruct/silverstripe-404logger@2.0.2
+- pkg:composer/restruct/silverstripe-404logger@3.0.0
+- pkg:composer/restruct/silverstripe-404logger@3.0.1
