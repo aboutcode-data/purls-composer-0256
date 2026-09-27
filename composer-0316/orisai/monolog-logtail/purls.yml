@@ -1,3 +1,6 @@
 - pkg:composer/orisai/monolog-logtail@1.0.0
 - pkg:composer/orisai/monolog-logtail@1.0.1
 - pkg:composer/orisai/monolog-logtail@1.0.2
+- pkg:composer/orisai/monolog-logtail@1.1.0
+- pkg:composer/orisai/monolog-logtail@1.2.0
+- pkg:composer/orisai/monolog-logtail@2.0.0
