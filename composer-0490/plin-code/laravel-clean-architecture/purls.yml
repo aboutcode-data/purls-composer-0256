@@ -10,3 +10,6 @@
 - pkg:composer/plin-code/laravel-clean-architecture@v3.2.0
 - pkg:composer/plin-code/laravel-clean-architecture@v3.3.0
 - pkg:composer/plin-code/laravel-clean-architecture@v3.4.0
+- pkg:composer/plin-code/laravel-clean-architecture@v3.4.1
+- pkg:composer/plin-code/laravel-clean-architecture@v3.4.2
+- pkg:composer/plin-code/laravel-clean-architecture@v3.5.0
