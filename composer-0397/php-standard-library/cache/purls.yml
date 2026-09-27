@@ -3,3 +3,4 @@
 - pkg:composer/php-standard-library/cache@6.1.2
 - pkg:composer/php-standard-library/cache@6.2.0
 - pkg:composer/php-standard-library/cache@6.2.1
+- pkg:composer/php-standard-library/cache@6.3.0
