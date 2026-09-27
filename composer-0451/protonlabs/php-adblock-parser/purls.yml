@@ -8,3 +8,4 @@
 - pkg:composer/protonlabs/php-adblock-parser@1.1.1
 - pkg:composer/protonlabs/php-adblock-parser@1.1.4
 - pkg:composer/protonlabs/php-adblock-parser@1.1.5
+- pkg:composer/protonlabs/php-adblock-parser@1.2.0
