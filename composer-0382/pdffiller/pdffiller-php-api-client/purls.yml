@@ -20,3 +20,4 @@
 - pkg:composer/pdffiller/pdffiller-php-api-client@v1.4.0
 - pkg:composer/pdffiller/pdffiller-php-api-client@v3.1.0
 - pkg:composer/pdffiller/pdffiller-php-api-client@v3.2.0
+- pkg:composer/pdffiller/pdffiller-php-api-client@v4.0.0
