@@ -9,6 +9,7 @@
 - pkg:composer/phpunit/phpcov@13.0.0
 - pkg:composer/phpunit/phpcov@13.0.1
 - pkg:composer/phpunit/phpcov@13.1.0
+- pkg:composer/phpunit/phpcov@13.1.1
 - pkg:composer/phpunit/phpcov@2.0.0
 - pkg:composer/phpunit/phpcov@2.0.1
 - pkg:composer/phpunit/phpcov@2.0.2
