@@ -5,3 +5,4 @@
 - pkg:composer/publiq/php-cs-fixer-config@v1.3.1
 - pkg:composer/publiq/php-cs-fixer-config@v2.0
 - pkg:composer/publiq/php-cs-fixer-config@v2.1
+- pkg:composer/publiq/php-cs-fixer-config@v2.2
