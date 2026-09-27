@@ -47,7 +47,17 @@
 - pkg:composer/parisek/styleguide@v1.16.0
 - pkg:composer/parisek/styleguide@v1.16.1
 - pkg:composer/parisek/styleguide@v1.16.2
+- pkg:composer/parisek/styleguide@v1.17.0
+- pkg:composer/parisek/styleguide@v1.18.0
+- pkg:composer/parisek/styleguide@v1.18.1
+- pkg:composer/parisek/styleguide@v1.18.2
+- pkg:composer/parisek/styleguide@v1.19.0
 - pkg:composer/parisek/styleguide@v1.2.0
+- pkg:composer/parisek/styleguide@v1.20.0
+- pkg:composer/parisek/styleguide@v1.21.0
+- pkg:composer/parisek/styleguide@v1.22.0
+- pkg:composer/parisek/styleguide@v1.23.0
+- pkg:composer/parisek/styleguide@v1.24.0
 - pkg:composer/parisek/styleguide@v1.3.0
 - pkg:composer/parisek/styleguide@v1.4.0
 - pkg:composer/parisek/styleguide@v1.5.0
