@@ -84,6 +84,13 @@
 - pkg:composer/schachbulle/contao-wertungsportal-bundle@1.44.1
 - pkg:composer/schachbulle/contao-wertungsportal-bundle@1.45.0
 - pkg:composer/schachbulle/contao-wertungsportal-bundle@1.45.1
+- pkg:composer/schachbulle/contao-wertungsportal-bundle@1.46.0
+- pkg:composer/schachbulle/contao-wertungsportal-bundle@1.46.1
+- pkg:composer/schachbulle/contao-wertungsportal-bundle@1.46.2
+- pkg:composer/schachbulle/contao-wertungsportal-bundle@1.46.3
+- pkg:composer/schachbulle/contao-wertungsportal-bundle@1.47.0
+- pkg:composer/schachbulle/contao-wertungsportal-bundle@1.47.1
+- pkg:composer/schachbulle/contao-wertungsportal-bundle@1.48.0
 - pkg:composer/schachbulle/contao-wertungsportal-bundle@1.5.0
 - pkg:composer/schachbulle/contao-wertungsportal-bundle@1.6.0
 - pkg:composer/schachbulle/contao-wertungsportal-bundle@1.7.0
