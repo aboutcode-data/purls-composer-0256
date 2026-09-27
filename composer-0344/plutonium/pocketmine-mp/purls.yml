@@ -410,6 +410,8 @@
 - pkg:composer/plutonium/pocketmine-mp@5.118.3
 - pkg:composer/plutonium/pocketmine-mp@5.118.4
 - pkg:composer/plutonium/pocketmine-mp@5.118.5
+- pkg:composer/plutonium/pocketmine-mp@5.118.6
+- pkg:composer/plutonium/pocketmine-mp@5.118.7
 - pkg:composer/plutonium/pocketmine-mp@5.12.0
 - pkg:composer/plutonium/pocketmine-mp@5.12.1
 - pkg:composer/plutonium/pocketmine-mp@5.13.0
