@@ -1,6 +1,7 @@
 - pkg:composer/online-payments/sdk-php@10.0.0
 - pkg:composer/online-payments/sdk-php@10.1.0
 - pkg:composer/online-payments/sdk-php@10.2.0
+- pkg:composer/online-payments/sdk-php@11.0.0
 - pkg:composer/online-payments/sdk-php@3.0.0
 - pkg:composer/online-payments/sdk-php@3.1.0
 - pkg:composer/online-payments/sdk-php@3.2.0
