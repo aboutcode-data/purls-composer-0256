@@ -68,6 +68,8 @@
 - pkg:composer/posio/cabinet-kit@0.4.20
 - pkg:composer/posio/cabinet-kit@0.4.21
 - pkg:composer/posio/cabinet-kit@0.4.22
+- pkg:composer/posio/cabinet-kit@0.4.23
+- pkg:composer/posio/cabinet-kit@0.4.24
 - pkg:composer/posio/cabinet-kit@0.4.3
 - pkg:composer/posio/cabinet-kit@0.4.4
 - pkg:composer/posio/cabinet-kit@0.4.5
