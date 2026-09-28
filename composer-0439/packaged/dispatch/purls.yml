@@ -15,6 +15,7 @@
 - pkg:composer/packaged/dispatch@1.5.0
 - pkg:composer/packaged/dispatch@1.6.0
 - pkg:composer/packaged/dispatch@1.6.1
+- pkg:composer/packaged/dispatch@1.6.10
 - pkg:composer/packaged/dispatch@1.6.2
 - pkg:composer/packaged/dispatch@1.6.3
 - pkg:composer/packaged/dispatch@1.6.4
@@ -22,6 +23,7 @@
 - pkg:composer/packaged/dispatch@1.6.6
 - pkg:composer/packaged/dispatch@1.6.7
 - pkg:composer/packaged/dispatch@1.6.8
+- pkg:composer/packaged/dispatch@1.6.9
 - pkg:composer/packaged/dispatch@2.0.0
 - pkg:composer/packaged/dispatch@2.0.0-alpha
 - pkg:composer/packaged/dispatch@2.0.0-alpha.10
@@ -65,6 +67,7 @@
 - pkg:composer/packaged/dispatch@2.20.0
 - pkg:composer/packaged/dispatch@2.21.0
 - pkg:composer/packaged/dispatch@2.21.1
+- pkg:composer/packaged/dispatch@2.22.0
 - pkg:composer/packaged/dispatch@2.3.0
 - pkg:composer/packaged/dispatch@2.4.0
 - pkg:composer/packaged/dispatch@2.4.1
