@@ -22,6 +22,7 @@
 - pkg:composer/pimia/pimia-php@v0.32.0
 - pkg:composer/pimia/pimia-php@v0.34.0
 - pkg:composer/pimia/pimia-php@v0.35.0
+- pkg:composer/pimia/pimia-php@v0.36.0
 - pkg:composer/pimia/pimia-php@v0.4.0
 - pkg:composer/pimia/pimia-php@v0.5.0
 - pkg:composer/pimia/pimia-php@v0.6.0
