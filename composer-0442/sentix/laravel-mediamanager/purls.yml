@@ -5,3 +5,4 @@
 - pkg:composer/sentix/laravel-mediamanager@1.0.6
 - pkg:composer/sentix/laravel-mediamanager@1.0.8
 - pkg:composer/sentix/laravel-mediamanager@1.0.9
+- pkg:composer/sentix/laravel-mediamanager@1.1.1
