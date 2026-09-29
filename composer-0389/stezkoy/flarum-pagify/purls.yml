@@ -12,4 +12,5 @@
 - pkg:composer/stezkoy/flarum-pagify@1.0.7
 - pkg:composer/stezkoy/flarum-pagify@1.0.8
 - pkg:composer/stezkoy/flarum-pagify@1.0.9
+- pkg:composer/stezkoy/flarum-pagify@2.0.0
 - pkg:composer/stezkoy/flarum-pagify@v1.0.5
