@@ -124,3 +124,4 @@
 - pkg:composer/phalcon-kit/core@3.8.0
 - pkg:composer/phalcon-kit/core@3.9.0
 - pkg:composer/phalcon-kit/core@4.0.0
+- pkg:composer/phalcon-kit/core@4.0.1
