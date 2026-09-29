@@ -23,6 +23,7 @@
 - pkg:composer/pimcore/frontend-permission-toolkit-bundle@v2026.1.0
 - pkg:composer/pimcore/frontend-permission-toolkit-bundle@v2026.2.0
 - pkg:composer/pimcore/frontend-permission-toolkit-bundle@v2026.2.1
+- pkg:composer/pimcore/frontend-permission-toolkit-bundle@v2026.3.0
 - pkg:composer/pimcore/frontend-permission-toolkit-bundle@v3.0.0
 - pkg:composer/pimcore/frontend-permission-toolkit-bundle@v3.0.0-RC1
 - pkg:composer/pimcore/frontend-permission-toolkit-bundle@v3.1.0
