@@ -1,1 +1,3 @@
 - pkg:composer/sshkolyk/laravel-queue-kafka@v2.0.0
+- pkg:composer/sshkolyk/laravel-queue-kafka@v2.1.1
+- pkg:composer/sshkolyk/laravel-queue-kafka@v2.1.2
