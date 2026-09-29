@@ -2,5 +2,7 @@
 - pkg:composer/prepmock/jambura-core@v2.0.0
 - pkg:composer/prepmock/jambura-core@v2.1.0
 - pkg:composer/prepmock/jambura-core@v2.1.1
+- pkg:composer/prepmock/jambura-core@v2.2.0
 - pkg:composer/prepmock/jambura-core@v3.0.0
 - pkg:composer/prepmock/jambura-core@v3.1.0
+- pkg:composer/prepmock/jambura-core@v3.2.0
