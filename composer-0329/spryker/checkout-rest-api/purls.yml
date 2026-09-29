@@ -32,6 +32,7 @@
 - pkg:composer/spryker/checkout-rest-api@3.18.0
 - pkg:composer/spryker/checkout-rest-api@3.18.1
 - pkg:composer/spryker/checkout-rest-api@3.18.2
+- pkg:composer/spryker/checkout-rest-api@3.18.3
 - pkg:composer/spryker/checkout-rest-api@3.2.0
 - pkg:composer/spryker/checkout-rest-api@3.2.1
 - pkg:composer/spryker/checkout-rest-api@3.3.0
