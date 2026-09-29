@@ -13,6 +13,10 @@
 - pkg:composer/shredio/core@v1.10.7
 - pkg:composer/shredio/core@v1.10.8
 - pkg:composer/shredio/core@v1.10.9
+- pkg:composer/shredio/core@v1.11.0
+- pkg:composer/shredio/core@v1.11.1
+- pkg:composer/shredio/core@v1.11.2
+- pkg:composer/shredio/core@v1.11.3
 - pkg:composer/shredio/core@v1.2.0
 - pkg:composer/shredio/core@v1.3.0
 - pkg:composer/shredio/core@v1.4.0
