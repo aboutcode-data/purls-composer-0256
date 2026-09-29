@@ -4,6 +4,7 @@
 - pkg:composer/shopper/cart@v2.11.0
 - pkg:composer/shopper/cart@v2.11.1
 - pkg:composer/shopper/cart@v2.11.2
+- pkg:composer/shopper/cart@v2.12.0
 - pkg:composer/shopper/cart@v2.6.0
 - pkg:composer/shopper/cart@v2.6.1
 - pkg:composer/shopper/cart@v2.6.2
@@ -24,3 +25,5 @@
 - pkg:composer/shopper/cart@v3.0.0-beta.4
 - pkg:composer/shopper/cart@v3.0.0-beta.5
 - pkg:composer/shopper/cart@v3.0.0-beta.6
+- pkg:composer/shopper/cart@v3.0.0-rc.1
+- pkg:composer/shopper/cart@v3.0.0-rc.2
