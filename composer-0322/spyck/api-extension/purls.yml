@@ -21,3 +21,5 @@
 - pkg:composer/spyck/api-extension@1.0.7
 - pkg:composer/spyck/api-extension@1.0.8
 - pkg:composer/spyck/api-extension@1.0.9
+- pkg:composer/spyck/api-extension@1.1.0
+- pkg:composer/spyck/api-extension@1.1.1
