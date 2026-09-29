@@ -101,6 +101,8 @@
 - pkg:composer/spryker/propel@3.50.0
 - pkg:composer/spryker/propel@3.50.1
 - pkg:composer/spryker/propel@3.50.2
+- pkg:composer/spryker/propel@3.50.3
+- pkg:composer/spryker/propel@3.51.0
 - pkg:composer/spryker/propel@3.6.0
 - pkg:composer/spryker/propel@3.6.1
 - pkg:composer/spryker/propel@3.7.0
