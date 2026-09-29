@@ -12,3 +12,4 @@
 - pkg:composer/paymos/php-sdk@v1.4.2
 - pkg:composer/paymos/php-sdk@v1.4.3
 - pkg:composer/paymos/php-sdk@v1.4.4
+- pkg:composer/paymos/php-sdk@v1.5.0
