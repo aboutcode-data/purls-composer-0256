@@ -30,6 +30,7 @@
 - pkg:composer/redot/core@v0.1.38
 - pkg:composer/redot/core@v0.1.39
 - pkg:composer/redot/core@v0.1.4
+- pkg:composer/redot/core@v0.1.40
 - pkg:composer/redot/core@v0.1.5
 - pkg:composer/redot/core@v0.1.6
 - pkg:composer/redot/core@v0.1.7
