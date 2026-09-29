@@ -22,3 +22,4 @@
 - pkg:composer/payever/payever-integration-oxid@3.5.0
 - pkg:composer/payever/payever-integration-oxid@3.6.0
 - pkg:composer/payever/payever-integration-oxid@3.6.1
+- pkg:composer/payever/payever-integration-oxid@4.0.0
