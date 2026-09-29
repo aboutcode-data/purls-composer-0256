@@ -18,3 +18,4 @@
 - pkg:composer/silverstripe/s3@4.0.3
 - pkg:composer/silverstripe/s3@5.0.0
 - pkg:composer/silverstripe/s3@5.0.1
+- pkg:composer/silverstripe/s3@5.0.2
