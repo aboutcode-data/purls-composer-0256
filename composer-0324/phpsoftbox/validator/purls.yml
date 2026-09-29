@@ -1,1 +1,2 @@
-- pkg:composer/phpsoftbox/validator@v0.1.0-beta.1
+- pkg:composer/phpsoftbox/validator@v1.0.0
+- pkg:composer/phpsoftbox/validator@v1.0.1
