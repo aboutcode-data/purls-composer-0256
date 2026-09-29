@@ -46,3 +46,4 @@
 - pkg:composer/segmentio/analytics-php@3.8.0
 - pkg:composer/segmentio/analytics-php@3.8.1
 - pkg:composer/segmentio/analytics-php@3.8.2
+- pkg:composer/segmentio/analytics-php@3.9.0
