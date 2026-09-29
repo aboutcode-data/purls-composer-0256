@@ -18,3 +18,4 @@
 - pkg:composer/spryker/product-availabilities-rest-api@4.7.0
 - pkg:composer/spryker/product-availabilities-rest-api@4.7.1
 - pkg:composer/spryker/product-availabilities-rest-api@4.7.2
+- pkg:composer/spryker/product-availabilities-rest-api@4.7.3
