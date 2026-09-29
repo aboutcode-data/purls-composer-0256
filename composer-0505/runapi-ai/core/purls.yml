@@ -28,3 +28,4 @@
 - pkg:composer/runapi-ai/core@v0.6.4
 - pkg:composer/runapi-ai/core@v0.6.5
 - pkg:composer/runapi-ai/core@v0.6.6
+- pkg:composer/runapi-ai/core@v0.7.0
