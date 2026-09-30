@@ -16,3 +16,4 @@
 - pkg:composer/vanilo/braintree@2.0.3
 - pkg:composer/vanilo/braintree@2.0.4
 - pkg:composer/vanilo/braintree@3.0.0
+- pkg:composer/vanilo/braintree@4.0.0

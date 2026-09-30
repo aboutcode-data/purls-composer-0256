@@ -21,3 +21,4 @@
 - pkg:composer/vanilo/admin@5.1.4
 - pkg:composer/vanilo/admin@5.2.0
 - pkg:composer/vanilo/admin@5.2.1
+- pkg:composer/vanilo/admin@6.0.0
