@@ -8,3 +8,4 @@
 - pkg:composer/topsort/sdk@2.2.3
 - pkg:composer/topsort/sdk@3.0.0
 - pkg:composer/topsort/sdk@3.0.1
+- pkg:composer/topsort/sdk@3.1.0
