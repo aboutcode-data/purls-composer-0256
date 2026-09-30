@@ -40,3 +40,4 @@
 - pkg:composer/spryker/navigation-gui@3.3.0
 - pkg:composer/spryker/navigation-gui@3.4.0
 - pkg:composer/spryker/navigation-gui@3.5.0
+- pkg:composer/spryker/navigation-gui@3.5.1
