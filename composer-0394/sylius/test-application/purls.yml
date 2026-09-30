@@ -16,3 +16,5 @@
 - pkg:composer/sylius/test-application@v2.1.0-ALPHA.6
 - pkg:composer/sylius/test-application@v2.2.0-ALPHA.1
 - pkg:composer/sylius/test-application@v2.3.0-ALPHA.1
+- pkg:composer/sylius/test-application@v2.3.0-ALPHA.2
+- pkg:composer/sylius/test-application@v2.3.0-ALPHA.3
