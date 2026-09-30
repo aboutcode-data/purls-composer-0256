@@ -14,3 +14,7 @@
 - pkg:composer/symfony/deepclone@v0.8.1
 - pkg:composer/symfony/deepclone@v0.8.2
 - pkg:composer/symfony/deepclone@v0.8.3
+- pkg:composer/symfony/deepclone@v0.8.4
+- pkg:composer/symfony/deepclone@v0.8.5
+- pkg:composer/symfony/deepclone@v0.8.6
+- pkg:composer/symfony/deepclone@v0.8.7
