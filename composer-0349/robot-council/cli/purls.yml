@@ -27,6 +27,7 @@
 - pkg:composer/robot-council/cli@v0.4.3
 - pkg:composer/robot-council/cli@v0.4.30
 - pkg:composer/robot-council/cli@v0.4.31
+- pkg:composer/robot-council/cli@v0.4.32
 - pkg:composer/robot-council/cli@v0.4.4
 - pkg:composer/robot-council/cli@v0.4.5
 - pkg:composer/robot-council/cli@v0.4.6
