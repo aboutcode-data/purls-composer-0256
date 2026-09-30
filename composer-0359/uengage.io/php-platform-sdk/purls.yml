@@ -5,3 +5,6 @@
 - pkg:composer/uengage.io/php-platform-sdk@v1.1.0
 - pkg:composer/uengage.io/php-platform-sdk@v2.1.0
 - pkg:composer/uengage.io/php-platform-sdk@v2.3.1
+- pkg:composer/uengage.io/php-platform-sdk@v3.0.0
+- pkg:composer/uengage.io/php-platform-sdk@v3.1.0
+- pkg:composer/uengage.io/php-platform-sdk@v3.2.0
