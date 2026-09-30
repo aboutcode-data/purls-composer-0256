@@ -152,3 +152,4 @@
 - pkg:composer/utopia-php/migration@2.0.5
 - pkg:composer/utopia-php/migration@2.0.6
 - pkg:composer/utopia-php/migration@2.0.7
+- pkg:composer/utopia-php/migration@2.0.8
