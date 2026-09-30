@@ -13,3 +13,5 @@
 - pkg:composer/team-mate-pro/infra-bundle@1.6.0
 - pkg:composer/team-mate-pro/infra-bundle@2.0.0
 - pkg:composer/team-mate-pro/infra-bundle@2.1.0
+- pkg:composer/team-mate-pro/infra-bundle@2.2.0
+- pkg:composer/team-mate-pro/infra-bundle@2.2.1
