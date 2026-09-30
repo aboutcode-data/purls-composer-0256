@@ -2,3 +2,4 @@
 - pkg:composer/tracium/symfony@v0.2.0
 - pkg:composer/tracium/symfony@v0.2.1
 - pkg:composer/tracium/symfony@v1.0.0
+- pkg:composer/tracium/symfony@v1.0.1
