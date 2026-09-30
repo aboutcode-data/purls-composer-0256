@@ -100,6 +100,7 @@
 - pkg:composer/symfony/asset-mapper@v7.4.15
 - pkg:composer/symfony/asset-mapper@v7.4.17
 - pkg:composer/symfony/asset-mapper@v7.4.19
+- pkg:composer/symfony/asset-mapper@v7.4.20
 - pkg:composer/symfony/asset-mapper@v7.4.3
 - pkg:composer/symfony/asset-mapper@v7.4.4
 - pkg:composer/symfony/asset-mapper@v7.4.6
@@ -128,3 +129,4 @@
 - pkg:composer/symfony/asset-mapper@v8.1.2
 - pkg:composer/symfony/asset-mapper@v8.1.5
 - pkg:composer/symfony/asset-mapper@v8.1.7
+- pkg:composer/symfony/asset-mapper@v8.1.8
