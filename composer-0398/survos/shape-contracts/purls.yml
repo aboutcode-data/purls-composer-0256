@@ -19,6 +19,7 @@
 - pkg:composer/survos/shape-contracts@2.10.7
 - pkg:composer/survos/shape-contracts@2.10.8
 - pkg:composer/survos/shape-contracts@2.10.9
+- pkg:composer/survos/shape-contracts@2.33.0
 - pkg:composer/survos/shape-contracts@2.5.6
 - pkg:composer/survos/shape-contracts@2.5.7
 - pkg:composer/survos/shape-contracts@2.5.8
