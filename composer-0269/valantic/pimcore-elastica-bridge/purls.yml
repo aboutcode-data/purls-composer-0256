@@ -50,3 +50,4 @@
 - pkg:composer/valantic/pimcore-elastica-bridge@4.3.1
 - pkg:composer/valantic/pimcore-elastica-bridge@4.3.3
 - pkg:composer/valantic/pimcore-elastica-bridge@4.3.4
+- pkg:composer/valantic/pimcore-elastica-bridge@5.0.0-beta.1
