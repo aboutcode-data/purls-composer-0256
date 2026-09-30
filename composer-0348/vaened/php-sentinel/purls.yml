@@ -1,4 +1,7 @@
 - pkg:composer/vaened/php-sentinel@v0.1.0
+- pkg:composer/vaened/php-sentinel@v0.10.0
+- pkg:composer/vaened/php-sentinel@v0.11.0
+- pkg:composer/vaened/php-sentinel@v0.11.1
 - pkg:composer/vaened/php-sentinel@v0.2.0
 - pkg:composer/vaened/php-sentinel@v0.3.0
 - pkg:composer/vaened/php-sentinel@v0.3.1
@@ -8,3 +11,5 @@
 - pkg:composer/vaened/php-sentinel@v0.6.0
 - pkg:composer/vaened/php-sentinel@v0.7.0
 - pkg:composer/vaened/php-sentinel@v0.7.1
+- pkg:composer/vaened/php-sentinel@v0.8.0
+- pkg:composer/vaened/php-sentinel@v0.9.0
