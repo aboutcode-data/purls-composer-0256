@@ -5,3 +5,5 @@
 - pkg:composer/uma/secp256k1-nostr@v0.1.4
 - pkg:composer/uma/secp256k1-nostr@v0.1.5
 - pkg:composer/uma/secp256k1-nostr@v0.1.6
+- pkg:composer/uma/secp256k1-nostr@v0.1.7
+- pkg:composer/uma/secp256k1-nostr@v1.0.0
