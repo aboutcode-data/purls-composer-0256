@@ -6,6 +6,8 @@
 - pkg:composer/tetrixdev/laravel-ai-bridge@v0.12.0
 - pkg:composer/tetrixdev/laravel-ai-bridge@v0.13.0
 - pkg:composer/tetrixdev/laravel-ai-bridge@v0.14.0
+- pkg:composer/tetrixdev/laravel-ai-bridge@v0.14.1
+- pkg:composer/tetrixdev/laravel-ai-bridge@v0.15.0
 - pkg:composer/tetrixdev/laravel-ai-bridge@v0.2.0
 - pkg:composer/tetrixdev/laravel-ai-bridge@v0.2.1
 - pkg:composer/tetrixdev/laravel-ai-bridge@v0.2.2
