@@ -42,6 +42,7 @@
 - pkg:composer/symfony/polyfill-intl-grapheme@v1.38.1
 - pkg:composer/symfony/polyfill-intl-grapheme@v1.4.0
 - pkg:composer/symfony/polyfill-intl-grapheme@v1.41.0
+- pkg:composer/symfony/polyfill-intl-grapheme@v1.43.0
 - pkg:composer/symfony/polyfill-intl-grapheme@v1.5.0
 - pkg:composer/symfony/polyfill-intl-grapheme@v1.6.0
 - pkg:composer/symfony/polyfill-intl-grapheme@v1.7.0
