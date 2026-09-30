@@ -32,6 +32,14 @@
 - pkg:composer/voku/agent-learning@0.18.18
 - pkg:composer/voku/agent-learning@0.18.19
 - pkg:composer/voku/agent-learning@0.18.2
+- pkg:composer/voku/agent-learning@0.18.20
+- pkg:composer/voku/agent-learning@0.18.21
+- pkg:composer/voku/agent-learning@0.18.22
+- pkg:composer/voku/agent-learning@0.18.23
+- pkg:composer/voku/agent-learning@0.18.24
+- pkg:composer/voku/agent-learning@0.18.25
+- pkg:composer/voku/agent-learning@0.18.26
+- pkg:composer/voku/agent-learning@0.18.27
 - pkg:composer/voku/agent-learning@0.18.3
 - pkg:composer/voku/agent-learning@0.18.4
 - pkg:composer/voku/agent-learning@0.18.5
