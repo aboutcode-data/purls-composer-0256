@@ -67,3 +67,4 @@
 - pkg:composer/abtzco/seed-php@1.9.1
 - pkg:composer/abtzco/seed-php@1.9.2
 - pkg:composer/abtzco/seed-php@1.9.3
+- pkg:composer/abtzco/seed-php@2.0.0
