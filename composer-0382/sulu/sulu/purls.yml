@@ -359,6 +359,7 @@
 - pkg:composer/sulu/sulu@2.6.24
 - pkg:composer/sulu/sulu@2.6.25
 - pkg:composer/sulu/sulu@2.6.26
+- pkg:composer/sulu/sulu@2.6.27
 - pkg:composer/sulu/sulu@2.6.3
 - pkg:composer/sulu/sulu@2.6.4
 - pkg:composer/sulu/sulu@2.6.5
@@ -379,6 +380,7 @@
 - pkg:composer/sulu/sulu@3.0.0-beta3
 - pkg:composer/sulu/sulu@3.0.0-beta4
 - pkg:composer/sulu/sulu@3.0.1
+- pkg:composer/sulu/sulu@3.0.10
 - pkg:composer/sulu/sulu@3.0.2
 - pkg:composer/sulu/sulu@3.0.3
 - pkg:composer/sulu/sulu@3.0.4
