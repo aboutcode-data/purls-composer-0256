@@ -22,3 +22,4 @@
 - pkg:composer/wpml/wp@0.2.0
 - pkg:composer/wpml/wp@0.2.1
 - pkg:composer/wpml/wp@5.0.0
+- pkg:composer/wpml/wp@5.1.0
