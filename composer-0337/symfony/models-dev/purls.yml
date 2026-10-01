@@ -98,6 +98,7 @@
 - pkg:composer/symfony/models-dev@v176.0
 - pkg:composer/symfony/models-dev@v177.0
 - pkg:composer/symfony/models-dev@v178.0
+- pkg:composer/symfony/models-dev@v179.0
 - pkg:composer/symfony/models-dev@v18.0
 - pkg:composer/symfony/models-dev@v19.0
 - pkg:composer/symfony/models-dev@v2.0
