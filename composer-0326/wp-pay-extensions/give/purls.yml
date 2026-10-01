@@ -25,3 +25,4 @@
 - pkg:composer/wp-pay-extensions/give@v4.2.4
 - pkg:composer/wp-pay-extensions/give@v4.2.5
 - pkg:composer/wp-pay-extensions/give@v4.3.0
+- pkg:composer/wp-pay-extensions/give@v5.0.0
