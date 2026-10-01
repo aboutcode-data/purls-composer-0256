@@ -10,3 +10,4 @@
 - pkg:composer/wmde/fun-validators@v4.2.0
 - pkg:composer/wmde/fun-validators@v5.0.0
 - pkg:composer/wmde/fun-validators@v5.1.0
+- pkg:composer/wmde/fun-validators@v5.1.1
