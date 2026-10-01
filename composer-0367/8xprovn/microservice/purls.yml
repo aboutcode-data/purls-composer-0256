@@ -127,3 +127,6 @@
 - pkg:composer/8xprovn/microservice@v3.0.942
 - pkg:composer/8xprovn/microservice@v3.0.95
 - pkg:composer/8xprovn/microservice@v3.0.96
+- pkg:composer/8xprovn/microservice@v4.0.1
+- pkg:composer/8xprovn/microservice@v4.0.2
+- pkg:composer/8xprovn/microservice@v4.0.3
