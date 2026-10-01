@@ -60,6 +60,7 @@
 - pkg:composer/survos/dataset-bundle@2.33.0
 - pkg:composer/survos/dataset-bundle@2.34.0
 - pkg:composer/survos/dataset-bundle@2.34.2
+- pkg:composer/survos/dataset-bundle@2.34.25
 - pkg:composer/survos/dataset-bundle@2.34.5
 - pkg:composer/survos/dataset-bundle@2.34.9
 - pkg:composer/survos/dataset-bundle@2.5.0
