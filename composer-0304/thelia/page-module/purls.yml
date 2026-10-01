@@ -24,3 +24,5 @@
 - pkg:composer/thelia/page-module@2.0.1
 - pkg:composer/thelia/page-module@2.0.2
 - pkg:composer/thelia/page-module@2.0.3
+- pkg:composer/thelia/page-module@2.0.4
+- pkg:composer/thelia/page-module@2.0.5
