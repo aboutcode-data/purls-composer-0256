@@ -1,4 +1,5 @@
 - pkg:composer/venusian-voyager/contracts@v0.10.0
+- pkg:composer/venusian-voyager/contracts@v0.10.1
 - pkg:composer/venusian-voyager/contracts@v0.8.0
 - pkg:composer/venusian-voyager/contracts@v0.8.1
 - pkg:composer/venusian-voyager/contracts@v0.8.2
