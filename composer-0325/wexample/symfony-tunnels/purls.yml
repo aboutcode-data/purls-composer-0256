@@ -129,3 +129,9 @@
 - pkg:composer/wexample/symfony-tunnels@2.0.0
 - pkg:composer/wexample/symfony-tunnels@2.0.1
 - pkg:composer/wexample/symfony-tunnels@2.0.2
+- pkg:composer/wexample/symfony-tunnels@2.0.3
+- pkg:composer/wexample/symfony-tunnels@5.0.0
+- pkg:composer/wexample/symfony-tunnels@6.0.0
+- pkg:composer/wexample/symfony-tunnels@7.0.0
+- pkg:composer/wexample/symfony-tunnels@8.0.0
+- pkg:composer/wexample/symfony-tunnels@8.0.1
