@@ -55,6 +55,7 @@
 - pkg:composer/vankosoft/application-project@v1.14.2
 - pkg:composer/vankosoft/application-project@v1.14.3
 - pkg:composer/vankosoft/application-project@v1.14.4
+- pkg:composer/vankosoft/application-project@v1.14.5
 - pkg:composer/vankosoft/application-project@v1.2.0
 - pkg:composer/vankosoft/application-project@v1.2.1
 - pkg:composer/vankosoft/application-project@v1.3.0
