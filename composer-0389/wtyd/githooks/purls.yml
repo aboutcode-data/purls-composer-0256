@@ -25,3 +25,4 @@
 - pkg:composer/wtyd/githooks@v3.5.1
 - pkg:composer/wtyd/githooks@v3.6.0
 - pkg:composer/wtyd/githooks@v3.7.0
+- pkg:composer/wtyd/githooks@v3.8.0
