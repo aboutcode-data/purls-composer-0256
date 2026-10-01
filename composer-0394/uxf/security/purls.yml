@@ -240,4 +240,6 @@
 - pkg:composer/uxf/security@3.84.0
 - pkg:composer/uxf/security@3.84.1
 - pkg:composer/uxf/security@3.84.2
+- pkg:composer/uxf/security@3.84.3
+- pkg:composer/uxf/security@3.84.4
 - pkg:composer/uxf/security@3.9.2
