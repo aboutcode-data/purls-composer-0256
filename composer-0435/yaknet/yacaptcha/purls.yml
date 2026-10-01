@@ -5,6 +5,9 @@
 - pkg:composer/yaknet/yacaptcha@1.2.1
 - pkg:composer/yaknet/yacaptcha@1.3.0
 - pkg:composer/yaknet/yacaptcha@1.4.0
+- pkg:composer/yaknet/yacaptcha@1.5.0
+- pkg:composer/yaknet/yacaptcha@1.5.1
+- pkg:composer/yaknet/yacaptcha@1.6.0
 - pkg:composer/yaknet/yacaptcha@v1.0.0
 - pkg:composer/yaknet/yacaptcha@v1.0.1
 - pkg:composer/yaknet/yacaptcha@v1.0.2
