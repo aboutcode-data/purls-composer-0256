@@ -56,7 +56,6 @@
 - pkg:composer/xiaosongshu/flv2mp4@v1.5.7
 - pkg:composer/xiaosongshu/flv2mp4@v1.5.8
 - pkg:composer/xiaosongshu/flv2mp4@v1.5.9
-- pkg:composer/xiaosongshu/flv2mp4@v1.6.0
 - pkg:composer/xiaosongshu/flv2mp4@v1.6.1
 - pkg:composer/xiaosongshu/flv2mp4@v1.6.2
 - pkg:composer/xiaosongshu/flv2mp4@v1.6.3
@@ -66,3 +65,6 @@
 - pkg:composer/xiaosongshu/flv2mp4@v1.6.7
 - pkg:composer/xiaosongshu/flv2mp4@v1.6.8
 - pkg:composer/xiaosongshu/flv2mp4@v1.6.9
+- pkg:composer/xiaosongshu/flv2mp4@v1.7.0
+- pkg:composer/xiaosongshu/flv2mp4@v1.7.1
+- pkg:composer/xiaosongshu/flv2mp4@v1.7.2
