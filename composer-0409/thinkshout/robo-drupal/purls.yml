@@ -3,6 +3,7 @@
 - pkg:composer/thinkshout/robo-drupal@3.4.2
 - pkg:composer/thinkshout/robo-drupal@4.0.1
 - pkg:composer/thinkshout/robo-drupal@4.0.2
+- pkg:composer/thinkshout/robo-drupal@4.0.3
 - pkg:composer/thinkshout/robo-drupal@v2.0.0
 - pkg:composer/thinkshout/robo-drupal@v2.0.1
 - pkg:composer/thinkshout/robo-drupal@v2.0.2
