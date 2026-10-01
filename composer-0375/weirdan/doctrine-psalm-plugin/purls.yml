@@ -27,6 +27,7 @@
 - pkg:composer/weirdan/doctrine-psalm-plugin@v2.0.1
 - pkg:composer/weirdan/doctrine-psalm-plugin@v2.1.0
 - pkg:composer/weirdan/doctrine-psalm-plugin@v2.10.0
+- pkg:composer/weirdan/doctrine-psalm-plugin@v2.10.1
 - pkg:composer/weirdan/doctrine-psalm-plugin@v2.2.0
 - pkg:composer/weirdan/doctrine-psalm-plugin@v2.3.0
 - pkg:composer/weirdan/doctrine-psalm-plugin@v2.4.0
