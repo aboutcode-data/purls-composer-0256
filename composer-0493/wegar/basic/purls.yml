@@ -44,8 +44,12 @@
 - pkg:composer/wegar/basic@v1.0.49
 - pkg:composer/wegar/basic@v1.0.5
 - pkg:composer/wegar/basic@v1.0.50
+- pkg:composer/wegar/basic@v1.0.51
+- pkg:composer/wegar/basic@v1.0.52
 - pkg:composer/wegar/basic@v1.0.6
 - pkg:composer/wegar/basic@v1.0.7
 - pkg:composer/wegar/basic@v1.0.8
 - pkg:composer/wegar/basic@v1.0.9
 - pkg:composer/wegar/basic@v2.0.0
+- pkg:composer/wegar/basic@v2.0.1
+- pkg:composer/wegar/basic@v2.0.2
