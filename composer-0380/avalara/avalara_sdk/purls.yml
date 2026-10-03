@@ -18,3 +18,5 @@
 - pkg:composer/avalara/avalara_sdk@26.4.0
 - pkg:composer/avalara/avalara_sdk@26.5.0
 - pkg:composer/avalara/avalara_sdk@26.8.0
+- pkg:composer/avalara/avalara_sdk@26.9.0
+- pkg:composer/avalara/avalara_sdk@26.9.1
