@@ -1,3 +1,5 @@
+- pkg:composer/autodudes/ai-suite-mcp@0.10.0
+- pkg:composer/autodudes/ai-suite-mcp@0.11.0
 - pkg:composer/autodudes/ai-suite-mcp@0.3.0
 - pkg:composer/autodudes/ai-suite-mcp@0.3.2
 - pkg:composer/autodudes/ai-suite-mcp@0.3.3
@@ -6,3 +8,4 @@
 - pkg:composer/autodudes/ai-suite-mcp@0.6.0
 - pkg:composer/autodudes/ai-suite-mcp@0.7.0
 - pkg:composer/autodudes/ai-suite-mcp@0.8.0
+- pkg:composer/autodudes/ai-suite-mcp@0.9.0
