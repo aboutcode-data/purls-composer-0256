@@ -69,3 +69,4 @@
 - pkg:composer/anomaly/blocks-module@v1.3.9
 - pkg:composer/anomaly/blocks-module@v1.4.0
 - pkg:composer/anomaly/blocks-module@v1.5.0
+- pkg:composer/anomaly/blocks-module@v1.5.1
