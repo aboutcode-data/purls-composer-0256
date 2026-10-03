@@ -17,6 +17,7 @@
 - pkg:composer/basewd/laravel-no-captcha@12.2.0
 - pkg:composer/basewd/laravel-no-captcha@13.0.0
 - pkg:composer/basewd/laravel-no-captcha@14.0.0
+- pkg:composer/basewd/laravel-no-captcha@14.1.0
 - pkg:composer/basewd/laravel-no-captcha@2.0.0
 - pkg:composer/basewd/laravel-no-captcha@2.0.1
 - pkg:composer/basewd/laravel-no-captcha@2.0.3
