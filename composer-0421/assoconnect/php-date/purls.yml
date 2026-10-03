@@ -8,6 +8,8 @@
 - pkg:composer/assoconnect/php-date@v2.13.0
 - pkg:composer/assoconnect/php-date@v2.14.0
 - pkg:composer/assoconnect/php-date@v2.14.1
+- pkg:composer/assoconnect/php-date@v2.15.0
+- pkg:composer/assoconnect/php-date@v2.15.1
 - pkg:composer/assoconnect/php-date@v2.2.0
 - pkg:composer/assoconnect/php-date@v2.3.0
 - pkg:composer/assoconnect/php-date@v2.4.0
