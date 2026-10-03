@@ -102,6 +102,9 @@
 - pkg:composer/t3docs/typo3-docs-theme@0.40.1
 - pkg:composer/t3docs/typo3-docs-theme@0.40.2
 - pkg:composer/t3docs/typo3-docs-theme@0.41.0
+- pkg:composer/t3docs/typo3-docs-theme@0.42.0
+- pkg:composer/t3docs/typo3-docs-theme@0.43.0
+- pkg:composer/t3docs/typo3-docs-theme@0.44.0
 - pkg:composer/t3docs/typo3-docs-theme@0.5.0
 - pkg:composer/t3docs/typo3-docs-theme@0.5.1
 - pkg:composer/t3docs/typo3-docs-theme@0.6.0
