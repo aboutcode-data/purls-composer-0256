@@ -24,3 +24,4 @@
 - pkg:composer/webservco/controller@v0.3.0
 - pkg:composer/webservco/controller@v0.8.0
 - pkg:composer/webservco/controller@v1.0.0
+- pkg:composer/webservco/controller@v1.1.0
