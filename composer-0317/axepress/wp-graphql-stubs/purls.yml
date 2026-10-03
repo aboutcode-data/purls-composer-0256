@@ -150,6 +150,7 @@
 - pkg:composer/axepress/wp-graphql-stubs@v2.22.2
 - pkg:composer/axepress/wp-graphql-stubs@v2.22.3
 - pkg:composer/axepress/wp-graphql-stubs@v2.23.0
+- pkg:composer/axepress/wp-graphql-stubs@v2.23.1
 - pkg:composer/axepress/wp-graphql-stubs@v2.3.0
 - pkg:composer/axepress/wp-graphql-stubs@v2.3.3
 - pkg:composer/axepress/wp-graphql-stubs@v2.3.6
