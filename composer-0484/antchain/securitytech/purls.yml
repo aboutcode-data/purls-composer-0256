@@ -40,4 +40,7 @@
 - pkg:composer/antchain/securitytech@1.7.14
 - pkg:composer/antchain/securitytech@1.7.23
 - pkg:composer/antchain/securitytech@1.7.29
+- pkg:composer/antchain/securitytech@1.7.32
+- pkg:composer/antchain/securitytech@1.7.33
+- pkg:composer/antchain/securitytech@1.7.34
 - pkg:composer/antchain/securitytech@1.7.5
