@@ -92,4 +92,7 @@
 - pkg:composer/billz/raspap-webgui@3.5.3
 - pkg:composer/billz/raspap-webgui@3.5.4
 - pkg:composer/billz/raspap-webgui@3.5.5
+- pkg:composer/billz/raspap-webgui@3.5.6
+- pkg:composer/billz/raspap-webgui@3.5.7
+- pkg:composer/billz/raspap-webgui@3.5.8
 - pkg:composer/billz/raspap-webgui@v3.3.5
