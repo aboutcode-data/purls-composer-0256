@@ -13,3 +13,4 @@
 - pkg:composer/wexample/symfony-wex@4.0.0
 - pkg:composer/wexample/symfony-wex@5.0.0
 - pkg:composer/wexample/symfony-wex@6.0.0
+- pkg:composer/wexample/symfony-wex@6.0.1

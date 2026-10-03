@@ -177,6 +177,7 @@
 - pkg:composer/wexample/symfony-helpers@10.0.0
 - pkg:composer/wexample/symfony-helpers@11.0.0
 - pkg:composer/wexample/symfony-helpers@12.0.0
+- pkg:composer/wexample/symfony-helpers@12.0.1
 - pkg:composer/wexample/symfony-helpers@2.0.0
 - pkg:composer/wexample/symfony-helpers@2.0.1
 - pkg:composer/wexample/symfony-helpers@2.0.2
