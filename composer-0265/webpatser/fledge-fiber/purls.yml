@@ -35,6 +35,7 @@
 - pkg:composer/webpatser/fledge-fiber@v13.32.0.0
 - pkg:composer/webpatser/fledge-fiber@v13.33.0.0
 - pkg:composer/webpatser/fledge-fiber@v13.34.0.0
+- pkg:composer/webpatser/fledge-fiber@v13.34.0.1
 - pkg:composer/webpatser/fledge-fiber@v13.4.0.1
 - pkg:composer/webpatser/fledge-fiber@v13.4.0.2
 - pkg:composer/webpatser/fledge-fiber@v13.5.0.0
