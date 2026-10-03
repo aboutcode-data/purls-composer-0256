@@ -30,3 +30,4 @@
 - pkg:composer/always-open/laravel-process-stamps@v7.0.0
 - pkg:composer/always-open/laravel-process-stamps@v8.0.0
 - pkg:composer/always-open/laravel-process-stamps@v8.1.0
+- pkg:composer/always-open/laravel-process-stamps@v8.2.0
