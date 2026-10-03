@@ -1,1 +1,5 @@
 - pkg:composer/bbs-lab/nova-force-two-factor@v1.0.0
+- pkg:composer/bbs-lab/nova-force-two-factor@v1.1.0
+- pkg:composer/bbs-lab/nova-force-two-factor@v2.0.0
+- pkg:composer/bbs-lab/nova-force-two-factor@v2.0.1
+- pkg:composer/bbs-lab/nova-force-two-factor@v2.0.2
