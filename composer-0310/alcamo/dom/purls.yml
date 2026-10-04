@@ -67,6 +67,7 @@
 - pkg:composer/alcamo/dom@0.17.7
 - pkg:composer/alcamo/dom@0.17.8
 - pkg:composer/alcamo/dom@0.17.9
+- pkg:composer/alcamo/dom@0.18.0
 - pkg:composer/alcamo/dom@0.2
 - pkg:composer/alcamo/dom@0.2.1
 - pkg:composer/alcamo/dom@0.3
