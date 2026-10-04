@@ -74,3 +74,4 @@
 - pkg:composer/chialab/frontend-kit@v3.5.3
 - pkg:composer/chialab/frontend-kit@v3.5.4
 - pkg:composer/chialab/frontend-kit@v3.5.5
+- pkg:composer/chialab/frontend-kit@v4.0.0
