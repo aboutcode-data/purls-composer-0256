@@ -218,8 +218,15 @@
 - pkg:composer/andydefer/authentication-kit@v0.17.7
 - pkg:composer/andydefer/authentication-kit@v0.17.70
 - pkg:composer/andydefer/authentication-kit@v0.17.71
+- pkg:composer/andydefer/authentication-kit@v0.17.72
+- pkg:composer/andydefer/authentication-kit@v0.17.73
+- pkg:composer/andydefer/authentication-kit@v0.17.74
+- pkg:composer/andydefer/authentication-kit@v0.17.75
+- pkg:composer/andydefer/authentication-kit@v0.17.76
 - pkg:composer/andydefer/authentication-kit@v0.17.8
 - pkg:composer/andydefer/authentication-kit@v0.17.9
+- pkg:composer/andydefer/authentication-kit@v0.18.0
+- pkg:composer/andydefer/authentication-kit@v0.18.1
 - pkg:composer/andydefer/authentication-kit@v0.2.0
 - pkg:composer/andydefer/authentication-kit@v0.2.1
 - pkg:composer/andydefer/authentication-kit@v0.2.10
