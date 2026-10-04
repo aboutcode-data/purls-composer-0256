@@ -1,1 +1,2 @@
 - pkg:composer/cardano-php/data-client@v0.1.0
+- pkg:composer/cardano-php/data-client@v0.2.0
