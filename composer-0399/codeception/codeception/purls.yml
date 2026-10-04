@@ -214,3 +214,5 @@
 - pkg:composer/codeception/codeception@5.3.3
 - pkg:composer/codeception/codeception@5.3.4
 - pkg:composer/codeception/codeception@5.3.5
+- pkg:composer/codeception/codeception@5.3.6
+- pkg:composer/codeception/codeception@5.3.7
