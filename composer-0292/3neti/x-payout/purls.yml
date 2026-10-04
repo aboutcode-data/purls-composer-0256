@@ -55,6 +55,14 @@
 - pkg:composer/3neti/x-payout@v1.0.0-beta.59
 - pkg:composer/3neti/x-payout@v1.0.0-beta.6
 - pkg:composer/3neti/x-payout@v1.0.0-beta.60
+- pkg:composer/3neti/x-payout@v1.0.0-beta.61
+- pkg:composer/3neti/x-payout@v1.0.0-beta.62
+- pkg:composer/3neti/x-payout@v1.0.0-beta.63
+- pkg:composer/3neti/x-payout@v1.0.0-beta.64
+- pkg:composer/3neti/x-payout@v1.0.0-beta.65
+- pkg:composer/3neti/x-payout@v1.0.0-beta.66
+- pkg:composer/3neti/x-payout@v1.0.0-beta.67
+- pkg:composer/3neti/x-payout@v1.0.0-beta.68
 - pkg:composer/3neti/x-payout@v1.0.0-beta.7
 - pkg:composer/3neti/x-payout@v1.0.0-beta.8
 - pkg:composer/3neti/x-payout@v1.0.0-beta.9
