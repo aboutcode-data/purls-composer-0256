@@ -8,3 +8,4 @@
 - pkg:composer/clearsoft/easysql-sdk@1.7.0
 - pkg:composer/clearsoft/easysql-sdk@2.0.0
 - pkg:composer/clearsoft/easysql-sdk@2.1.0
+- pkg:composer/clearsoft/easysql-sdk@3.0.0
