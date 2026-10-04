@@ -1,2 +1,3 @@
 - pkg:composer/aleblanc/simple-cron-scheduler@v0.1.0
 - pkg:composer/aleblanc/simple-cron-scheduler@v0.2.0
+- pkg:composer/aleblanc/simple-cron-scheduler@v0.3.0
