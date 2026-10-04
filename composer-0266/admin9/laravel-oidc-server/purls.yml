@@ -5,3 +5,5 @@
 - pkg:composer/admin9/laravel-oidc-server@v1.2.0
 - pkg:composer/admin9/laravel-oidc-server@v1.2.1
 - pkg:composer/admin9/laravel-oidc-server@v1.2.2
+- pkg:composer/admin9/laravel-oidc-server@v2.0.0
+- pkg:composer/admin9/laravel-oidc-server@v2.0.0-rc.1
