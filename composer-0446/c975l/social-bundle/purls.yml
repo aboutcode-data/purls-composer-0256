@@ -30,6 +30,7 @@
 - pkg:composer/c975l/social-bundle@v2.1
 - pkg:composer/c975l/social-bundle@v2.1.1
 - pkg:composer/c975l/social-bundle@v2.1.2
+- pkg:composer/c975l/social-bundle@v2.10.0
 - pkg:composer/c975l/social-bundle@v2.2.0
 - pkg:composer/c975l/social-bundle@v2.2.1
 - pkg:composer/c975l/social-bundle@v2.2.2
@@ -57,3 +58,12 @@
 - pkg:composer/c975l/social-bundle@v2.7.7
 - pkg:composer/c975l/social-bundle@v2.7.8
 - pkg:composer/c975l/social-bundle@v2.7.9
+- pkg:composer/c975l/social-bundle@v2.8.0
+- pkg:composer/c975l/social-bundle@v2.8.1
+- pkg:composer/c975l/social-bundle@v2.8.2
+- pkg:composer/c975l/social-bundle@v2.8.3
+- pkg:composer/c975l/social-bundle@v2.8.4
+- pkg:composer/c975l/social-bundle@v2.8.5
+- pkg:composer/c975l/social-bundle@v2.9.0
+- pkg:composer/c975l/social-bundle@v2.9.1
+- pkg:composer/c975l/social-bundle@v2.9.2
