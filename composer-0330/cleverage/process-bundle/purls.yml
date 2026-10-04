@@ -56,3 +56,4 @@
 - pkg:composer/cleverage/process-bundle@v4.4
 - pkg:composer/cleverage/process-bundle@v4.5
 - pkg:composer/cleverage/process-bundle@v5.0
+- pkg:composer/cleverage/process-bundle@v5.1
