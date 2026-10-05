@@ -1,2 +1,6 @@
 - pkg:composer/davingm/laravel@v1.0.0
 - pkg:composer/davingm/laravel@v1.0.1
+- pkg:composer/davingm/laravel@v1.7.1
+- pkg:composer/davingm/laravel@v1.7.2
+- pkg:composer/davingm/laravel@v1.7.3
+- pkg:composer/davingm/laravel@v1.7.4
