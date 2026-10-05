@@ -14,6 +14,9 @@
 - pkg:composer/deegitalbe/laravel-trustup-io-notifications-contracts@2.0.0
 - pkg:composer/deegitalbe/laravel-trustup-io-notifications-contracts@3.0.0
 - pkg:composer/deegitalbe/laravel-trustup-io-notifications-contracts@3.1.0
+- pkg:composer/deegitalbe/laravel-trustup-io-notifications-contracts@3.10.0
+- pkg:composer/deegitalbe/laravel-trustup-io-notifications-contracts@3.11.0
+- pkg:composer/deegitalbe/laravel-trustup-io-notifications-contracts@3.11.1
 - pkg:composer/deegitalbe/laravel-trustup-io-notifications-contracts@3.2.0
 - pkg:composer/deegitalbe/laravel-trustup-io-notifications-contracts@3.3.0
 - pkg:composer/deegitalbe/laravel-trustup-io-notifications-contracts@3.4.0
