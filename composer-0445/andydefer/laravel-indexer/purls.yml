@@ -226,6 +226,7 @@
 - pkg:composer/andydefer/laravel-indexer@v0.29.83
 - pkg:composer/andydefer/laravel-indexer@v0.29.84
 - pkg:composer/andydefer/laravel-indexer@v0.29.85
+- pkg:composer/andydefer/laravel-indexer@v0.29.86
 - pkg:composer/andydefer/laravel-indexer@v0.29.9
 - pkg:composer/andydefer/laravel-indexer@v0.3.0
 - pkg:composer/andydefer/laravel-indexer@v0.4.0
