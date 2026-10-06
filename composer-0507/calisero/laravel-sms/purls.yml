@@ -7,3 +7,5 @@
 - pkg:composer/calisero/laravel-sms@1.1.1
 - pkg:composer/calisero/laravel-sms@1.1.2
 - pkg:composer/calisero/laravel-sms@1.2.0
+- pkg:composer/calisero/laravel-sms@1.3.0
+- pkg:composer/calisero/laravel-sms@1.3.1
