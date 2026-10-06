@@ -17,6 +17,7 @@
 - pkg:composer/brick/date-time@0.1.9
 - pkg:composer/brick/date-time@0.10.0
 - pkg:composer/brick/date-time@0.10.1
+- pkg:composer/brick/date-time@0.10.2
 - pkg:composer/brick/date-time@0.2.0
 - pkg:composer/brick/date-time@0.2.1
 - pkg:composer/brick/date-time@0.2.2
