@@ -11,3 +11,4 @@
 - pkg:composer/cron-monitor/php-sdk@v1.5.3
 - pkg:composer/cron-monitor/php-sdk@v1.5.4
 - pkg:composer/cron-monitor/php-sdk@v1.5.5
+- pkg:composer/cron-monitor/php-sdk@v1.6.0
