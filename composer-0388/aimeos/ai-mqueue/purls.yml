@@ -50,3 +50,4 @@
 - pkg:composer/aimeos/ai-mqueue@2025.07.1
 - pkg:composer/aimeos/ai-mqueue@2025.10.1
 - pkg:composer/aimeos/ai-mqueue@2026.04.1
+- pkg:composer/aimeos/ai-mqueue@2026.10.1
