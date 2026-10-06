@@ -91,3 +91,4 @@
 - pkg:composer/checkout/checkout-sdk-php@6.3.0
 - pkg:composer/checkout/checkout-sdk-php@6.4.0
 - pkg:composer/checkout/checkout-sdk-php@6.5.0
+- pkg:composer/checkout/checkout-sdk-php@6.6.0
