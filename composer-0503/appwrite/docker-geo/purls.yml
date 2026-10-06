@@ -4,3 +4,4 @@
 - pkg:composer/appwrite/docker-geo@0.3.0
 - pkg:composer/appwrite/docker-geo@0.3.1
 - pkg:composer/appwrite/docker-geo@0.3.2
+- pkg:composer/appwrite/docker-geo@0.3.3
