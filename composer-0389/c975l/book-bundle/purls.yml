@@ -22,6 +22,11 @@
 - pkg:composer/c975l/book-bundle@v2.13
 - pkg:composer/c975l/book-bundle@v2.13.1
 - pkg:composer/c975l/book-bundle@v2.14
+- pkg:composer/c975l/book-bundle@v2.15.0
+- pkg:composer/c975l/book-bundle@v2.15.1
+- pkg:composer/c975l/book-bundle@v2.15.2
+- pkg:composer/c975l/book-bundle@v2.15.3
+- pkg:composer/c975l/book-bundle@v2.16.0
 - pkg:composer/c975l/book-bundle@v2.2.0
 - pkg:composer/c975l/book-bundle@v2.2.1
 - pkg:composer/c975l/book-bundle@v2.2.2
