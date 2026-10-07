@@ -7,3 +7,4 @@
 - pkg:composer/flatrate/flarum-private-messages-bridge@v1.0.2-rc.1
 - pkg:composer/flatrate/flarum-private-messages-bridge@v1.0.3
 - pkg:composer/flatrate/flarum-private-messages-bridge@v1.0.3-rc.1
+- pkg:composer/flatrate/flarum-private-messages-bridge@v1.1.0
