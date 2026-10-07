@@ -15,3 +15,5 @@
 - pkg:composer/fykosak/nette-fks-utils@v0.2.1.0-RC4
 - pkg:composer/fykosak/nette-fks-utils@v0.2.1.0-RC5
 - pkg:composer/fykosak/nette-fks-utils@v0.2.1.0-RC6
+- pkg:composer/fykosak/nette-fks-utils@v0.3.0.0
+- pkg:composer/fykosak/nette-fks-utils@v0.3.1.0

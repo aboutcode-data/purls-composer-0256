@@ -23,3 +23,6 @@
 - pkg:composer/fzed51/migration@v1.4.4
 - pkg:composer/fzed51/migration@v1.4.5
 - pkg:composer/fzed51/migration@v2.0.0
+- pkg:composer/fzed51/migration@v3.0.0
+- pkg:composer/fzed51/migration@v3.1.0
+- pkg:composer/fzed51/migration@v3.1.1
