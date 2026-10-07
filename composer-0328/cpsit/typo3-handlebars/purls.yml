@@ -46,3 +46,4 @@
 - pkg:composer/cpsit/typo3-handlebars@1.0.0-alpha.8
 - pkg:composer/cpsit/typo3-handlebars@1.0.0-alpha.9
 - pkg:composer/cpsit/typo3-handlebars@1.0.1
+- pkg:composer/cpsit/typo3-handlebars@1.1.0
