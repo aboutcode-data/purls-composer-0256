@@ -1,3 +1,5 @@
 - pkg:composer/drupal-eca-recipe/eca_lib_0050@1.0.0
 - pkg:composer/drupal-eca-recipe/eca_lib_0050@1.1.0
 - pkg:composer/drupal-eca-recipe/eca_lib_0050@1.1.1
+- pkg:composer/drupal-eca-recipe/eca_lib_0050@1.2.0
+- pkg:composer/drupal-eca-recipe/eca_lib_0050@1.2.1
