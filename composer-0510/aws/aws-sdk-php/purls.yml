@@ -2187,6 +2187,7 @@
 - pkg:composer/aws/aws-sdk-php@3.398.4
 - pkg:composer/aws/aws-sdk-php@3.399.0
 - pkg:composer/aws/aws-sdk-php@3.399.1
+- pkg:composer/aws/aws-sdk-php@3.399.2
 - pkg:composer/aws/aws-sdk-php@3.4.0
 - pkg:composer/aws/aws-sdk-php@3.4.1
 - pkg:composer/aws/aws-sdk-php@3.40.0
