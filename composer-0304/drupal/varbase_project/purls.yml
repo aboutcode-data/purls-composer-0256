@@ -39,6 +39,7 @@
 - pkg:composer/drupal/varbase_project@10.1.4
 - pkg:composer/drupal/varbase_project@11.0.0
 - pkg:composer/drupal/varbase_project@11.0.1
+- pkg:composer/drupal/varbase_project@11.0.10
 - pkg:composer/drupal/varbase_project@11.0.2
 - pkg:composer/drupal/varbase_project@11.0.3
 - pkg:composer/drupal/varbase_project@11.0.4
