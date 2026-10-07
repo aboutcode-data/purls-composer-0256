@@ -8,3 +8,4 @@
 - pkg:composer/diablomedia/php-cs-fixer-config@3.0.0
 - pkg:composer/diablomedia/php-cs-fixer-config@3.0.1
 - pkg:composer/diablomedia/php-cs-fixer-config@4.0.0
+- pkg:composer/diablomedia/php-cs-fixer-config@5.0.0
