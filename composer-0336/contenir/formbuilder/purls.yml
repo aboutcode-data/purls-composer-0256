@@ -4,7 +4,4 @@
 - pkg:composer/contenir/formbuilder@v0.1.3
 - pkg:composer/contenir/formbuilder@v0.1.4
 - pkg:composer/contenir/formbuilder@v0.1.5
-- pkg:composer/contenir/formbuilder@v2.0.0
-- pkg:composer/contenir/formbuilder@v2.1.0
-- pkg:composer/contenir/formbuilder@v2.1.1
-- pkg:composer/contenir/formbuilder@v2.2.0
+- pkg:composer/contenir/formbuilder@v2.0.0-RC1
