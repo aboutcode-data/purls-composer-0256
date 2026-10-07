@@ -1,3 +1,5 @@
 - pkg:composer/cloud-castle/query-builder@v0.1.0
 - pkg:composer/cloud-castle/query-builder@v0.1.1
 - pkg:composer/cloud-castle/query-builder@v1.0.0
+- pkg:composer/cloud-castle/query-builder@v1.1.0
+- pkg:composer/cloud-castle/query-builder@v1.2.0
