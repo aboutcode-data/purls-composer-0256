@@ -93,6 +93,9 @@
 - pkg:composer/filament/schemas@v4.13.2
 - pkg:composer/filament/schemas@v4.13.3
 - pkg:composer/filament/schemas@v4.13.4
+- pkg:composer/filament/schemas@v4.14.0
+- pkg:composer/filament/schemas@v4.15.0
+- pkg:composer/filament/schemas@v4.15.1
 - pkg:composer/filament/schemas@v4.2.0
 - pkg:composer/filament/schemas@v4.2.1
 - pkg:composer/filament/schemas@v4.2.2
@@ -140,6 +143,8 @@
 - pkg:composer/filament/schemas@v5.1.1
 - pkg:composer/filament/schemas@v5.1.2
 - pkg:composer/filament/schemas@v5.1.3
+- pkg:composer/filament/schemas@v5.10.0
+- pkg:composer/filament/schemas@v5.10.1
 - pkg:composer/filament/schemas@v5.2.0
 - pkg:composer/filament/schemas@v5.2.1
 - pkg:composer/filament/schemas@v5.2.2
@@ -187,3 +192,4 @@
 - pkg:composer/filament/schemas@v5.8.2
 - pkg:composer/filament/schemas@v5.8.3
 - pkg:composer/filament/schemas@v5.8.4
+- pkg:composer/filament/schemas@v5.9.0
