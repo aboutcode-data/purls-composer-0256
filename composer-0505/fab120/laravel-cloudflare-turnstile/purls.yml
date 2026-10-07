@@ -1,1 +1,2 @@
 - pkg:composer/fab120/laravel-cloudflare-turnstile@v3.0.1
+- pkg:composer/fab120/laravel-cloudflare-turnstile@v3.0.4
