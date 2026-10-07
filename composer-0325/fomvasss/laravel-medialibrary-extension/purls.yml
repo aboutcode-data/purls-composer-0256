@@ -39,3 +39,6 @@
 - pkg:composer/fomvasss/laravel-medialibrary-extension@6.3.2
 - pkg:composer/fomvasss/laravel-medialibrary-extension@6.3.3
 - pkg:composer/fomvasss/laravel-medialibrary-extension@6.4.0
+- pkg:composer/fomvasss/laravel-medialibrary-extension@6.4.1
+- pkg:composer/fomvasss/laravel-medialibrary-extension@6.5.0
+- pkg:composer/fomvasss/laravel-medialibrary-extension@6.5.1
