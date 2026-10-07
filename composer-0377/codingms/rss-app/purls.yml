@@ -22,3 +22,5 @@
 - pkg:composer/codingms/rss-app@4.0.5
 - pkg:composer/codingms/rss-app@4.0.6
 - pkg:composer/codingms/rss-app@4.1.0
+- pkg:composer/codingms/rss-app@4.2.0
+- pkg:composer/codingms/rss-app@5.0.0
