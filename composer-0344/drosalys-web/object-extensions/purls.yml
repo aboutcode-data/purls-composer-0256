@@ -26,6 +26,9 @@
 - pkg:composer/drosalys-web/object-extensions@v1.13.0
 - pkg:composer/drosalys-web/object-extensions@v1.13.1
 - pkg:composer/drosalys-web/object-extensions@v1.13.2
+- pkg:composer/drosalys-web/object-extensions@v1.13.3
+- pkg:composer/drosalys-web/object-extensions@v1.13.4
+- pkg:composer/drosalys-web/object-extensions@v1.13.5
 - pkg:composer/drosalys-web/object-extensions@v1.14.0
 - pkg:composer/drosalys-web/object-extensions@v1.15.0
 - pkg:composer/drosalys-web/object-extensions@v1.2.0
