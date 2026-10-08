@@ -39,3 +39,5 @@
 - pkg:composer/ghostwriter/container@7.0.0
 - pkg:composer/ghostwriter/container@7.0.1
 - pkg:composer/ghostwriter/container@7.0.2
+- pkg:composer/ghostwriter/container@7.0.3
+- pkg:composer/ghostwriter/container@7.1.0
