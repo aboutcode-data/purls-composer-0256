@@ -1169,6 +1169,7 @@
 - pkg:composer/craftcms/cms@5.11.3
 - pkg:composer/craftcms/cms@5.11.4
 - pkg:composer/craftcms/cms@5.11.5
+- pkg:composer/craftcms/cms@5.11.5.1
 - pkg:composer/craftcms/cms@5.2.0
 - pkg:composer/craftcms/cms@5.2.0-beta.1
 - pkg:composer/craftcms/cms@5.2.0-beta.2
