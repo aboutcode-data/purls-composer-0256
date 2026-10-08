@@ -18,3 +18,4 @@
 - pkg:composer/flow-php/symfony-http-foundation-telemetry-bridge@0.44.0
 - pkg:composer/flow-php/symfony-http-foundation-telemetry-bridge@0.44.1
 - pkg:composer/flow-php/symfony-http-foundation-telemetry-bridge@0.45.0
+- pkg:composer/flow-php/symfony-http-foundation-telemetry-bridge@0.46.0
