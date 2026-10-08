@@ -12,3 +12,4 @@
 - pkg:composer/google/cloud-modelarmor@v0.8.0
 - pkg:composer/google/cloud-modelarmor@v0.8.1
 - pkg:composer/google/cloud-modelarmor@v0.8.2
+- pkg:composer/google/cloud-modelarmor@v0.8.3
