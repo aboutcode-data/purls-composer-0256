@@ -1,2 +1,6 @@
+- pkg:composer/devable/shopware6-sitemap-domain-filter@6.0.0
 - pkg:composer/devable/shopware6-sitemap-domain-filter@6.0.0-rc1
+- pkg:composer/devable/shopware6-sitemap-domain-filter@6.1.0
+- pkg:composer/devable/shopware6-sitemap-domain-filter@7.0.0
 - pkg:composer/devable/shopware6-sitemap-domain-filter@7.0.0-rc1
+- pkg:composer/devable/shopware6-sitemap-domain-filter@7.1.0
