@@ -15,6 +15,8 @@
 - pkg:composer/google/cloud-dataform@v0.15.0
 - pkg:composer/google/cloud-dataform@v0.15.1
 - pkg:composer/google/cloud-dataform@v0.15.2
+- pkg:composer/google/cloud-dataform@v0.15.3
+- pkg:composer/google/cloud-dataform@v0.16.0
 - pkg:composer/google/cloud-dataform@v0.2.0
 - pkg:composer/google/cloud-dataform@v0.2.1
 - pkg:composer/google/cloud-dataform@v0.2.2
