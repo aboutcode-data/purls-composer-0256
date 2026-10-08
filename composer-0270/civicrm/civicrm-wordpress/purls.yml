@@ -37,6 +37,7 @@
 - pkg:composer/civicrm/civicrm-wordpress@6.18.0
 - pkg:composer/civicrm/civicrm-wordpress@6.18.1
 - pkg:composer/civicrm/civicrm-wordpress@6.18.2
+- pkg:composer/civicrm/civicrm-wordpress@6.19.0
 - pkg:composer/civicrm/civicrm-wordpress@6.5.0
 - pkg:composer/civicrm/civicrm-wordpress@6.5.1
 - pkg:composer/civicrm/civicrm-wordpress@6.6.0
