@@ -297,6 +297,9 @@
 - pkg:composer/google/cloud@v0.344.0
 - pkg:composer/google/cloud@v0.345.0
 - pkg:composer/google/cloud@v0.346.0
+- pkg:composer/google/cloud@v0.347.0
+- pkg:composer/google/cloud@v0.348.0
+- pkg:composer/google/cloud@v0.349.0
 - pkg:composer/google/cloud@v0.35.0
 - pkg:composer/google/cloud@v0.36.0
 - pkg:composer/google/cloud@v0.37.0
