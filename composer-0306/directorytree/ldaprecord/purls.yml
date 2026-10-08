@@ -172,3 +172,4 @@
 - pkg:composer/directorytree/ldaprecord@v4.0.7
 - pkg:composer/directorytree/ldaprecord@v4.0.8
 - pkg:composer/directorytree/ldaprecord@v4.1.0
+- pkg:composer/directorytree/ldaprecord@v4.1.1
