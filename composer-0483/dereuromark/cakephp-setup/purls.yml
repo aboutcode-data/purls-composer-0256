@@ -45,6 +45,7 @@
 - pkg:composer/dereuromark/cakephp-setup@3.20.1
 - pkg:composer/dereuromark/cakephp-setup@3.21.0
 - pkg:composer/dereuromark/cakephp-setup@3.21.1
+- pkg:composer/dereuromark/cakephp-setup@3.22.0
 - pkg:composer/dereuromark/cakephp-setup@3.3.0
 - pkg:composer/dereuromark/cakephp-setup@3.4.0
 - pkg:composer/dereuromark/cakephp-setup@3.5.0
