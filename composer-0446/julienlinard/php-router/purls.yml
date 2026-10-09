@@ -1,1 +1,2 @@
 - pkg:composer/julienlinard/php-router@1.4.4
+- pkg:composer/julienlinard/php-router@v1.5.0
