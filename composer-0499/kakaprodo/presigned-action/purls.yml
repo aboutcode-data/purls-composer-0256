@@ -2,3 +2,5 @@
 - pkg:composer/kakaprodo/presigned-action@v1.0.1
 - pkg:composer/kakaprodo/presigned-action@v1.1.0
 - pkg:composer/kakaprodo/presigned-action@v1.1.1
+- pkg:composer/kakaprodo/presigned-action@v1.1.2
+- pkg:composer/kakaprodo/presigned-action@v1.1.3
