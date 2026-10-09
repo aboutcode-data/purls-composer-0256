@@ -3,6 +3,7 @@
 - pkg:composer/joshdonnell/laravel-starter-kit-vue@v1.2.0
 - pkg:composer/joshdonnell/laravel-starter-kit-vue@v1.3.0
 - pkg:composer/joshdonnell/laravel-starter-kit-vue@v1.3.1
+- pkg:composer/joshdonnell/laravel-starter-kit-vue@v1.3.10
 - pkg:composer/joshdonnell/laravel-starter-kit-vue@v1.3.2
 - pkg:composer/joshdonnell/laravel-starter-kit-vue@v1.3.3
 - pkg:composer/joshdonnell/laravel-starter-kit-vue@v1.3.4
@@ -11,3 +12,4 @@
 - pkg:composer/joshdonnell/laravel-starter-kit-vue@v1.3.7
 - pkg:composer/joshdonnell/laravel-starter-kit-vue@v1.3.8
 - pkg:composer/joshdonnell/laravel-starter-kit-vue@v1.3.9
+- pkg:composer/joshdonnell/laravel-starter-kit-vue@v1.4.0
