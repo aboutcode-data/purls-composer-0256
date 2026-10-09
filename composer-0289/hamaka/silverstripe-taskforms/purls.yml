@@ -6,3 +6,4 @@
 - pkg:composer/hamaka/silverstripe-taskforms@v1.6
 - pkg:composer/hamaka/silverstripe-taskforms@v1.6.1
 - pkg:composer/hamaka/silverstripe-taskforms@v1.6.2
+- pkg:composer/hamaka/silverstripe-taskforms@v2.0.0
