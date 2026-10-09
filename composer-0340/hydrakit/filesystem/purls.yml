@@ -24,5 +24,6 @@
 - pkg:composer/hydrakit/filesystem@v0.30.0
 - pkg:composer/hydrakit/filesystem@v0.31.0
 - pkg:composer/hydrakit/filesystem@v0.31.1
+- pkg:composer/hydrakit/filesystem@v0.31.2
 - pkg:composer/hydrakit/filesystem@v0.9.16
 - pkg:composer/hydrakit/filesystem@v0.9.17
