@@ -1,2 +1,4 @@
 - pkg:composer/laranex/next-laravel@v1.0.0
 - pkg:composer/laranex/next-laravel@v1.1.0
+- pkg:composer/laranex/next-laravel@v4.0.0-alpha.1
+- pkg:composer/laranex/next-laravel@v4.0.0-alpha.2
