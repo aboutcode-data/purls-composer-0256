@@ -75,3 +75,11 @@
 - pkg:composer/likun-mci/php-ai@v2.2.0
 - pkg:composer/likun-mci/php-ai@v2.3.0
 - pkg:composer/likun-mci/php-ai@v2.4.0
+- pkg:composer/likun-mci/php-ai@v2.4.1
+- pkg:composer/likun-mci/php-ai@v2.5.0
+- pkg:composer/likun-mci/php-ai@v2.5.1
+- pkg:composer/likun-mci/php-ai@v2.5.2
+- pkg:composer/likun-mci/php-ai@v2.5.3
+- pkg:composer/likun-mci/php-ai@v2.5.4
+- pkg:composer/likun-mci/php-ai@v2.6.0
+- pkg:composer/likun-mci/php-ai@v2.7.0
