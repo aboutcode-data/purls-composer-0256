@@ -12,6 +12,7 @@
 - pkg:composer/jeffersongoncalves/filament-help-desk@1.1.7
 - pkg:composer/jeffersongoncalves/filament-help-desk@1.1.8
 - pkg:composer/jeffersongoncalves/filament-help-desk@1.1.9
+- pkg:composer/jeffersongoncalves/filament-help-desk@1.10.0
 - pkg:composer/jeffersongoncalves/filament-help-desk@1.2.0
 - pkg:composer/jeffersongoncalves/filament-help-desk@1.2.1
 - pkg:composer/jeffersongoncalves/filament-help-desk@1.2.2
@@ -35,6 +36,7 @@
 - pkg:composer/jeffersongoncalves/filament-help-desk@2.5.0
 - pkg:composer/jeffersongoncalves/filament-help-desk@2.6.0
 - pkg:composer/jeffersongoncalves/filament-help-desk@2.7.0
+- pkg:composer/jeffersongoncalves/filament-help-desk@2.8.0
 - pkg:composer/jeffersongoncalves/filament-help-desk@3.1.0
 - pkg:composer/jeffersongoncalves/filament-help-desk@3.2.0
 - pkg:composer/jeffersongoncalves/filament-help-desk@3.2.1
@@ -44,6 +46,7 @@
 - pkg:composer/jeffersongoncalves/filament-help-desk@3.5.0
 - pkg:composer/jeffersongoncalves/filament-help-desk@3.6.0
 - pkg:composer/jeffersongoncalves/filament-help-desk@3.7.0
+- pkg:composer/jeffersongoncalves/filament-help-desk@3.8.0
 - pkg:composer/jeffersongoncalves/filament-help-desk@v2.0.0
 - pkg:composer/jeffersongoncalves/filament-help-desk@v2.0.1
 - pkg:composer/jeffersongoncalves/filament-help-desk@v2.0.10
