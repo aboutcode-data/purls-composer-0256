@@ -48,3 +48,4 @@
 - pkg:composer/laminas/laminas-hydrator@4.7.0
 - pkg:composer/laminas/laminas-hydrator@4.8.0
 - pkg:composer/laminas/laminas-hydrator@4.9.0
+- pkg:composer/laminas/laminas-hydrator@5.0.0
