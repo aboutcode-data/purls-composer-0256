@@ -46,3 +46,4 @@
 - pkg:composer/lambda-platform/lambda-laravel@v1.2.7
 - pkg:composer/lambda-platform/lambda-laravel@v1.2.8
 - pkg:composer/lambda-platform/lambda-laravel@v1.2.9
+- pkg:composer/lambda-platform/lambda-laravel@v1.3.0
