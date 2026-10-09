@@ -281,3 +281,4 @@
 - pkg:composer/headercat/phpstan-extension-ide-helper@2.2.8
 - pkg:composer/headercat/phpstan-extension-ide-helper@2.2.9
 - pkg:composer/headercat/phpstan-extension-ide-helper@2.3.0
+- pkg:composer/headercat/phpstan-extension-ide-helper@2.3.1
