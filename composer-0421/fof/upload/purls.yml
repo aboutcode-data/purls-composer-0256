@@ -131,6 +131,7 @@
 - pkg:composer/fof/upload@1.8.8
 - pkg:composer/fof/upload@1.8.9
 - pkg:composer/fof/upload@1.9.0
+- pkg:composer/fof/upload@1.9.1
 - pkg:composer/fof/upload@2.0.0
 - pkg:composer/fof/upload@2.0.0-beta.1
 - pkg:composer/fof/upload@2.0.0-beta.2
@@ -139,3 +140,4 @@
 - pkg:composer/fof/upload@2.0.0-beta.5
 - pkg:composer/fof/upload@2.0.0-beta.6
 - pkg:composer/fof/upload@2.0.0-beta.7
+- pkg:composer/fof/upload@2.0.1
