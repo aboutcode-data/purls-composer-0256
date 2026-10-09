@@ -1,1 +1,3 @@
 - pkg:composer/jtargosz/laravel-action-otp@1.0.0
+- pkg:composer/jtargosz/laravel-action-otp@v1.1.0
+- pkg:composer/jtargosz/laravel-action-otp@v2.0.0
