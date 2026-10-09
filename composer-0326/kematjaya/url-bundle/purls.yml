@@ -24,6 +24,7 @@
 - pkg:composer/kematjaya/url-bundle@4.0
 - pkg:composer/kematjaya/url-bundle@4.0.1
 - pkg:composer/kematjaya/url-bundle@4.0.2
+- pkg:composer/kematjaya/url-bundle@6.4
 - pkg:composer/kematjaya/url-bundle@7.0
 - pkg:composer/kematjaya/url-bundle@7.0.1
 - pkg:composer/kematjaya/url-bundle@7.0.2
@@ -33,3 +34,5 @@
 - pkg:composer/kematjaya/url-bundle@7.0.6
 - pkg:composer/kematjaya/url-bundle@7.0.7
 - pkg:composer/kematjaya/url-bundle@8.0
+- pkg:composer/kematjaya/url-bundle@8.0.1
+- pkg:composer/kematjaya/url-bundle@8.1

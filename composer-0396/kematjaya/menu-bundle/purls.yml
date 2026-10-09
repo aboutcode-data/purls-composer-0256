@@ -37,6 +37,8 @@
 - pkg:composer/kematjaya/menu-bundle@2.5.3
 - pkg:composer/kematjaya/menu-bundle@2.5.4
 - pkg:composer/kematjaya/menu-bundle@2.5.5
+- pkg:composer/kematjaya/menu-bundle@6.4
+- pkg:composer/kematjaya/menu-bundle@6.5
 - pkg:composer/kematjaya/menu-bundle@7.0
 - pkg:composer/kematjaya/menu-bundle@7.0.1
 - pkg:composer/kematjaya/menu-bundle@7.0.2

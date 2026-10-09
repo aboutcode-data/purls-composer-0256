@@ -55,6 +55,8 @@
 - pkg:composer/kematjaya/base-controller-bundle@2.4.1
 - pkg:composer/kematjaya/base-controller-bundle@2.4.2
 - pkg:composer/kematjaya/base-controller-bundle@2.4.3
+- pkg:composer/kematjaya/base-controller-bundle@6.4
+- pkg:composer/kematjaya/base-controller-bundle@6.5
 - pkg:composer/kematjaya/base-controller-bundle@7.0
 - pkg:composer/kematjaya/base-controller-bundle@7.0.1
 - pkg:composer/kematjaya/base-controller-bundle@7.0.2
@@ -73,3 +75,4 @@
 - pkg:composer/kematjaya/base-controller-bundle@8.0.6
 - pkg:composer/kematjaya/base-controller-bundle@8.0.7
 - pkg:composer/kematjaya/base-controller-bundle@8.0.8
+- pkg:composer/kematjaya/base-controller-bundle@9.0.4

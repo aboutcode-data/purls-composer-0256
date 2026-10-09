@@ -13,5 +13,7 @@
 - pkg:composer/kematjaya/code-manager-bundle@2.2
 - pkg:composer/kematjaya/code-manager-bundle@2.2.1
 - pkg:composer/kematjaya/code-manager-bundle@2.3
+- pkg:composer/kematjaya/code-manager-bundle@6.4.0
+- pkg:composer/kematjaya/code-manager-bundle@6.5
 - pkg:composer/kematjaya/code-manager-bundle@7.0-BETA
 - pkg:composer/kematjaya/code-manager-bundle@7.0.1

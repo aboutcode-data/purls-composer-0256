@@ -4,4 +4,6 @@
 - pkg:composer/kematjaya/export-bundle@2.0
 - pkg:composer/kematjaya/export-bundle@2.1.0
 - pkg:composer/kematjaya/export-bundle@2.1.1
+- pkg:composer/kematjaya/export-bundle@6.4.0
+- pkg:composer/kematjaya/export-bundle@6.5
 - pkg:composer/kematjaya/export-bundle@7.0
