@@ -25,3 +25,8 @@
 - pkg:composer/jbtronics/settings-bundle@v3.2.1
 - pkg:composer/jbtronics/settings-bundle@v3.3.0
 - pkg:composer/jbtronics/settings-bundle@v3.3.1
+- pkg:composer/jbtronics/settings-bundle@v3.4.0
+- pkg:composer/jbtronics/settings-bundle@v3.4.1
+- pkg:composer/jbtronics/settings-bundle@v4.0.0
+- pkg:composer/jbtronics/settings-bundle@v4.0.1
+- pkg:composer/jbtronics/settings-bundle@v5.0.0
