@@ -26,3 +26,4 @@
 - pkg:composer/license-bridge/wordpress-sdk@1.0.8
 - pkg:composer/license-bridge/wordpress-sdk@1.0.9
 - pkg:composer/license-bridge/wordpress-sdk@2.0.0
+- pkg:composer/license-bridge/wordpress-sdk@2.0.1
