@@ -1,2 +1,4 @@
 - pkg:composer/jholt/craft-wink@5.0.3
 - pkg:composer/jholt/craft-wink@5.0.5
+- pkg:composer/jholt/craft-wink@5.0.6
+- pkg:composer/jholt/craft-wink@5.1.0
