@@ -321,6 +321,7 @@
 - pkg:composer/illuminate/collections@v12.69.0
 - pkg:composer/illuminate/collections@v12.69.1
 - pkg:composer/illuminate/collections@v12.69.2
+- pkg:composer/illuminate/collections@v12.69.3
 - pkg:composer/illuminate/collections@v12.7.0
 - pkg:composer/illuminate/collections@v12.7.1
 - pkg:composer/illuminate/collections@v12.7.2
@@ -364,6 +365,8 @@
 - pkg:composer/illuminate/collections@v13.31.0
 - pkg:composer/illuminate/collections@v13.32.0
 - pkg:composer/illuminate/collections@v13.33.0
+- pkg:composer/illuminate/collections@v13.34.0
+- pkg:composer/illuminate/collections@v13.35.0
 - pkg:composer/illuminate/collections@v13.4.0
 - pkg:composer/illuminate/collections@v13.5.0
 - pkg:composer/illuminate/collections@v13.6.0

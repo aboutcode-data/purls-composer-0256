@@ -27,6 +27,7 @@
 - pkg:composer/illuminated/db-profiler@10.0.0
 - pkg:composer/illuminated/db-profiler@11.0.0
 - pkg:composer/illuminated/db-profiler@12.0.0
+- pkg:composer/illuminated/db-profiler@13.0.0
 - pkg:composer/illuminated/db-profiler@5.1.0
 - pkg:composer/illuminated/db-profiler@5.1.1
 - pkg:composer/illuminated/db-profiler@5.1.2
