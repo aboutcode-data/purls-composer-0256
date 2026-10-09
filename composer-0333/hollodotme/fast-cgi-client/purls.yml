@@ -32,3 +32,5 @@
 - pkg:composer/hollodotme/fast-cgi-client@v3.1.5
 - pkg:composer/hollodotme/fast-cgi-client@v3.1.6
 - pkg:composer/hollodotme/fast-cgi-client@v3.1.7
+- pkg:composer/hollodotme/fast-cgi-client@v3.1.8
+- pkg:composer/hollodotme/fast-cgi-client@v4.0.0
