@@ -4,3 +4,4 @@
 - pkg:composer/hengebytes/soap-core-async-bundle@v1.0.3
 - pkg:composer/hengebytes/soap-core-async-bundle@v1.0.4
 - pkg:composer/hengebytes/soap-core-async-bundle@v1.0.5
+- pkg:composer/hengebytes/soap-core-async-bundle@v2.0.0
