@@ -44,3 +44,5 @@
 - pkg:composer/jobmetric/laravel-translation@3.8.0
 - pkg:composer/jobmetric/laravel-translation@3.9.0
 - pkg:composer/jobmetric/laravel-translation@3.9.1
+- pkg:composer/jobmetric/laravel-translation@4.0.1
+- pkg:composer/jobmetric/laravel-translation@4.0.2
