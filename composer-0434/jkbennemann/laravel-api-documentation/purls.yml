@@ -31,6 +31,7 @@
 - pkg:composer/jkbennemann/laravel-api-documentation@0.4.10
 - pkg:composer/jkbennemann/laravel-api-documentation@0.4.11
 - pkg:composer/jkbennemann/laravel-api-documentation@0.4.12
+- pkg:composer/jkbennemann/laravel-api-documentation@0.4.13
 - pkg:composer/jkbennemann/laravel-api-documentation@0.4.2
 - pkg:composer/jkbennemann/laravel-api-documentation@0.4.3
 - pkg:composer/jkbennemann/laravel-api-documentation@0.4.4
