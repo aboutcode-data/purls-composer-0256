@@ -5,3 +5,5 @@
 - pkg:composer/mage-obsidian/module-gift-message@2.1.1
 - pkg:composer/mage-obsidian/module-gift-message@2.1.2
 - pkg:composer/mage-obsidian/module-gift-message@2.2.0
+- pkg:composer/mage-obsidian/module-gift-message@4.0.0
+- pkg:composer/mage-obsidian/module-gift-message@4.0.1
