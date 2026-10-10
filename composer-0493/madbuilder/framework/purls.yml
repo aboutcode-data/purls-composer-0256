@@ -35,3 +35,4 @@
 - pkg:composer/madbuilder/framework@v5.141.0
 - pkg:composer/madbuilder/framework@v5.141.1
 - pkg:composer/madbuilder/framework@v5.141.2
+- pkg:composer/madbuilder/framework@v5.151.1
