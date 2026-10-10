@@ -41,3 +41,4 @@
 - pkg:composer/kode/database@1.8.7
 - pkg:composer/kode/database@1.8.8
 - pkg:composer/kode/database@1.9.0
+- pkg:composer/kode/database@2.0.0
