@@ -32,6 +32,7 @@
 - pkg:composer/idct/php-nats-jetstream-client@v2.25.1
 - pkg:composer/idct/php-nats-jetstream-client@v2.25.2
 - pkg:composer/idct/php-nats-jetstream-client@v2.25.3
+- pkg:composer/idct/php-nats-jetstream-client@v2.25.4
 - pkg:composer/idct/php-nats-jetstream-client@v2.3.0
 - pkg:composer/idct/php-nats-jetstream-client@v2.4.0
 - pkg:composer/idct/php-nats-jetstream-client@v2.4.1
