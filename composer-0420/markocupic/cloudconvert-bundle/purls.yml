@@ -36,3 +36,4 @@
 - pkg:composer/markocupic/cloudconvert-bundle@2.5.7
 - pkg:composer/markocupic/cloudconvert-bundle@2.5.8
 - pkg:composer/markocupic/cloudconvert-bundle@2.5.9
+- pkg:composer/markocupic/cloudconvert-bundle@2.6.0
