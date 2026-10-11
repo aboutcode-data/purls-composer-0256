@@ -10,3 +10,4 @@
 - pkg:composer/jdz/mailer@1.0.7
 - pkg:composer/jdz/mailer@1.0.8
 - pkg:composer/jdz/mailer@1.0.9
+- pkg:composer/jdz/mailer@2.0.0
