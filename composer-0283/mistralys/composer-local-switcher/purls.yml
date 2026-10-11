@@ -3,3 +3,5 @@
 - pkg:composer/mistralys/composer-local-switcher@1.0.2
 - pkg:composer/mistralys/composer-local-switcher@1.0.3
 - pkg:composer/mistralys/composer-local-switcher@1.0.4
+- pkg:composer/mistralys/composer-local-switcher@2.0.0
+- pkg:composer/mistralys/composer-local-switcher@3.0.0
