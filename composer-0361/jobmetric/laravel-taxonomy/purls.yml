@@ -36,3 +36,4 @@
 - pkg:composer/jobmetric/laravel-taxonomy@4.2.1
 - pkg:composer/jobmetric/laravel-taxonomy@4.2.2
 - pkg:composer/jobmetric/laravel-taxonomy@4.2.3
+- pkg:composer/jobmetric/laravel-taxonomy@4.3.0
