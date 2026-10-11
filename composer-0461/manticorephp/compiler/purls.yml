@@ -1,3 +1,6 @@
 - pkg:composer/manticorephp/compiler@v0.10.0
 - pkg:composer/manticorephp/compiler@v0.11.0
+- pkg:composer/manticorephp/compiler@v0.12.0
+- pkg:composer/manticorephp/compiler@v0.13.0
+- pkg:composer/manticorephp/compiler@v0.14.0
 - pkg:composer/manticorephp/compiler@v0.6.0
