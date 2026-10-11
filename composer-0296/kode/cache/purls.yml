@@ -16,3 +16,5 @@
 - pkg:composer/kode/cache@1.5.1
 - pkg:composer/kode/cache@1.6.0
 - pkg:composer/kode/cache@2.0.0
+- pkg:composer/kode/cache@2.0.1
+- pkg:composer/kode/cache@2.0.2
