@@ -129,3 +129,4 @@
 - pkg:composer/mangopay4/php-sdk@v2.7.1
 - pkg:composer/mangopay4/php-sdk@v3.8.0
 - pkg:composer/mangopay4/php-sdk@v5.0.0
+- pkg:composer/mangopay4/php-sdk@v5.1.0
