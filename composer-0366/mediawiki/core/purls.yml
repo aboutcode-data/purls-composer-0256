@@ -200,6 +200,8 @@
 - pkg:composer/mediawiki/core@1.43.0
 - pkg:composer/mediawiki/core@1.43.0-rc.0
 - pkg:composer/mediawiki/core@1.43.1
+- pkg:composer/mediawiki/core@1.43.10
+- pkg:composer/mediawiki/core@1.43.11
 - pkg:composer/mediawiki/core@1.43.2
 - pkg:composer/mediawiki/core@1.43.3
 - pkg:composer/mediawiki/core@1.43.4
@@ -222,5 +224,9 @@
 - pkg:composer/mediawiki/core@1.45.2
 - pkg:composer/mediawiki/core@1.45.3
 - pkg:composer/mediawiki/core@1.45.4
+- pkg:composer/mediawiki/core@1.45.5
+- pkg:composer/mediawiki/core@1.45.6
 - pkg:composer/mediawiki/core@1.46.0
 - pkg:composer/mediawiki/core@1.46.0-rc.0
+- pkg:composer/mediawiki/core@1.46.1
+- pkg:composer/mediawiki/core@1.46.2
