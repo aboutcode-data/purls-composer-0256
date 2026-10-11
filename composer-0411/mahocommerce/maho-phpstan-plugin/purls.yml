@@ -21,3 +21,5 @@
 - pkg:composer/mahocommerce/maho-phpstan-plugin@v4.3.0
 - pkg:composer/mahocommerce/maho-phpstan-plugin@v4.4.0
 - pkg:composer/mahocommerce/maho-phpstan-plugin@v5.0.0
+- pkg:composer/mahocommerce/maho-phpstan-plugin@v5.1.0
+- pkg:composer/mahocommerce/maho-phpstan-plugin@v5.2.0
