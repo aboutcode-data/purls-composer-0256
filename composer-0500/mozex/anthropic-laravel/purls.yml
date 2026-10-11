@@ -13,3 +13,5 @@
 - pkg:composer/mozex/anthropic-laravel@1.7.0
 - pkg:composer/mozex/anthropic-laravel@1.8.0
 - pkg:composer/mozex/anthropic-laravel@1.8.1
+- pkg:composer/mozex/anthropic-laravel@1.8.2
+- pkg:composer/mozex/anthropic-laravel@1.9.0
