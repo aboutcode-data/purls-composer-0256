@@ -11,3 +11,4 @@
 - pkg:composer/mage-os/module-claude-consumer-agent@1.1.7
 - pkg:composer/mage-os/module-claude-consumer-agent@1.1.8
 - pkg:composer/mage-os/module-claude-consumer-agent@2.0.0
+- pkg:composer/mage-os/module-claude-consumer-agent@2.0.1
