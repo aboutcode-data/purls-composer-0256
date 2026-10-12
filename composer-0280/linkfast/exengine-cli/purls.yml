@@ -1,4 +1,3 @@
-- pkg:composer/linkfast/exengine-cli@1.0.0
-- pkg:composer/linkfast/exengine-cli@1.0.1
-- pkg:composer/linkfast/exengine-cli@1.0.2
-- pkg:composer/linkfast/exengine-cli@1.0.3
+- pkg:composer/linkfast/exengine-cli@1.0.0-a1
+- pkg:composer/linkfast/exengine-cli@1.0.0-a2
+- pkg:composer/linkfast/exengine-cli@1.0.0-a3
