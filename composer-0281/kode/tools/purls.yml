@@ -16,6 +16,8 @@
 - pkg:composer/kode/tools@1.8.0
 - pkg:composer/kode/tools@2.0.0
 - pkg:composer/kode/tools@2.0.1
+- pkg:composer/kode/tools@2.0.2
+- pkg:composer/kode/tools@2.1.0
 - pkg:composer/kode/tools@v1.0.0
 - pkg:composer/kode/tools@v1.8.2
 - pkg:composer/kode/tools@v1.8.3
