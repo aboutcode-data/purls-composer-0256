@@ -8,3 +8,4 @@
 - pkg:composer/mips/httpclient@v0.8
 - pkg:composer/mips/httpclient@v0.9
 - pkg:composer/mips/httpclient@v1.0
+- pkg:composer/mips/httpclient@v2.0
