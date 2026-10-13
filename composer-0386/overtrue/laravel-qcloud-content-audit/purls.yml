@@ -20,3 +20,4 @@
 - pkg:composer/overtrue/laravel-qcloud-content-audit@3.7.0
 - pkg:composer/overtrue/laravel-qcloud-content-audit@4.0.0
 - pkg:composer/overtrue/laravel-qcloud-content-audit@4.0.1
+- pkg:composer/overtrue/laravel-qcloud-content-audit@5.0.0
