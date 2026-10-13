@@ -96,3 +96,4 @@
 - pkg:composer/outeredge/magento-structured-data-module@6.1.0
 - pkg:composer/outeredge/magento-structured-data-module@6.1.1
 - pkg:composer/outeredge/magento-structured-data-module@6.2.0
+- pkg:composer/outeredge/magento-structured-data-module@6.3.0
