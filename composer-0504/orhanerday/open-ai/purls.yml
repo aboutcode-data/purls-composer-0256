@@ -25,3 +25,8 @@
 - pkg:composer/orhanerday/open-ai@5.1
 - pkg:composer/orhanerday/open-ai@5.2
 - pkg:composer/orhanerday/open-ai@5.3
+- pkg:composer/orhanerday/open-ai@6.0
+- pkg:composer/orhanerday/open-ai@6.0.1
+- pkg:composer/orhanerday/open-ai@6.1.0
+- pkg:composer/orhanerday/open-ai@6.2.0
+- pkg:composer/orhanerday/open-ai@6.3.0
