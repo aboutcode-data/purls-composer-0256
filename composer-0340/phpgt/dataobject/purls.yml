@@ -12,3 +12,4 @@
 - pkg:composer/phpgt/dataobject@v1.0.7
 - pkg:composer/phpgt/dataobject@v1.1.0
 - pkg:composer/phpgt/dataobject@v1.1.1
+- pkg:composer/phpgt/dataobject@v1.1.2
