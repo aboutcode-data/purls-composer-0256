@@ -11,4 +11,16 @@
 - pkg:composer/pollen/pollen@v13.34.0
 - pkg:composer/pollen/pollen@v13.34.0-beta
 - pkg:composer/pollen/pollen@v13.34.0-beta.2
+- pkg:composer/pollen/pollen@v13.34.1
+- pkg:composer/pollen/pollen@v13.34.2
+- pkg:composer/pollen/pollen@v13.34.3
+- pkg:composer/pollen/pollen@v13.34.4
+- pkg:composer/pollen/pollen@v13.34.5
+- pkg:composer/pollen/pollen@v13.34.6
+- pkg:composer/pollen/pollen@v13.35.0
+- pkg:composer/pollen/pollen@v13.35.1
+- pkg:composer/pollen/pollen@v13.35.2
+- pkg:composer/pollen/pollen@v13.35.3
+- pkg:composer/pollen/pollen@v13.35.4
+- pkg:composer/pollen/pollen@v13.35.5
 - pkg:composer/pollen/pollen@v13.4.0
