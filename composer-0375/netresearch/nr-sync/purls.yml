@@ -12,6 +12,7 @@
 - pkg:composer/netresearch/nr-sync@1.0.5
 - pkg:composer/netresearch/nr-sync@1.0.6
 - pkg:composer/netresearch/nr-sync@1.0.7
+- pkg:composer/netresearch/nr-sync@2.0.0
 - pkg:composer/netresearch/nr-sync@v0.1.0
 - pkg:composer/netresearch/nr-sync@v0.10.1
 - pkg:composer/netresearch/nr-sync@v0.10.2
