@@ -10,3 +10,7 @@
 - pkg:composer/namirasoft/slack-sender@1.4.9
 - pkg:composer/namirasoft/slack-sender@1.5.0
 - pkg:composer/namirasoft/slack-sender@1.5.1
+- pkg:composer/namirasoft/slack-sender@1.5.2
+- pkg:composer/namirasoft/slack-sender@1.5.3
+- pkg:composer/namirasoft/slack-sender@1.5.4
+- pkg:composer/namirasoft/slack-sender@1.5.5
