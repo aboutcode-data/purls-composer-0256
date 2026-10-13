@@ -45,3 +45,4 @@
 - pkg:composer/phpmd/phpmd@2.8.2
 - pkg:composer/phpmd/phpmd@2.9.0
 - pkg:composer/phpmd/phpmd@2.9.1
+- pkg:composer/phpmd/phpmd@3.0.0

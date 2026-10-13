@@ -46,3 +46,5 @@
 - pkg:composer/phplrt/position-contracts@4.1.1
 - pkg:composer/phplrt/position-contracts@4.1.2
 - pkg:composer/phplrt/position-contracts@4.1.3
+- pkg:composer/phplrt/position-contracts@4.2.0
+- pkg:composer/phplrt/position-contracts@4.2.1
