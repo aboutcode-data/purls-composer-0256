@@ -1,3 +1,9 @@
+- pkg:composer/mymocms/mymocms@5.0.0
+- pkg:composer/mymocms/mymocms@5.0.1
+- pkg:composer/mymocms/mymocms@5.0.2
+- pkg:composer/mymocms/mymocms@5.0.3
+- pkg:composer/mymocms/mymocms@5.0.4
+- pkg:composer/mymocms/mymocms@5.0.5
 - pkg:composer/mymocms/mymocms@v1.0
 - pkg:composer/mymocms/mymocms@v1.0.1
 - pkg:composer/mymocms/mymocms@v1.0.2
@@ -66,3 +72,5 @@
 - pkg:composer/mymocms/mymocms@v3.3.8
 - pkg:composer/mymocms/mymocms@v3.3.9
 - pkg:composer/mymocms/mymocms@v3.4
+- pkg:composer/mymocms/mymocms@v3.4.1
+- pkg:composer/mymocms/mymocms@v3.4.2
