@@ -23,6 +23,11 @@
 - pkg:composer/pushery/sqlens-for-laravel@v0.23.0
 - pkg:composer/pushery/sqlens-for-laravel@v0.24.0
 - pkg:composer/pushery/sqlens-for-laravel@v0.25.0
+- pkg:composer/pushery/sqlens-for-laravel@v0.26.0
+- pkg:composer/pushery/sqlens-for-laravel@v0.27.0
+- pkg:composer/pushery/sqlens-for-laravel@v0.28.0
+- pkg:composer/pushery/sqlens-for-laravel@v0.28.1
+- pkg:composer/pushery/sqlens-for-laravel@v0.29.0
 - pkg:composer/pushery/sqlens-for-laravel@v0.3.0
 - pkg:composer/pushery/sqlens-for-laravel@v0.4.0
 - pkg:composer/pushery/sqlens-for-laravel@v0.5.0
