@@ -1,2 +1,4 @@
 - pkg:composer/php-concept/extension-event@1.0.0
 - pkg:composer/php-concept/extension-event@v1.0.1
+- pkg:composer/php-concept/extension-event@v1.1.0
+- pkg:composer/php-concept/extension-event@v1.1.1
