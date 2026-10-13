@@ -1,0 +1,5 @@
+- pkg:composer/php-bug-catcher/perf-collector@2.0.0-RC1
+- pkg:composer/php-bug-catcher/perf-collector@v2.0.0
+- pkg:composer/php-bug-catcher/perf-collector@v2.0.2
+- pkg:composer/php-bug-catcher/perf-collector@v2.1.0
+- pkg:composer/php-bug-catcher/perf-collector@v2.1.1
