@@ -771,6 +771,7 @@
 - pkg:composer/open-foundations/kirby-base@3.54.0
 - pkg:composer/open-foundations/kirby-base@3.55.0
 - pkg:composer/open-foundations/kirby-base@3.56.0
+- pkg:composer/open-foundations/kirby-base@3.57.0
 - pkg:composer/open-foundations/kirby-base@3.6.0
 - pkg:composer/open-foundations/kirby-base@3.6.1
 - pkg:composer/open-foundations/kirby-base@3.6.2
