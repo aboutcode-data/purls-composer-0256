@@ -1,2 +1,3 @@
-- pkg:composer/philipannis/laravel-http-remember@v1-alpha
 - pkg:composer/philipannis/laravel-http-remember@v1.0.0
+- pkg:composer/philipannis/laravel-http-remember@v1.0.1
+- pkg:composer/philipannis/laravel-http-remember@v1.0.2
