@@ -4,3 +4,4 @@
 - pkg:composer/opctim/symfony-csp-bundle@1.2.0
 - pkg:composer/opctim/symfony-csp-bundle@1.2.1
 - pkg:composer/opctim/symfony-csp-bundle@2.0.0
+- pkg:composer/opctim/symfony-csp-bundle@2.1.0
