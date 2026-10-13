@@ -7,6 +7,7 @@
 - pkg:composer/opengento/module-application@0.12.1
 - pkg:composer/opengento/module-application@0.13.0
 - pkg:composer/opengento/module-application@0.13.1
+- pkg:composer/opengento/module-application@0.14.0
 - pkg:composer/opengento/module-application@0.2.0
 - pkg:composer/opengento/module-application@0.3.0
 - pkg:composer/opengento/module-application@0.4.0
