@@ -6,3 +6,4 @@
 - pkg:composer/pmochine/laravel-nova-hashids@2.1.0
 - pkg:composer/pmochine/laravel-nova-hashids@2.2.0
 - pkg:composer/pmochine/laravel-nova-hashids@2.3.0
+- pkg:composer/pmochine/laravel-nova-hashids@3.0.0
