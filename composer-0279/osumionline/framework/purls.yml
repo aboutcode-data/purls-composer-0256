@@ -4,6 +4,9 @@
 - pkg:composer/osumionline/framework@9.1.0
 - pkg:composer/osumionline/framework@9.1.1
 - pkg:composer/osumionline/framework@9.1.2
+- pkg:composer/osumionline/framework@9.10.0
+- pkg:composer/osumionline/framework@9.10.1
+- pkg:composer/osumionline/framework@9.10.2
 - pkg:composer/osumionline/framework@9.2.0
 - pkg:composer/osumionline/framework@9.2.1
 - pkg:composer/osumionline/framework@9.2.2
@@ -33,3 +36,5 @@
 - pkg:composer/osumionline/framework@9.8.3
 - pkg:composer/osumionline/framework@9.8.4
 - pkg:composer/osumionline/framework@9.8.5
+- pkg:composer/osumionline/framework@9.9.0
+- pkg:composer/osumionline/framework@9.9.1
