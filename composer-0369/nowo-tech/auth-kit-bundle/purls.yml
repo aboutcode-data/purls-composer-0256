@@ -39,6 +39,7 @@
 - pkg:composer/nowo-tech/auth-kit-bundle@v1.23.1
 - pkg:composer/nowo-tech/auth-kit-bundle@v1.24.0
 - pkg:composer/nowo-tech/auth-kit-bundle@v1.24.1
+- pkg:composer/nowo-tech/auth-kit-bundle@v1.25.0
 - pkg:composer/nowo-tech/auth-kit-bundle@v1.3.0
 - pkg:composer/nowo-tech/auth-kit-bundle@v1.4.0
 - pkg:composer/nowo-tech/auth-kit-bundle@v1.4.1

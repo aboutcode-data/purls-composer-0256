@@ -24,3 +24,6 @@
 - pkg:composer/nowo-tech/workflow-bundle@v1.6.8
 - pkg:composer/nowo-tech/workflow-bundle@v1.6.9
 - pkg:composer/nowo-tech/workflow-bundle@v1.7.0
+- pkg:composer/nowo-tech/workflow-bundle@v1.8.0
+- pkg:composer/nowo-tech/workflow-bundle@v1.8.1
+- pkg:composer/nowo-tech/workflow-bundle@v1.8.2
