@@ -23,3 +23,5 @@
 - pkg:composer/patrickhanna/laravel-warrant@v3.9.0
 - pkg:composer/patrickhanna/laravel-warrant@v4.0.0
 - pkg:composer/patrickhanna/laravel-warrant@v4.1.0
+- pkg:composer/patrickhanna/laravel-warrant@v4.2.0
+- pkg:composer/patrickhanna/laravel-warrant@v4.3.0
