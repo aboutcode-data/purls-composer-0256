@@ -42,3 +42,6 @@
 - pkg:composer/nimdev/paginator@v2.2.3
 - pkg:composer/nimdev/paginator@v2.2.4
 - pkg:composer/nimdev/paginator@v2.2.5
+- pkg:composer/nimdev/paginator@v26.41.0
+- pkg:composer/nimdev/paginator@v26.41.1
+- pkg:composer/nimdev/paginator@v26.41.2
