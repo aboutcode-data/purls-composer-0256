@@ -16,3 +16,5 @@
 - pkg:composer/origami-mp/origami-api-sdk@v6.1.0
 - pkg:composer/origami-mp/origami-api-sdk@v6.2.0
 - pkg:composer/origami-mp/origami-api-sdk@v6.2.1
+- pkg:composer/origami-mp/origami-api-sdk@v6.3.0
+- pkg:composer/origami-mp/origami-api-sdk@v6.4.0
