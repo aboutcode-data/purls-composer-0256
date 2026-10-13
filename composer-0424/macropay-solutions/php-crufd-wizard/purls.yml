@@ -26,3 +26,5 @@
 - pkg:composer/macropay-solutions/php-crufd-wizard@1.0.0-RC-9
 - pkg:composer/macropay-solutions/php-crufd-wizard@1.0.1
 - pkg:composer/macropay-solutions/php-crufd-wizard@1.0.2
+- pkg:composer/macropay-solutions/php-crufd-wizard@1.0.3
+- pkg:composer/macropay-solutions/php-crufd-wizard@1.0.4
