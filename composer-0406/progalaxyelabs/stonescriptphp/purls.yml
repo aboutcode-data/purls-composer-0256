@@ -1,3 +1,7 @@
+- pkg:composer/progalaxyelabs/stonescriptphp@10.0.0
+- pkg:composer/progalaxyelabs/stonescriptphp@11.0.0
+- pkg:composer/progalaxyelabs/stonescriptphp@12.0.1
+- pkg:composer/progalaxyelabs/stonescriptphp@12.1.0
 - pkg:composer/progalaxyelabs/stonescriptphp@4.0.0
 - pkg:composer/progalaxyelabs/stonescriptphp@4.0.1
 - pkg:composer/progalaxyelabs/stonescriptphp@4.0.2
@@ -76,6 +80,7 @@
 - pkg:composer/progalaxyelabs/stonescriptphp@v1.0.0
 - pkg:composer/progalaxyelabs/stonescriptphp@v1.0.1
 - pkg:composer/progalaxyelabs/stonescriptphp@v1.1.0
+- pkg:composer/progalaxyelabs/stonescriptphp@v12.0.0
 - pkg:composer/progalaxyelabs/stonescriptphp@v2.0.0
 - pkg:composer/progalaxyelabs/stonescriptphp@v2.0.1
 - pkg:composer/progalaxyelabs/stonescriptphp@v2.0.11
