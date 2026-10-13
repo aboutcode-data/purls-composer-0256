@@ -1,2 +1,3 @@
 - pkg:composer/qredit-payment-gateway/laravel-qredit@v1.0.0
 - pkg:composer/qredit-payment-gateway/laravel-qredit@v1.0.1
+- pkg:composer/qredit-payment-gateway/laravel-qredit@v1.0.2
