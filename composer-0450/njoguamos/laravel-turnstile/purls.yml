@@ -11,3 +11,4 @@
 - pkg:composer/njoguamos/laravel-turnstile@v3.2.2
 - pkg:composer/njoguamos/laravel-turnstile@v4.0.0
 - pkg:composer/njoguamos/laravel-turnstile@v4.0.2
+- pkg:composer/njoguamos/laravel-turnstile@v4.1.0
