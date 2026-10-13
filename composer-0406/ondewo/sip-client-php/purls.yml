@@ -1,1 +1,3 @@
 - pkg:composer/ondewo/sip-client-php@5.4.0
+- pkg:composer/ondewo/sip-client-php@5.4.1
+- pkg:composer/ondewo/sip-client-php@5.5.0
