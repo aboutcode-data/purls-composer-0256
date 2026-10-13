@@ -1,2 +1,5 @@
 - pkg:composer/particle-academy/laravel-jobs@v0.1.0
 - pkg:composer/particle-academy/laravel-jobs@v0.2.0
+- pkg:composer/particle-academy/laravel-jobs@v0.3.0
+- pkg:composer/particle-academy/laravel-jobs@v0.4.0
+- pkg:composer/particle-academy/laravel-jobs@v0.5.0
