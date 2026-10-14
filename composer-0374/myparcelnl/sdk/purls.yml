@@ -69,6 +69,7 @@
 - pkg:composer/myparcelnl/sdk@11.0.0-beta.7
 - pkg:composer/myparcelnl/sdk@11.0.0-beta.8
 - pkg:composer/myparcelnl/sdk@11.0.0-beta.9
+- pkg:composer/myparcelnl/sdk@11.0.1
 - pkg:composer/myparcelnl/sdk@6.1.0
 - pkg:composer/myparcelnl/sdk@7.0.0
 - pkg:composer/myparcelnl/sdk@7.1.0
