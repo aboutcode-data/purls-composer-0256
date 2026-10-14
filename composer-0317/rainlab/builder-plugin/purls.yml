@@ -35,3 +35,4 @@
 - pkg:composer/rainlab/builder-plugin@v3.0.6
 - pkg:composer/rainlab/builder-plugin@v3.0.7
 - pkg:composer/rainlab/builder-plugin@v3.0.8
+- pkg:composer/rainlab/builder-plugin@v3.1.0
