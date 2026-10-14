@@ -1,5 +1,6 @@
 - pkg:composer/recado/recado-php@v2.0.0
 - pkg:composer/recado/recado-php@v2.1.0
+- pkg:composer/recado/recado-php@v2.10.0
 - pkg:composer/recado/recado-php@v2.2.0
 - pkg:composer/recado/recado-php@v2.3.0
 - pkg:composer/recado/recado-php@v2.4.0
@@ -7,3 +8,4 @@
 - pkg:composer/recado/recado-php@v2.6.0
 - pkg:composer/recado/recado-php@v2.7.0
 - pkg:composer/recado/recado-php@v2.8.0
+- pkg:composer/recado/recado-php@v2.9.0
