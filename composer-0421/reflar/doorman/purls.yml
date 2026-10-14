@@ -23,4 +23,5 @@
 - pkg:composer/reflar/doorman@2.0.0
 - pkg:composer/reflar/doorman@2.0.0-beta.1
 - pkg:composer/reflar/doorman@2.0.0-beta.2
+- pkg:composer/reflar/doorman@3.0.0
 - pkg:composer/reflar/doorman@3.0.0-beta.1
