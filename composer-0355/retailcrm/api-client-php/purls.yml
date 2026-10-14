@@ -114,6 +114,7 @@
 - pkg:composer/retailcrm/api-client-php@v6.15.31
 - pkg:composer/retailcrm/api-client-php@v6.15.32
 - pkg:composer/retailcrm/api-client-php@v6.15.33
+- pkg:composer/retailcrm/api-client-php@v6.15.34
 - pkg:composer/retailcrm/api-client-php@v6.15.4
 - pkg:composer/retailcrm/api-client-php@v6.15.5
 - pkg:composer/retailcrm/api-client-php@v6.15.6
