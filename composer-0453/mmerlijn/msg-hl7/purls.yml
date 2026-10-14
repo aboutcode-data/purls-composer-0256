@@ -95,3 +95,4 @@
 - pkg:composer/mmerlijn/msg-hl7@v3.9.8
 - pkg:composer/mmerlijn/msg-hl7@v3.9.9
 - pkg:composer/mmerlijn/msg-hl7@v4.0
+- pkg:composer/mmerlijn/msg-hl7@v4.0.2
