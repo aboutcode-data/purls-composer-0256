@@ -1,4 +1,6 @@
 - pkg:composer/polaris/scim@v0.10.0
+- pkg:composer/polaris/scim@v0.10.1
+- pkg:composer/polaris/scim@v0.11.0
 - pkg:composer/polaris/scim@v0.6.0
 - pkg:composer/polaris/scim@v0.6.1
 - pkg:composer/polaris/scim@v0.7.0

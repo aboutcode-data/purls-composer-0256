@@ -1,2 +1,4 @@
 - pkg:composer/polaris/api-keys@v0.10.0
+- pkg:composer/polaris/api-keys@v0.10.1
+- pkg:composer/polaris/api-keys@v0.11.0
 - pkg:composer/polaris/api-keys@v0.9.0
