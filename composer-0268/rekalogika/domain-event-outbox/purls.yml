@@ -12,3 +12,4 @@
 - pkg:composer/rekalogika/domain-event-outbox@2.5.1
 - pkg:composer/rekalogika/domain-event-outbox@2.5.2
 - pkg:composer/rekalogika/domain-event-outbox@2.7.0
+- pkg:composer/rekalogika/domain-event-outbox@3.0.1
