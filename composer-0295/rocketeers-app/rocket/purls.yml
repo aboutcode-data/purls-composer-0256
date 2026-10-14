@@ -102,6 +102,9 @@
 - pkg:composer/rocketeers-app/rocket@v2.2.3
 - pkg:composer/rocketeers-app/rocket@v2.2.4
 - pkg:composer/rocketeers-app/rocket@v2.2.5
+- pkg:composer/rocketeers-app/rocket@v2.20.0
+- pkg:composer/rocketeers-app/rocket@v2.20.1
+- pkg:composer/rocketeers-app/rocket@v2.21.0
 - pkg:composer/rocketeers-app/rocket@v2.3.0
 - pkg:composer/rocketeers-app/rocket@v2.4.0
 - pkg:composer/rocketeers-app/rocket@v2.4.1
