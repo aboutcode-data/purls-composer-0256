@@ -57,3 +57,4 @@
 - pkg:composer/richarddobron/laravel-fbt@4.3.6
 - pkg:composer/richarddobron/laravel-fbt@4.4.0
 - pkg:composer/richarddobron/laravel-fbt@5.0.0
+- pkg:composer/richarddobron/laravel-fbt@5.1.0
