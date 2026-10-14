@@ -6,3 +6,4 @@
 - pkg:composer/php-concept/extension-error-handler-whoops@v1.0.7
 - pkg:composer/php-concept/extension-error-handler-whoops@v1.1.0
 - pkg:composer/php-concept/extension-error-handler-whoops@v1.1.1
+- pkg:composer/php-concept/extension-error-handler-whoops@v1.1.2
