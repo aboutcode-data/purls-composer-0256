@@ -21,3 +21,5 @@
 - pkg:composer/raxos/openapi@3.0.0
 - pkg:composer/raxos/openapi@3.0.1
 - pkg:composer/raxos/openapi@3.1.0
+- pkg:composer/raxos/openapi@3.2.0
+- pkg:composer/raxos/openapi@3.3.0
