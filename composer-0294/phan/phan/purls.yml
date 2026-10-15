@@ -186,6 +186,7 @@
 - pkg:composer/phan/phan@6.0.0-beta
 - pkg:composer/phan/phan@6.0.1
 - pkg:composer/phan/phan@6.0.10
+- pkg:composer/phan/phan@6.0.11
 - pkg:composer/phan/phan@6.0.2
 - pkg:composer/phan/phan@6.0.3
 - pkg:composer/phan/phan@6.0.4
