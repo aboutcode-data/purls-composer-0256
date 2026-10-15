@@ -5,6 +5,7 @@
 - pkg:composer/nicoren/php-shopify@2.0.2
 - pkg:composer/nicoren/php-shopify@2.0.3
 - pkg:composer/nicoren/php-shopify@2.0.4
+- pkg:composer/nicoren/php-shopify@2.1.0
 - pkg:composer/nicoren/php-shopify@v1.0.0
 - pkg:composer/nicoren/php-shopify@v1.0.0-rc
 - pkg:composer/nicoren/php-shopify@v1.0.1
