@@ -5,6 +5,7 @@
 - pkg:composer/runapi-ai/core@v0.1.5
 - pkg:composer/runapi-ai/core@v0.1.6
 - pkg:composer/runapi-ai/core@v0.1.7
+- pkg:composer/runapi-ai/core@v0.10.0
 - pkg:composer/runapi-ai/core@v0.2.0
 - pkg:composer/runapi-ai/core@v0.2.1
 - pkg:composer/runapi-ai/core@v0.2.10
