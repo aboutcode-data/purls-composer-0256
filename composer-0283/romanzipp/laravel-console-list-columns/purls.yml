@@ -21,3 +21,4 @@
 - pkg:composer/romanzipp/laravel-console-list-columns@1.6.0
 - pkg:composer/romanzipp/laravel-console-list-columns@1.6.1
 - pkg:composer/romanzipp/laravel-console-list-columns@1.6.2
+- pkg:composer/romanzipp/laravel-console-list-columns@1.7.0
