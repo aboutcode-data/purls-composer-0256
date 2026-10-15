@@ -1,3 +1,4 @@
 - pkg:composer/schenke-io/laravel-gzip@v1.0.0
 - pkg:composer/schenke-io/laravel-gzip@v1.0.1
 - pkg:composer/schenke-io/laravel-gzip@v1.0.2
+- pkg:composer/schenke-io/laravel-gzip@v1.1.0
