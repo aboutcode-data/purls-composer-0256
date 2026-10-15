@@ -9,3 +9,8 @@
 - pkg:composer/saucebase/themes@v2.0.1
 - pkg:composer/saucebase/themes@v2.0.2
 - pkg:composer/saucebase/themes@v2.0.3
+- pkg:composer/saucebase/themes@v3.0.0
+- pkg:composer/saucebase/themes@v3.1.0
+- pkg:composer/saucebase/themes@v3.2.0
+- pkg:composer/saucebase/themes@v3.2.1
+- pkg:composer/saucebase/themes@v3.2.2
