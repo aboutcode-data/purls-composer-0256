@@ -3,3 +3,4 @@
 - pkg:composer/phox/browser-agent@v1.1.0
 - pkg:composer/phox/browser-agent@v1.2.0
 - pkg:composer/phox/browser-agent@v1.2.1
+- pkg:composer/phox/browser-agent@v2.0.0
