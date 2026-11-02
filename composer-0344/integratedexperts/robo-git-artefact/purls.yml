@@ -33,3 +33,6 @@
 - pkg:composer/integratedexperts/robo-git-artefact@1.6.0
 - pkg:composer/integratedexperts/robo-git-artefact@1.7.0
 - pkg:composer/integratedexperts/robo-git-artefact@1.8.0
+- pkg:composer/integratedexperts/robo-git-artefact@1.9.0
+- pkg:composer/integratedexperts/robo-git-artefact@1.9.1
+- pkg:composer/integratedexperts/robo-git-artefact@1.9.2
