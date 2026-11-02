@@ -202,5 +202,7 @@
 - pkg:composer/jdcloud-api/jdcloud-sdk-php@5.3.70
 - pkg:composer/jdcloud-api/jdcloud-sdk-php@5.3.71
 - pkg:composer/jdcloud-api/jdcloud-sdk-php@5.3.72
+- pkg:composer/jdcloud-api/jdcloud-sdk-php@5.3.73
+- pkg:composer/jdcloud-api/jdcloud-sdk-php@5.3.74
 - pkg:composer/jdcloud-api/jdcloud-sdk-php@5.3.8
 - pkg:composer/jdcloud-api/jdcloud-sdk-php@5.3.9
