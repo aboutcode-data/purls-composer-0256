@@ -1,2 +1,4 @@
+- pkg:composer/jovian/venusian-qt@0.10.4
+- pkg:composer/jovian/venusian-qt@0.10.5
 - pkg:composer/jovian/venusian-qt@v0.10.0
 - pkg:composer/jovian/venusian-qt@v0.10.1
