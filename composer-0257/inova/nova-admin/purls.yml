@@ -42,3 +42,7 @@
 - pkg:composer/inova/nova-admin@v2.4.2
 - pkg:composer/inova/nova-admin@v2.5.0
 - pkg:composer/inova/nova-admin@v2.5.1
+- pkg:composer/inova/nova-admin@v2.6.0
+- pkg:composer/inova/nova-admin@v2.7.0
+- pkg:composer/inova/nova-admin@v2.8.0
+- pkg:composer/inova/nova-admin@v2.8.1
