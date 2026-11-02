@@ -25,6 +25,7 @@
 - pkg:composer/jijihohococo/ichi-orm@3.4.0.1
 - pkg:composer/jijihohococo/ichi-orm@3.4.0.10
 - pkg:composer/jijihohococo/ichi-orm@3.4.0.11
+- pkg:composer/jijihohococo/ichi-orm@3.4.0.12
 - pkg:composer/jijihohococo/ichi-orm@3.4.0.2
 - pkg:composer/jijihohococo/ichi-orm@3.4.0.3
 - pkg:composer/jijihohococo/ichi-orm@3.4.0.4
@@ -33,3 +34,4 @@
 - pkg:composer/jijihohococo/ichi-orm@3.4.0.7
 - pkg:composer/jijihohococo/ichi-orm@3.4.0.8
 - pkg:composer/jijihohococo/ichi-orm@3.4.0.9
+- pkg:composer/jijihohococo/ichi-orm@3.4.1

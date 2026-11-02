@@ -146,7 +146,13 @@
 - pkg:composer/jikan-me/jikan@v4.0.7
 - pkg:composer/jikan-me/jikan@v4.0.8
 - pkg:composer/jikan-me/jikan@v4.0.9
+- pkg:composer/jikan-me/jikan@v5.0.0
 - pkg:composer/jikan-me/jikan@v5.0.0-alpha
 - pkg:composer/jikan-me/jikan@v5.0.0-alpha.1
 - pkg:composer/jikan-me/jikan@v5.0.0-alpha.2
 - pkg:composer/jikan-me/jikan@v5.0.0-alpha.3
+- pkg:composer/jikan-me/jikan@v5.0.0-beta
+- pkg:composer/jikan-me/jikan@v5.0.0-beta.2
+- pkg:composer/jikan-me/jikan@v5.0.0-beta.3
+- pkg:composer/jikan-me/jikan@v5.0.0-rc.1
+- pkg:composer/jikan-me/jikan@v5.0.0-rc.2
