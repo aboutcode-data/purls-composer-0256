@@ -1,2 +1,4 @@
 - pkg:composer/justinholtweb/craft-yarn@5.0.0
 - pkg:composer/justinholtweb/craft-yarn@5.0.1
+- pkg:composer/justinholtweb/craft-yarn@5.1.1
+- pkg:composer/justinholtweb/craft-yarn@5.2.0
