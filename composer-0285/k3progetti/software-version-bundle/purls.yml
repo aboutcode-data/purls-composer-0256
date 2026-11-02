@@ -21,3 +21,8 @@
 - pkg:composer/k3progetti/software-version-bundle@v1.1.0
 - pkg:composer/k3progetti/software-version-bundle@v1.1.1
 - pkg:composer/k3progetti/software-version-bundle@v2.0.0
+- pkg:composer/k3progetti/software-version-bundle@v3.0.0
+- pkg:composer/k3progetti/software-version-bundle@v3.0.1
+- pkg:composer/k3progetti/software-version-bundle@v3.0.2
+- pkg:composer/k3progetti/software-version-bundle@v3.0.3
+- pkg:composer/k3progetti/software-version-bundle@v3.0.4
