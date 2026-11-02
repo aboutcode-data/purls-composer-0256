@@ -49,3 +49,5 @@
 - pkg:composer/jane-php/open-api-bundle@v7.9.0
 - pkg:composer/jane-php/open-api-bundle@v8.0.0
 - pkg:composer/jane-php/open-api-bundle@v8.0.1
+- pkg:composer/jane-php/open-api-bundle@v8.1.0
+- pkg:composer/jane-php/open-api-bundle@v8.1.1
