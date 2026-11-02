@@ -1,1 +1,3 @@
 - pkg:composer/islamrumon/laravel-acl@2.0.0
+- pkg:composer/islamrumon/laravel-acl@2.1.0
+- pkg:composer/islamrumon/laravel-acl@2.2.0
