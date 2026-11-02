@@ -16,3 +16,4 @@
 - pkg:composer/jordanpartridge/github-client@v2.8.0
 - pkg:composer/jordanpartridge/github-client@v2.9.0
 - pkg:composer/jordanpartridge/github-client@v3.0.0
+- pkg:composer/jordanpartridge/github-client@v3.1.0
