@@ -16,3 +16,5 @@
 - pkg:composer/juhedata/aliyun-oss@v2.2.3
 - pkg:composer/juhedata/aliyun-oss@v2.2.4
 - pkg:composer/juhedata/aliyun-oss@v2.2.5
+- pkg:composer/juhedata/aliyun-oss@v3.0.0
+- pkg:composer/juhedata/aliyun-oss@v3.0.1
