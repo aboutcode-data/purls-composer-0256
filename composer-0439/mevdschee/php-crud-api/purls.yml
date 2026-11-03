@@ -126,6 +126,7 @@
 - pkg:composer/mevdschee/php-crud-api@v2.16.4
 - pkg:composer/mevdschee/php-crud-api@v2.16.5
 - pkg:composer/mevdschee/php-crud-api@v2.16.6
+- pkg:composer/mevdschee/php-crud-api@v2.16.7
 - pkg:composer/mevdschee/php-crud-api@v2.2.0
 - pkg:composer/mevdschee/php-crud-api@v2.2.1
 - pkg:composer/mevdschee/php-crud-api@v2.2.2
