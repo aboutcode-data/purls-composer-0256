@@ -25,6 +25,12 @@
 - pkg:composer/kipchak/driver-logger@1.30
 - pkg:composer/kipchak/driver-logger@1.31
 - pkg:composer/kipchak/driver-logger@1.32
+- pkg:composer/kipchak/driver-logger@1.33
+- pkg:composer/kipchak/driver-logger@1.34
+- pkg:composer/kipchak/driver-logger@1.35
+- pkg:composer/kipchak/driver-logger@1.36
+- pkg:composer/kipchak/driver-logger@1.37
+- pkg:composer/kipchak/driver-logger@1.38
 - pkg:composer/kipchak/driver-logger@1.4
 - pkg:composer/kipchak/driver-logger@1.5
 - pkg:composer/kipchak/driver-logger@1.6
