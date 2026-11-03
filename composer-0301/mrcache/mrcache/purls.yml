@@ -9,3 +9,5 @@
 - pkg:composer/mrcache/mrcache@3.4.0
 - pkg:composer/mrcache/mrcache@3.5.0
 - pkg:composer/mrcache/mrcache@4.0.0
+- pkg:composer/mrcache/mrcache@5.0.0
+- pkg:composer/mrcache/mrcache@5.0.1
