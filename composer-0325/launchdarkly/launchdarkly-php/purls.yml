@@ -61,6 +61,8 @@
 - pkg:composer/launchdarkly/launchdarkly-php@6.0.1
 - pkg:composer/launchdarkly/launchdarkly-php@6.0.2
 - pkg:composer/launchdarkly/launchdarkly-php@6.1.0
+- pkg:composer/launchdarkly/launchdarkly-php@6.10.0
+- pkg:composer/launchdarkly/launchdarkly-php@6.11.0
 - pkg:composer/launchdarkly/launchdarkly-php@6.2.0
 - pkg:composer/launchdarkly/launchdarkly-php@6.3.0
 - pkg:composer/launchdarkly/launchdarkly-php@6.4.0
