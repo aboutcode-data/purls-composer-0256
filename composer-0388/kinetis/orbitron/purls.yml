@@ -5,6 +5,9 @@
 - pkg:composer/kinetis/orbitron@v1.11.0
 - pkg:composer/kinetis/orbitron@v1.11.1
 - pkg:composer/kinetis/orbitron@v1.11.2
+- pkg:composer/kinetis/orbitron@v1.11.3
+- pkg:composer/kinetis/orbitron@v1.11.4
+- pkg:composer/kinetis/orbitron@v1.11.5
 - pkg:composer/kinetis/orbitron@v1.2.0
 - pkg:composer/kinetis/orbitron@v1.3.0
 - pkg:composer/kinetis/orbitron@v1.4.0
