@@ -36,3 +36,8 @@
 - pkg:composer/mage-obsidian/module-modern-frontend@4.0.2
 - pkg:composer/mage-obsidian/module-modern-frontend@4.1.0
 - pkg:composer/mage-obsidian/module-modern-frontend@4.1.1
+- pkg:composer/mage-obsidian/module-modern-frontend@4.1.2
+- pkg:composer/mage-obsidian/module-modern-frontend@4.1.3
+- pkg:composer/mage-obsidian/module-modern-frontend@4.1.4
+- pkg:composer/mage-obsidian/module-modern-frontend@4.2.0
+- pkg:composer/mage-obsidian/module-modern-frontend@4.3.0
