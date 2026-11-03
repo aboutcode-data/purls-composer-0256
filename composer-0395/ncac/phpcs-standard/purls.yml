@@ -13,3 +13,4 @@
 - pkg:composer/ncac/phpcs-standard@v4.1.5
 - pkg:composer/ncac/phpcs-standard@v5.0.0
 - pkg:composer/ncac/phpcs-standard@v5.0.1
+- pkg:composer/ncac/phpcs-standard@v5.1.0
