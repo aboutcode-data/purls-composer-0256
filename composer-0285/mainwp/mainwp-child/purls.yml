@@ -21,3 +21,4 @@
 - pkg:composer/mainwp/mainwp-child@v4.2.5
 - pkg:composer/mainwp/mainwp-child@v4.3
 - pkg:composer/mainwp/mainwp-child@v4.3.0.1
+- pkg:composer/mainwp/mainwp-child@v6.4
