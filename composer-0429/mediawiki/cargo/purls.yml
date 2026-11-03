@@ -53,3 +53,4 @@
 - pkg:composer/mediawiki/cargo@3.9.2
 - pkg:composer/mediawiki/cargo@3.9.3
 - pkg:composer/mediawiki/cargo@3.9.4
+- pkg:composer/mediawiki/cargo@3.9.5
