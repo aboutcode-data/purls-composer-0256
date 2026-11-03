@@ -21,3 +21,4 @@
 - pkg:composer/maqiis/document-builder@v1.9.7
 - pkg:composer/maqiis/document-builder@v1.9.8
 - pkg:composer/maqiis/document-builder@v1.9.9
+- pkg:composer/maqiis/document-builder@v2.0.0
