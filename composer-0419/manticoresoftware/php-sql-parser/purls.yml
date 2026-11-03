@@ -5,6 +5,7 @@
 - pkg:composer/manticoresoftware/php-sql-parser@v4.6.0-patch13
 - pkg:composer/manticoresoftware/php-sql-parser@v4.6.0-patch14
 - pkg:composer/manticoresoftware/php-sql-parser@v4.6.0-patch15
+- pkg:composer/manticoresoftware/php-sql-parser@v4.6.0-patch16
 - pkg:composer/manticoresoftware/php-sql-parser@v4.6.0-patch2
 - pkg:composer/manticoresoftware/php-sql-parser@v4.6.0-patch3
 - pkg:composer/manticoresoftware/php-sql-parser@v4.6.0-patch4

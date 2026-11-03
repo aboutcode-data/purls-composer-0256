@@ -3,4 +3,7 @@
 - pkg:composer/manticorephp/compiler@v0.12.0
 - pkg:composer/manticorephp/compiler@v0.13.0
 - pkg:composer/manticorephp/compiler@v0.14.0
+- pkg:composer/manticorephp/compiler@v0.15.0
+- pkg:composer/manticorephp/compiler@v0.16.0
+- pkg:composer/manticorephp/compiler@v0.17.0
 - pkg:composer/manticorephp/compiler@v0.6.0
