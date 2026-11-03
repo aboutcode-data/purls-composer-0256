@@ -1,6 +1,8 @@
 - pkg:composer/nitsan/ns-event@1.0.0
 - pkg:composer/nitsan/ns-event@1.1.0
 - pkg:composer/nitsan/ns-event@14.0.1
+- pkg:composer/nitsan/ns-event@14.0.2
+- pkg:composer/nitsan/ns-event@14.0.3
 - pkg:composer/nitsan/ns-event@2.0.0
 - pkg:composer/nitsan/ns-event@2.0.1
 - pkg:composer/nitsan/ns-event@2.0.2
