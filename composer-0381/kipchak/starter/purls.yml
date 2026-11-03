@@ -48,3 +48,4 @@
 - pkg:composer/kipchak/starter@3.7
 - pkg:composer/kipchak/starter@3.8
 - pkg:composer/kipchak/starter@3.9
+- pkg:composer/kipchak/starter@4.0
