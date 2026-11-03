@@ -112,9 +112,11 @@
 - pkg:composer/klaviyo/shopware-klaviyo@3.6.0
 - pkg:composer/klaviyo/shopware-klaviyo@3.7.0
 - pkg:composer/klaviyo/shopware-klaviyo@3.8.0
+- pkg:composer/klaviyo/shopware-klaviyo@3.9.0
 - pkg:composer/klaviyo/shopware-klaviyo@4.0.0
 - pkg:composer/klaviyo/shopware-klaviyo@4.0.1
 - pkg:composer/klaviyo/shopware-klaviyo@4.1.0
 - pkg:composer/klaviyo/shopware-klaviyo@4.2.0
 - pkg:composer/klaviyo/shopware-klaviyo@4.3.0
 - pkg:composer/klaviyo/shopware-klaviyo@4.4.0
+- pkg:composer/klaviyo/shopware-klaviyo@4.5.0
