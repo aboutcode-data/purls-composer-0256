@@ -18,3 +18,5 @@
 - pkg:composer/linio/database@5.0
 - pkg:composer/linio/database@5.0.1
 - pkg:composer/linio/database@5.1.0
+- pkg:composer/linio/database@5.1.1
+- pkg:composer/linio/database@6.0.0

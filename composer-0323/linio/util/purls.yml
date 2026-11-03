@@ -6,3 +6,4 @@
 - pkg:composer/linio/util@2.2.0
 - pkg:composer/linio/util@3.0.0
 - pkg:composer/linio/util@4.0.0
+- pkg:composer/linio/util@5.0.0

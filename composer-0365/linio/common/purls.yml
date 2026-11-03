@@ -17,3 +17,4 @@
 - pkg:composer/linio/common@4.0.0
 - pkg:composer/linio/common@4.0.1
 - pkg:composer/linio/common@4.1.0
+- pkg:composer/linio/common@5.0.0
