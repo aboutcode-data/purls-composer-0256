@@ -175,6 +175,7 @@
 - pkg:composer/netflex/api@v1.0.6
 - pkg:composer/netflex/api@v1.1.0
 - pkg:composer/netflex/api@v1.1.1
+- pkg:composer/netflex/api@v1.2.0
 - pkg:composer/netflex/api@v2.0.0
 - pkg:composer/netflex/api@v2.0.1
 - pkg:composer/netflex/api@v2.0.2
@@ -314,3 +315,4 @@
 - pkg:composer/netflex/api@v6.7.3
 - pkg:composer/netflex/api@v7.0.0
 - pkg:composer/netflex/api@v7.0.1
+- pkg:composer/netflex/api@v7.0.2
