@@ -269,6 +269,7 @@
 - pkg:composer/mnapoli/bref@2.4.2
 - pkg:composer/mnapoli/bref@2.4.20
 - pkg:composer/mnapoli/bref@2.4.21
+- pkg:composer/mnapoli/bref@2.4.22
 - pkg:composer/mnapoli/bref@2.4.3
 - pkg:composer/mnapoli/bref@2.4.4
 - pkg:composer/mnapoli/bref@2.4.5
@@ -286,6 +287,7 @@
 - pkg:composer/mnapoli/bref@3.0.11
 - pkg:composer/mnapoli/bref@3.0.12
 - pkg:composer/mnapoli/bref@3.0.13
+- pkg:composer/mnapoli/bref@3.0.14
 - pkg:composer/mnapoli/bref@3.0.2
 - pkg:composer/mnapoli/bref@3.0.3
 - pkg:composer/mnapoli/bref@3.0.4
