@@ -1,1 +1,2 @@
 - pkg:composer/nikic/php-ast@v1.1.3
+- pkg:composer/nikic/php-ast@v1.1.4
