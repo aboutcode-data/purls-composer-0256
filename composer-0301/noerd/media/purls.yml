@@ -30,3 +30,7 @@
 - pkg:composer/noerd/media@v0.6.5
 - pkg:composer/noerd/media@v0.6.6
 - pkg:composer/noerd/media@v0.7.0
+- pkg:composer/noerd/media@v0.7.1
+- pkg:composer/noerd/media@v0.7.2
+- pkg:composer/noerd/media@v0.7.3
+- pkg:composer/noerd/media@v0.8.0

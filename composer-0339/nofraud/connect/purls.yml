@@ -20,4 +20,5 @@
 - pkg:composer/nofraud/connect@1.5.0
 - pkg:composer/nofraud/connect@1.6.0
 - pkg:composer/nofraud/connect@1.7.0
+- pkg:composer/nofraud/connect@2.0.0
 - pkg:composer/nofraud/connect@v1.0.0
