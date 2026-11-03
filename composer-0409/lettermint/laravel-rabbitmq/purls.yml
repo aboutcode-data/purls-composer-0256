@@ -10,3 +10,4 @@
 - pkg:composer/lettermint/laravel-rabbitmq@v1.3.2
 - pkg:composer/lettermint/laravel-rabbitmq@v1.3.3
 - pkg:composer/lettermint/laravel-rabbitmq@v1.3.4
+- pkg:composer/lettermint/laravel-rabbitmq@v1.4.0
