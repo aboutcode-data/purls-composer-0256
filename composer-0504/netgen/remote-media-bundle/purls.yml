@@ -54,3 +54,5 @@
 - pkg:composer/netgen/remote-media-bundle@2.0.3
 - pkg:composer/netgen/remote-media-bundle@2.0.4
 - pkg:composer/netgen/remote-media-bundle@2.0.5
+- pkg:composer/netgen/remote-media-bundle@3.0.0
+- pkg:composer/netgen/remote-media-bundle@3.0.1
