@@ -154,3 +154,4 @@
 - pkg:composer/loki-checkout/magento2-core@2.7.3
 - pkg:composer/loki-checkout/magento2-core@2.7.4
 - pkg:composer/loki-checkout/magento2-core@2.7.5
+- pkg:composer/loki-checkout/magento2-core@2.7.6
