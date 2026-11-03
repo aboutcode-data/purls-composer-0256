@@ -8,3 +8,4 @@
 - pkg:composer/league/glide-symfony@2.0.0
 - pkg:composer/league/glide-symfony@2.0.1
 - pkg:composer/league/glide-symfony@2.1.0
+- pkg:composer/league/glide-symfony@v2.2.0
