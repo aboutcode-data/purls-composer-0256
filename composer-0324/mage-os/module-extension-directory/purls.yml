@@ -1,3 +1,6 @@
 - pkg:composer/mage-os/module-extension-directory@0.1.0
 - pkg:composer/mage-os/module-extension-directory@0.1.1
 - pkg:composer/mage-os/module-extension-directory@0.2.0
+- pkg:composer/mage-os/module-extension-directory@0.3.0
+- pkg:composer/mage-os/module-extension-directory@1.0.0
+- pkg:composer/mage-os/module-extension-directory@1.1.0
