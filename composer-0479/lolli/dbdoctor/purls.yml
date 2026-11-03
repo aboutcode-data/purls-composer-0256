@@ -24,3 +24,6 @@
 - pkg:composer/lolli/dbdoctor@2.2.0
 - pkg:composer/lolli/dbdoctor@2.3.0
 - pkg:composer/lolli/dbdoctor@2.4.0
+- pkg:composer/lolli/dbdoctor@2.5.0
+- pkg:composer/lolli/dbdoctor@2.5.1
+- pkg:composer/lolli/dbdoctor@2.6.0
