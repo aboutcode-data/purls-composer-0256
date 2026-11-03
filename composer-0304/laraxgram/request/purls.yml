@@ -1,2 +1,6 @@
 - pkg:composer/laraxgram/request@v3.0.0
 - pkg:composer/laraxgram/request@v4.0.0
+- pkg:composer/laraxgram/request@v4.5.0
+- pkg:composer/laraxgram/request@v4.6.0
+- pkg:composer/laraxgram/request@v4.6.1
+- pkg:composer/laraxgram/request@v4.7.0
