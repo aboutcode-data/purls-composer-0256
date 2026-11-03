@@ -1,3 +1,4 @@
 - pkg:composer/michel/paper-orm-bundle@0.0.1-alpha
 - pkg:composer/michel/paper-orm-bundle@0.0.2-alpha
 - pkg:composer/michel/paper-orm-bundle@0.0.3-alpha
+- pkg:composer/michel/paper-orm-bundle@0.1.0-alpha
