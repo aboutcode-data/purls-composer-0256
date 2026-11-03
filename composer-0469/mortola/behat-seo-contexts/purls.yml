@@ -10,3 +10,4 @@
 - pkg:composer/mortola/behat-seo-contexts@3.1.0
 - pkg:composer/mortola/behat-seo-contexts@3.1.1
 - pkg:composer/mortola/behat-seo-contexts@4.0.0
+- pkg:composer/mortola/behat-seo-contexts@4.0.1
