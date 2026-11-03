@@ -12,3 +12,4 @@
 - pkg:composer/mediawiki/semantic-glossary@5.0.1
 - pkg:composer/mediawiki/semantic-glossary@6.0.0
 - pkg:composer/mediawiki/semantic-glossary@7.0.0
+- pkg:composer/mediawiki/semantic-glossary@7.0.1

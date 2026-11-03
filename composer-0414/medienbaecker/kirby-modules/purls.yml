@@ -64,3 +64,9 @@
 - pkg:composer/medienbaecker/kirby-modules@5.8.0
 - pkg:composer/medienbaecker/kirby-modules@5.8.1
 - pkg:composer/medienbaecker/kirby-modules@5.8.2
+- pkg:composer/medienbaecker/kirby-modules@6.0.0-rc.1
+- pkg:composer/medienbaecker/kirby-modules@6.0.0-rc.2
+- pkg:composer/medienbaecker/kirby-modules@6.0.0-rc.3
+- pkg:composer/medienbaecker/kirby-modules@6.0.0-rc.4
+- pkg:composer/medienbaecker/kirby-modules@6.0.0-rc.5
+- pkg:composer/medienbaecker/kirby-modules@6.0.0-rc.6
