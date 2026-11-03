@@ -24,3 +24,4 @@
 - pkg:composer/nhzex/think-phinx@v4.1.0-RC1
 - pkg:composer/nhzex/think-phinx@v4.1.0-RC2
 - pkg:composer/nhzex/think-phinx@v4.1.0-RC3
+- pkg:composer/nhzex/think-phinx@v5.0.0
