@@ -6,3 +6,6 @@
 - pkg:composer/liberusoftware/boilerplate-laravel@v4.3.0
 - pkg:composer/liberusoftware/boilerplate-laravel@v4.4.0
 - pkg:composer/liberusoftware/boilerplate-laravel@v4.4.1
+- pkg:composer/liberusoftware/boilerplate-laravel@v5.0.0
+- pkg:composer/liberusoftware/boilerplate-laravel@v5.0.1
+- pkg:composer/liberusoftware/boilerplate-laravel@v5.0.2
