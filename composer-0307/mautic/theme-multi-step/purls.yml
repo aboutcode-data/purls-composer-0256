@@ -14,3 +14,4 @@
 - pkg:composer/mautic/theme-multi-step@7.2.0-rc
 - pkg:composer/mautic/theme-multi-step@7.2.0-rc2
 - pkg:composer/mautic/theme-multi-step@7.2.1
+- pkg:composer/mautic/theme-multi-step@7.2.2
