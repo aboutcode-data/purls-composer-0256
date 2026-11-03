@@ -32,3 +32,6 @@
 - pkg:composer/kiwi/contao-designer@1.1.9
 - pkg:composer/kiwi/contao-designer@1.2.0
 - pkg:composer/kiwi/contao-designer@1.2.1
+- pkg:composer/kiwi/contao-designer@1.3.0
+- pkg:composer/kiwi/contao-designer@2.0.0
+- pkg:composer/kiwi/contao-designer@2.0.1
