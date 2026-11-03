@@ -108,6 +108,9 @@
 - pkg:composer/nickdekruijk/leap@1.18.4
 - pkg:composer/nickdekruijk/leap@1.18.5
 - pkg:composer/nickdekruijk/leap@1.18.6
+- pkg:composer/nickdekruijk/leap@1.19.0
+- pkg:composer/nickdekruijk/leap@1.19.1
+- pkg:composer/nickdekruijk/leap@1.19.2
 - pkg:composer/nickdekruijk/leap@1.2.0
 - pkg:composer/nickdekruijk/leap@1.2.1
 - pkg:composer/nickdekruijk/leap@1.2.2
