@@ -70,3 +70,4 @@
 - pkg:composer/nette/di@v3.2.5
 - pkg:composer/nette/di@v3.2.6
 - pkg:composer/nette/di@v3.2.7
+- pkg:composer/nette/di@v3.2.8
