@@ -17,3 +17,4 @@
 - pkg:composer/mwstake/mediawiki-component-wikicron@5.0.0
 - pkg:composer/mwstake/mediawiki-component-wikicron@6.0.0
 - pkg:composer/mwstake/mediawiki-component-wikicron@6.0.1
+- pkg:composer/mwstake/mediawiki-component-wikicron@7.0.0
