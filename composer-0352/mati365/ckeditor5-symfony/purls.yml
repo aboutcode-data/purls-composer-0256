@@ -9,6 +9,10 @@
 - pkg:composer/mati365/ckeditor5-symfony@1.0.9
 - pkg:composer/mati365/ckeditor5-symfony@1.1.0
 - pkg:composer/mati365/ckeditor5-symfony@1.10.0
+- pkg:composer/mati365/ckeditor5-symfony@1.11.0
+- pkg:composer/mati365/ckeditor5-symfony@1.11.1
+- pkg:composer/mati365/ckeditor5-symfony@1.11.2
+- pkg:composer/mati365/ckeditor5-symfony@1.11.3
 - pkg:composer/mati365/ckeditor5-symfony@1.2.0
 - pkg:composer/mati365/ckeditor5-symfony@1.2.1
 - pkg:composer/mati365/ckeditor5-symfony@1.2.2
