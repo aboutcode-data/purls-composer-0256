@@ -11,3 +11,4 @@
 - pkg:composer/laminas/laminas-cache-storage-adapter-memcached@2.6.0
 - pkg:composer/laminas/laminas-cache-storage-adapter-memcached@3.0.0
 - pkg:composer/laminas/laminas-cache-storage-adapter-memcached@3.1.0
+- pkg:composer/laminas/laminas-cache-storage-adapter-memcached@3.2.0
