@@ -1,3 +1,4 @@
 - pkg:composer/masterpuffin/payment-gateways@1.0.0
 - pkg:composer/masterpuffin/payment-gateways@2.0.0
 - pkg:composer/masterpuffin/payment-gateways@2.1.0
+- pkg:composer/masterpuffin/payment-gateways@3.0.0
