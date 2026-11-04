@@ -1,1 +1,2 @@
 - pkg:composer/letsdeploy/statamic-turnstile@1.0.0
+- pkg:composer/letsdeploy/statamic-turnstile@1.0.1
