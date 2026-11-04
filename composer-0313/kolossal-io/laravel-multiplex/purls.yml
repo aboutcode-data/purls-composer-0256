@@ -49,3 +49,6 @@
 - pkg:composer/kolossal-io/laravel-multiplex@v3.0.0
 - pkg:composer/kolossal-io/laravel-multiplex@v3.0.1
 - pkg:composer/kolossal-io/laravel-multiplex@v3.0.2
+- pkg:composer/kolossal-io/laravel-multiplex@v3.0.3
+- pkg:composer/kolossal-io/laravel-multiplex@v3.1.0
+- pkg:composer/kolossal-io/laravel-multiplex@v4.0.0
