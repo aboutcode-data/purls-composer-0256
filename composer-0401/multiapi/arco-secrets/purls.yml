@@ -20,6 +20,10 @@
 - pkg:composer/multiapi/arco-secrets@v0.14.2
 - pkg:composer/multiapi/arco-secrets@v0.15.0
 - pkg:composer/multiapi/arco-secrets@v0.16.0
+- pkg:composer/multiapi/arco-secrets@v0.17.0
+- pkg:composer/multiapi/arco-secrets@v0.18.0
+- pkg:composer/multiapi/arco-secrets@v0.19.0
+- pkg:composer/multiapi/arco-secrets@v0.19.1
 - pkg:composer/multiapi/arco-secrets@v0.2.0
 - pkg:composer/multiapi/arco-secrets@v0.2.1
 - pkg:composer/multiapi/arco-secrets@v0.3.0
