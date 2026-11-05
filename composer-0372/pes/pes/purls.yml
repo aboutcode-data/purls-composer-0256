@@ -1,3 +1,6 @@
 - pkg:composer/pes/pes@7.26.0
 - pkg:composer/pes/pes@7.26.1
 - pkg:composer/pes/pes@8.26.0
+- pkg:composer/pes/pes@v8.27.0
+- pkg:composer/pes/pes@v8.27.1
+- pkg:composer/pes/pes@v8.27.2
