@@ -339,6 +339,7 @@
 - pkg:composer/october/rain@v3.7.16
 - pkg:composer/october/rain@v3.7.17
 - pkg:composer/october/rain@v3.7.18
+- pkg:composer/october/rain@v3.7.19
 - pkg:composer/october/rain@v3.7.3
 - pkg:composer/october/rain@v3.7.4
 - pkg:composer/october/rain@v3.7.5
@@ -395,6 +396,8 @@
 - pkg:composer/october/rain@v4.4.0
 - pkg:composer/october/rain@v4.4.10
 - pkg:composer/october/rain@v4.4.11
+- pkg:composer/october/rain@v4.4.12
+- pkg:composer/october/rain@v4.4.13
 - pkg:composer/october/rain@v4.4.2
 - pkg:composer/october/rain@v4.4.5
 - pkg:composer/october/rain@v4.4.6
