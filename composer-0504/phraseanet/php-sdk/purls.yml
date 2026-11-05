@@ -47,3 +47,4 @@
 - pkg:composer/phraseanet/php-sdk@6.0.0
 - pkg:composer/phraseanet/php-sdk@6.0.1
 - pkg:composer/phraseanet/php-sdk@7.0.1
+- pkg:composer/phraseanet/php-sdk@8.0.0
