@@ -2,6 +2,9 @@
 - pkg:composer/phpstreamserver/phpstreamserver@v0.1.0
 - pkg:composer/phpstreamserver/phpstreamserver@v0.1.1
 - pkg:composer/phpstreamserver/phpstreamserver@v0.10.0
+- pkg:composer/phpstreamserver/phpstreamserver@v0.11.1
+- pkg:composer/phpstreamserver/phpstreamserver@v0.11.2
+- pkg:composer/phpstreamserver/phpstreamserver@v0.12.0
 - pkg:composer/phpstreamserver/phpstreamserver@v0.2.0
 - pkg:composer/phpstreamserver/phpstreamserver@v0.2.1
 - pkg:composer/phpstreamserver/phpstreamserver@v0.2.2
