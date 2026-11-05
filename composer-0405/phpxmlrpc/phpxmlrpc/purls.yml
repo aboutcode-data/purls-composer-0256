@@ -19,6 +19,7 @@
 - pkg:composer/phpxmlrpc/phpxmlrpc@4.11.3
 - pkg:composer/phpxmlrpc/phpxmlrpc@4.11.4
 - pkg:composer/phpxmlrpc/phpxmlrpc@4.11.5
+- pkg:composer/phpxmlrpc/phpxmlrpc@4.11.6
 - pkg:composer/phpxmlrpc/phpxmlrpc@4.2.0
 - pkg:composer/phpxmlrpc/phpxmlrpc@4.2.1
 - pkg:composer/phpxmlrpc/phpxmlrpc@4.2.2
