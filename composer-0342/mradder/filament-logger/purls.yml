@@ -22,3 +22,5 @@
 - pkg:composer/mradder/filament-logger@v1.6.1
 - pkg:composer/mradder/filament-logger@v1.6.2
 - pkg:composer/mradder/filament-logger@v1.6.3
+- pkg:composer/mradder/filament-logger@v1.7.0
+- pkg:composer/mradder/filament-logger@v1.7.1
