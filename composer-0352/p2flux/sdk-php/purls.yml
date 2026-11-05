@@ -2,6 +2,10 @@
 - pkg:composer/p2flux/sdk-php@v0.10.0
 - pkg:composer/p2flux/sdk-php@v0.11.0
 - pkg:composer/p2flux/sdk-php@v0.11.1
+- pkg:composer/p2flux/sdk-php@v0.12.0
+- pkg:composer/p2flux/sdk-php@v0.13.0
+- pkg:composer/p2flux/sdk-php@v0.14.0
+- pkg:composer/p2flux/sdk-php@v0.15.0
 - pkg:composer/p2flux/sdk-php@v0.2.0
 - pkg:composer/p2flux/sdk-php@v0.3.0
 - pkg:composer/p2flux/sdk-php@v0.4.0
