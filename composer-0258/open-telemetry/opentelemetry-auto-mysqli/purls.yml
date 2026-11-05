@@ -3,3 +3,4 @@
 - pkg:composer/open-telemetry/opentelemetry-auto-mysqli@0.0.3
 - pkg:composer/open-telemetry/opentelemetry-auto-mysqli@0.1.0
 - pkg:composer/open-telemetry/opentelemetry-auto-mysqli@0.4.0
+- pkg:composer/open-telemetry/opentelemetry-auto-mysqli@0.5.0
