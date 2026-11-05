@@ -6,3 +6,5 @@
 - pkg:composer/php-architecture-kit/lazy-operators@1.5.0
 - pkg:composer/php-architecture-kit/lazy-operators@1.5.1
 - pkg:composer/php-architecture-kit/lazy-operators@1.6.0
+- pkg:composer/php-architecture-kit/lazy-operators@1.7.0
+- pkg:composer/php-architecture-kit/lazy-operators@1.7.1
