@@ -10,3 +10,4 @@
 - pkg:composer/pdir/contao-webtools@1.6.0
 - pkg:composer/pdir/contao-webtools@1.6.1
 - pkg:composer/pdir/contao-webtools@1.6.2
+- pkg:composer/pdir/contao-webtools@2.0.0
