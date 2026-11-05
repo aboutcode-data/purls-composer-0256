@@ -4,3 +4,5 @@
 - pkg:composer/ollama/php@1.0.3
 - pkg:composer/ollama/php@1.0.4
 - pkg:composer/ollama/php@1.0.5
+- pkg:composer/ollama/php@1.1.0
+- pkg:composer/ollama/php@1.1.1
