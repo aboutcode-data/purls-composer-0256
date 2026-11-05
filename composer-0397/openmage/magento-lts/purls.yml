@@ -82,6 +82,8 @@
 - pkg:composer/openmage/magento-lts@v20.16.0
 - pkg:composer/openmage/magento-lts@v20.17.0
 - pkg:composer/openmage/magento-lts@v20.18.0
+- pkg:composer/openmage/magento-lts@v20.18.2
+- pkg:composer/openmage/magento-lts@v20.19.0
 - pkg:composer/openmage/magento-lts@v20.2.0
 - pkg:composer/openmage/magento-lts@v20.3.0
 - pkg:composer/openmage/magento-lts@v20.4.0
@@ -92,3 +94,4 @@
 - pkg:composer/openmage/magento-lts@v20.9.0
 - pkg:composer/openmage/magento-lts@v21.0.0-beta1
 - pkg:composer/openmage/magento-lts@v21.0.0-beta2
+- pkg:composer/openmage/magento-lts@v21.0.0-beta3
