@@ -12,3 +12,4 @@
 - pkg:composer/noldors/phpcsfixer-rules@v1.2.4
 - pkg:composer/noldors/phpcsfixer-rules@v1.3.0
 - pkg:composer/noldors/phpcsfixer-rules@v1.4.0
+- pkg:composer/noldors/phpcsfixer-rules@v1.4.1
