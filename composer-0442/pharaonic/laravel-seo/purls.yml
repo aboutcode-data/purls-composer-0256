@@ -1,5 +1,13 @@
 - pkg:composer/pharaonic/laravel-seo@1.0.0
 - pkg:composer/pharaonic/laravel-seo@1.1.0
+- pkg:composer/pharaonic/laravel-seo@10.0.0
+- pkg:composer/pharaonic/laravel-seo@11.0.0
+- pkg:composer/pharaonic/laravel-seo@12.0.0
+- pkg:composer/pharaonic/laravel-seo@13.0.0
 - pkg:composer/pharaonic/laravel-seo@2.0.0
 - pkg:composer/pharaonic/laravel-seo@2.0.1
 - pkg:composer/pharaonic/laravel-seo@2.0.2
+- pkg:composer/pharaonic/laravel-seo@6.0.0
+- pkg:composer/pharaonic/laravel-seo@7.0.0
+- pkg:composer/pharaonic/laravel-seo@8.0.0
+- pkg:composer/pharaonic/laravel-seo@9.0.0
