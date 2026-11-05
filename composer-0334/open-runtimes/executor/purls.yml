@@ -157,3 +157,7 @@
 - pkg:composer/open-runtimes/executor@1.1.0
 - pkg:composer/open-runtimes/executor@1.1.1
 - pkg:composer/open-runtimes/executor@1.1.2
+- pkg:composer/open-runtimes/executor@1.2.0
+- pkg:composer/open-runtimes/executor@1.2.1
+- pkg:composer/open-runtimes/executor@1.3.0
+- pkg:composer/open-runtimes/executor@1.3.1
