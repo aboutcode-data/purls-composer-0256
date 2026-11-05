@@ -24,3 +24,4 @@
 - pkg:composer/pfadfinden/bdp_template@v6.1.0
 - pkg:composer/pfadfinden/bdp_template@v6.2.0
 - pkg:composer/pfadfinden/bdp_template@v6.2.1
+- pkg:composer/pfadfinden/bdp_template@v7.0.0-alpha1
