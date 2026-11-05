@@ -296,6 +296,8 @@
 - pkg:composer/offline/oc-mall-plugin@v3.8.42
 - pkg:composer/offline/oc-mall-plugin@v3.8.43
 - pkg:composer/offline/oc-mall-plugin@v3.8.44
+- pkg:composer/offline/oc-mall-plugin@v3.8.45
+- pkg:composer/offline/oc-mall-plugin@v3.8.46
 - pkg:composer/offline/oc-mall-plugin@v3.8.5
 - pkg:composer/offline/oc-mall-plugin@v3.8.6
 - pkg:composer/offline/oc-mall-plugin@v3.8.7
