@@ -408,7 +408,16 @@
 - pkg:composer/ory/client@v1.22.80
 - pkg:composer/ory/client@v1.22.81
 - pkg:composer/ory/client@v1.22.82
+- pkg:composer/ory/client@v1.22.83
+- pkg:composer/ory/client@v1.22.84
+- pkg:composer/ory/client@v1.22.85
+- pkg:composer/ory/client@v1.22.86
+- pkg:composer/ory/client@v1.22.87
+- pkg:composer/ory/client@v1.22.88
+- pkg:composer/ory/client@v1.22.89
 - pkg:composer/ory/client@v1.22.9
+- pkg:composer/ory/client@v1.22.90
+- pkg:composer/ory/client@v1.22.91
 - pkg:composer/ory/client@v1.3.0
 - pkg:composer/ory/client@v1.4.0
 - pkg:composer/ory/client@v1.4.1
