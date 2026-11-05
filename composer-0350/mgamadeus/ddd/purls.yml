@@ -493,6 +493,7 @@
 - pkg:composer/mgamadeus/ddd@3.12.7
 - pkg:composer/mgamadeus/ddd@3.13.0
 - pkg:composer/mgamadeus/ddd@3.13.1
+- pkg:composer/mgamadeus/ddd@3.13.10
 - pkg:composer/mgamadeus/ddd@3.13.2
 - pkg:composer/mgamadeus/ddd@3.13.3
 - pkg:composer/mgamadeus/ddd@3.13.4
@@ -501,6 +502,8 @@
 - pkg:composer/mgamadeus/ddd@3.13.7
 - pkg:composer/mgamadeus/ddd@3.13.8
 - pkg:composer/mgamadeus/ddd@3.13.9
+- pkg:composer/mgamadeus/ddd@3.14.0
+- pkg:composer/mgamadeus/ddd@3.14.1
 - pkg:composer/mgamadeus/ddd@3.2.0
 - pkg:composer/mgamadeus/ddd@3.3.0
 - pkg:composer/mgamadeus/ddd@3.4.0
