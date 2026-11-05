@@ -2,3 +2,5 @@
 - pkg:composer/nvl/settings@v2.2.1
 - pkg:composer/nvl/settings@v5.0.0
 - pkg:composer/nvl/settings@v5.0.1
+- pkg:composer/nvl/settings@v6.0.0
+- pkg:composer/nvl/settings@v7.0.0

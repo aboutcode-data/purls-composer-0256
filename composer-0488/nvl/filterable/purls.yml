@@ -2,3 +2,5 @@
 - pkg:composer/nvl/filterable@v2.2.1
 - pkg:composer/nvl/filterable@v5.0.0
 - pkg:composer/nvl/filterable@v5.0.1
+- pkg:composer/nvl/filterable@v6.0.0
+- pkg:composer/nvl/filterable@v7.0.0
