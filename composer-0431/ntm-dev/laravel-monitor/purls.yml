@@ -13,3 +13,8 @@
 - pkg:composer/ntm-dev/laravel-monitor@v1.5.1
 - pkg:composer/ntm-dev/laravel-monitor@v1.6.0
 - pkg:composer/ntm-dev/laravel-monitor@v1.7.0
+- pkg:composer/ntm-dev/laravel-monitor@v1.7.1
+- pkg:composer/ntm-dev/laravel-monitor@v1.7.2
+- pkg:composer/ntm-dev/laravel-monitor@v1.7.3
+- pkg:composer/ntm-dev/laravel-monitor@v1.7.4
+- pkg:composer/ntm-dev/laravel-monitor@v1.7.5
