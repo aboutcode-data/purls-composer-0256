@@ -45,6 +45,7 @@
 - pkg:composer/pimcore/data-importer@v1.8.0-BETA1
 - pkg:composer/pimcore/data-importer@v1.8.0-RC1
 - pkg:composer/pimcore/data-importer@v1.8.1
+- pkg:composer/pimcore/data-importer@v1.8.10
 - pkg:composer/pimcore/data-importer@v1.8.2
 - pkg:composer/pimcore/data-importer@v1.8.3
 - pkg:composer/pimcore/data-importer@v1.8.4
@@ -93,3 +94,5 @@
 - pkg:composer/pimcore/data-importer@v2026.3.0
 - pkg:composer/pimcore/data-importer@v2026.3.1
 - pkg:composer/pimcore/data-importer@v2026.3.2
+- pkg:composer/pimcore/data-importer@v2026.3.3
+- pkg:composer/pimcore/data-importer@v2026.3.4
