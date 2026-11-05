@@ -9,6 +9,7 @@
 - pkg:composer/okua/phrets@2.5
 - pkg:composer/okua/phrets@2.6
 - pkg:composer/okua/phrets@2.6.1
+- pkg:composer/okua/phrets@2.6.10
 - pkg:composer/okua/phrets@2.6.2
 - pkg:composer/okua/phrets@2.6.3
 - pkg:composer/okua/phrets@2.6.4
@@ -16,3 +17,4 @@
 - pkg:composer/okua/phrets@2.6.6
 - pkg:composer/okua/phrets@2.6.7
 - pkg:composer/okua/phrets@2.6.8
+- pkg:composer/okua/phrets@2.6.9
