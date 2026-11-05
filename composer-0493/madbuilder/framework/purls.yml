@@ -185,3 +185,4 @@
 - pkg:composer/madbuilder/framework@v5.263.0
 - pkg:composer/madbuilder/framework@v5.263.1
 - pkg:composer/madbuilder/framework@v5.263.2
+- pkg:composer/madbuilder/framework@v5.265.1
