@@ -40,3 +40,4 @@
 - pkg:composer/packaged/validate@4.0.2
 - pkg:composer/packaged/validate@4.0.3
 - pkg:composer/packaged/validate@4.1.0
+- pkg:composer/packaged/validate@4.1.1
