@@ -150,7 +150,12 @@
 - pkg:composer/ouitoulia/diagraphe@10.5.0
 - pkg:composer/ouitoulia/diagraphe@10.6.0
 - pkg:composer/ouitoulia/diagraphe@10.6.1
+- pkg:composer/ouitoulia/diagraphe@10.6.10
 - pkg:composer/ouitoulia/diagraphe@10.6.2
 - pkg:composer/ouitoulia/diagraphe@10.6.3
 - pkg:composer/ouitoulia/diagraphe@10.6.4
 - pkg:composer/ouitoulia/diagraphe@10.6.5
+- pkg:composer/ouitoulia/diagraphe@10.6.6
+- pkg:composer/ouitoulia/diagraphe@10.6.7
+- pkg:composer/ouitoulia/diagraphe@10.6.8
+- pkg:composer/ouitoulia/diagraphe@10.6.9
