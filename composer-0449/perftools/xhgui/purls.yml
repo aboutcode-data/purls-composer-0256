@@ -42,6 +42,7 @@
 - pkg:composer/perftools/xhgui@0.23.4
 - pkg:composer/perftools/xhgui@0.23.5
 - pkg:composer/perftools/xhgui@0.23.6
+- pkg:composer/perftools/xhgui@0.23.7
 - pkg:composer/perftools/xhgui@0.8.0
 - pkg:composer/perftools/xhgui@0.8.1
 - pkg:composer/perftools/xhgui@0.9.0
