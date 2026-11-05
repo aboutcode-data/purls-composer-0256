@@ -10,3 +10,5 @@
 - pkg:composer/pegasus/google-for-jobs@2.1.0
 - pkg:composer/pegasus/google-for-jobs@2.1.1
 - pkg:composer/pegasus/google-for-jobs@2.2.0
+- pkg:composer/pegasus/google-for-jobs@3.0.0
+- pkg:composer/pegasus/google-for-jobs@3.0.1
