@@ -10,3 +10,4 @@
 - pkg:composer/oxid-esales/stripe-wallet@v3.5.0-rc1
 - pkg:composer/oxid-esales/stripe-wallet@v3.5.0-rc2
 - pkg:composer/oxid-esales/stripe-wallet@v3.5.0-rc3
+- pkg:composer/oxid-esales/stripe-wallet@v3.5.0-rc4
