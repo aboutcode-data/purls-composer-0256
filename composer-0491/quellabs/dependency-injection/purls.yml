@@ -30,3 +30,7 @@
 - pkg:composer/quellabs/dependency-injection@1.2.3
 - pkg:composer/quellabs/dependency-injection@1.2.4
 - pkg:composer/quellabs/dependency-injection@1.2.5
+- pkg:composer/quellabs/dependency-injection@1.2.6
+- pkg:composer/quellabs/dependency-injection@1.3.0
+- pkg:composer/quellabs/dependency-injection@1.4.0
+- pkg:composer/quellabs/dependency-injection@1.5.0
