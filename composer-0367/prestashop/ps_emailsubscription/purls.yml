@@ -16,3 +16,4 @@
 - pkg:composer/prestashop/ps_emailsubscription@v2.8.2
 - pkg:composer/prestashop/ps_emailsubscription@v2.8.3
 - pkg:composer/prestashop/ps_emailsubscription@v3.0.0
+- pkg:composer/prestashop/ps_emailsubscription@v3.0.1
