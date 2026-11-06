@@ -129,6 +129,7 @@
 - pkg:composer/pop-wp-schema/customposts@2.5.2
 - pkg:composer/pop-wp-schema/customposts@2.6.0
 - pkg:composer/pop-wp-schema/customposts@2.6.1
+- pkg:composer/pop-wp-schema/customposts@20.0.0
 - pkg:composer/pop-wp-schema/customposts@3.0.0
 - pkg:composer/pop-wp-schema/customposts@4.0.0
 - pkg:composer/pop-wp-schema/customposts@4.0.1
