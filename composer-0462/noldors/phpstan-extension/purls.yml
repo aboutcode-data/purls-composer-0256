@@ -1,6 +1,8 @@
 - pkg:composer/noldors/phpstan-extension@v0.0.1
 - pkg:composer/noldors/phpstan-extension@v0.1.0
 - pkg:composer/noldors/phpstan-extension@v0.10.0
+- pkg:composer/noldors/phpstan-extension@v0.11.0
+- pkg:composer/noldors/phpstan-extension@v0.11.1
 - pkg:composer/noldors/phpstan-extension@v0.2.0
 - pkg:composer/noldors/phpstan-extension@v0.2.1
 - pkg:composer/noldors/phpstan-extension@v0.3.0
