@@ -1,5 +1,19 @@
 - pkg:composer/polytypo/polytypo@v1.0.0
 - pkg:composer/polytypo/polytypo@v1.1.0
+- pkg:composer/polytypo/polytypo@v1.10.0
+- pkg:composer/polytypo/polytypo@v1.11.0
+- pkg:composer/polytypo/polytypo@v1.12.0
+- pkg:composer/polytypo/polytypo@v1.13.0
+- pkg:composer/polytypo/polytypo@v1.14.0
+- pkg:composer/polytypo/polytypo@v1.15.0
+- pkg:composer/polytypo/polytypo@v1.16.0
+- pkg:composer/polytypo/polytypo@v1.17.1
+- pkg:composer/polytypo/polytypo@v1.17.2
+- pkg:composer/polytypo/polytypo@v1.17.3
+- pkg:composer/polytypo/polytypo@v1.17.4
+- pkg:composer/polytypo/polytypo@v1.17.5
+- pkg:composer/polytypo/polytypo@v1.18.0
+- pkg:composer/polytypo/polytypo@v1.19.0
 - pkg:composer/polytypo/polytypo@v1.2.0
 - pkg:composer/polytypo/polytypo@v1.3.0
 - pkg:composer/polytypo/polytypo@v1.3.1
@@ -12,3 +26,5 @@
 - pkg:composer/polytypo/polytypo@v1.6.3
 - pkg:composer/polytypo/polytypo@v1.7.0
 - pkg:composer/polytypo/polytypo@v1.8.0
+- pkg:composer/polytypo/polytypo@v1.8.1
+- pkg:composer/polytypo/polytypo@v1.9.0
