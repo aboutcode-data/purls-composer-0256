@@ -24,4 +24,9 @@
 - pkg:composer/pollen/pollen@v13.35.4
 - pkg:composer/pollen/pollen@v13.35.5
 - pkg:composer/pollen/pollen@v13.36.0
+- pkg:composer/pollen/pollen@v13.36.1
+- pkg:composer/pollen/pollen@v13.37.0
+- pkg:composer/pollen/pollen@v13.37.1
+- pkg:composer/pollen/pollen@v13.38.0
+- pkg:composer/pollen/pollen@v13.38.1
 - pkg:composer/pollen/pollen@v13.4.0
