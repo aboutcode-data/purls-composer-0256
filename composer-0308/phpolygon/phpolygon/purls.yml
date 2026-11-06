@@ -1,5 +1,6 @@
 - pkg:composer/phpolygon/phpolygon@0.26.1
 - pkg:composer/phpolygon/phpolygon@v0.10.0
+- pkg:composer/phpolygon/phpolygon@v0.100.0
 - pkg:composer/phpolygon/phpolygon@v0.11.0
 - pkg:composer/phpolygon/phpolygon@v0.11.1
 - pkg:composer/phpolygon/phpolygon@v0.11.2
@@ -222,3 +223,5 @@
 - pkg:composer/phpolygon/phpolygon@v0.97.0
 - pkg:composer/phpolygon/phpolygon@v0.97.1
 - pkg:composer/phpolygon/phpolygon@v0.98.0
+- pkg:composer/phpolygon/phpolygon@v0.99.0
+- pkg:composer/phpolygon/phpolygon@v0.99.1
