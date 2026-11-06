@@ -23,6 +23,11 @@
 - pkg:composer/mirror-and-mountain/meros-framework@v0.1.9
 - pkg:composer/mirror-and-mountain/meros-framework@v0.2.0
 - pkg:composer/mirror-and-mountain/meros-framework@v0.2.1
+- pkg:composer/mirror-and-mountain/meros-framework@v0.2.10
+- pkg:composer/mirror-and-mountain/meros-framework@v0.2.11
+- pkg:composer/mirror-and-mountain/meros-framework@v0.2.12
+- pkg:composer/mirror-and-mountain/meros-framework@v0.2.14
+- pkg:composer/mirror-and-mountain/meros-framework@v0.2.15
 - pkg:composer/mirror-and-mountain/meros-framework@v0.2.2
 - pkg:composer/mirror-and-mountain/meros-framework@v0.2.3
 - pkg:composer/mirror-and-mountain/meros-framework@v0.2.4
@@ -30,3 +35,4 @@
 - pkg:composer/mirror-and-mountain/meros-framework@v0.2.6
 - pkg:composer/mirror-and-mountain/meros-framework@v0.2.7
 - pkg:composer/mirror-and-mountain/meros-framework@v0.2.8
+- pkg:composer/mirror-and-mountain/meros-framework@v0.2.9
