@@ -130,6 +130,7 @@
 - pkg:composer/pop-cms-schema/user-avatars@2.5.2
 - pkg:composer/pop-cms-schema/user-avatars@2.6.0
 - pkg:composer/pop-cms-schema/user-avatars@2.6.1
+- pkg:composer/pop-cms-schema/user-avatars@20.0.0
 - pkg:composer/pop-cms-schema/user-avatars@3.0.0
 - pkg:composer/pop-cms-schema/user-avatars@4.0.0
 - pkg:composer/pop-cms-schema/user-avatars@4.0.1
