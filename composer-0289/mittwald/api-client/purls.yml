@@ -318,6 +318,7 @@
 - pkg:composer/mittwald/api-client@v2.2.20
 - pkg:composer/mittwald/api-client@v2.2.21
 - pkg:composer/mittwald/api-client@v2.2.22
+- pkg:composer/mittwald/api-client@v2.2.23
 - pkg:composer/mittwald/api-client@v2.2.3
 - pkg:composer/mittwald/api-client@v2.2.4
 - pkg:composer/mittwald/api-client@v2.2.5
