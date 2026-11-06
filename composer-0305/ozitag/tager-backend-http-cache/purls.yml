@@ -10,3 +10,5 @@
 - pkg:composer/ozitag/tager-backend-http-cache@1.1.7
 - pkg:composer/ozitag/tager-backend-http-cache@1.1.8
 - pkg:composer/ozitag/tager-backend-http-cache@1.2
+- pkg:composer/ozitag/tager-backend-http-cache@2.0.0
+- pkg:composer/ozitag/tager-backend-http-cache@2.0.1

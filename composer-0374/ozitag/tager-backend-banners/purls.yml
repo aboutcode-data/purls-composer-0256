@@ -26,3 +26,5 @@
 - pkg:composer/ozitag/tager-backend-banners@1.8.3
 - pkg:composer/ozitag/tager-backend-banners@1.8.4
 - pkg:composer/ozitag/tager-backend-banners@1.8.5
+- pkg:composer/ozitag/tager-backend-banners@2.0.0
+- pkg:composer/ozitag/tager-backend-banners@2.0.1
