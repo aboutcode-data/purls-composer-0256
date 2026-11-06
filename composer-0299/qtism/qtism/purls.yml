@@ -101,6 +101,7 @@
 - pkg:composer/qtism/qtism@0.28.9
 - pkg:composer/qtism/qtism@0.29.0
 - pkg:composer/qtism/qtism@0.30.0
+- pkg:composer/qtism/qtism@0.31.0
 - pkg:composer/qtism/qtism@0.9.0
 - pkg:composer/qtism/qtism@0.9.1
 - pkg:composer/qtism/qtism@0.9.10
@@ -291,3 +292,4 @@
 - pkg:composer/qtism/qtism@v19.7.0
 - pkg:composer/qtism/qtism@v19.7.1
 - pkg:composer/qtism/qtism@v19.7.2
+- pkg:composer/qtism/qtism@v19.7.3
