@@ -220,3 +220,5 @@
 - pkg:composer/phpolygon/phpolygon@v0.96.2
 - pkg:composer/phpolygon/phpolygon@v0.96.3
 - pkg:composer/phpolygon/phpolygon@v0.97.0
+- pkg:composer/phpolygon/phpolygon@v0.97.1
+- pkg:composer/phpolygon/phpolygon@v0.98.0
