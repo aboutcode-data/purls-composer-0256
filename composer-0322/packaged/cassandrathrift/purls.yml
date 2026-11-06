@@ -6,4 +6,5 @@
 - pkg:composer/packaged/cassandrathrift@20.1.0.4
 - pkg:composer/packaged/cassandrathrift@20.1.0.5
 - pkg:composer/packaged/cassandrathrift@20.1.0.6
+- pkg:composer/packaged/cassandrathrift@20.1.0.7
 - pkg:composer/packaged/cassandrathrift@22.2.2.15
