@@ -14,3 +14,5 @@
 - pkg:composer/ozitag/tager-backend-administrators@1.3
 - pkg:composer/ozitag/tager-backend-administrators@1.4
 - pkg:composer/ozitag/tager-backend-administrators@1.4.1
+- pkg:composer/ozitag/tager-backend-administrators@2.0.0
+- pkg:composer/ozitag/tager-backend-administrators@2.0.1
