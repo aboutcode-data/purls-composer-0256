@@ -51,6 +51,7 @@
 - pkg:composer/publishpress/dev-workspace@1.8.16
 - pkg:composer/publishpress/dev-workspace@1.8.17
 - pkg:composer/publishpress/dev-workspace@1.8.18
+- pkg:composer/publishpress/dev-workspace@1.8.19
 - pkg:composer/publishpress/dev-workspace@1.8.2
 - pkg:composer/publishpress/dev-workspace@1.8.3
 - pkg:composer/publishpress/dev-workspace@1.8.4
@@ -58,3 +59,8 @@
 - pkg:composer/publishpress/dev-workspace@1.8.6
 - pkg:composer/publishpress/dev-workspace@1.8.8
 - pkg:composer/publishpress/dev-workspace@1.8.9
+- pkg:composer/publishpress/dev-workspace@2.0.0
+- pkg:composer/publishpress/dev-workspace@2.0.1
+- pkg:composer/publishpress/dev-workspace@2.0.2
+- pkg:composer/publishpress/dev-workspace@2.0.3
+- pkg:composer/publishpress/dev-workspace@2.0.4
