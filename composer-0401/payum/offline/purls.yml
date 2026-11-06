@@ -27,3 +27,4 @@
 - pkg:composer/payum/offline@1.7.5
 - pkg:composer/payum/offline@1.7.6
 - pkg:composer/payum/offline@1.7.7
+- pkg:composer/payum/offline@2.0.0-alpha1
