@@ -12,3 +12,4 @@
 - pkg:composer/mozex/laravel-worktree@1.8.0
 - pkg:composer/mozex/laravel-worktree@1.9.0
 - pkg:composer/mozex/laravel-worktree@1.9.1
+- pkg:composer/mozex/laravel-worktree@1.9.2
