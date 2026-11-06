@@ -65,3 +65,4 @@
 - pkg:composer/quickbooks/v3-php-sdk@v6.2.3
 - pkg:composer/quickbooks/v3-php-sdk@v6.2.5
 - pkg:composer/quickbooks/v3-php-sdk@v6.3.1
+- pkg:composer/quickbooks/v3-php-sdk@v6.4.1
