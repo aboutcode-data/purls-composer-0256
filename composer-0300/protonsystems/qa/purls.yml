@@ -11,6 +11,9 @@
 - pkg:composer/protonsystems/qa@v2.11.4
 - pkg:composer/protonsystems/qa@v2.12.0
 - pkg:composer/protonsystems/qa@v2.13.0
+- pkg:composer/protonsystems/qa@v2.14.0
+- pkg:composer/protonsystems/qa@v2.15.0
+- pkg:composer/protonsystems/qa@v2.15.1
 - pkg:composer/protonsystems/qa@v2.2.0
 - pkg:composer/protonsystems/qa@v2.3.0
 - pkg:composer/protonsystems/qa@v2.4.0
