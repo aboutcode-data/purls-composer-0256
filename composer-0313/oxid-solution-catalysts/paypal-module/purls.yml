@@ -75,6 +75,7 @@
 - pkg:composer/oxid-solution-catalysts/paypal-module@v2.10.2-rc.1
 - pkg:composer/oxid-solution-catalysts/paypal-module@v2.10.2-rc.2
 - pkg:composer/oxid-solution-catalysts/paypal-module@v2.10.2-rc.3
+- pkg:composer/oxid-solution-catalysts/paypal-module@v2.10.2-rc.4
 - pkg:composer/oxid-solution-catalysts/paypal-module@v2.2.0
 - pkg:composer/oxid-solution-catalysts/paypal-module@v2.2.1
 - pkg:composer/oxid-solution-catalysts/paypal-module@v2.2.2
@@ -322,3 +323,4 @@
 - pkg:composer/oxid-solution-catalysts/paypal-module@v3.9.2-rc.1
 - pkg:composer/oxid-solution-catalysts/paypal-module@v3.9.2-rc.2
 - pkg:composer/oxid-solution-catalysts/paypal-module@v3.9.2-rc.3
+- pkg:composer/oxid-solution-catalysts/paypal-module@v3.9.2-rc.4
