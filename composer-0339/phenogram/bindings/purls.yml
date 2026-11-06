@@ -1,4 +1,5 @@
 - pkg:composer/phenogram/bindings@1.0.0
+- pkg:composer/phenogram/bindings@10.0.0
 - pkg:composer/phenogram/bindings@2.3.0
 - pkg:composer/phenogram/bindings@2.4.0
 - pkg:composer/phenogram/bindings@2.4.1
