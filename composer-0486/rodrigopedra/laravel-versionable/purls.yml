@@ -2,3 +2,4 @@
 - pkg:composer/rodrigopedra/laravel-versionable@v0.2.0
 - pkg:composer/rodrigopedra/laravel-versionable@v0.3.0
 - pkg:composer/rodrigopedra/laravel-versionable@v0.4.0
+- pkg:composer/rodrigopedra/laravel-versionable@v0.5.0
