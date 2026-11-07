@@ -1,1 +1,4 @@
 - pkg:composer/phloxcz/rpc-api@v0.1.0
+- pkg:composer/phloxcz/rpc-api@v0.2.0
+- pkg:composer/phloxcz/rpc-api@v0.2.1
+- pkg:composer/phloxcz/rpc-api@v0.2.2
