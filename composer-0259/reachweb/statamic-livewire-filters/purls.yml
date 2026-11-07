@@ -40,3 +40,7 @@
 - pkg:composer/reachweb/statamic-livewire-filters@v4.4.0
 - pkg:composer/reachweb/statamic-livewire-filters@v4.5.0
 - pkg:composer/reachweb/statamic-livewire-filters@v4.5.1
+- pkg:composer/reachweb/statamic-livewire-filters@v4.6.0
+- pkg:composer/reachweb/statamic-livewire-filters@v4.6.1
+- pkg:composer/reachweb/statamic-livewire-filters@v4.6.2
+- pkg:composer/reachweb/statamic-livewire-filters@v4.6.3
