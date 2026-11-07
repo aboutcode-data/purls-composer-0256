@@ -19,3 +19,5 @@
 - pkg:composer/queuety/queuety@v0.22.0
 - pkg:composer/queuety/queuety@v0.22.1
 - pkg:composer/queuety/queuety@v0.23.0
+- pkg:composer/queuety/queuety@v0.23.1
+- pkg:composer/queuety/queuety@v0.23.2
