@@ -1,0 +1,2 @@
+- pkg:composer/reload/dead-code-detector-drupal@v0.1.0
+- pkg:composer/reload/dead-code-detector-drupal@v0.1.1
