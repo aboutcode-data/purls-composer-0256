@@ -124,6 +124,7 @@
 - pkg:composer/pop-cms-schema/pagemedia-mutations@2.6.0
 - pkg:composer/pop-cms-schema/pagemedia-mutations@2.6.1
 - pkg:composer/pop-cms-schema/pagemedia-mutations@20.0.0
+- pkg:composer/pop-cms-schema/pagemedia-mutations@20.0.1
 - pkg:composer/pop-cms-schema/pagemedia-mutations@3.0.0
 - pkg:composer/pop-cms-schema/pagemedia-mutations@4.0.0
 - pkg:composer/pop-cms-schema/pagemedia-mutations@4.0.1

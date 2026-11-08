@@ -139,6 +139,7 @@
 - pkg:composer/pop-cms-schema/meta@2.6.0
 - pkg:composer/pop-cms-schema/meta@2.6.1
 - pkg:composer/pop-cms-schema/meta@20.0.0
+- pkg:composer/pop-cms-schema/meta@20.0.1
 - pkg:composer/pop-cms-schema/meta@3.0.0
 - pkg:composer/pop-cms-schema/meta@4.0.0
 - pkg:composer/pop-cms-schema/meta@4.0.1
