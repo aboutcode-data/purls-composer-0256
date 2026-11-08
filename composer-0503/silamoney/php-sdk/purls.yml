@@ -34,3 +34,4 @@
 - pkg:composer/silamoney/php-sdk@1.1.1
 - pkg:composer/silamoney/php-sdk@1.1.2
 - pkg:composer/silamoney/php-sdk@1.2.1
+- pkg:composer/silamoney/php-sdk@1.3.0
