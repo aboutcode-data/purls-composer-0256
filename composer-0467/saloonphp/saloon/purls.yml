@@ -135,3 +135,5 @@
 - pkg:composer/saloonphp/saloon@v4.3.0
 - pkg:composer/saloonphp/saloon@v4.4.0
 - pkg:composer/saloonphp/saloon@v4.5.0
+- pkg:composer/saloonphp/saloon@v4.5.1
+- pkg:composer/saloonphp/saloon@v4.5.2
