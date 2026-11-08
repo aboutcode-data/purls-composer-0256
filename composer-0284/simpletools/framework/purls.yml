@@ -156,6 +156,8 @@
 - pkg:composer/simpletools/framework@3.0.34
 - pkg:composer/simpletools/framework@3.0.35
 - pkg:composer/simpletools/framework@3.0.36
+- pkg:composer/simpletools/framework@3.0.37
+- pkg:composer/simpletools/framework@3.0.38
 - pkg:composer/simpletools/framework@3.0.4
 - pkg:composer/simpletools/framework@3.0.5
 - pkg:composer/simpletools/framework@3.0.6
