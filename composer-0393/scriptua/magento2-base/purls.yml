@@ -21,3 +21,7 @@
 - pkg:composer/scriptua/magento2-base@2.1.8
 - pkg:composer/scriptua/magento2-base@2.1.9
 - pkg:composer/scriptua/magento2-base@2.2.0
+- pkg:composer/scriptua/magento2-base@2.3.0
+- pkg:composer/scriptua/magento2-base@2.3.1
+- pkg:composer/scriptua/magento2-base@3.0.0
+- pkg:composer/scriptua/magento2-base@3.1.0
