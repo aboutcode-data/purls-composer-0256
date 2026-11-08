@@ -1,4 +1,12 @@
+- pkg:composer/smartness/traceflow-laravel@2.10.0
+- pkg:composer/smartness/traceflow-laravel@2.11.0
+- pkg:composer/smartness/traceflow-laravel@2.12.0
+- pkg:composer/smartness/traceflow-laravel@2.13.0
+- pkg:composer/smartness/traceflow-laravel@2.13.1
 - pkg:composer/smartness/traceflow-laravel@2.7.1
+- pkg:composer/smartness/traceflow-laravel@2.8.0
+- pkg:composer/smartness/traceflow-laravel@2.9.0
+- pkg:composer/smartness/traceflow-laravel@2.9.0-rc.1
 - pkg:composer/smartness/traceflow-laravel@v1.0.0
 - pkg:composer/smartness/traceflow-laravel@v2.3.0
 - pkg:composer/smartness/traceflow-laravel@v2.3.1
