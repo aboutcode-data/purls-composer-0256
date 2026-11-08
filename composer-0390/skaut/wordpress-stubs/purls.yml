@@ -39,6 +39,7 @@
 - pkg:composer/skaut/wordpress-stubs@2.14.0
 - pkg:composer/skaut/wordpress-stubs@2.15.0
 - pkg:composer/skaut/wordpress-stubs@2.15.1
+- pkg:composer/skaut/wordpress-stubs@2.16.0
 - pkg:composer/skaut/wordpress-stubs@2.2.0
 - pkg:composer/skaut/wordpress-stubs@2.2.1
 - pkg:composer/skaut/wordpress-stubs@2.2.2
