@@ -154,6 +154,7 @@
 - pkg:composer/se7enxweb/twig@v2.16.2
 - pkg:composer/se7enxweb/twig@v2.16.3
 - pkg:composer/se7enxweb/twig@v2.16.4
+- pkg:composer/se7enxweb/twig@v2.16.5
 - pkg:composer/se7enxweb/twig@v2.2.0
 - pkg:composer/se7enxweb/twig@v2.3.0
 - pkg:composer/se7enxweb/twig@v2.3.1
@@ -196,6 +197,7 @@
 - pkg:composer/se7enxweb/twig@v3.11.1
 - pkg:composer/se7enxweb/twig@v3.11.2
 - pkg:composer/se7enxweb/twig@v3.11.3
+- pkg:composer/se7enxweb/twig@v3.11.4
 - pkg:composer/se7enxweb/twig@v3.12.0
 - pkg:composer/se7enxweb/twig@v3.13.0
 - pkg:composer/se7enxweb/twig@v3.14.0
@@ -207,6 +209,7 @@
 - pkg:composer/se7enxweb/twig@v3.17.1
 - pkg:composer/se7enxweb/twig@v3.18.0
 - pkg:composer/se7enxweb/twig@v3.19.0
+- pkg:composer/se7enxweb/twig@v3.19.1
 - pkg:composer/se7enxweb/twig@v3.2.1
 - pkg:composer/se7enxweb/twig@v3.20.0
 - pkg:composer/se7enxweb/twig@v3.21.0
