@@ -4,3 +4,4 @@
 - pkg:composer/roslov/queue-bundle@2.1.0
 - pkg:composer/roslov/queue-bundle@2.2.0
 - pkg:composer/roslov/queue-bundle@2.2.1
+- pkg:composer/roslov/queue-bundle@3.0.0
