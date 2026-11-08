@@ -6,3 +6,4 @@
 - pkg:composer/playwright-php/playwright@v1.4.0
 - pkg:composer/playwright-php/playwright@v1.5.0
 - pkg:composer/playwright-php/playwright@v1.5.1
+- pkg:composer/playwright-php/playwright@v1.6.0
