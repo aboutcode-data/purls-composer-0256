@@ -1,1 +1,3 @@
 - pkg:composer/simplefatoora/laravel@v0.1.0
+- pkg:composer/simplefatoora/laravel@v0.2.0
+- pkg:composer/simplefatoora/laravel@v0.2.1
