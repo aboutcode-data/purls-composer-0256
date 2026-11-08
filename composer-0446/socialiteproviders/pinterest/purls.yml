@@ -2,6 +2,7 @@
 - pkg:composer/socialiteproviders/pinterest@4.1.0
 - pkg:composer/socialiteproviders/pinterest@4.2.0
 - pkg:composer/socialiteproviders/pinterest@4.3.0
+- pkg:composer/socialiteproviders/pinterest@5.0.0
 - pkg:composer/socialiteproviders/pinterest@v1.0.0
 - pkg:composer/socialiteproviders/pinterest@v1.0.1
 - pkg:composer/socialiteproviders/pinterest@v2.0.0
