@@ -1,1 +1,4 @@
+- pkg:composer/saber/voice-to-text@0.2.1
+- pkg:composer/saber/voice-to-text@0.2.2
 - pkg:composer/saber/voice-to-text@v0.1.4
+- pkg:composer/saber/voice-to-text@v0.2.0
