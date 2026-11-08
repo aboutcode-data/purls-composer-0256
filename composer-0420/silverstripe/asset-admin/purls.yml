@@ -179,5 +179,7 @@
 - pkg:composer/silverstripe/asset-admin@3.2.0-rc1
 - pkg:composer/silverstripe/asset-admin@3.2.1
 - pkg:composer/silverstripe/asset-admin@3.2.2
+- pkg:composer/silverstripe/asset-admin@3.3.0
 - pkg:composer/silverstripe/asset-admin@3.3.0-beta1
 - pkg:composer/silverstripe/asset-admin@3.3.0-rc1
+- pkg:composer/silverstripe/asset-admin@3.3.1
