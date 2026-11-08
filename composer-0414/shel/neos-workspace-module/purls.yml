@@ -22,3 +22,5 @@
 - pkg:composer/shel/neos-workspace-module@1.0.2
 - pkg:composer/shel/neos-workspace-module@1.1.0
 - pkg:composer/shel/neos-workspace-module@1.1.1
+- pkg:composer/shel/neos-workspace-module@1.1.2
+- pkg:composer/shel/neos-workspace-module@1.2.0
