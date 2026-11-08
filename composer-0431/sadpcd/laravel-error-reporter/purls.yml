@@ -1,0 +1,3 @@
+- pkg:composer/sadpcd/laravel-error-reporter@v1.0.0
+- pkg:composer/sadpcd/laravel-error-reporter@v1.0.1
+- pkg:composer/sadpcd/laravel-error-reporter@v1.1.0
