@@ -6,3 +6,4 @@
 - pkg:composer/slam/php-symmetric-encryption@v1.4.0
 - pkg:composer/slam/php-symmetric-encryption@v1.5.0
 - pkg:composer/slam/php-symmetric-encryption@v1.5.1
+- pkg:composer/slam/php-symmetric-encryption@v1.6.0
