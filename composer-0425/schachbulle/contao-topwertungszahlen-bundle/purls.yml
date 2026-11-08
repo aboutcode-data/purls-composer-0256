@@ -36,3 +36,7 @@
 - pkg:composer/schachbulle/contao-topwertungszahlen-bundle@1.7.3
 - pkg:composer/schachbulle/contao-topwertungszahlen-bundle@1.7.4
 - pkg:composer/schachbulle/contao-topwertungszahlen-bundle@1.7.5
+- pkg:composer/schachbulle/contao-topwertungszahlen-bundle@1.8.0
+- pkg:composer/schachbulle/contao-topwertungszahlen-bundle@1.9.0
+- pkg:composer/schachbulle/contao-topwertungszahlen-bundle@1.9.1
+- pkg:composer/schachbulle/contao-topwertungszahlen-bundle@1.9.2

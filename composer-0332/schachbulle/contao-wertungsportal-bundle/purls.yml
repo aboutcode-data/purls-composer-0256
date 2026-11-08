@@ -100,6 +100,9 @@
 - pkg:composer/schachbulle/contao-wertungsportal-bundle@1.54.0
 - pkg:composer/schachbulle/contao-wertungsportal-bundle@1.54.1
 - pkg:composer/schachbulle/contao-wertungsportal-bundle@1.55.0
+- pkg:composer/schachbulle/contao-wertungsportal-bundle@1.55.1
+- pkg:composer/schachbulle/contao-wertungsportal-bundle@1.56.0
+- pkg:composer/schachbulle/contao-wertungsportal-bundle@1.56.1
 - pkg:composer/schachbulle/contao-wertungsportal-bundle@1.6.0
 - pkg:composer/schachbulle/contao-wertungsportal-bundle@1.7.0
 - pkg:composer/schachbulle/contao-wertungsportal-bundle@1.8.0
