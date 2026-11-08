@@ -5,3 +5,4 @@
 - pkg:composer/qoliber/trident-php@v1.7.0
 - pkg:composer/qoliber/trident-php@v1.8.0
 - pkg:composer/qoliber/trident-php@v1.8.1
+- pkg:composer/qoliber/trident-php@v1.8.2
