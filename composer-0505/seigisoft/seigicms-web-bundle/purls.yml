@@ -66,3 +66,5 @@
 - pkg:composer/seigisoft/seigicms-web-bundle@v0.8.1
 - pkg:composer/seigisoft/seigicms-web-bundle@v0.8.2
 - pkg:composer/seigisoft/seigicms-web-bundle@v0.8.3
+- pkg:composer/seigisoft/seigicms-web-bundle@v0.9.0
+- pkg:composer/seigisoft/seigicms-web-bundle@v0.9.1
