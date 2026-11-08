@@ -82,6 +82,7 @@
 - pkg:composer/se7enxweb/exponential-platform-dxp-core@v4.6.22
 - pkg:composer/se7enxweb/exponential-platform-dxp-core@v4.6.23
 - pkg:composer/se7enxweb/exponential-platform-dxp-core@v4.6.24
+- pkg:composer/se7enxweb/exponential-platform-dxp-core@v4.6.25
 - pkg:composer/se7enxweb/exponential-platform-dxp-core@v4.6.3
 - pkg:composer/se7enxweb/exponential-platform-dxp-core@v4.6.4
 - pkg:composer/se7enxweb/exponential-platform-dxp-core@v4.6.5
@@ -94,6 +95,8 @@
 - pkg:composer/se7enxweb/exponential-platform-dxp-core@v5.0.0-rc1
 - pkg:composer/se7enxweb/exponential-platform-dxp-core@v5.0.1.0
 - pkg:composer/se7enxweb/exponential-platform-dxp-core@v5.0.1.1
+- pkg:composer/se7enxweb/exponential-platform-dxp-core@v5.0.10
+- pkg:composer/se7enxweb/exponential-platform-dxp-core@v5.0.11
 - pkg:composer/se7enxweb/exponential-platform-dxp-core@v5.0.2
 - pkg:composer/se7enxweb/exponential-platform-dxp-core@v5.0.3
 - pkg:composer/se7enxweb/exponential-platform-dxp-core@v5.0.4
@@ -102,3 +105,4 @@
 - pkg:composer/se7enxweb/exponential-platform-dxp-core@v5.0.7
 - pkg:composer/se7enxweb/exponential-platform-dxp-core@v5.0.8
 - pkg:composer/se7enxweb/exponential-platform-dxp-core@v5.0.9
+- pkg:composer/se7enxweb/exponential-platform-dxp-core@v5.1.0
