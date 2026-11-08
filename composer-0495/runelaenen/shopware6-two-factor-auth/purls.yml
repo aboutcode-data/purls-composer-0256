@@ -7,6 +7,7 @@
 - pkg:composer/runelaenen/shopware6-two-factor-auth@6.0.0
 - pkg:composer/runelaenen/shopware6-two-factor-auth@6.0.1
 - pkg:composer/runelaenen/shopware6-two-factor-auth@7.0.0
+- pkg:composer/runelaenen/shopware6-two-factor-auth@7.1.0
 - pkg:composer/runelaenen/shopware6-two-factor-auth@v1.0.0
 - pkg:composer/runelaenen/shopware6-two-factor-auth@v1.0.1
 - pkg:composer/runelaenen/shopware6-two-factor-auth@v1.0.2
