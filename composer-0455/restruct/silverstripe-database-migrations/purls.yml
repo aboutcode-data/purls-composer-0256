@@ -2,3 +2,4 @@
 - pkg:composer/restruct/silverstripe-database-migrations@0.2
 - pkg:composer/restruct/silverstripe-database-migrations@0.3.0
 - pkg:composer/restruct/silverstripe-database-migrations@0.3.1
+- pkg:composer/restruct/silverstripe-database-migrations@0.4.0
