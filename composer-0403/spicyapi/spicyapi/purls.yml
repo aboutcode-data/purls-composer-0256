@@ -1,1 +1,4 @@
 - pkg:composer/spicyapi/spicyapi@v0.1.1
+- pkg:composer/spicyapi/spicyapi@v0.2.0
+- pkg:composer/spicyapi/spicyapi@v0.3.0
+- pkg:composer/spicyapi/spicyapi@v0.3.1
