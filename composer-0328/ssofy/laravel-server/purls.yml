@@ -13,3 +13,4 @@
 - pkg:composer/ssofy/laravel-server@v2.1.5
 - pkg:composer/ssofy/laravel-server@v3.0.1
 - pkg:composer/ssofy/laravel-server@v3.1.0
+- pkg:composer/ssofy/laravel-server@v4.0.0
