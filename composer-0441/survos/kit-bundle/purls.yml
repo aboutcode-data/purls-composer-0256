@@ -34,11 +34,17 @@
 - pkg:composer/survos/kit-bundle@2.28.7
 - pkg:composer/survos/kit-bundle@2.33.0
 - pkg:composer/survos/kit-bundle@2.34.29
+- pkg:composer/survos/kit-bundle@2.34.40
+- pkg:composer/survos/kit-bundle@2.35.0
+- pkg:composer/survos/kit-bundle@2.35.1
+- pkg:composer/survos/kit-bundle@2.36.0
+- pkg:composer/survos/kit-bundle@2.39.0
 - pkg:composer/survos/kit-bundle@2.4.0
 - pkg:composer/survos/kit-bundle@2.4.1
 - pkg:composer/survos/kit-bundle@2.4.2
 - pkg:composer/survos/kit-bundle@2.4.3
 - pkg:composer/survos/kit-bundle@2.4.4
+- pkg:composer/survos/kit-bundle@2.41.9
 - pkg:composer/survos/kit-bundle@2.5.0
 - pkg:composer/survos/kit-bundle@2.5.1
 - pkg:composer/survos/kit-bundle@2.5.2

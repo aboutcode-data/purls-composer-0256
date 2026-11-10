@@ -61,8 +61,17 @@
 - pkg:composer/survos/dataset-bundle@2.34.0
 - pkg:composer/survos/dataset-bundle@2.34.2
 - pkg:composer/survos/dataset-bundle@2.34.25
+- pkg:composer/survos/dataset-bundle@2.34.31
 - pkg:composer/survos/dataset-bundle@2.34.5
 - pkg:composer/survos/dataset-bundle@2.34.9
+- pkg:composer/survos/dataset-bundle@2.35.2
+- pkg:composer/survos/dataset-bundle@2.35.21
+- pkg:composer/survos/dataset-bundle@2.35.3
+- pkg:composer/survos/dataset-bundle@2.35.7
+- pkg:composer/survos/dataset-bundle@2.36.1
+- pkg:composer/survos/dataset-bundle@2.36.2
+- pkg:composer/survos/dataset-bundle@2.38.0
+- pkg:composer/survos/dataset-bundle@2.39.0
 - pkg:composer/survos/dataset-bundle@2.5.0
 - pkg:composer/survos/dataset-bundle@2.5.1
 - pkg:composer/survos/dataset-bundle@2.5.2
