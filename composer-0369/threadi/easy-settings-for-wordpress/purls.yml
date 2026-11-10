@@ -76,4 +76,14 @@
 - pkg:composer/threadi/easy-settings-for-wordpress@3.6.0
 - pkg:composer/threadi/easy-settings-for-wordpress@3.6.1
 - pkg:composer/threadi/easy-settings-for-wordpress@3.6.2
+- pkg:composer/threadi/easy-settings-for-wordpress@3.6.3
+- pkg:composer/threadi/easy-settings-for-wordpress@3.6.4
+- pkg:composer/threadi/easy-settings-for-wordpress@3.7.0
+- pkg:composer/threadi/easy-settings-for-wordpress@3.8.0
+- pkg:composer/threadi/easy-settings-for-wordpress@3.8.2
+- pkg:composer/threadi/easy-settings-for-wordpress@3.8.3
+- pkg:composer/threadi/easy-settings-for-wordpress@3.8.4
+- pkg:composer/threadi/easy-settings-for-wordpress@3.9.0
+- pkg:composer/threadi/easy-settings-for-wordpress@3.9.1
+- pkg:composer/threadi/easy-settings-for-wordpress@3.9.2
 - pkg:composer/threadi/easy-settings-for-wordpress@v1.17.2
