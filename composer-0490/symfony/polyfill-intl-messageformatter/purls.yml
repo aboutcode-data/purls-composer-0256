@@ -32,3 +32,4 @@
 - pkg:composer/symfony/polyfill-intl-messageformatter@v1.37.0
 - pkg:composer/symfony/polyfill-intl-messageformatter@v1.38.0
 - pkg:composer/symfony/polyfill-intl-messageformatter@v1.43.0
+- pkg:composer/symfony/polyfill-intl-messageformatter@v1.43.3
