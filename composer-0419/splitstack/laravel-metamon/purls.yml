@@ -1,2 +1,5 @@
 - pkg:composer/splitstack/laravel-metamon@0.1.1
 - pkg:composer/splitstack/laravel-metamon@1.0.0
+- pkg:composer/splitstack/laravel-metamon@1.1.0
+- pkg:composer/splitstack/laravel-metamon@2.0.0
+- pkg:composer/splitstack/laravel-metamon@v2.0.2
