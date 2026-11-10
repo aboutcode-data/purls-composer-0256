@@ -23,3 +23,5 @@
 - pkg:composer/sanmai/di-container@0.1.8
 - pkg:composer/sanmai/di-container@0.1.9
 - pkg:composer/sanmai/di-container@0.2
+- pkg:composer/sanmai/di-container@0.2.1
+- pkg:composer/sanmai/di-container@0.2.2
