@@ -120,6 +120,10 @@
 - pkg:composer/telnyx/telnyx-php@v7.103.0
 - pkg:composer/telnyx/telnyx-php@v7.104.0
 - pkg:composer/telnyx/telnyx-php@v7.105.0
+- pkg:composer/telnyx/telnyx-php@v7.106.0
+- pkg:composer/telnyx/telnyx-php@v7.107.0
+- pkg:composer/telnyx/telnyx-php@v7.108.0
+- pkg:composer/telnyx/telnyx-php@v7.109.0
 - pkg:composer/telnyx/telnyx-php@v7.11.0
 - pkg:composer/telnyx/telnyx-php@v7.12.0
 - pkg:composer/telnyx/telnyx-php@v7.13.0
