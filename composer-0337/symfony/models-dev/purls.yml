@@ -144,6 +144,7 @@
 - pkg:composer/symfony/models-dev@v215.0
 - pkg:composer/symfony/models-dev@v216.0
 - pkg:composer/symfony/models-dev@v217.0
+- pkg:composer/symfony/models-dev@v218.0
 - pkg:composer/symfony/models-dev@v22.0
 - pkg:composer/symfony/models-dev@v23.0
 - pkg:composer/symfony/models-dev@v24.0
