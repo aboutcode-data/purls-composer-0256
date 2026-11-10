@@ -11,3 +11,5 @@
 - pkg:composer/sourcebroker/t3apitranslatr@3.0.0
 - pkg:composer/sourcebroker/t3apitranslatr@3.1.0
 - pkg:composer/sourcebroker/t3apitranslatr@3.2.0
+- pkg:composer/sourcebroker/t3apitranslatr@4.0.0
+- pkg:composer/sourcebroker/t3apitranslatr@5.0.0
