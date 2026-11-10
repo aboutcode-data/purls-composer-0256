@@ -179,3 +179,4 @@
 - pkg:composer/sylius/sylius-standard@v2.2.2
 - pkg:composer/sylius/sylius-standard@v2.2.3
 - pkg:composer/sylius/sylius-standard@v2.2.4
+- pkg:composer/sylius/sylius-standard@v2.3.0

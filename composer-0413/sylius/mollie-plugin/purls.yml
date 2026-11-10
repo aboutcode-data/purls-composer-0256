@@ -38,3 +38,4 @@
 - pkg:composer/sylius/mollie-plugin@v3.3.4
 - pkg:composer/sylius/mollie-plugin@v3.3.5
 - pkg:composer/sylius/mollie-plugin@v3.4.0
+- pkg:composer/sylius/mollie-plugin@v3.5.0
