@@ -20,3 +20,5 @@
 - pkg:composer/temp/fn@0.6.0
 - pkg:composer/temp/fn@0.6.1
 - pkg:composer/temp/fn@0.7.0
+- pkg:composer/temp/fn@1.0.0
+- pkg:composer/temp/fn@1.1.0
