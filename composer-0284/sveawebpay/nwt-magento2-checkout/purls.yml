@@ -88,3 +88,5 @@
 - pkg:composer/sveawebpay/nwt-magento2-checkout@1.5.5
 - pkg:composer/sveawebpay/nwt-magento2-checkout@1.6.0
 - pkg:composer/sveawebpay/nwt-magento2-checkout@1.6.1
+- pkg:composer/sveawebpay/nwt-magento2-checkout@1.6.2
+- pkg:composer/sveawebpay/nwt-magento2-checkout@1.7.0
