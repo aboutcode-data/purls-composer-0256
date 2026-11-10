@@ -9,6 +9,13 @@
 - pkg:composer/stixx/openapi-command-bundle@0.12.4
 - pkg:composer/stixx/openapi-command-bundle@0.13.0
 - pkg:composer/stixx/openapi-command-bundle@0.13.1
+- pkg:composer/stixx/openapi-command-bundle@0.13.2
+- pkg:composer/stixx/openapi-command-bundle@0.13.3
+- pkg:composer/stixx/openapi-command-bundle@0.14.0
+- pkg:composer/stixx/openapi-command-bundle@0.14.1
+- pkg:composer/stixx/openapi-command-bundle@0.14.2
+- pkg:composer/stixx/openapi-command-bundle@0.15.0
+- pkg:composer/stixx/openapi-command-bundle@0.16.0
 - pkg:composer/stixx/openapi-command-bundle@0.2.0
 - pkg:composer/stixx/openapi-command-bundle@0.2.1
 - pkg:composer/stixx/openapi-command-bundle@0.3.0
