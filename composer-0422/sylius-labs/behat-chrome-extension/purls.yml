@@ -1,1 +1,2 @@
 - pkg:composer/sylius-labs/behat-chrome-extension@v1.5.0
+- pkg:composer/sylius-labs/behat-chrome-extension@v1.5.1
