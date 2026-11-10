@@ -230,9 +230,15 @@
 - pkg:composer/svix/svix@v2.0.0-rc.1
 - pkg:composer/svix/svix@v2.0.0-rc.2
 - pkg:composer/svix/svix@v2.1.0
+- pkg:composer/svix/svix@v2.10.0
 - pkg:composer/svix/svix@v2.2.0
 - pkg:composer/svix/svix@v2.3.0
 - pkg:composer/svix/svix@v2.4.0
 - pkg:composer/svix/svix@v2.5.0
 - pkg:composer/svix/svix@v2.6.0
 - pkg:composer/svix/svix@v2.6.1
+- pkg:composer/svix/svix@v2.6.2
+- pkg:composer/svix/svix@v2.7.0
+- pkg:composer/svix/svix@v2.8.0
+- pkg:composer/svix/svix@v2.9.0
+- pkg:composer/svix/svix@v2.9.1
