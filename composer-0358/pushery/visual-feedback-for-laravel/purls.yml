@@ -31,6 +31,8 @@
 - pkg:composer/pushery/visual-feedback-for-laravel@v0.25.1
 - pkg:composer/pushery/visual-feedback-for-laravel@v0.26.0
 - pkg:composer/pushery/visual-feedback-for-laravel@v0.27.0
+- pkg:composer/pushery/visual-feedback-for-laravel@v0.28.0
+- pkg:composer/pushery/visual-feedback-for-laravel@v0.29.0
 - pkg:composer/pushery/visual-feedback-for-laravel@v0.3.0
 - pkg:composer/pushery/visual-feedback-for-laravel@v0.4.0
 - pkg:composer/pushery/visual-feedback-for-laravel@v0.4.1
