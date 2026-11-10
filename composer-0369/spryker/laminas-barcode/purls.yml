@@ -16,6 +16,7 @@
 - pkg:composer/spryker/laminas-barcode@2.1.6
 - pkg:composer/spryker/laminas-barcode@2.10.0
 - pkg:composer/spryker/laminas-barcode@2.11.0
+- pkg:composer/spryker/laminas-barcode@2.17.0
 - pkg:composer/spryker/laminas-barcode@2.2.0
 - pkg:composer/spryker/laminas-barcode@2.2.0rc1
 - pkg:composer/spryker/laminas-barcode@2.2.0rc2
