@@ -39,3 +39,6 @@
 - pkg:composer/su-sws/stanford_fields@9.2.0
 - pkg:composer/su-sws/stanford_fields@9.3.0
 - pkg:composer/su-sws/stanford_fields@9.3.1
+- pkg:composer/su-sws/stanford_fields@9.3.2
+- pkg:composer/su-sws/stanford_fields@9.3.3
+- pkg:composer/su-sws/stanford_fields@9.3.4
