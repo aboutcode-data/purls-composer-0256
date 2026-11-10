@@ -8,3 +8,5 @@
 - pkg:composer/ptadmin/admin@v0.5.1
 - pkg:composer/ptadmin/admin@v0.5.2
 - pkg:composer/ptadmin/admin@v0.6.0
+- pkg:composer/ptadmin/admin@v0.6.1
+- pkg:composer/ptadmin/admin@v0.7.0
