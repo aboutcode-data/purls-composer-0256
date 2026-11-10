@@ -3,3 +3,6 @@
 - pkg:composer/statusstack/sdk-php@0.0.2
 - pkg:composer/statusstack/sdk-php@1.0.0
 - pkg:composer/statusstack/sdk-php@1.0.1
+- pkg:composer/statusstack/sdk-php@2.1.0
+- pkg:composer/statusstack/sdk-php@2.2.0
+- pkg:composer/statusstack/sdk-php@2.2.1
