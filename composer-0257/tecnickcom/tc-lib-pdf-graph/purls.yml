@@ -83,6 +83,11 @@
 - pkg:composer/tecnickcom/tc-lib-pdf-graph@2.18.0
 - pkg:composer/tecnickcom/tc-lib-pdf-graph@2.18.1
 - pkg:composer/tecnickcom/tc-lib-pdf-graph@2.18.2
+- pkg:composer/tecnickcom/tc-lib-pdf-graph@2.18.3
+- pkg:composer/tecnickcom/tc-lib-pdf-graph@2.18.4
+- pkg:composer/tecnickcom/tc-lib-pdf-graph@2.18.5
+- pkg:composer/tecnickcom/tc-lib-pdf-graph@2.18.6
+- pkg:composer/tecnickcom/tc-lib-pdf-graph@2.18.7
 - pkg:composer/tecnickcom/tc-lib-pdf-graph@2.2.0
 - pkg:composer/tecnickcom/tc-lib-pdf-graph@2.2.10
 - pkg:composer/tecnickcom/tc-lib-pdf-graph@2.2.11

@@ -128,6 +128,11 @@
 - pkg:composer/tecnickcom/tc-lib-barcode@2.16.2
 - pkg:composer/tecnickcom/tc-lib-barcode@2.16.3
 - pkg:composer/tecnickcom/tc-lib-barcode@2.16.4
+- pkg:composer/tecnickcom/tc-lib-barcode@2.16.5
+- pkg:composer/tecnickcom/tc-lib-barcode@2.16.6
+- pkg:composer/tecnickcom/tc-lib-barcode@2.17.1
+- pkg:composer/tecnickcom/tc-lib-barcode@2.17.2
+- pkg:composer/tecnickcom/tc-lib-barcode@2.17.3
 - pkg:composer/tecnickcom/tc-lib-barcode@2.2.1
 - pkg:composer/tecnickcom/tc-lib-barcode@2.2.2
 - pkg:composer/tecnickcom/tc-lib-barcode@2.2.3
