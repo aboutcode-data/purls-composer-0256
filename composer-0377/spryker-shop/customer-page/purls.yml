@@ -190,4 +190,8 @@
 - pkg:composer/spryker-shop/customer-page@2.86.0
 - pkg:composer/spryker-shop/customer-page@2.87.0
 - pkg:composer/spryker-shop/customer-page@2.87.1
+- pkg:composer/spryker-shop/customer-page@2.87.2
+- pkg:composer/spryker-shop/customer-page@2.88.0
+- pkg:composer/spryker-shop/customer-page@2.88.1
+- pkg:composer/spryker-shop/customer-page@2.89.0
 - pkg:composer/spryker-shop/customer-page@2.9.0
