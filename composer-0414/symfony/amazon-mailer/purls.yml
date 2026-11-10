@@ -175,3 +175,4 @@
 - pkg:composer/symfony/amazon-mailer@v8.1.0-BETA3
 - pkg:composer/symfony/amazon-mailer@v8.1.2
 - pkg:composer/symfony/amazon-mailer@v8.1.5
+- pkg:composer/symfony/amazon-mailer@v8.2.0-BETA1
