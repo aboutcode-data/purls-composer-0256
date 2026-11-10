@@ -7,3 +7,4 @@
 - pkg:composer/spryker-feature/push-notification@202604.0
 - pkg:composer/spryker-feature/push-notification@202606.0
 - pkg:composer/spryker-feature/push-notification@202608.0
+- pkg:composer/spryker-feature/push-notification@202610.0

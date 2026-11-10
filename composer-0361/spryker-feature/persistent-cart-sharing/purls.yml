@@ -15,3 +15,4 @@
 - pkg:composer/spryker-feature/persistent-cart-sharing@202604.0
 - pkg:composer/spryker-feature/persistent-cart-sharing@202606.0
 - pkg:composer/spryker-feature/persistent-cart-sharing@202608.0
+- pkg:composer/spryker-feature/persistent-cart-sharing@202610.0
