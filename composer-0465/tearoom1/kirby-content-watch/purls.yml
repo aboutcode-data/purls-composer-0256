@@ -29,6 +29,7 @@
 - pkg:composer/tearoom1/kirby-content-watch@3.11.0
 - pkg:composer/tearoom1/kirby-content-watch@3.12.0
 - pkg:composer/tearoom1/kirby-content-watch@3.13.0
+- pkg:composer/tearoom1/kirby-content-watch@3.13.1
 - pkg:composer/tearoom1/kirby-content-watch@3.2.0
 - pkg:composer/tearoom1/kirby-content-watch@3.2.1
 - pkg:composer/tearoom1/kirby-content-watch@3.3.0
