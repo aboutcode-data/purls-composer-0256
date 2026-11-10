@@ -1,5 +1,8 @@
 - pkg:composer/tarantool/queue@v0.1.0
 - pkg:composer/tarantool/queue@v0.10.0
+- pkg:composer/tarantool/queue@v0.11.0
+- pkg:composer/tarantool/queue@v0.12.0
+- pkg:composer/tarantool/queue@v0.12.1
 - pkg:composer/tarantool/queue@v0.2.0
 - pkg:composer/tarantool/queue@v0.2.1
 - pkg:composer/tarantool/queue@v0.3.0
