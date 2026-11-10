@@ -6,3 +6,5 @@
 - pkg:composer/solophp/container@v2.3.0
 - pkg:composer/solophp/container@v2.4.0
 - pkg:composer/solophp/container@v3.0.0
+- pkg:composer/solophp/container@v3.1.0
+- pkg:composer/solophp/container@v4.0.0
