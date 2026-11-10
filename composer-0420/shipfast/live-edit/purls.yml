@@ -205,6 +205,8 @@
 - pkg:composer/shipfast/live-edit@v0.20.22
 - pkg:composer/shipfast/live-edit@v0.20.23
 - pkg:composer/shipfast/live-edit@v0.20.24
+- pkg:composer/shipfast/live-edit@v0.20.25
+- pkg:composer/shipfast/live-edit@v0.20.26
 - pkg:composer/shipfast/live-edit@v0.20.4
 - pkg:composer/shipfast/live-edit@v0.20.5
 - pkg:composer/shipfast/live-edit@v0.20.6
@@ -226,3 +228,4 @@
 - pkg:composer/shipfast/live-edit@v0.8.3
 - pkg:composer/shipfast/live-edit@v0.8.4
 - pkg:composer/shipfast/live-edit@v0.9.0
+- pkg:composer/shipfast/live-edit@v20.20.25
