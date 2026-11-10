@@ -50,6 +50,9 @@
 - pkg:composer/teknoo/east-website@11.1.2
 - pkg:composer/teknoo/east-website@11.2.0
 - pkg:composer/teknoo/east-website@11.3.0
+- pkg:composer/teknoo/east-website@11.4.0
+- pkg:composer/teknoo/east-website@11.5.0
+- pkg:composer/teknoo/east-website@11.5.1
 - pkg:composer/teknoo/east-website@2.0.0
 - pkg:composer/teknoo/east-website@2.0.0-beta1
 - pkg:composer/teknoo/east-website@2.0.0-beta2
