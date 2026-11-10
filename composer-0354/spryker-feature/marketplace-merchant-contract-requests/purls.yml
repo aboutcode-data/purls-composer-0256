@@ -6,3 +6,4 @@
 - pkg:composer/spryker-feature/marketplace-merchant-contract-requests@202604.0
 - pkg:composer/spryker-feature/marketplace-merchant-contract-requests@202606.0
 - pkg:composer/spryker-feature/marketplace-merchant-contract-requests@202608.0
+- pkg:composer/spryker-feature/marketplace-merchant-contract-requests@202610.0
