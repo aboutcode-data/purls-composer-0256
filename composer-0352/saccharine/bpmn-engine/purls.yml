@@ -10,3 +10,4 @@
 - pkg:composer/saccharine/bpmn-engine@v0.5.1-alpha
 - pkg:composer/saccharine/bpmn-engine@v0.5.2-alpha
 - pkg:composer/saccharine/bpmn-engine@v0.5.3-alpha
+- pkg:composer/saccharine/bpmn-engine@v0.6.0-alpha
