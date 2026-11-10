@@ -5,3 +5,4 @@
 - pkg:composer/symfony/acl-bundle@v2.2.0
 - pkg:composer/symfony/acl-bundle@v2.3.0
 - pkg:composer/symfony/acl-bundle@v2.4.0
+- pkg:composer/symfony/acl-bundle@v2.5.0
