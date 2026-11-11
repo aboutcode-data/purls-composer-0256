@@ -1,5 +1,6 @@
 - pkg:composer/tomatophp/filament-ecommerce@5.0.0
 - pkg:composer/tomatophp/filament-ecommerce@5.0.1
+- pkg:composer/tomatophp/filament-ecommerce@5.0.2
 - pkg:composer/tomatophp/filament-ecommerce@v1.0.0
 - pkg:composer/tomatophp/filament-ecommerce@v1.0.1
 - pkg:composer/tomatophp/filament-ecommerce@v1.0.10
@@ -16,3 +17,4 @@
 - pkg:composer/tomatophp/filament-ecommerce@v1.1.0
 - pkg:composer/tomatophp/filament-ecommerce@v1.1.1
 - pkg:composer/tomatophp/filament-ecommerce@v1.1.2
+- pkg:composer/tomatophp/filament-ecommerce@v1.1.3
