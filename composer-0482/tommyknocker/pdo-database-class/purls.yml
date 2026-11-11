@@ -13,6 +13,8 @@
 - pkg:composer/tommyknocker/pdo-database-class@v2.11.2
 - pkg:composer/tommyknocker/pdo-database-class@v2.12.0
 - pkg:composer/tommyknocker/pdo-database-class@v2.12.1
+- pkg:composer/tommyknocker/pdo-database-class@v2.13.0
+- pkg:composer/tommyknocker/pdo-database-class@v2.14.0
 - pkg:composer/tommyknocker/pdo-database-class@v2.2.0
 - pkg:composer/tommyknocker/pdo-database-class@v2.3.0
 - pkg:composer/tommyknocker/pdo-database-class@v2.4.0
@@ -31,3 +33,5 @@
 - pkg:composer/tommyknocker/pdo-database-class@v2.9.1
 - pkg:composer/tommyknocker/pdo-database-class@v2.9.2
 - pkg:composer/tommyknocker/pdo-database-class@v2.9.3
+- pkg:composer/tommyknocker/pdo-database-class@v3.0.0
+- pkg:composer/tommyknocker/pdo-database-class@v3.1.0
