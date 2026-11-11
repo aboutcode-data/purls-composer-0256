@@ -8,3 +8,6 @@
 - pkg:composer/tugmaks/doctrine-walkers@2.3
 - pkg:composer/tugmaks/doctrine-walkers@2.4
 - pkg:composer/tugmaks/doctrine-walkers@2.5
+- pkg:composer/tugmaks/doctrine-walkers@2.7
+- pkg:composer/tugmaks/doctrine-walkers@2.8
+- pkg:composer/tugmaks/doctrine-walkers@v2.6
