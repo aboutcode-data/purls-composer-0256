@@ -27,3 +27,9 @@
 - pkg:composer/translated/lara-sdk@1.8.2
 - pkg:composer/translated/lara-sdk@1.9.0
 - pkg:composer/translated/lara-sdk@1.9.1
+- pkg:composer/translated/lara-sdk@v1.12.1
+- pkg:composer/translated/lara-sdk@v1.12.2
+- pkg:composer/translated/lara-sdk@v1.13.0
+- pkg:composer/translated/lara-sdk@v1.14.0
+- pkg:composer/translated/lara-sdk@v1.14.1
+- pkg:composer/translated/lara-sdk@v1.14.2
