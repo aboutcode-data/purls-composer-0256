@@ -1,3 +1,4 @@
 - pkg:composer/smarty/smarty-lint@v0.3.0
 - pkg:composer/smarty/smarty-lint@v0.3.1
 - pkg:composer/smarty/smarty-lint@v0.4.0
+- pkg:composer/smarty/smarty-lint@v0.4.1
