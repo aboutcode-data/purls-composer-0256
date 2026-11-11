@@ -1,2 +1,5 @@
 - pkg:composer/ttpryg/payment-engine@1.0.0
 - pkg:composer/ttpryg/payment-engine@1.0.1
+- pkg:composer/ttpryg/payment-engine@1.1.0
+- pkg:composer/ttpryg/payment-engine@1.2.0
+- pkg:composer/ttpryg/payment-engine@2.0.0
