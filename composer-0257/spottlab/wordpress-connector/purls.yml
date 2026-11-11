@@ -1,2 +1,3 @@
 - pkg:composer/spottlab/wordpress-connector@1.3.3
 - pkg:composer/spottlab/wordpress-connector@1.4.0
+- pkg:composer/spottlab/wordpress-connector@1.5.0
