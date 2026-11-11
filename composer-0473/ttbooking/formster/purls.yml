@@ -17,10 +17,17 @@
 - pkg:composer/ttbooking/formster@v1.17.0
 - pkg:composer/ttbooking/formster@v1.18.0
 - pkg:composer/ttbooking/formster@v1.19.0
+- pkg:composer/ttbooking/formster@v1.19.1
+- pkg:composer/ttbooking/formster@v1.19.2
 - pkg:composer/ttbooking/formster@v1.2.0
 - pkg:composer/ttbooking/formster@v1.2.1
 - pkg:composer/ttbooking/formster@v1.2.2
 - pkg:composer/ttbooking/formster@v1.2.3
+- pkg:composer/ttbooking/formster@v1.20.0
+- pkg:composer/ttbooking/formster@v1.20.1
+- pkg:composer/ttbooking/formster@v1.20.2
+- pkg:composer/ttbooking/formster@v1.20.3
+- pkg:composer/ttbooking/formster@v1.20.4
 - pkg:composer/ttbooking/formster@v1.3.0
 - pkg:composer/ttbooking/formster@v1.4.0
 - pkg:composer/ttbooking/formster@v1.4.1
