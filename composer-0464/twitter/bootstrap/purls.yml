@@ -77,3 +77,4 @@
 - pkg:composer/twitter/bootstrap@v5.3.6
 - pkg:composer/twitter/bootstrap@v5.3.7
 - pkg:composer/twitter/bootstrap@v5.3.8
+- pkg:composer/twitter/bootstrap@v6.0.0-alpha.1
