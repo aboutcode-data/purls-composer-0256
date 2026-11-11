@@ -3,3 +3,4 @@
 - pkg:composer/turbo/php-ffmpeg@v1.0.1
 - pkg:composer/turbo/php-ffmpeg@v1.0.2
 - pkg:composer/turbo/php-ffmpeg@v1.0.3
+- pkg:composer/turbo/php-ffmpeg@v2.0

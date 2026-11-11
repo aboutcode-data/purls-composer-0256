@@ -6,6 +6,8 @@
 - pkg:composer/turbodocx/sdk@0.6.1
 - pkg:composer/turbodocx/sdk@0.6.2
 - pkg:composer/turbodocx/sdk@0.7.0
+- pkg:composer/turbodocx/sdk@0.8.0
+- pkg:composer/turbodocx/sdk@0.9.0
 - pkg:composer/turbodocx/sdk@v0.1.0
 - pkg:composer/turbodocx/sdk@v0.1.2
 - pkg:composer/turbodocx/sdk@v0.1.3
