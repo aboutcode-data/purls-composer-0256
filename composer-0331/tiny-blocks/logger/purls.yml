@@ -8,3 +8,6 @@
 - pkg:composer/tiny-blocks/logger@2.0.0
 - pkg:composer/tiny-blocks/logger@3.0.0
 - pkg:composer/tiny-blocks/logger@4.0.0
+- pkg:composer/tiny-blocks/logger@4.0.1
+- pkg:composer/tiny-blocks/logger@4.0.2
+- pkg:composer/tiny-blocks/logger@4.0.3
