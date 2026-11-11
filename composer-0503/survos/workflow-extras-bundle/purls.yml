@@ -8,4 +8,5 @@
 - pkg:composer/survos/workflow-extras-bundle@2.42.6
 - pkg:composer/survos/workflow-extras-bundle@2.42.8
 - pkg:composer/survos/workflow-extras-bundle@2.43.23
+- pkg:composer/survos/workflow-extras-bundle@2.45.42
 - pkg:composer/survos/workflow-extras-bundle@2.45.5
