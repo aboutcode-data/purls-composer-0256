@@ -51,3 +51,6 @@
 - pkg:composer/thenativeweb/eventsourcingdb@2.3.1
 - pkg:composer/thenativeweb/eventsourcingdb@2.3.2
 - pkg:composer/thenativeweb/eventsourcingdb@2.3.3
+- pkg:composer/thenativeweb/eventsourcingdb@2.4.0
+- pkg:composer/thenativeweb/eventsourcingdb@2.4.1
+- pkg:composer/thenativeweb/eventsourcingdb@2.4.2
