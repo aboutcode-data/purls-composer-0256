@@ -1,1 +1,2 @@
 - pkg:composer/timmit/phpstan-framework-rules@1.0.0
+- pkg:composer/timmit/phpstan-framework-rules@1.1.0
