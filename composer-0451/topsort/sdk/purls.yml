@@ -9,3 +9,5 @@
 - pkg:composer/topsort/sdk@3.0.0
 - pkg:composer/topsort/sdk@3.0.1
 - pkg:composer/topsort/sdk@3.1.0
+- pkg:composer/topsort/sdk@3.1.1
+- pkg:composer/topsort/sdk@4.0.0
