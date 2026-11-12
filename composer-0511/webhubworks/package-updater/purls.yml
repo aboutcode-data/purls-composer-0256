@@ -45,6 +45,9 @@
 - pkg:composer/webhubworks/package-updater@1.0.49
 - pkg:composer/webhubworks/package-updater@1.0.5
 - pkg:composer/webhubworks/package-updater@1.0.50
+- pkg:composer/webhubworks/package-updater@1.0.51
+- pkg:composer/webhubworks/package-updater@1.0.52
+- pkg:composer/webhubworks/package-updater@1.0.53
 - pkg:composer/webhubworks/package-updater@1.0.6
 - pkg:composer/webhubworks/package-updater@1.0.7
 - pkg:composer/webhubworks/package-updater@1.0.8
