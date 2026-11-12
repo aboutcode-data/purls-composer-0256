@@ -24,3 +24,6 @@
 - pkg:composer/werbeagentur_artrevolver/scope-php-sdk@2.3
 - pkg:composer/werbeagentur_artrevolver/scope-php-sdk@2.4
 - pkg:composer/werbeagentur_artrevolver/scope-php-sdk@2.5
+- pkg:composer/werbeagentur_artrevolver/scope-php-sdk@2.6
+- pkg:composer/werbeagentur_artrevolver/scope-php-sdk@2.7
+- pkg:composer/werbeagentur_artrevolver/scope-php-sdk@2.7.1
