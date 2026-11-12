@@ -79,4 +79,10 @@
 - pkg:composer/wonder-image/app@2.2.9
 - pkg:composer/wonder-image/app@2.3.0
 - pkg:composer/wonder-image/app@2.4.0-beta.1
+- pkg:composer/wonder-image/app@2.4.0-beta.2
+- pkg:composer/wonder-image/app@2.4.0-beta.3
+- pkg:composer/wonder-image/app@2.4.0-beta.4
+- pkg:composer/wonder-image/app@2.4.0-beta.5
+- pkg:composer/wonder-image/app@2.4.0-beta.6
+- pkg:composer/wonder-image/app@2.4.0-beta.7
 - pkg:composer/wonder-image/app@v2.1.0
