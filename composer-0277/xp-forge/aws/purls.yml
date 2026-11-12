@@ -27,3 +27,4 @@
 - pkg:composer/xp-forge/aws@v3.2.1
 - pkg:composer/xp-forge/aws@v3.3.0
 - pkg:composer/xp-forge/aws@v3.4.0
+- pkg:composer/xp-forge/aws@v3.5.0
