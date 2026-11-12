@@ -9,6 +9,7 @@
 - pkg:composer/webship/patches@12.0.1
 - pkg:composer/webship/patches@12.0.10
 - pkg:composer/webship/patches@12.0.11
+- pkg:composer/webship/patches@12.0.12
 - pkg:composer/webship/patches@12.0.2
 - pkg:composer/webship/patches@12.0.3
 - pkg:composer/webship/patches@12.0.4
