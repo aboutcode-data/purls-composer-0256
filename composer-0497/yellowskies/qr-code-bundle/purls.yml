@@ -16,3 +16,5 @@
 - pkg:composer/yellowskies/qr-code-bundle@v2.0.0
 - pkg:composer/yellowskies/qr-code-bundle@v2.0.3
 - pkg:composer/yellowskies/qr-code-bundle@v2.1.0
+- pkg:composer/yellowskies/qr-code-bundle@v2.1.1
+- pkg:composer/yellowskies/qr-code-bundle@v2.1.2
