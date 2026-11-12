@@ -28,3 +28,6 @@
 - pkg:composer/ulobby/neoeloquent@v9.6.0
 - pkg:composer/ulobby/neoeloquent@v9.7.0
 - pkg:composer/ulobby/neoeloquent@v9.7.1
+- pkg:composer/ulobby/neoeloquent@v9.8.2
+- pkg:composer/ulobby/neoeloquent@v9.9.0
+- pkg:composer/ulobby/neoeloquent@v9.9.1
