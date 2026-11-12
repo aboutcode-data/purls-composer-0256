@@ -6,6 +6,7 @@
 - pkg:composer/verbb/zen@1.0.5
 - pkg:composer/verbb/zen@1.0.6
 - pkg:composer/verbb/zen@1.0.7
+- pkg:composer/verbb/zen@1.0.8
 - pkg:composer/verbb/zen@2.0.0
 - pkg:composer/verbb/zen@2.0.0-beta.1
 - pkg:composer/verbb/zen@2.0.0-beta.2
@@ -14,6 +15,10 @@
 - pkg:composer/verbb/zen@2.0.10
 - pkg:composer/verbb/zen@2.0.11
 - pkg:composer/verbb/zen@2.0.12
+- pkg:composer/verbb/zen@2.0.13
+- pkg:composer/verbb/zen@2.0.14
+- pkg:composer/verbb/zen@2.0.15
+- pkg:composer/verbb/zen@2.0.16
 - pkg:composer/verbb/zen@2.0.2
 - pkg:composer/verbb/zen@2.0.3
 - pkg:composer/verbb/zen@2.0.4
