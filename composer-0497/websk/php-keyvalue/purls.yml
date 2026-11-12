@@ -11,3 +11,5 @@
 - pkg:composer/websk/php-keyvalue@1.4.0
 - pkg:composer/websk/php-keyvalue@2.0.0
 - pkg:composer/websk/php-keyvalue@2.1.0
+- pkg:composer/websk/php-keyvalue@3.0.0
+- pkg:composer/websk/php-keyvalue@4.0.0
