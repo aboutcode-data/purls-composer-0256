@@ -20,3 +20,4 @@
 - pkg:composer/wotz/laravel-translatable-routes@v1.3.0
 - pkg:composer/wotz/laravel-translatable-routes@v2.0.0
 - pkg:composer/wotz/laravel-translatable-routes@v2.1.0
+- pkg:composer/wotz/laravel-translatable-routes@v2.1.1
