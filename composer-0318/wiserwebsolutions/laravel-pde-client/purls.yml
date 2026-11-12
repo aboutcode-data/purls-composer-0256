@@ -11,3 +11,6 @@
 - pkg:composer/wiserwebsolutions/laravel-pde-client@v2.4.4
 - pkg:composer/wiserwebsolutions/laravel-pde-client@v3.0.0
 - pkg:composer/wiserwebsolutions/laravel-pde-client@v4.0.0
+- pkg:composer/wiserwebsolutions/laravel-pde-client@v5.0.0
+- pkg:composer/wiserwebsolutions/laravel-pde-client@v5.1.0
+- pkg:composer/wiserwebsolutions/laravel-pde-client@v5.2.0
