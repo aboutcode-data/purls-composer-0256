@@ -11,3 +11,4 @@
 - pkg:composer/vitexsoftware/pohoda-connector@0.7.0
 - pkg:composer/vitexsoftware/pohoda-connector@0.8.0
 - pkg:composer/vitexsoftware/pohoda-connector@0.9.1
+- pkg:composer/vitexsoftware/pohoda-connector@v0.11.1
