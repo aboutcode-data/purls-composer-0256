@@ -87,6 +87,7 @@
 - pkg:composer/westacks/telebot@4.1.1
 - pkg:composer/westacks/telebot@4.10.0
 - pkg:composer/westacks/telebot@4.10.1
+- pkg:composer/westacks/telebot@4.11.0
 - pkg:composer/westacks/telebot@4.2.0
 - pkg:composer/westacks/telebot@4.2.1
 - pkg:composer/westacks/telebot@4.2.2
