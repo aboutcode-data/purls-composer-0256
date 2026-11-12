@@ -29,3 +29,7 @@
 - pkg:composer/webprofil/deployer@13.0.0
 - pkg:composer/webprofil/deployer@13.0.1
 - pkg:composer/webprofil/deployer@13.0.2
+- pkg:composer/webprofil/deployer@13.0.3
+- pkg:composer/webprofil/deployer@13.0.4
+- pkg:composer/webprofil/deployer@13.0.5
+- pkg:composer/webprofil/deployer@13.0.6
