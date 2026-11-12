@@ -1,2 +1,4 @@
 - pkg:composer/venusian-voyager/encryption@v0.10.0
+- pkg:composer/venusian-voyager/encryption@v0.10.10
+- pkg:composer/venusian-voyager/encryption@v0.11.0
 - pkg:composer/venusian-voyager/encryption@v0.8.0
