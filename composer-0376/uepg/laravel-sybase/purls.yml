@@ -57,6 +57,8 @@
 - pkg:composer/uepg/laravel-sybase@4.4
 - pkg:composer/uepg/laravel-sybase@5.0.1
 - pkg:composer/uepg/laravel-sybase@5.2
+- pkg:composer/uepg/laravel-sybase@5.3
+- pkg:composer/uepg/laravel-sybase@5.3.1
 - pkg:composer/uepg/laravel-sybase@6.0
 - pkg:composer/uepg/laravel-sybase@6.1
 - pkg:composer/uepg/laravel-sybase@6.2

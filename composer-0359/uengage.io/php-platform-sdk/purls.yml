@@ -8,3 +8,8 @@
 - pkg:composer/uengage.io/php-platform-sdk@v3.0.0
 - pkg:composer/uengage.io/php-platform-sdk@v3.1.0
 - pkg:composer/uengage.io/php-platform-sdk@v3.2.0
+- pkg:composer/uengage.io/php-platform-sdk@v4.0.0
+- pkg:composer/uengage.io/php-platform-sdk@v5.0.0
+- pkg:composer/uengage.io/php-platform-sdk@v6.0.0
+- pkg:composer/uengage.io/php-platform-sdk@v6.1.0
+- pkg:composer/uengage.io/php-platform-sdk@v6.2.0
