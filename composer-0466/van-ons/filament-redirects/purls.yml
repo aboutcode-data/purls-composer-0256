@@ -22,3 +22,7 @@
 - pkg:composer/van-ons/filament-redirects@v2.1.2
 - pkg:composer/van-ons/filament-redirects@v2.1.3
 - pkg:composer/van-ons/filament-redirects@v2.2.0
+- pkg:composer/van-ons/filament-redirects@v2.3.0
+- pkg:composer/van-ons/filament-redirects@v2.4.0
+- pkg:composer/van-ons/filament-redirects@v2.5.0
+- pkg:composer/van-ons/filament-redirects@v2.6.0
