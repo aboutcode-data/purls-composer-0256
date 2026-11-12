@@ -49,3 +49,5 @@
 - pkg:composer/wp-cli/search-replace-command@v2.1.9
 - pkg:composer/wp-cli/search-replace-command@v3.0.0
 - pkg:composer/wp-cli/search-replace-command@v3.0.1
+- pkg:composer/wp-cli/search-replace-command@v3.0.2
+- pkg:composer/wp-cli/search-replace-command@v3.0.3

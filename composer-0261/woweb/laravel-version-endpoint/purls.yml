@@ -1,2 +1,4 @@
 - pkg:composer/woweb/laravel-version-endpoint@v0.1.0
 - pkg:composer/woweb/laravel-version-endpoint@v0.2.0
+- pkg:composer/woweb/laravel-version-endpoint@v0.2.1
+- pkg:composer/woweb/laravel-version-endpoint@v0.3.0
