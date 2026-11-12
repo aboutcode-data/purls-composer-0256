@@ -13,3 +13,5 @@
 - pkg:composer/visol/variables@3.1.2
 - pkg:composer/visol/variables@4.0.0
 - pkg:composer/visol/variables@4.1.0
+- pkg:composer/visol/variables@5.0.0
+- pkg:composer/visol/variables@5.1.0
