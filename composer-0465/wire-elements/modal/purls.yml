@@ -34,4 +34,5 @@
 - pkg:composer/wire-elements/modal@3.0.2
 - pkg:composer/wire-elements/modal@3.0.3
 - pkg:composer/wire-elements/modal@3.0.4
+- pkg:composer/wire-elements/modal@4.0.0
 - pkg:composer/wire-elements/modal@v1.0.1
