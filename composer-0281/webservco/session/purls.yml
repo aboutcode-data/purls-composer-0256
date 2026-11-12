@@ -5,3 +5,7 @@
 - pkg:composer/webservco/session@v0.8.0
 - pkg:composer/webservco/session@v0.8.1
 - pkg:composer/webservco/session@v1.0.0
+- pkg:composer/webservco/session@v2.0.0
+- pkg:composer/webservco/session@v2.0.1
+- pkg:composer/webservco/session@v2.1.0
+- pkg:composer/webservco/session@v2.3.0

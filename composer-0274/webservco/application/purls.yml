@@ -3,3 +3,6 @@
 - pkg:composer/webservco/application@v0.1.0
 - pkg:composer/webservco/application@v0.8.0
 - pkg:composer/webservco/application@v1.0.0
+- pkg:composer/webservco/application@v2.0.0
+- pkg:composer/webservco/application@v2.1.0
+- pkg:composer/webservco/application@v2.3.0

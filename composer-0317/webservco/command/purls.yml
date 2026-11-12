@@ -5,3 +5,7 @@
 - pkg:composer/webservco/command@v0.8.0
 - pkg:composer/webservco/command@v0.9.0
 - pkg:composer/webservco/command@v1.0.0
+- pkg:composer/webservco/command@v2.0.0
+- pkg:composer/webservco/command@v2.1.0
+- pkg:composer/webservco/command@v2.3.0
+- pkg:composer/webservco/command@v2.4.0

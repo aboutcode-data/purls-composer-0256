@@ -11,3 +11,8 @@
 - pkg:composer/webservco/dependency-container@v0.2.0
 - pkg:composer/webservco/dependency-container@v0.8.0
 - pkg:composer/webservco/dependency-container@v1.0.0
+- pkg:composer/webservco/dependency-container@v2.0.0
+- pkg:composer/webservco/dependency-container@v2.0.1
+- pkg:composer/webservco/dependency-container@v2.1.0
+- pkg:composer/webservco/dependency-container@v2.1.1
+- pkg:composer/webservco/dependency-container@v2.3.0
