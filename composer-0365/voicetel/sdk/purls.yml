@@ -1,1 +1,5 @@
 - pkg:composer/voicetel/sdk@2.2.10
+- pkg:composer/voicetel/sdk@2.2.14
+- pkg:composer/voicetel/sdk@2.2.15
+- pkg:composer/voicetel/sdk@2.2.16
+- pkg:composer/voicetel/sdk@2.2.17
