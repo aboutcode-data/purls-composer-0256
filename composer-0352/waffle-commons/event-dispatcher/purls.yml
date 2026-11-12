@@ -7,3 +7,4 @@
 - pkg:composer/waffle-commons/event-dispatcher@0.1.0-beta4
 - pkg:composer/waffle-commons/event-dispatcher@0.1.0-beta5
 - pkg:composer/waffle-commons/event-dispatcher@0.1.0-beta6
+- pkg:composer/waffle-commons/event-dispatcher@0.1.0-beta7

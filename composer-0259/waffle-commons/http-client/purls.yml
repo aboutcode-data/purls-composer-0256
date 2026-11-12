@@ -5,3 +5,4 @@
 - pkg:composer/waffle-commons/http-client@0.1.0-beta4
 - pkg:composer/waffle-commons/http-client@0.1.0-beta5
 - pkg:composer/waffle-commons/http-client@0.1.0-beta6
+- pkg:composer/waffle-commons/http-client@0.1.0-beta7
