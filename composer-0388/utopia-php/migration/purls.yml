@@ -89,6 +89,7 @@
 - pkg:composer/utopia-php/migration@1.13.2
 - pkg:composer/utopia-php/migration@1.13.3
 - pkg:composer/utopia-php/migration@1.14.0
+- pkg:composer/utopia-php/migration@1.14.2
 - pkg:composer/utopia-php/migration@1.15.0
 - pkg:composer/utopia-php/migration@1.16.0
 - pkg:composer/utopia-php/migration@1.17.0
@@ -153,3 +154,11 @@
 - pkg:composer/utopia-php/migration@2.0.6
 - pkg:composer/utopia-php/migration@2.0.7
 - pkg:composer/utopia-php/migration@2.0.8
+- pkg:composer/utopia-php/migration@2.0.9
+- pkg:composer/utopia-php/migration@2.1.0
+- pkg:composer/utopia-php/migration@3.0.0
+- pkg:composer/utopia-php/migration@3.0.1
+- pkg:composer/utopia-php/migration@3.1.0
+- pkg:composer/utopia-php/migration@3.1.1
+- pkg:composer/utopia-php/migration@3.1.2
+- pkg:composer/utopia-php/migration@3.2.0
