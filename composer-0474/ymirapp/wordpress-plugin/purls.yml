@@ -57,6 +57,8 @@
 - pkg:composer/ymirapp/wordpress-plugin@v1.28.0
 - pkg:composer/ymirapp/wordpress-plugin@v1.28.1
 - pkg:composer/ymirapp/wordpress-plugin@v1.28.2
+- pkg:composer/ymirapp/wordpress-plugin@v1.29.0
+- pkg:composer/ymirapp/wordpress-plugin@v1.29.1
 - pkg:composer/ymirapp/wordpress-plugin@v1.3.0
 - pkg:composer/ymirapp/wordpress-plugin@v1.3.1
 - pkg:composer/ymirapp/wordpress-plugin@v1.3.2
