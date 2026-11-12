@@ -33,3 +33,4 @@
 - pkg:composer/xicrow/php-debug@4.0.0
 - pkg:composer/xicrow/php-debug@5.0.0
 - pkg:composer/xicrow/php-debug@5.0.1
+- pkg:composer/xicrow/php-debug@5.0.2
