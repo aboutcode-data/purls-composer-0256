@@ -383,6 +383,17 @@
 - pkg:composer/uxf/cms@3.84.2
 - pkg:composer/uxf/cms@3.84.3
 - pkg:composer/uxf/cms@3.84.4
+- pkg:composer/uxf/cms@3.85.0
+- pkg:composer/uxf/cms@3.85.1
+- pkg:composer/uxf/cms@3.86.0
+- pkg:composer/uxf/cms@3.86.1
+- pkg:composer/uxf/cms@3.87.0
+- pkg:composer/uxf/cms@3.87.1
+- pkg:composer/uxf/cms@3.87.2
+- pkg:composer/uxf/cms@3.87.3
+- pkg:composer/uxf/cms@3.87.4
+- pkg:composer/uxf/cms@3.88.0
+- pkg:composer/uxf/cms@3.88.1
 - pkg:composer/uxf/cms@3.9.2
 - pkg:composer/uxf/cms@v0.1
 - pkg:composer/uxf/cms@v0.1.1
