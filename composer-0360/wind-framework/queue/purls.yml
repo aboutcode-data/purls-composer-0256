@@ -9,3 +9,4 @@
 - pkg:composer/wind-framework/queue@0.1.8
 - pkg:composer/wind-framework/queue@0.1.9
 - pkg:composer/wind-framework/queue@1.0.0
+- pkg:composer/wind-framework/queue@1.1.0
