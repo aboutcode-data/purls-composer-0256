@@ -9,3 +9,4 @@
 - pkg:composer/webman-tech/docker@v2.2.1
 - pkg:composer/webman-tech/docker@v2.3.0
 - pkg:composer/webman-tech/docker@v2.3.1
+- pkg:composer/webman-tech/docker@v2.4.0
