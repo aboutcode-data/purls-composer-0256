@@ -38,6 +38,9 @@
 - pkg:composer/wyrihaximus/phpstan-rules-wrapper@13.1.0
 - pkg:composer/wyrihaximus/phpstan-rules-wrapper@14.0.0
 - pkg:composer/wyrihaximus/phpstan-rules-wrapper@14.1.0
+- pkg:composer/wyrihaximus/phpstan-rules-wrapper@14.10.0
+- pkg:composer/wyrihaximus/phpstan-rules-wrapper@14.10.1
+- pkg:composer/wyrihaximus/phpstan-rules-wrapper@14.10.2
 - pkg:composer/wyrihaximus/phpstan-rules-wrapper@14.2.0
 - pkg:composer/wyrihaximus/phpstan-rules-wrapper@14.3.0
 - pkg:composer/wyrihaximus/phpstan-rules-wrapper@14.4.0
@@ -45,6 +48,7 @@
 - pkg:composer/wyrihaximus/phpstan-rules-wrapper@14.6.0
 - pkg:composer/wyrihaximus/phpstan-rules-wrapper@14.7.0
 - pkg:composer/wyrihaximus/phpstan-rules-wrapper@14.8.0
+- pkg:composer/wyrihaximus/phpstan-rules-wrapper@14.9.0
 - pkg:composer/wyrihaximus/phpstan-rules-wrapper@2.0.0
 - pkg:composer/wyrihaximus/phpstan-rules-wrapper@2.0.1
 - pkg:composer/wyrihaximus/phpstan-rules-wrapper@2.0.2
