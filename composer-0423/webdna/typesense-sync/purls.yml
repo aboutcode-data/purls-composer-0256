@@ -1,2 +1,6 @@
+- pkg:composer/webdna/typesense-sync@1.0.0
 - pkg:composer/webdna/typesense-sync@1.0.0-beta.1
 - pkg:composer/webdna/typesense-sync@1.0.0-beta.2
+- pkg:composer/webdna/typesense-sync@1.0.1
+- pkg:composer/webdna/typesense-sync@1.1.0
+- pkg:composer/webdna/typesense-sync@1.1.0-rc.1
