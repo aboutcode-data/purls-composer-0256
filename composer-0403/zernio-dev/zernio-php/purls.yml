@@ -874,7 +874,13 @@
 - pkg:composer/zernio-dev/zernio-php@0.0.1785
 - pkg:composer/zernio-dev/zernio-php@0.0.1786
 - pkg:composer/zernio-dev/zernio-php@0.0.1787
+- pkg:composer/zernio-dev/zernio-php@0.0.1788
+- pkg:composer/zernio-dev/zernio-php@0.0.1789
 - pkg:composer/zernio-dev/zernio-php@0.0.179
+- pkg:composer/zernio-dev/zernio-php@0.0.1790
+- pkg:composer/zernio-dev/zernio-php@0.0.1791
+- pkg:composer/zernio-dev/zernio-php@0.0.1792
+- pkg:composer/zernio-dev/zernio-php@0.0.1793
 - pkg:composer/zernio-dev/zernio-php@0.0.18
 - pkg:composer/zernio-dev/zernio-php@0.0.180
 - pkg:composer/zernio-dev/zernio-php@0.0.181
