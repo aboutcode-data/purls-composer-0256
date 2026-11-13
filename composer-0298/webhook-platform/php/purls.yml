@@ -80,3 +80,4 @@
 - pkg:composer/webhook-platform/php@3.6.0
 - pkg:composer/webhook-platform/php@3.6.1
 - pkg:composer/webhook-platform/php@3.7.0
+- pkg:composer/webhook-platform/php@3.7.1
