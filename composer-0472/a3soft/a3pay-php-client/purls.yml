@@ -11,3 +11,4 @@
 - pkg:composer/a3soft/a3pay-php-client@1.4.7
 - pkg:composer/a3soft/a3pay-php-client@1.4.8
 - pkg:composer/a3soft/a3pay-php-client@1.4.9
+- pkg:composer/a3soft/a3pay-php-client@1.5.0
