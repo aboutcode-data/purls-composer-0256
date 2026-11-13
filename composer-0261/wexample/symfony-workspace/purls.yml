@@ -12,3 +12,4 @@
 - pkg:composer/wexample/symfony-workspace@2.0.8
 - pkg:composer/wexample/symfony-workspace@2.0.9
 - pkg:composer/wexample/symfony-workspace@2.1.0
+- pkg:composer/wexample/symfony-workspace@2.2.0
