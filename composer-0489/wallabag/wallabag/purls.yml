@@ -88,6 +88,8 @@
 - pkg:composer/wallabag/wallabag@2.6.13
 - pkg:composer/wallabag/wallabag@2.6.14
 - pkg:composer/wallabag/wallabag@2.6.15
+- pkg:composer/wallabag/wallabag@2.6.16
+- pkg:composer/wallabag/wallabag@2.6.17
 - pkg:composer/wallabag/wallabag@2.6.2
 - pkg:composer/wallabag/wallabag@2.6.3
 - pkg:composer/wallabag/wallabag@2.6.4
@@ -96,3 +98,4 @@
 - pkg:composer/wallabag/wallabag@2.6.7
 - pkg:composer/wallabag/wallabag@2.6.8
 - pkg:composer/wallabag/wallabag@2.6.9
+- pkg:composer/wallabag/wallabag@2.7.0-alpha.1
