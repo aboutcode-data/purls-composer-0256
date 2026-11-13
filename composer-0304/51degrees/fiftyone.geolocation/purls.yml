@@ -41,6 +41,11 @@
 - pkg:composer/51degrees/fiftyone.geolocation@4.5.0.0
 - pkg:composer/51degrees/fiftyone.geolocation@4.5.1.0
 - pkg:composer/51degrees/fiftyone.geolocation@4.5.2.0
+- pkg:composer/51degrees/fiftyone.geolocation@4.5.203
+- pkg:composer/51degrees/fiftyone.geolocation@4.5.204
+- pkg:composer/51degrees/fiftyone.geolocation@4.5.205
+- pkg:composer/51degrees/fiftyone.geolocation@4.5.206
+- pkg:composer/51degrees/fiftyone.geolocation@4.5.207
 - pkg:composer/51degrees/fiftyone.geolocation@4.5.3.0
 - pkg:composer/51degrees/fiftyone.geolocation@4.5.4
 - pkg:composer/51degrees/fiftyone.geolocation@4.5.5
