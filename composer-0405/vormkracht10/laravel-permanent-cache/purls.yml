@@ -130,6 +130,8 @@
 - pkg:composer/vormkracht10/laravel-permanent-cache@v5.14.2
 - pkg:composer/vormkracht10/laravel-permanent-cache@v5.14.3
 - pkg:composer/vormkracht10/laravel-permanent-cache@v5.14.4
+- pkg:composer/vormkracht10/laravel-permanent-cache@v5.15.0
+- pkg:composer/vormkracht10/laravel-permanent-cache@v5.15.1
 - pkg:composer/vormkracht10/laravel-permanent-cache@v5.2.0
 - pkg:composer/vormkracht10/laravel-permanent-cache@v5.2.1
 - pkg:composer/vormkracht10/laravel-permanent-cache@v5.2.2
