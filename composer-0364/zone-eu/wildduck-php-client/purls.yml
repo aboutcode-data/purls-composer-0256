@@ -54,6 +54,11 @@
 - pkg:composer/zone-eu/wildduck-php-client@2.0.31
 - pkg:composer/zone-eu/wildduck-php-client@2.0.32
 - pkg:composer/zone-eu/wildduck-php-client@2.0.33
+- pkg:composer/zone-eu/wildduck-php-client@2.0.34
+- pkg:composer/zone-eu/wildduck-php-client@2.0.35
+- pkg:composer/zone-eu/wildduck-php-client@2.0.36
+- pkg:composer/zone-eu/wildduck-php-client@2.0.37
+- pkg:composer/zone-eu/wildduck-php-client@2.0.38
 - pkg:composer/zone-eu/wildduck-php-client@2.0.4
 - pkg:composer/zone-eu/wildduck-php-client@2.0.5
 - pkg:composer/zone-eu/wildduck-php-client@2.0.6
