@@ -40,3 +40,5 @@
 - pkg:composer/2lenet/dashboard2-bundle@2.6.2
 - pkg:composer/2lenet/dashboard2-bundle@2.7.0
 - pkg:composer/2lenet/dashboard2-bundle@2.7.1
+- pkg:composer/2lenet/dashboard2-bundle@2.7.2
+- pkg:composer/2lenet/dashboard2-bundle@2.7.3
