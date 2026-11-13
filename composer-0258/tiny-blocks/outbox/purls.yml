@@ -10,3 +10,4 @@
 - pkg:composer/tiny-blocks/outbox@6.0.1
 - pkg:composer/tiny-blocks/outbox@6.0.2
 - pkg:composer/tiny-blocks/outbox@6.0.3
+- pkg:composer/tiny-blocks/outbox@7.0.0
