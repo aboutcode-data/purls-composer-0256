@@ -37,3 +37,4 @@
 - pkg:composer/act-training/query-builder@2.4.0
 - pkg:composer/act-training/query-builder@2.4.1
 - pkg:composer/act-training/query-builder@2.4.2
+- pkg:composer/act-training/query-builder@3.0.0
