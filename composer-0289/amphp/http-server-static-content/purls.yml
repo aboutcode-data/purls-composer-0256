@@ -10,3 +10,4 @@
 - pkg:composer/amphp/http-server-static-content@v2.0.0-beta.1
 - pkg:composer/amphp/http-server-static-content@v2.0.0-beta.2
 - pkg:composer/amphp/http-server-static-content@v2.0.0-beta.3
+- pkg:composer/amphp/http-server-static-content@v2.1.0
