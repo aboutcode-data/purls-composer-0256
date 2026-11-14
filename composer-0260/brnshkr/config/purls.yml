@@ -14,8 +14,12 @@
 - pkg:composer/brnshkr/config@0.0.1-alpha.8
 - pkg:composer/brnshkr/config@0.0.1-alpha.9
 - pkg:composer/brnshkr/config@0.0.1-beta.1
+- pkg:composer/brnshkr/config@0.0.1-beta.10
 - pkg:composer/brnshkr/config@0.0.1-beta.2
 - pkg:composer/brnshkr/config@0.0.1-beta.3
 - pkg:composer/brnshkr/config@0.0.1-beta.4
 - pkg:composer/brnshkr/config@0.0.1-beta.5
 - pkg:composer/brnshkr/config@0.0.1-beta.6
+- pkg:composer/brnshkr/config@0.0.1-beta.7
+- pkg:composer/brnshkr/config@0.0.1-beta.8
+- pkg:composer/brnshkr/config@0.0.1-beta.9
