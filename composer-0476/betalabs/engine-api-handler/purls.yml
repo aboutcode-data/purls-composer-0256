@@ -14,3 +14,5 @@
 - pkg:composer/betalabs/engine-api-handler@v4.0.1
 - pkg:composer/betalabs/engine-api-handler@v4.0.2
 - pkg:composer/betalabs/engine-api-handler@v4.0.3
+- pkg:composer/betalabs/engine-api-handler@v5.0.0
+- pkg:composer/betalabs/engine-api-handler@v5.0.2
