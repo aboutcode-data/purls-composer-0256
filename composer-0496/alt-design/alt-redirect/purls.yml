@@ -19,6 +19,7 @@
 - pkg:composer/alt-design/alt-redirect@v1.1.7
 - pkg:composer/alt-design/alt-redirect@v1.1.8
 - pkg:composer/alt-design/alt-redirect@v1.1.9
+- pkg:composer/alt-design/alt-redirect@v1.10.0
 - pkg:composer/alt-design/alt-redirect@v1.2.0
 - pkg:composer/alt-design/alt-redirect@v1.3.0
 - pkg:composer/alt-design/alt-redirect@v1.3.1
@@ -36,3 +37,4 @@
 - pkg:composer/alt-design/alt-redirect@v1.7.0
 - pkg:composer/alt-design/alt-redirect@v1.8.0
 - pkg:composer/alt-design/alt-redirect@v1.8.1
+- pkg:composer/alt-design/alt-redirect@v1.9.0
