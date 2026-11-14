@@ -218,3 +218,7 @@
 - pkg:composer/azrideus/php-utils@v1.1.97
 - pkg:composer/azrideus/php-utils@v1.1.98
 - pkg:composer/azrideus/php-utils@v1.1.99
+- pkg:composer/azrideus/php-utils@v1.2.0
+- pkg:composer/azrideus/php-utils@v1.2.1
+- pkg:composer/azrideus/php-utils@v1.2.2
+- pkg:composer/azrideus/php-utils@v1.2.3
