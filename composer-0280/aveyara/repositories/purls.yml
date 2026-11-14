@@ -9,6 +9,7 @@
 - pkg:composer/aveyara/repositories@0.16
 - pkg:composer/aveyara/repositories@0.17
 - pkg:composer/aveyara/repositories@0.18
+- pkg:composer/aveyara/repositories@0.19
 - pkg:composer/aveyara/repositories@0.2
 - pkg:composer/aveyara/repositories@0.3
 - pkg:composer/aveyara/repositories@0.4
