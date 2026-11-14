@@ -3,3 +3,4 @@
 - pkg:composer/aporat/laravel-rate-limiter@v4.0.0
 - pkg:composer/aporat/laravel-rate-limiter@v4.1.0
 - pkg:composer/aporat/laravel-rate-limiter@v5.0.0
+- pkg:composer/aporat/laravel-rate-limiter@v6.0.0
