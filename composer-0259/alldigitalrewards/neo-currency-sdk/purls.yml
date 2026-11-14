@@ -8,3 +8,5 @@
 - pkg:composer/alldigitalrewards/neo-currency-sdk@0.6.0
 - pkg:composer/alldigitalrewards/neo-currency-sdk@0.7.0
 - pkg:composer/alldigitalrewards/neo-currency-sdk@0.8.0
+- pkg:composer/alldigitalrewards/neo-currency-sdk@0.8.1
+- pkg:composer/alldigitalrewards/neo-currency-sdk@1.0.0
