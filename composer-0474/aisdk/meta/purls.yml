@@ -1,3 +1,6 @@
+- pkg:composer/aisdk/meta@v0.10.0
+- pkg:composer/aisdk/meta@v0.11.0
+- pkg:composer/aisdk/meta@v0.11.1
 - pkg:composer/aisdk/meta@v0.8.0
 - pkg:composer/aisdk/meta@v0.8.1
 - pkg:composer/aisdk/meta@v0.8.2
