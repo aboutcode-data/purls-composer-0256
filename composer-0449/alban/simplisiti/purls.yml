@@ -1,6 +1,14 @@
 - pkg:composer/alban/simplisiti@v0.1.0-alpha
 - pkg:composer/alban/simplisiti@v0.1.1-alpha
 - pkg:composer/alban/simplisiti@v0.1.10-alpha
+- pkg:composer/alban/simplisiti@v0.1.100-alpha
+- pkg:composer/alban/simplisiti@v0.1.101-alpha
+- pkg:composer/alban/simplisiti@v0.1.102-alpha
+- pkg:composer/alban/simplisiti@v0.1.103-alpha
+- pkg:composer/alban/simplisiti@v0.1.104-alpha
+- pkg:composer/alban/simplisiti@v0.1.105-alpha
+- pkg:composer/alban/simplisiti@v0.1.106-alpha
+- pkg:composer/alban/simplisiti@v0.1.107-alpha
 - pkg:composer/alban/simplisiti@v0.1.11-alpha
 - pkg:composer/alban/simplisiti@v0.1.12-alpha
 - pkg:composer/alban/simplisiti@v0.1.13-alpha
@@ -95,3 +103,6 @@
 - pkg:composer/alban/simplisiti@v0.1.94-alpha
 - pkg:composer/alban/simplisiti@v0.1.95-alpha
 - pkg:composer/alban/simplisiti@v0.1.96-alpha
+- pkg:composer/alban/simplisiti@v0.1.97-alpha
+- pkg:composer/alban/simplisiti@v0.1.98-alpha
+- pkg:composer/alban/simplisiti@v0.1.99-alpha
