@@ -13,6 +13,7 @@
 - pkg:composer/artemeon/database@4.2.0
 - pkg:composer/artemeon/database@5.0.0
 - pkg:composer/artemeon/database@5.0.1
+- pkg:composer/artemeon/database@5.1.0
 - pkg:composer/artemeon/database@v0.1.0
 - pkg:composer/artemeon/database@v0.1.1
 - pkg:composer/artemeon/database@v0.1.2
