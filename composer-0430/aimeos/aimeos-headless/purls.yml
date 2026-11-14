@@ -9,4 +9,6 @@
 - pkg:composer/aimeos/aimeos-headless@2025.04.1
 - pkg:composer/aimeos/aimeos-headless@2025.07.1
 - pkg:composer/aimeos/aimeos-headless@2025.10.1
+- pkg:composer/aimeos/aimeos-headless@2025.10.2
 - pkg:composer/aimeos/aimeos-headless@2026.04.1
+- pkg:composer/aimeos/aimeos-headless@2026.10.1

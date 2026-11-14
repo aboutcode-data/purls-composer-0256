@@ -75,3 +75,4 @@
 - pkg:composer/aimeos/aimeos-symfony2@2021.07.1
 - pkg:composer/aimeos/aimeos-symfony2@2021.10.1
 - pkg:composer/aimeos/aimeos-symfony2@2026.04.1
+- pkg:composer/aimeos/aimeos-symfony2@2026.10.1
