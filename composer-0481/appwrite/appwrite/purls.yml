@@ -63,6 +63,17 @@
 - pkg:composer/appwrite/appwrite@30.0.0
 - pkg:composer/appwrite/appwrite@30.0.0-rc.1
 - pkg:composer/appwrite/appwrite@30.1.0
+- pkg:composer/appwrite/appwrite@30.2.0
+- pkg:composer/appwrite/appwrite@30.2.1
+- pkg:composer/appwrite/appwrite@30.2.2
+- pkg:composer/appwrite/appwrite@30.3.0
+- pkg:composer/appwrite/appwrite@30.3.1
+- pkg:composer/appwrite/appwrite@30.4.0
+- pkg:composer/appwrite/appwrite@31.0.0
+- pkg:composer/appwrite/appwrite@32.0.0
+- pkg:composer/appwrite/appwrite@32.1.0
+- pkg:composer/appwrite/appwrite@32.2.0
+- pkg:composer/appwrite/appwrite@32.3.0
 - pkg:composer/appwrite/appwrite@4.0.0
 - pkg:composer/appwrite/appwrite@4.0.1
 - pkg:composer/appwrite/appwrite@4.1.0
