@@ -35,3 +35,4 @@
 - pkg:composer/allnetru/laravel-sharding@v0.6.2
 - pkg:composer/allnetru/laravel-sharding@v0.6.3
 - pkg:composer/allnetru/laravel-sharding@v0.6.4
+- pkg:composer/allnetru/laravel-sharding@v0.6.5
