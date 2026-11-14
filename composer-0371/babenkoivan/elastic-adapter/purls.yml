@@ -39,3 +39,4 @@
 - pkg:composer/babenkoivan/elastic-adapter@v5.0.1
 - pkg:composer/babenkoivan/elastic-adapter@v5.0.2
 - pkg:composer/babenkoivan/elastic-adapter@v5.1.0
+- pkg:composer/babenkoivan/elastic-adapter@v5.2.0
