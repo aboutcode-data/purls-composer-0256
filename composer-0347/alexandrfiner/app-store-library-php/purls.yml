@@ -14,5 +14,7 @@
 - pkg:composer/alexandrfiner/app-store-library-php@0.5.0
 - pkg:composer/alexandrfiner/app-store-library-php@0.5.1
 - pkg:composer/alexandrfiner/app-store-library-php@0.5.2
+- pkg:composer/alexandrfiner/app-store-library-php@1.0.0
+- pkg:composer/alexandrfiner/app-store-library-php@1.1.0
 - pkg:composer/alexandrfiner/app-store-library-php@v0.6.0
 - pkg:composer/alexandrfiner/app-store-library-php@v0.7.0

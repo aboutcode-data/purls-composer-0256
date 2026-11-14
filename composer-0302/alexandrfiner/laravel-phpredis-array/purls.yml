@@ -1,2 +1,4 @@
 - pkg:composer/alexandrfiner/laravel-phpredis-array@0.0.1
 - pkg:composer/alexandrfiner/laravel-phpredis-array@0.0.3
+- pkg:composer/alexandrfiner/laravel-phpredis-array@0.1.0
+- pkg:composer/alexandrfiner/laravel-phpredis-array@1.0.0
