@@ -1,2 +1,4 @@
 - pkg:composer/artigo/cache-stampede@v1.0.1
 - pkg:composer/artigo/cache-stampede@v1.1.1
+- pkg:composer/artigo/cache-stampede@v2.0.0
+- pkg:composer/artigo/cache-stampede@v2.0.1
