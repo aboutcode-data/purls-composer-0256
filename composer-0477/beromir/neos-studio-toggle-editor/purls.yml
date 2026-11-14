@@ -1,2 +1,4 @@
 - pkg:composer/beromir/neos-studio-toggle-editor@v1.0.0
 - pkg:composer/beromir/neos-studio-toggle-editor@v1.1.0
+- pkg:composer/beromir/neos-studio-toggle-editor@v2.0.0
+- pkg:composer/beromir/neos-studio-toggle-editor@v2.0.1
