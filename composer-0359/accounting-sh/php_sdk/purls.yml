@@ -18,3 +18,4 @@
 - pkg:composer/accounting-sh/php_sdk@1.3.6
 - pkg:composer/accounting-sh/php_sdk@2.0.0
 - pkg:composer/accounting-sh/php_sdk@2.1.0
+- pkg:composer/accounting-sh/php_sdk@2.2.0
