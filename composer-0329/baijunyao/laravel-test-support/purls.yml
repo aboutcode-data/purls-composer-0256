@@ -7,6 +7,7 @@
 - pkg:composer/baijunyao/laravel-test-support@v12.0.0
 - pkg:composer/baijunyao/laravel-test-support@v13.0.0
 - pkg:composer/baijunyao/laravel-test-support@v14.0.0
+- pkg:composer/baijunyao/laravel-test-support@v15.0.0
 - pkg:composer/baijunyao/laravel-test-support@v2.0.0
 - pkg:composer/baijunyao/laravel-test-support@v3.0.0
 - pkg:composer/baijunyao/laravel-test-support@v3.1.0
