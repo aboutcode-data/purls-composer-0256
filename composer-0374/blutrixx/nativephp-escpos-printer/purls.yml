@@ -1,3 +1,5 @@
 - pkg:composer/blutrixx/nativephp-escpos-printer@1.0.0
 - pkg:composer/blutrixx/nativephp-escpos-printer@v1.0.1
 - pkg:composer/blutrixx/nativephp-escpos-printer@v1.0.2
+- pkg:composer/blutrixx/nativephp-escpos-printer@v1.0.3
+- pkg:composer/blutrixx/nativephp-escpos-printer@v1.1.0
