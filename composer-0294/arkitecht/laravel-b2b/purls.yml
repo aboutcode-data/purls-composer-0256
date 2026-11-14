@@ -15,3 +15,4 @@
 - pkg:composer/arkitecht/laravel-b2b@5.1
 - pkg:composer/arkitecht/laravel-b2b@6.0
 - pkg:composer/arkitecht/laravel-b2b@7.0
+- pkg:composer/arkitecht/laravel-b2b@7.5
