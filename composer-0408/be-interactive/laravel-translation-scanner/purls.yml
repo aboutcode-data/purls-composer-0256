@@ -23,3 +23,8 @@
 - pkg:composer/be-interactive/laravel-translation-scanner@v5.6.0
 - pkg:composer/be-interactive/laravel-translation-scanner@v5.6.1
 - pkg:composer/be-interactive/laravel-translation-scanner@v5.6.2
+- pkg:composer/be-interactive/laravel-translation-scanner@v5.6.3
+- pkg:composer/be-interactive/laravel-translation-scanner@v5.6.4
+- pkg:composer/be-interactive/laravel-translation-scanner@v5.6.5
+- pkg:composer/be-interactive/laravel-translation-scanner@v5.6.6
+- pkg:composer/be-interactive/laravel-translation-scanner@v5.6.7
