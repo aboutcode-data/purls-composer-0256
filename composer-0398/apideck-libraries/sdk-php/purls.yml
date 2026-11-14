@@ -101,6 +101,7 @@
 - pkg:composer/apideck-libraries/sdk-php@v0.4.1
 - pkg:composer/apideck-libraries/sdk-php@v0.40.0
 - pkg:composer/apideck-libraries/sdk-php@v0.40.1
+- pkg:composer/apideck-libraries/sdk-php@v0.41.0
 - pkg:composer/apideck-libraries/sdk-php@v0.5.0
 - pkg:composer/apideck-libraries/sdk-php@v0.5.1
 - pkg:composer/apideck-libraries/sdk-php@v0.5.2
