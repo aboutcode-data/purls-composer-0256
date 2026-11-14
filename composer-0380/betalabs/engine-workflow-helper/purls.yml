@@ -28,3 +28,4 @@
 - pkg:composer/betalabs/engine-workflow-helper@v1.0.0
 - pkg:composer/betalabs/engine-workflow-helper@v1.0.1
 - pkg:composer/betalabs/engine-workflow-helper@v2.0.0
+- pkg:composer/betalabs/engine-workflow-helper@v3.0.0
