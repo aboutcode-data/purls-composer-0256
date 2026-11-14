@@ -1,1 +1,5 @@
 - pkg:composer/adt/docker-deployer@v1.0
+- pkg:composer/adt/docker-deployer@v1.1
+- pkg:composer/adt/docker-deployer@v1.2
+- pkg:composer/adt/docker-deployer@v1.3
+- pkg:composer/adt/docker-deployer@v1.4
