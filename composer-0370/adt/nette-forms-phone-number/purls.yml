@@ -28,3 +28,4 @@
 - pkg:composer/adt/nette-forms-phone-number@v1.8.5
 - pkg:composer/adt/nette-forms-phone-number@v1.8.6
 - pkg:composer/adt/nette-forms-phone-number@v1.8.7
+- pkg:composer/adt/nette-forms-phone-number@v1.9.0
