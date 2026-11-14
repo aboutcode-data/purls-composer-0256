@@ -23,6 +23,9 @@
 - pkg:composer/automattic/jetpack-script-data@v0.5.5
 - pkg:composer/automattic/jetpack-script-data@v0.6.0
 - pkg:composer/automattic/jetpack-script-data@v0.6.1
+- pkg:composer/automattic/jetpack-script-data@v0.6.10
+- pkg:composer/automattic/jetpack-script-data@v0.6.11
+- pkg:composer/automattic/jetpack-script-data@v0.6.12
 - pkg:composer/automattic/jetpack-script-data@v0.6.2
 - pkg:composer/automattic/jetpack-script-data@v0.6.3
 - pkg:composer/automattic/jetpack-script-data@v0.6.4
@@ -30,3 +33,4 @@
 - pkg:composer/automattic/jetpack-script-data@v0.6.6
 - pkg:composer/automattic/jetpack-script-data@v0.6.7
 - pkg:composer/automattic/jetpack-script-data@v0.6.8
+- pkg:composer/automattic/jetpack-script-data@v0.6.9

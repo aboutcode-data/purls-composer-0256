@@ -51,3 +51,4 @@
 - pkg:composer/automattic/jetpack-logo@v3.0.9
 - pkg:composer/automattic/jetpack-logo@v4.0.0
 - pkg:composer/automattic/jetpack-logo@v4.0.1
+- pkg:composer/automattic/jetpack-logo@v4.0.2
