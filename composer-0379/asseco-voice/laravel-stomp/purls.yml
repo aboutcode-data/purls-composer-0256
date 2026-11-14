@@ -20,3 +20,6 @@
 - pkg:composer/asseco-voice/laravel-stomp@v4.1.0
 - pkg:composer/asseco-voice/laravel-stomp@v4.1.1
 - pkg:composer/asseco-voice/laravel-stomp@v4.1.2
+- pkg:composer/asseco-voice/laravel-stomp@v4.1.3
+- pkg:composer/asseco-voice/laravel-stomp@v4.2.0
+- pkg:composer/asseco-voice/laravel-stomp@v4.3.0
