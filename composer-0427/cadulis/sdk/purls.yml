@@ -40,6 +40,10 @@
 - pkg:composer/cadulis/sdk@1.8.12
 - pkg:composer/cadulis/sdk@1.8.13
 - pkg:composer/cadulis/sdk@1.8.14
+- pkg:composer/cadulis/sdk@1.8.15
+- pkg:composer/cadulis/sdk@1.8.16
+- pkg:composer/cadulis/sdk@1.8.17
+- pkg:composer/cadulis/sdk@1.8.18
 - pkg:composer/cadulis/sdk@1.8.2
 - pkg:composer/cadulis/sdk@1.8.3
 - pkg:composer/cadulis/sdk@1.8.4
