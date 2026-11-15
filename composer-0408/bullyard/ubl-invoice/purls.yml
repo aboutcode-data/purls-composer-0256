@@ -15,3 +15,5 @@
 - pkg:composer/bullyard/ubl-invoice@v1.8.1
 - pkg:composer/bullyard/ubl-invoice@v1.8.2
 - pkg:composer/bullyard/ubl-invoice@v1.8.3
+- pkg:composer/bullyard/ubl-invoice@v1.9.0
+- pkg:composer/bullyard/ubl-invoice@v1.9.1
