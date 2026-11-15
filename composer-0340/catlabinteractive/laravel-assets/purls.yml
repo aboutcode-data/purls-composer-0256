@@ -27,3 +27,7 @@
 - pkg:composer/catlabinteractive/laravel-assets@v3.0.6
 - pkg:composer/catlabinteractive/laravel-assets@v3.0.7
 - pkg:composer/catlabinteractive/laravel-assets@v3.0.8
+- pkg:composer/catlabinteractive/laravel-assets@v4.0.0
+- pkg:composer/catlabinteractive/laravel-assets@v4.0.1
+- pkg:composer/catlabinteractive/laravel-assets@v4.0.2
+- pkg:composer/catlabinteractive/laravel-assets@v4.0.3
