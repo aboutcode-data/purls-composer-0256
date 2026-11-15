@@ -22,3 +22,6 @@
 - pkg:composer/cgdprojects/genealogy@v4.8.0
 - pkg:composer/cgdprojects/genealogy@v4.9.0
 - pkg:composer/cgdprojects/genealogy@v6.0.0
+- pkg:composer/cgdprojects/genealogy@v7.0.0
+- pkg:composer/cgdprojects/genealogy@v7.0.1
+- pkg:composer/cgdprojects/genealogy@v7.0.2
