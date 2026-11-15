@@ -1,4 +1,5 @@
 - pkg:composer/chevere/router@0.1.0
+- pkg:composer/chevere/router@0.10.0
 - pkg:composer/chevere/router@0.2.0
 - pkg:composer/chevere/router@0.2.1
 - pkg:composer/chevere/router@0.2.2
