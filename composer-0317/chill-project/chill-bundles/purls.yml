@@ -139,3 +139,7 @@
 - pkg:composer/chill-project/chill-bundles@v5.1.5
 - pkg:composer/chill-project/chill-bundles@v5.1.6
 - pkg:composer/chill-project/chill-bundles@v5.2.0
+- pkg:composer/chill-project/chill-bundles@v6.0.0
+- pkg:composer/chill-project/chill-bundles@v6.0.0-rc1
+- pkg:composer/chill-project/chill-bundles@v6.0.0-rc2
+- pkg:composer/chill-project/chill-bundles@v6.0.0-rc3
