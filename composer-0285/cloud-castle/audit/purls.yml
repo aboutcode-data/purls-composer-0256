@@ -1,2 +1,4 @@
 - pkg:composer/cloud-castle/audit@v0.1.0
 - pkg:composer/cloud-castle/audit@v0.1.1
+- pkg:composer/cloud-castle/audit@v1.0.0
+- pkg:composer/cloud-castle/audit@v1.1.0
