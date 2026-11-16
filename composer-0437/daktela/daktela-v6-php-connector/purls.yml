@@ -21,5 +21,10 @@
 - pkg:composer/daktela/daktela-v6-php-connector@2.4.2
 - pkg:composer/daktela/daktela-v6-php-connector@2.5.0
 - pkg:composer/daktela/daktela-v6-php-connector@2.6.0
+- pkg:composer/daktela/daktela-v6-php-connector@2.7.0
+- pkg:composer/daktela/daktela-v6-php-connector@2.7.1
+- pkg:composer/daktela/daktela-v6-php-connector@2.8.0
+- pkg:composer/daktela/daktela-v6-php-connector@2.9.0
+- pkg:composer/daktela/daktela-v6-php-connector@2.9.1
 - pkg:composer/daktela/daktela-v6-php-connector@v1.0.0
 - pkg:composer/daktela/daktela-v6-php-connector@v1.0.1

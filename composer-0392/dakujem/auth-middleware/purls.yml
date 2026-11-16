@@ -5,3 +5,4 @@
 - pkg:composer/dakujem/auth-middleware@1.2
 - pkg:composer/dakujem/auth-middleware@2.0
 - pkg:composer/dakujem/auth-middleware@2.1
+- pkg:composer/dakujem/auth-middleware@2.1.1
