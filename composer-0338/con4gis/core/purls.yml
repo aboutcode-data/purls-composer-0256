@@ -173,6 +173,8 @@
 - pkg:composer/con4gis/core@v8.0.24
 - pkg:composer/con4gis/core@v8.0.25
 - pkg:composer/con4gis/core@v8.0.26
+- pkg:composer/con4gis/core@v8.0.27
+- pkg:composer/con4gis/core@v8.0.28
 - pkg:composer/con4gis/core@v8.0.3
 - pkg:composer/con4gis/core@v8.0.4
 - pkg:composer/con4gis/core@v8.0.5
