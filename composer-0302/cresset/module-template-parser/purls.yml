@@ -1,3 +1,6 @@
 - pkg:composer/cresset/module-template-parser@v0.1.0
 - pkg:composer/cresset/module-template-parser@v0.2.0
+- pkg:composer/cresset/module-template-parser@v0.3.0
 - pkg:composer/cresset/module-template-parser@v0.3.0-rc.1
+- pkg:composer/cresset/module-template-parser@v0.3.0-rc.2
+- pkg:composer/cresset/module-template-parser@v0.3.0-rc.3
