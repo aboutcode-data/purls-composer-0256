@@ -1,3 +1,4 @@
 - pkg:composer/coldtrick/webservices_logger@v1.0
 - pkg:composer/coldtrick/webservices_logger@v2.0
 - pkg:composer/coldtrick/webservices_logger@v2.0.1
+- pkg:composer/coldtrick/webservices_logger@v3.0
