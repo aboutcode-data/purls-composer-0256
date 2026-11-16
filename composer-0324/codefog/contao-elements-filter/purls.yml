@@ -1,3 +1,4 @@
 - pkg:composer/codefog/contao-elements-filter@1.0.0
 - pkg:composer/codefog/contao-elements-filter@1.0.1
 - pkg:composer/codefog/contao-elements-filter@1.1.0
+- pkg:composer/codefog/contao-elements-filter@2.0.0
