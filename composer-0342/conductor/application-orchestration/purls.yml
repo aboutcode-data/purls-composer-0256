@@ -52,3 +52,8 @@
 - pkg:composer/conductor/application-orchestration@4.7.1
 - pkg:composer/conductor/application-orchestration@4.8.0
 - pkg:composer/conductor/application-orchestration@4.8.1
+- pkg:composer/conductor/application-orchestration@5.0.0
+- pkg:composer/conductor/application-orchestration@5.0.1
+- pkg:composer/conductor/application-orchestration@5.1.0
+- pkg:composer/conductor/application-orchestration@5.1.1
+- pkg:composer/conductor/application-orchestration@5.2.0

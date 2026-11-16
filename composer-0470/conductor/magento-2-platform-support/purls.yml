@@ -20,3 +20,8 @@
 - pkg:composer/conductor/magento-2-platform-support@4.2.0
 - pkg:composer/conductor/magento-2-platform-support@4.3.0
 - pkg:composer/conductor/magento-2-platform-support@4.4.0
+- pkg:composer/conductor/magento-2-platform-support@5.0.0
+- pkg:composer/conductor/magento-2-platform-support@5.0.1
+- pkg:composer/conductor/magento-2-platform-support@5.1.0
+- pkg:composer/conductor/magento-2-platform-support@5.1.1
+- pkg:composer/conductor/magento-2-platform-support@5.1.2
