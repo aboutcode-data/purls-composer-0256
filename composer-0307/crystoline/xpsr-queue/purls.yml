@@ -1,0 +1,5 @@
+- pkg:composer/crystoline/xpsr-queue@v0.4.0
+- pkg:composer/crystoline/xpsr-queue@v0.5.0
+- pkg:composer/crystoline/xpsr-queue@v0.6.0
+- pkg:composer/crystoline/xpsr-queue@v0.7.0
+- pkg:composer/crystoline/xpsr-queue@v0.8.0
