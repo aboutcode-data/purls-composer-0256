@@ -4,3 +4,5 @@
 - pkg:composer/coisa/logger@1.1.1
 - pkg:composer/coisa/logger@1.2.0
 - pkg:composer/coisa/logger@1.2.1
+- pkg:composer/coisa/logger@2.0.0
+- pkg:composer/coisa/logger@2.1.0
