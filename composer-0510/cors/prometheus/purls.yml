@@ -9,3 +9,5 @@
 - pkg:composer/cors/prometheus@1.1.0
 - pkg:composer/cors/prometheus@2.0.0
 - pkg:composer/cors/prometheus@2.0.1
+- pkg:composer/cors/prometheus@2.1.0
+- pkg:composer/cors/prometheus@2026.1.0
