@@ -9,3 +9,5 @@
 - pkg:composer/codebar-ag/laravel-pwa@v12.5.0
 - pkg:composer/codebar-ag/laravel-pwa@v12.6.0
 - pkg:composer/codebar-ag/laravel-pwa@v12.7.0
+- pkg:composer/codebar-ag/laravel-pwa@v12.8.0
+- pkg:composer/codebar-ag/laravel-pwa@v12.9.0
