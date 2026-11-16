@@ -5,3 +5,6 @@
 - pkg:composer/craftcms/query@3.0.0
 - pkg:composer/craftcms/query@3.1.0
 - pkg:composer/craftcms/query@3.1.0.1
+- pkg:composer/craftcms/query@3.2.0
+- pkg:composer/craftcms/query@3.2.1
+- pkg:composer/craftcms/query@4.0.0

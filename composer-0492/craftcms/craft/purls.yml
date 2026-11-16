@@ -104,6 +104,8 @@
 - pkg:composer/craftcms/craft@4.5.0
 - pkg:composer/craftcms/craft@4.6.0
 - pkg:composer/craftcms/craft@4.7.0
+- pkg:composer/craftcms/craft@4.8.0
+- pkg:composer/craftcms/craft@4.8.0.1
 - pkg:composer/craftcms/craft@5.0.0
 - pkg:composer/craftcms/craft@5.0.0-alpha.1
 - pkg:composer/craftcms/craft@5.0.0-beta.1
@@ -120,5 +122,7 @@
 - pkg:composer/craftcms/craft@5.6.0
 - pkg:composer/craftcms/craft@5.7.0
 - pkg:composer/craftcms/craft@5.8.0
+- pkg:composer/craftcms/craft@5.9.0
 - pkg:composer/craftcms/craft@6.0.0-alpha.1
 - pkg:composer/craftcms/craft@6.0.0-alpha.2
+- pkg:composer/craftcms/craft@6.0.0-beta.1

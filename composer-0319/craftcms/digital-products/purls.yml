@@ -31,3 +31,5 @@
 - pkg:composer/craftcms/digital-products@4.0.2
 - pkg:composer/craftcms/digital-products@4.0.3
 - pkg:composer/craftcms/digital-products@4.1.0
+- pkg:composer/craftcms/digital-products@5.0.0
+- pkg:composer/craftcms/digital-products@5.1.0

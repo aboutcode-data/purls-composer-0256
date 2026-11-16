@@ -16,3 +16,5 @@
 - pkg:composer/craftcms/guest-entries@3.0.1
 - pkg:composer/craftcms/guest-entries@4.0.0
 - pkg:composer/craftcms/guest-entries@4.0.1
+- pkg:composer/craftcms/guest-entries@4.1.0
+- pkg:composer/craftcms/guest-entries@5.0.0

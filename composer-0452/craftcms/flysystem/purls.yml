@@ -7,3 +7,4 @@
 - pkg:composer/craftcms/flysystem@1.0.2
 - pkg:composer/craftcms/flysystem@2.0.0
 - pkg:composer/craftcms/flysystem@2.0.1
+- pkg:composer/craftcms/flysystem@2.0.2

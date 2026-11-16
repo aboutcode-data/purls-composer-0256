@@ -9,3 +9,4 @@
 - pkg:composer/craftcms/cms-assets@6.0.0-alpha.18
 - pkg:composer/craftcms/cms-assets@6.0.0-alpha.19
 - pkg:composer/craftcms/cms-assets@6.0.0-alpha.20
+- pkg:composer/craftcms/cms-assets@6.0.0-beta.1
