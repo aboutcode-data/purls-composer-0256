@@ -1,0 +1,4 @@
+- pkg:composer/clearsoft/easysql-common@v3.3.0
+- pkg:composer/clearsoft/easysql-common@v4.0.0
+- pkg:composer/clearsoft/easysql-common@v4.0.1
+- pkg:composer/clearsoft/easysql-common@v4.1.0
