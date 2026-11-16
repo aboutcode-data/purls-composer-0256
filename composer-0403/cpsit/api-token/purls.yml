@@ -10,3 +10,4 @@
 - pkg:composer/cpsit/api-token@0.9.6
 - pkg:composer/cpsit/api-token@1.0.0
 - pkg:composer/cpsit/api-token@1.0.1
+- pkg:composer/cpsit/api-token@1.1.0
