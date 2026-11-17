@@ -91,6 +91,7 @@
 - pkg:composer/cbmainz/flarum-de@1.25.35
 - pkg:composer/cbmainz/flarum-de@1.25.36
 - pkg:composer/cbmainz/flarum-de@1.25.37
+- pkg:composer/cbmainz/flarum-de@1.25.38
 - pkg:composer/cbmainz/flarum-de@1.25.4
 - pkg:composer/cbmainz/flarum-de@1.25.5
 - pkg:composer/cbmainz/flarum-de@1.25.6
@@ -145,6 +146,7 @@
 - pkg:composer/cbmainz/flarum-de@2.0.30
 - pkg:composer/cbmainz/flarum-de@2.0.31
 - pkg:composer/cbmainz/flarum-de@2.0.32
+- pkg:composer/cbmainz/flarum-de@2.0.33
 - pkg:composer/cbmainz/flarum-de@2.0.4
 - pkg:composer/cbmainz/flarum-de@2.0.5
 - pkg:composer/cbmainz/flarum-de@2.0.6
