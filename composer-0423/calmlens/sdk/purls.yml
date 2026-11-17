@@ -9,3 +9,5 @@
 - pkg:composer/calmlens/sdk@v0.24.0
 - pkg:composer/calmlens/sdk@v0.25.0
 - pkg:composer/calmlens/sdk@v0.26.1
+- pkg:composer/calmlens/sdk@v0.27.0
+- pkg:composer/calmlens/sdk@v0.27.1
