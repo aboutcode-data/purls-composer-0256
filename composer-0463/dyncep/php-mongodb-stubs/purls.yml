@@ -1,3 +1,4 @@
 - pkg:composer/dyncep/php-mongodb-stubs@v1.0.0
 - pkg:composer/dyncep/php-mongodb-stubs@v1.0.1
 - pkg:composer/dyncep/php-mongodb-stubs@v1.0.2
+- pkg:composer/dyncep/php-mongodb-stubs@v1.0.3
