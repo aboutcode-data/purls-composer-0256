@@ -21,6 +21,7 @@
 - pkg:composer/decodelabs/genesis@v0.14.5
 - pkg:composer/decodelabs/genesis@v0.14.6
 - pkg:composer/decodelabs/genesis@v0.14.7
+- pkg:composer/decodelabs/genesis@v0.14.8
 - pkg:composer/decodelabs/genesis@v0.2.0
 - pkg:composer/decodelabs/genesis@v0.2.1
 - pkg:composer/decodelabs/genesis@v0.3.0
