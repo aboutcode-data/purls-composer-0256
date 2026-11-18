@@ -1,3 +1,4 @@
 - pkg:composer/diephp/laravel-cloudwatch-logs@v1.0.0
 - pkg:composer/diephp/laravel-cloudwatch-logs@v1.0.1
 - pkg:composer/diephp/laravel-cloudwatch-logs@v1.0.2
+- pkg:composer/diephp/laravel-cloudwatch-logs@v1.1.0
