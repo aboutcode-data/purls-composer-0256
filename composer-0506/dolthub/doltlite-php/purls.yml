@@ -8,6 +8,8 @@
 - pkg:composer/dolthub/doltlite-php@0.50.14
 - pkg:composer/dolthub/doltlite-php@0.50.15
 - pkg:composer/dolthub/doltlite-php@0.50.16
+- pkg:composer/dolthub/doltlite-php@0.50.17
+- pkg:composer/dolthub/doltlite-php@0.50.18
 - pkg:composer/dolthub/doltlite-php@0.50.2
 - pkg:composer/dolthub/doltlite-php@0.50.3
 - pkg:composer/dolthub/doltlite-php@0.50.4
@@ -16,3 +18,17 @@
 - pkg:composer/dolthub/doltlite-php@0.50.7
 - pkg:composer/dolthub/doltlite-php@0.50.8
 - pkg:composer/dolthub/doltlite-php@0.50.9
+- pkg:composer/dolthub/doltlite-php@0.51.0
+- pkg:composer/dolthub/doltlite-php@0.51.1
+- pkg:composer/dolthub/doltlite-php@0.51.10
+- pkg:composer/dolthub/doltlite-php@0.51.11
+- pkg:composer/dolthub/doltlite-php@0.51.12
+- pkg:composer/dolthub/doltlite-php@0.51.13
+- pkg:composer/dolthub/doltlite-php@0.51.2
+- pkg:composer/dolthub/doltlite-php@0.51.3
+- pkg:composer/dolthub/doltlite-php@0.51.4
+- pkg:composer/dolthub/doltlite-php@0.51.5
+- pkg:composer/dolthub/doltlite-php@0.51.6
+- pkg:composer/dolthub/doltlite-php@0.51.7
+- pkg:composer/dolthub/doltlite-php@0.51.8
+- pkg:composer/dolthub/doltlite-php@0.51.9
