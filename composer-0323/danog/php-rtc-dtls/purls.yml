@@ -16,7 +16,14 @@
 - pkg:composer/danog/php-rtc-dtls@2.0.13
 - pkg:composer/danog/php-rtc-dtls@2.0.14
 - pkg:composer/danog/php-rtc-dtls@2.0.15
+- pkg:composer/danog/php-rtc-dtls@2.0.16
+- pkg:composer/danog/php-rtc-dtls@2.0.17
+- pkg:composer/danog/php-rtc-dtls@2.0.18
+- pkg:composer/danog/php-rtc-dtls@2.0.19
 - pkg:composer/danog/php-rtc-dtls@2.0.2
+- pkg:composer/danog/php-rtc-dtls@2.0.20
+- pkg:composer/danog/php-rtc-dtls@2.0.21
+- pkg:composer/danog/php-rtc-dtls@2.0.22
 - pkg:composer/danog/php-rtc-dtls@2.0.3
 - pkg:composer/danog/php-rtc-dtls@2.0.4
 - pkg:composer/danog/php-rtc-dtls@2.0.5
