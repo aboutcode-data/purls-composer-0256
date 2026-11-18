@@ -32,3 +32,7 @@
 - pkg:composer/drago-ex/application@v2.0.8
 - pkg:composer/drago-ex/application@v2.1.0
 - pkg:composer/drago-ex/application@v3.0.0
+- pkg:composer/drago-ex/application@v3.1.0
+- pkg:composer/drago-ex/application@v4.0.0
+- pkg:composer/drago-ex/application@v5.0.0
+- pkg:composer/drago-ex/application@v5.0.1
