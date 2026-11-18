@@ -1,2 +1,6 @@
 - pkg:composer/dorsetdigital/silverstripe-schema-manager@v1.0.0-beta1
 - pkg:composer/dorsetdigital/silverstripe-schema-manager@v1.0.0-beta2
+- pkg:composer/dorsetdigital/silverstripe-schema-manager@v2.0.0
+- pkg:composer/dorsetdigital/silverstripe-schema-manager@v2.1.0
+- pkg:composer/dorsetdigital/silverstripe-schema-manager@v2.2.0
+- pkg:composer/dorsetdigital/silverstripe-schema-manager@v2.3.0
