@@ -29,3 +29,4 @@
 - pkg:composer/datenkraft/bb-sku-usage-api-php-client@v2.3.9
 - pkg:composer/datenkraft/bb-sku-usage-api-php-client@v2.4.0
 - pkg:composer/datenkraft/bb-sku-usage-api-php-client@v2.4.1
+- pkg:composer/datenkraft/bb-sku-usage-api-php-client@v2.5.0
