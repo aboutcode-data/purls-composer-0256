@@ -5,3 +5,6 @@
 - pkg:composer/delolmo/valinor-http-message@1.7.2
 - pkg:composer/delolmo/valinor-http-message@2.0.0
 - pkg:composer/delolmo/valinor-http-message@2.3
+- pkg:composer/delolmo/valinor-http-message@2.6.1
+- pkg:composer/delolmo/valinor-http-message@2.6.2
+- pkg:composer/delolmo/valinor-http-message@2.6.3
