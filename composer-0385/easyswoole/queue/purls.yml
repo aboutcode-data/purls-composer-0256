@@ -24,3 +24,5 @@
 - pkg:composer/easyswoole/queue@4.8.11
 - pkg:composer/easyswoole/queue@4.8.12
 - pkg:composer/easyswoole/queue@4.8.9
+- pkg:composer/easyswoole/queue@5.0.1
+- pkg:composer/easyswoole/queue@5.0.2
