@@ -9,6 +9,17 @@
 - pkg:composer/dravencms/partner@2.1.2
 - pkg:composer/dravencms/partner@2.1.3
 - pkg:composer/dravencms/partner@2.1.4
+- pkg:composer/dravencms/partner@2.2.0
+- pkg:composer/dravencms/partner@2.3.0
+- pkg:composer/dravencms/partner@2.4.0
+- pkg:composer/dravencms/partner@2.5.0
+- pkg:composer/dravencms/partner@2.6.0
+- pkg:composer/dravencms/partner@2.6.1
+- pkg:composer/dravencms/partner@3.0.0
+- pkg:composer/dravencms/partner@3.1.0
+- pkg:composer/dravencms/partner@3.1.1
+- pkg:composer/dravencms/partner@3.2.0
+- pkg:composer/dravencms/partner@3.2.1
 - pkg:composer/dravencms/partner@v1.0
 - pkg:composer/dravencms/partner@v1.0.1
 - pkg:composer/dravencms/partner@v1.0.2
