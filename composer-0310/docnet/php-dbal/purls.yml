@@ -10,3 +10,4 @@
 - pkg:composer/docnet/php-dbal@v2.3.1
 - pkg:composer/docnet/php-dbal@v2.4.0
 - pkg:composer/docnet/php-dbal@v2.4.1
+- pkg:composer/docnet/php-dbal@v2.5.0
