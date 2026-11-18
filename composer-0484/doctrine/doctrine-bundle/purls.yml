@@ -90,6 +90,9 @@
 - pkg:composer/doctrine/doctrine-bundle@2.18.5
 - pkg:composer/doctrine/doctrine-bundle@2.19.0
 - pkg:composer/doctrine/doctrine-bundle@2.19.1
+- pkg:composer/doctrine/doctrine-bundle@2.19.2
+- pkg:composer/doctrine/doctrine-bundle@2.19.3
+- pkg:composer/doctrine/doctrine-bundle@2.19.4
 - pkg:composer/doctrine/doctrine-bundle@2.2.0
 - pkg:composer/doctrine/doctrine-bundle@2.2.1
 - pkg:composer/doctrine/doctrine-bundle@2.2.2
@@ -139,6 +142,11 @@
 - pkg:composer/doctrine/doctrine-bundle@3.3.0
 - pkg:composer/doctrine/doctrine-bundle@3.3.1
 - pkg:composer/doctrine/doctrine-bundle@3.3.2
+- pkg:composer/doctrine/doctrine-bundle@3.3.3
+- pkg:composer/doctrine/doctrine-bundle@3.3.4
+- pkg:composer/doctrine/doctrine-bundle@3.4.0
+- pkg:composer/doctrine/doctrine-bundle@3.4.1
+- pkg:composer/doctrine/doctrine-bundle@3.4.2
 - pkg:composer/doctrine/doctrine-bundle@v1.0.0
 - pkg:composer/doctrine/doctrine-bundle@v1.0.0-RC1
 - pkg:composer/doctrine/doctrine-bundle@v1.0.0-beta1
