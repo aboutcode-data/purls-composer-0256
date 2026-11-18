@@ -14,3 +14,4 @@
 - pkg:composer/devsite/claude-skill-laravel-migration-searcher@v3.0.0
 - pkg:composer/devsite/claude-skill-laravel-migration-searcher@v3.0.1
 - pkg:composer/devsite/claude-skill-laravel-migration-searcher@v3.0.2
+- pkg:composer/devsite/claude-skill-laravel-migration-searcher@v3.0.3
