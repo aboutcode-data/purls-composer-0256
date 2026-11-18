@@ -1,2 +1,4 @@
 - pkg:composer/echo-fusion/eventmanager@v1.0.0
 - pkg:composer/echo-fusion/eventmanager@v1.1
+- pkg:composer/echo-fusion/eventmanager@v1.2.0
+- pkg:composer/echo-fusion/eventmanager@v2.0.0
