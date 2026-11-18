@@ -55,3 +55,4 @@
 - pkg:composer/eduplex-api/cake-api-lti@0.2.7
 - pkg:composer/eduplex-api/cake-api-lti@0.2.8
 - pkg:composer/eduplex-api/cake-api-lti@0.2.9
+- pkg:composer/eduplex-api/cake-api-lti@0.3.0
