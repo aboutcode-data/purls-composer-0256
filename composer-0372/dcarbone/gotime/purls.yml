@@ -18,3 +18,4 @@
 - pkg:composer/dcarbone/gotime@v0.6.1
 - pkg:composer/dcarbone/gotime@v1.0.0
 - pkg:composer/dcarbone/gotime@v1.0.1
+- pkg:composer/dcarbone/gotime@v2.0.0
