@@ -1,2 +1,5 @@
 - pkg:composer/dmfh/typo3-deployer@v1.0.0
 - pkg:composer/dmfh/typo3-deployer@v1.2.2
+- pkg:composer/dmfh/typo3-deployer@v1.3.0
+- pkg:composer/dmfh/typo3-deployer@v1.3.1
+- pkg:composer/dmfh/typo3-deployer@v1.3.2
