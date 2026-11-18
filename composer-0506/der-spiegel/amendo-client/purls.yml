@@ -10,3 +10,5 @@
 - pkg:composer/der-spiegel/amendo-client@v2.2.1
 - pkg:composer/der-spiegel/amendo-client@v2.3.0
 - pkg:composer/der-spiegel/amendo-client@v2.4.0
+- pkg:composer/der-spiegel/amendo-client@v3.0.0
+- pkg:composer/der-spiegel/amendo-client@v3.1.0
