@@ -102,4 +102,5 @@
 - pkg:composer/dmk/mklog@v13.2.4
 - pkg:composer/dmk/mklog@v13.2.5
 - pkg:composer/dmk/mklog@v13.2.6
+- pkg:composer/dmk/mklog@v14.0.0
 - pkg:composer/dmk/mklog@v3.0.1
