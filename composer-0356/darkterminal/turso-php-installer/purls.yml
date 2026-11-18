@@ -17,3 +17,6 @@
 - pkg:composer/darkterminal/turso-php-installer@2.0.8
 - pkg:composer/darkterminal/turso-php-installer@2.0.9
 - pkg:composer/darkterminal/turso-php-installer@2.1.0
+- pkg:composer/darkterminal/turso-php-installer@2.2.0
+- pkg:composer/darkterminal/turso-php-installer@2.2.1
+- pkg:composer/darkterminal/turso-php-installer@2.2.2
