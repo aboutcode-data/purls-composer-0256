@@ -5,6 +5,7 @@
 - pkg:composer/dma/dma_simple_grid@2.0.0
 - pkg:composer/dma/dma_simple_grid@2.0.0-alpha
 - pkg:composer/dma/dma_simple_grid@2.0.1
+- pkg:composer/dma/dma_simple_grid@3.0.0-alpha1
 - pkg:composer/dma/dma_simple_grid@v1.0.3
 - pkg:composer/dma/dma_simple_grid@v1.1.0
 - pkg:composer/dma/dma_simple_grid@v1.1.0-BETA
