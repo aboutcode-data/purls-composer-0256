@@ -13,6 +13,7 @@
 - pkg:composer/elastic/transport@v8.1.0
 - pkg:composer/elastic/transport@v8.10.0
 - pkg:composer/elastic/transport@v8.11.0
+- pkg:composer/elastic/transport@v8.11.1
 - pkg:composer/elastic/transport@v8.2.0
 - pkg:composer/elastic/transport@v8.3.0
 - pkg:composer/elastic/transport@v8.4.0
