@@ -32,3 +32,4 @@
 - pkg:composer/drupal/drupack@1.0.0-rc4
 - pkg:composer/drupal/drupack@1.0.0-rc5
 - pkg:composer/drupal/drupack@1.0.0-rc6
+- pkg:composer/drupal/drupack@1.0.0-rc7
