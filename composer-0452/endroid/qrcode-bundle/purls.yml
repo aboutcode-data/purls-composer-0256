@@ -44,3 +44,5 @@
 - pkg:composer/endroid/qrcode-bundle@6.1.0
 - pkg:composer/endroid/qrcode-bundle@7.0.0
 - pkg:composer/endroid/qrcode-bundle@7.0.1
+- pkg:composer/endroid/qrcode-bundle@7.0.2
+- pkg:composer/endroid/qrcode-bundle@7.1.0
