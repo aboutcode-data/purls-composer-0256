@@ -131,3 +131,4 @@
 - pkg:composer/drupalwxt/wxt@6.1.4
 - pkg:composer/drupalwxt/wxt@6.2.0
 - pkg:composer/drupalwxt/wxt@6.3.0
+- pkg:composer/drupalwxt/wxt@6.3.1
