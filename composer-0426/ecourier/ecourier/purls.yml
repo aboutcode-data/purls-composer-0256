@@ -2,4 +2,5 @@
 - pkg:composer/ecourier/ecourier@v1.1.0
 - pkg:composer/ecourier/ecourier@v1.2.0
 - pkg:composer/ecourier/ecourier@v1.3.0
+- pkg:composer/ecourier/ecourier@v2.0.0
 - pkg:composer/ecourier/ecourier@v2.0.0-beta.1
