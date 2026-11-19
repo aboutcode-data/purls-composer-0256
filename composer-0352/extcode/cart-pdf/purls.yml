@@ -7,3 +7,7 @@
 - pkg:composer/extcode/cart-pdf@v4.0.0
 - pkg:composer/extcode/cart-pdf@v4.1.0
 - pkg:composer/extcode/cart-pdf@v5.0.0
+- pkg:composer/extcode/cart-pdf@v8.0.0
+- pkg:composer/extcode/cart-pdf@v8.0.1
+- pkg:composer/extcode/cart-pdf@v8.1.0
+- pkg:composer/extcode/cart-pdf@v9.0.0
