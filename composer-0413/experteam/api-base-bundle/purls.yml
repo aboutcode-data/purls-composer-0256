@@ -177,3 +177,5 @@
 - pkg:composer/experteam/api-base-bundle@4.3.3
 - pkg:composer/experteam/api-base-bundle@4.3.4
 - pkg:composer/experteam/api-base-bundle@4.3.5
+- pkg:composer/experteam/api-base-bundle@5.0.0
+- pkg:composer/experteam/api-base-bundle@5.0.1
