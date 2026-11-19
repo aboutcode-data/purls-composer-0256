@@ -10,8 +10,15 @@
 - pkg:composer/enabel/ux@v2.0.2
 - pkg:composer/enabel/ux@v2.0.3
 - pkg:composer/enabel/ux@v2.1.0
+- pkg:composer/enabel/ux@v2.10.0
+- pkg:composer/enabel/ux@v2.11.0
+- pkg:composer/enabel/ux@v2.11.1
 - pkg:composer/enabel/ux@v2.2.0
 - pkg:composer/enabel/ux@v2.3.0
 - pkg:composer/enabel/ux@v2.4.0
 - pkg:composer/enabel/ux@v2.4.1
 - pkg:composer/enabel/ux@v2.5.0
+- pkg:composer/enabel/ux@v2.6.0
+- pkg:composer/enabel/ux@v2.7.0
+- pkg:composer/enabel/ux@v2.8.0
+- pkg:composer/enabel/ux@v2.9.0
