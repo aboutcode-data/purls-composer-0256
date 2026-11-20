@@ -81,6 +81,13 @@
 - pkg:composer/imagewize/elayne@v4.0.2
 - pkg:composer/imagewize/elayne@v4.1.0
 - pkg:composer/imagewize/elayne@v4.10.0
+- pkg:composer/imagewize/elayne@v4.11.0
+- pkg:composer/imagewize/elayne@v4.11.1
+- pkg:composer/imagewize/elayne@v4.11.2
+- pkg:composer/imagewize/elayne@v4.12.0
+- pkg:composer/imagewize/elayne@v4.13.0
+- pkg:composer/imagewize/elayne@v4.14.0
+- pkg:composer/imagewize/elayne@v4.14.1
 - pkg:composer/imagewize/elayne@v4.2.0
 - pkg:composer/imagewize/elayne@v4.3.0
 - pkg:composer/imagewize/elayne@v4.3.1
