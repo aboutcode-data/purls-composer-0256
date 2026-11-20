@@ -2,3 +2,4 @@
 - pkg:composer/fulldecent/google-sheets-etl@1.0.1
 - pkg:composer/fulldecent/google-sheets-etl@1.0.2
 - pkg:composer/fulldecent/google-sheets-etl@1.0.3
+- pkg:composer/fulldecent/google-sheets-etl@v1.1.0
