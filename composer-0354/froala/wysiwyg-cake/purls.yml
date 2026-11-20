@@ -82,3 +82,8 @@
 - pkg:composer/froala/wysiwyg-cake@v5.0.1
 - pkg:composer/froala/wysiwyg-cake@v5.1.0
 - pkg:composer/froala/wysiwyg-cake@v5.2.0
+- pkg:composer/froala/wysiwyg-cake@v5.3.0
+- pkg:composer/froala/wysiwyg-cake@v5.3.1
+- pkg:composer/froala/wysiwyg-cake@v5.4.0
+- pkg:composer/froala/wysiwyg-cake@v5.5.0
+- pkg:composer/froala/wysiwyg-cake@v5.6.0
