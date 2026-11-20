@@ -9,3 +9,5 @@
 - pkg:composer/findrow/laravel-usaepay@v3.2.1
 - pkg:composer/findrow/laravel-usaepay@v3.2.2
 - pkg:composer/findrow/laravel-usaepay@v3.2.3
+- pkg:composer/findrow/laravel-usaepay@v3.3.0
+- pkg:composer/findrow/laravel-usaepay@v3.4.0
