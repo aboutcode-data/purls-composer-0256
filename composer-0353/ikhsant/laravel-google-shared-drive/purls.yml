@@ -1,1 +1,3 @@
 - pkg:composer/ikhsant/laravel-google-shared-drive@v1.0.0
+- pkg:composer/ikhsant/laravel-google-shared-drive@v2.0.0
+- pkg:composer/ikhsant/laravel-google-shared-drive@v2.0.1
