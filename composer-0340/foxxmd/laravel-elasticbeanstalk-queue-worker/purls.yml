@@ -6,3 +6,5 @@
 - pkg:composer/foxxmd/laravel-elasticbeanstalk-queue-worker@1.0.0
 - pkg:composer/foxxmd/laravel-elasticbeanstalk-queue-worker@2.0.0
 - pkg:composer/foxxmd/laravel-elasticbeanstalk-queue-worker@2.0.1
+- pkg:composer/foxxmd/laravel-elasticbeanstalk-queue-worker@2.1.0
+- pkg:composer/foxxmd/laravel-elasticbeanstalk-queue-worker@2.1.1
