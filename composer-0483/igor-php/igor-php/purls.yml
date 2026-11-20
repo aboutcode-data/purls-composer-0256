@@ -10,6 +10,15 @@
 - pkg:composer/igor-php/igor-php@v0.1.9
 - pkg:composer/igor-php/igor-php@v0.10.0
 - pkg:composer/igor-php/igor-php@v0.10.1
+- pkg:composer/igor-php/igor-php@v0.11.0
+- pkg:composer/igor-php/igor-php@v0.11.0-beta.1
+- pkg:composer/igor-php/igor-php@v0.11.0-beta.2
+- pkg:composer/igor-php/igor-php@v0.11.0-beta.3
+- pkg:composer/igor-php/igor-php@v0.11.0-beta.4
+- pkg:composer/igor-php/igor-php@v0.11.0-beta.5
+- pkg:composer/igor-php/igor-php@v0.11.0-beta.6
+- pkg:composer/igor-php/igor-php@v0.11.0-beta.7
+- pkg:composer/igor-php/igor-php@v0.11.0-beta.8
 - pkg:composer/igor-php/igor-php@v0.2.0
 - pkg:composer/igor-php/igor-php@v0.3.0
 - pkg:composer/igor-php/igor-php@v0.3.1
