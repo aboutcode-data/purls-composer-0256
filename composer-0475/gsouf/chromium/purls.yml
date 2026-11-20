@@ -35,6 +35,7 @@
 - pkg:composer/gsouf/chromium@v1.15.1
 - pkg:composer/gsouf/chromium@v1.16.0
 - pkg:composer/gsouf/chromium@v1.16.1
+- pkg:composer/gsouf/chromium@v1.16.2
 - pkg:composer/gsouf/chromium@v1.2.0
 - pkg:composer/gsouf/chromium@v1.2.1
 - pkg:composer/gsouf/chromium@v1.3.0
