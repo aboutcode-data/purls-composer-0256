@@ -43,7 +43,12 @@
 - pkg:composer/geekcow/fony-core@0.0.49
 - pkg:composer/geekcow/fony-core@0.0.5
 - pkg:composer/geekcow/fony-core@0.0.50
+- pkg:composer/geekcow/fony-core@0.0.51
+- pkg:composer/geekcow/fony-core@0.0.52
+- pkg:composer/geekcow/fony-core@0.0.53
 - pkg:composer/geekcow/fony-core@0.0.6
 - pkg:composer/geekcow/fony-core@0.0.7
 - pkg:composer/geekcow/fony-core@0.0.8
 - pkg:composer/geekcow/fony-core@0.0.9
+- pkg:composer/geekcow/fony-core@0.1.0
+- pkg:composer/geekcow/fony-core@0.1.1
