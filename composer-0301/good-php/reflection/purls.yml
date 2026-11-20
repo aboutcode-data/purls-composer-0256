@@ -16,3 +16,4 @@
 - pkg:composer/good-php/reflection@v2.4.0
 - pkg:composer/good-php/reflection@v2.5.0
 - pkg:composer/good-php/reflection@v2.5.1
+- pkg:composer/good-php/reflection@v2.6.0
