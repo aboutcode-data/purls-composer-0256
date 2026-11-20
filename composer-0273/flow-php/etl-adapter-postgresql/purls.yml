@@ -21,3 +21,5 @@
 - pkg:composer/flow-php/etl-adapter-postgresql@0.44.1
 - pkg:composer/flow-php/etl-adapter-postgresql@0.45.0
 - pkg:composer/flow-php/etl-adapter-postgresql@0.46.0
+- pkg:composer/flow-php/etl-adapter-postgresql@0.47.0
+- pkg:composer/flow-php/etl-adapter-postgresql@0.48.0
