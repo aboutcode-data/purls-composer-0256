@@ -44,6 +44,7 @@
 - pkg:composer/hyperf/engine-swow@v2.15.0
 - pkg:composer/hyperf/engine-swow@v2.15.1
 - pkg:composer/hyperf/engine-swow@v2.15.2
+- pkg:composer/hyperf/engine-swow@v2.15.3
 - pkg:composer/hyperf/engine-swow@v2.2.0
 - pkg:composer/hyperf/engine-swow@v2.3.0
 - pkg:composer/hyperf/engine-swow@v2.3.1
