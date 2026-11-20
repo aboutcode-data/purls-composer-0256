@@ -137,6 +137,9 @@
 - pkg:composer/getpop/commentmeta-wp@2.5.2
 - pkg:composer/getpop/commentmeta-wp@2.6.0
 - pkg:composer/getpop/commentmeta-wp@2.6.1
+- pkg:composer/getpop/commentmeta-wp@20.0.0
+- pkg:composer/getpop/commentmeta-wp@20.0.1
+- pkg:composer/getpop/commentmeta-wp@20.0.2
 - pkg:composer/getpop/commentmeta-wp@3.0.0
 - pkg:composer/getpop/commentmeta-wp@4.0.0
 - pkg:composer/getpop/commentmeta-wp@4.0.1

@@ -148,6 +148,9 @@
 - pkg:composer/getpop/definitions@2.5.2
 - pkg:composer/getpop/definitions@2.6.0
 - pkg:composer/getpop/definitions@2.6.1
+- pkg:composer/getpop/definitions@20.0.0
+- pkg:composer/getpop/definitions@20.0.1
+- pkg:composer/getpop/definitions@20.0.2
 - pkg:composer/getpop/definitions@3.0.0
 - pkg:composer/getpop/definitions@4.0.0
 - pkg:composer/getpop/definitions@4.0.1
