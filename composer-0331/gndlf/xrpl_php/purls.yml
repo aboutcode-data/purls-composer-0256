@@ -22,6 +22,12 @@
 - pkg:composer/gndlf/xrpl_php@2.5.0
 - pkg:composer/gndlf/xrpl_php@2.6.0
 - pkg:composer/gndlf/xrpl_php@2.7.0
+- pkg:composer/gndlf/xrpl_php@3.0.0
+- pkg:composer/gndlf/xrpl_php@3.1.0
+- pkg:composer/gndlf/xrpl_php@3.2.0
+- pkg:composer/gndlf/xrpl_php@3.2.1
+- pkg:composer/gndlf/xrpl_php@3.2.2
+- pkg:composer/gndlf/xrpl_php@4.0.0
 - pkg:composer/gndlf/xrpl_php@v0.4.0-alpha
 - pkg:composer/gndlf/xrpl_php@v0.5.0-alpha
 - pkg:composer/gndlf/xrpl_php@v0.6.0-alpha
