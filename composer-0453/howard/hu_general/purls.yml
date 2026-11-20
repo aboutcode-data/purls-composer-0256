@@ -33,6 +33,8 @@
 - pkg:composer/howard/hu_general@11.3.5
 - pkg:composer/howard/hu_general@11.3.6
 - pkg:composer/howard/hu_general@11.3.7
+- pkg:composer/howard/hu_general@11.3.8
+- pkg:composer/howard/hu_general@11.3.9
 - pkg:composer/howard/hu_general@8.1.0
 - pkg:composer/howard/hu_general@8.1.1
 - pkg:composer/howard/hu_general@8.1.10
