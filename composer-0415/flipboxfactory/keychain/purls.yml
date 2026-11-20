@@ -10,3 +10,6 @@
 - pkg:composer/flipboxfactory/keychain@1.0.3
 - pkg:composer/flipboxfactory/keychain@4.0.0
 - pkg:composer/flipboxfactory/keychain@5.0.0
+- pkg:composer/flipboxfactory/keychain@5.0.1
+- pkg:composer/flipboxfactory/keychain@5.0.2
+- pkg:composer/flipboxfactory/keychain@5.0.3
