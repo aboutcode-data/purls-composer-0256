@@ -36,3 +36,5 @@
 - pkg:composer/google/cloud-bigquery-analyticshub@v1.6.1
 - pkg:composer/google/cloud-bigquery-analyticshub@v1.6.2
 - pkg:composer/google/cloud-bigquery-analyticshub@v1.6.3
+- pkg:composer/google/cloud-bigquery-analyticshub@v1.6.4
+- pkg:composer/google/cloud-bigquery-analyticshub@v1.7.0

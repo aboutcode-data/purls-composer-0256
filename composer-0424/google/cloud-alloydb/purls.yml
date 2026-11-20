@@ -22,6 +22,7 @@
 - pkg:composer/google/cloud-alloydb@v1.1.1
 - pkg:composer/google/cloud-alloydb@v1.1.2
 - pkg:composer/google/cloud-alloydb@v1.1.3
+- pkg:composer/google/cloud-alloydb@v1.10.0
 - pkg:composer/google/cloud-alloydb@v1.2.0
 - pkg:composer/google/cloud-alloydb@v1.3.0
 - pkg:composer/google/cloud-alloydb@v1.4.0
@@ -38,3 +39,4 @@
 - pkg:composer/google/cloud-alloydb@v1.8.2
 - pkg:composer/google/cloud-alloydb@v1.8.3
 - pkg:composer/google/cloud-alloydb@v1.8.4
+- pkg:composer/google/cloud-alloydb@v1.9.0

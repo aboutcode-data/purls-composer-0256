@@ -29,7 +29,10 @@
 - pkg:composer/google/apps-chat@v0.26.2
 - pkg:composer/google/apps-chat@v0.27.0
 - pkg:composer/google/apps-chat@v0.28.0
+- pkg:composer/google/apps-chat@v0.29.0
 - pkg:composer/google/apps-chat@v0.3.0
+- pkg:composer/google/apps-chat@v0.30.0
+- pkg:composer/google/apps-chat@v0.31.0
 - pkg:composer/google/apps-chat@v0.4.0
 - pkg:composer/google/apps-chat@v0.5.0
 - pkg:composer/google/apps-chat@v0.6.0

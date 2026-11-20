@@ -32,3 +32,5 @@
 - pkg:composer/google/cloud-bigquery-datapolicies@v1.2.2
 - pkg:composer/google/cloud-bigquery-datapolicies@v1.2.3
 - pkg:composer/google/cloud-bigquery-datapolicies@v1.2.4
+- pkg:composer/google/cloud-bigquery-datapolicies@v1.2.5
+- pkg:composer/google/cloud-bigquery-datapolicies@v1.3.0

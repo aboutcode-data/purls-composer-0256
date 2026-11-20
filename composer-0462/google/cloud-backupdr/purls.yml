@@ -12,6 +12,9 @@
 - pkg:composer/google/cloud-backupdr@v0.14.2
 - pkg:composer/google/cloud-backupdr@v0.15.0
 - pkg:composer/google/cloud-backupdr@v0.15.1
+- pkg:composer/google/cloud-backupdr@v0.15.2
+- pkg:composer/google/cloud-backupdr@v0.16.0
+- pkg:composer/google/cloud-backupdr@v0.17.0
 - pkg:composer/google/cloud-backupdr@v0.2.0
 - pkg:composer/google/cloud-backupdr@v0.3.0
 - pkg:composer/google/cloud-backupdr@v0.4.0
