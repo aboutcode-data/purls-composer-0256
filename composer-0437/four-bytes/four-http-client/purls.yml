@@ -1,3 +1,4 @@
-- pkg:composer/four-bytes/four-http-client@4.0.0
-- pkg:composer/four-bytes/four-http-client@4.0.1
-- pkg:composer/four-bytes/four-http-client@v1.0.0
+- pkg:composer/four-bytes/four-http-client@v4.2.1
+- pkg:composer/four-bytes/four-http-client@v5.0.0
+- pkg:composer/four-bytes/four-http-client@v5.0.1
+- pkg:composer/four-bytes/four-http-client@v5.0.2
