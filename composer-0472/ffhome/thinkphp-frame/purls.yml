@@ -21,3 +21,6 @@
 - pkg:composer/ffhome/thinkphp-frame@v0.1.47
 - pkg:composer/ffhome/thinkphp-frame@v0.1.48
 - pkg:composer/ffhome/thinkphp-frame@v0.1.49
+- pkg:composer/ffhome/thinkphp-frame@v8.0.0
+- pkg:composer/ffhome/thinkphp-frame@v8.0.1
+- pkg:composer/ffhome/thinkphp-frame@v8.0.2
