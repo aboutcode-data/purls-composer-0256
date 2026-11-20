@@ -58,3 +58,4 @@
 - pkg:composer/gjuric/recaptcha-bundle@v1.6.0
 - pkg:composer/gjuric/recaptcha-bundle@v1.6.1
 - pkg:composer/gjuric/recaptcha-bundle@v1.6.2
+- pkg:composer/gjuric/recaptcha-bundle@v1.7.0
