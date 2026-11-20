@@ -10,6 +10,9 @@
 - pkg:composer/happenv-com/laravel-true-modular@v0.3.5
 - pkg:composer/happenv-com/laravel-true-modular@v1.0.0
 - pkg:composer/happenv-com/laravel-true-modular@v1.1.0
+- pkg:composer/happenv-com/laravel-true-modular@v1.10.0
+- pkg:composer/happenv-com/laravel-true-modular@v1.10.1
+- pkg:composer/happenv-com/laravel-true-modular@v1.10.2
 - pkg:composer/happenv-com/laravel-true-modular@v1.2.0
 - pkg:composer/happenv-com/laravel-true-modular@v1.3.0
 - pkg:composer/happenv-com/laravel-true-modular@v1.3.1
@@ -18,3 +21,4 @@
 - pkg:composer/happenv-com/laravel-true-modular@v1.6.0
 - pkg:composer/happenv-com/laravel-true-modular@v1.7.0
 - pkg:composer/happenv-com/laravel-true-modular@v1.8.0
+- pkg:composer/happenv-com/laravel-true-modular@v1.9.0
