@@ -26,3 +26,4 @@
 - pkg:composer/formatz/fz-hosting-contao-bundle@1.4.7
 - pkg:composer/formatz/fz-hosting-contao-bundle@1.5
 - pkg:composer/formatz/fz-hosting-contao-bundle@1.6
+- pkg:composer/formatz/fz-hosting-contao-bundle@2.0.1
