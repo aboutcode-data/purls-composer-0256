@@ -12,3 +12,4 @@
 - pkg:composer/gmodstore/laravel-webhooks@0.1.8
 - pkg:composer/gmodstore/laravel-webhooks@0.1.9
 - pkg:composer/gmodstore/laravel-webhooks@0.2.0
+- pkg:composer/gmodstore/laravel-webhooks@0.3.0
