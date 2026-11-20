@@ -266,3 +266,6 @@
 - pkg:composer/grafite/formmaker@v7.8.1
 - pkg:composer/grafite/formmaker@v7.9.0
 - pkg:composer/grafite/formmaker@v7.9.1
+- pkg:composer/grafite/formmaker@v7.9.2
+- pkg:composer/grafite/formmaker@v8.0.0
+- pkg:composer/grafite/formmaker@v8.0.1
