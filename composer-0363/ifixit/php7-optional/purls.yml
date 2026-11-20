@@ -8,3 +8,4 @@
 - pkg:composer/ifixit/php7-optional@2.0
 - pkg:composer/ifixit/php7-optional@2.1
 - pkg:composer/ifixit/php7-optional@3.0
+- pkg:composer/ifixit/php7-optional@3.1.0
