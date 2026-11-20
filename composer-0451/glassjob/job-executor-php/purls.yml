@@ -1,0 +1,2 @@
+- pkg:composer/glassjob/job-executor-php@v0.3.0
+- pkg:composer/glassjob/job-executor-php@v0.4.0
