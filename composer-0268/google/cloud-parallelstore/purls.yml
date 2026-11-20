@@ -14,6 +14,7 @@
 - pkg:composer/google/cloud-parallelstore@v0.14.1
 - pkg:composer/google/cloud-parallelstore@v0.14.2
 - pkg:composer/google/cloud-parallelstore@v0.14.3
+- pkg:composer/google/cloud-parallelstore@v0.15.0
 - pkg:composer/google/cloud-parallelstore@v0.2.0
 - pkg:composer/google/cloud-parallelstore@v0.3.0
 - pkg:composer/google/cloud-parallelstore@v0.3.1

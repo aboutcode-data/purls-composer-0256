@@ -56,3 +56,5 @@
 - pkg:composer/google/cloud-service-directory@v2.2.3
 - pkg:composer/google/cloud-service-directory@v2.2.4
 - pkg:composer/google/cloud-service-directory@v2.2.5
+- pkg:composer/google/cloud-service-directory@v2.2.6
+- pkg:composer/google/cloud-service-directory@v2.3.0

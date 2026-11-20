@@ -7,6 +7,10 @@
 - pkg:composer/google/cloud-memorystore@v0.13.1
 - pkg:composer/google/cloud-memorystore@v0.13.2
 - pkg:composer/google/cloud-memorystore@v0.13.3
+- pkg:composer/google/cloud-memorystore@v0.14.0
+- pkg:composer/google/cloud-memorystore@v0.15.0
+- pkg:composer/google/cloud-memorystore@v0.16.0
+- pkg:composer/google/cloud-memorystore@v0.17.0
 - pkg:composer/google/cloud-memorystore@v0.2.0
 - pkg:composer/google/cloud-memorystore@v0.3.0
 - pkg:composer/google/cloud-memorystore@v0.4.0
