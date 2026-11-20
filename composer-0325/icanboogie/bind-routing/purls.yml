@@ -1,4 +1,5 @@
 - pkg:composer/icanboogie/bind-routing@5.0
+- pkg:composer/icanboogie/bind-routing@6.0
 - pkg:composer/icanboogie/bind-routing@v0.1.0
 - pkg:composer/icanboogie/bind-routing@v2.6.0
 - pkg:composer/icanboogie/bind-routing@v3.0.0
