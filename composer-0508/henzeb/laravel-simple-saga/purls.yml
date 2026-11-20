@@ -3,3 +3,4 @@
 - pkg:composer/henzeb/laravel-simple-saga@v1.1.1
 - pkg:composer/henzeb/laravel-simple-saga@v1.1.2
 - pkg:composer/henzeb/laravel-simple-saga@v1.2.0
+- pkg:composer/henzeb/laravel-simple-saga@v1.3.0
