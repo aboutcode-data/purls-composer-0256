@@ -1,5 +1,12 @@
 - pkg:composer/flarum-lang/french@4.29.6
+- pkg:composer/flarum-lang/french@4.29.7
 - pkg:composer/flarum-lang/french@5.0.13
+- pkg:composer/flarum-lang/french@5.0.14
+- pkg:composer/flarum-lang/french@5.0.15
+- pkg:composer/flarum-lang/french@5.0.16
+- pkg:composer/flarum-lang/french@5.0.17
+- pkg:composer/flarum-lang/french@5.0.18
+- pkg:composer/flarum-lang/french@5.0.19
 - pkg:composer/flarum-lang/french@v1.0.1
 - pkg:composer/flarum-lang/french@v1.0.2
 - pkg:composer/flarum-lang/french@v1.0.3

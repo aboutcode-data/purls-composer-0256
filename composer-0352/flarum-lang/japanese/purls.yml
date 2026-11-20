@@ -1,4 +1,8 @@
 - pkg:composer/flarum-lang/japanese@3.9.7
+- pkg:composer/flarum-lang/japanese@3.9.8
+- pkg:composer/flarum-lang/japanese@4.0.12
+- pkg:composer/flarum-lang/japanese@4.0.13
+- pkg:composer/flarum-lang/japanese@4.0.14
 - pkg:composer/flarum-lang/japanese@v0.5.0
 - pkg:composer/flarum-lang/japanese@v1.0.0
 - pkg:composer/flarum-lang/japanese@v1.1.0
