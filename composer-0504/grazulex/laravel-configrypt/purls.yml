@@ -1,4 +1,10 @@
 - pkg:composer/grazulex/laravel-configrypt@v1.0.0
+- pkg:composer/grazulex/laravel-configrypt@v1.10.0
+- pkg:composer/grazulex/laravel-configrypt@v1.10.1
 - pkg:composer/grazulex/laravel-configrypt@v1.5.0
 - pkg:composer/grazulex/laravel-configrypt@v1.6.0
 - pkg:composer/grazulex/laravel-configrypt@v1.7.0
+- pkg:composer/grazulex/laravel-configrypt@v1.7.1
+- pkg:composer/grazulex/laravel-configrypt@v1.8.0
+- pkg:composer/grazulex/laravel-configrypt@v1.8.1
+- pkg:composer/grazulex/laravel-configrypt@v1.9.0

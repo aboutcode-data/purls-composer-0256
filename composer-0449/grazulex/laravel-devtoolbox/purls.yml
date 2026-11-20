@@ -1,5 +1,8 @@
 - pkg:composer/grazulex/laravel-devtoolbox@v1.0.0
 - pkg:composer/grazulex/laravel-devtoolbox@v1.1.0
+- pkg:composer/grazulex/laravel-devtoolbox@v1.10.0
+- pkg:composer/grazulex/laravel-devtoolbox@v1.11.0
+- pkg:composer/grazulex/laravel-devtoolbox@v1.11.1
 - pkg:composer/grazulex/laravel-devtoolbox@v1.2.0
 - pkg:composer/grazulex/laravel-devtoolbox@v1.3.0
 - pkg:composer/grazulex/laravel-devtoolbox@v1.3.1
@@ -7,3 +10,7 @@
 - pkg:composer/grazulex/laravel-devtoolbox@v1.6.0
 - pkg:composer/grazulex/laravel-devtoolbox@v1.7.0
 - pkg:composer/grazulex/laravel-devtoolbox@v1.8.0
+- pkg:composer/grazulex/laravel-devtoolbox@v1.8.1
+- pkg:composer/grazulex/laravel-devtoolbox@v1.9.0
+- pkg:composer/grazulex/laravel-devtoolbox@v1.9.1
+- pkg:composer/grazulex/laravel-devtoolbox@v1.9.2
