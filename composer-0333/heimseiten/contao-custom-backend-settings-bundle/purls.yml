@@ -84,3 +84,6 @@
 - pkg:composer/heimseiten/contao-custom-backend-settings-bundle@7.3.1
 - pkg:composer/heimseiten/contao-custom-backend-settings-bundle@7.3.2
 - pkg:composer/heimseiten/contao-custom-backend-settings-bundle@7.3.3
+- pkg:composer/heimseiten/contao-custom-backend-settings-bundle@7.4.0
+- pkg:composer/heimseiten/contao-custom-backend-settings-bundle@7.5.0
+- pkg:composer/heimseiten/contao-custom-backend-settings-bundle@7.6.0

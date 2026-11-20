@@ -41,3 +41,7 @@
 - pkg:composer/heimseiten/contao-page-teaser-bundle@4.0.1
 - pkg:composer/heimseiten/contao-page-teaser-bundle@4.0.2
 - pkg:composer/heimseiten/contao-page-teaser-bundle@4.1.0
+- pkg:composer/heimseiten/contao-page-teaser-bundle@4.2.0
+- pkg:composer/heimseiten/contao-page-teaser-bundle@4.2.1
+- pkg:composer/heimseiten/contao-page-teaser-bundle@4.2.2
+- pkg:composer/heimseiten/contao-page-teaser-bundle@4.2.3
