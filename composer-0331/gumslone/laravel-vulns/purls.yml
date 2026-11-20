@@ -15,6 +15,12 @@
 - pkg:composer/gumslone/laravel-vulns@v1.20.0
 - pkg:composer/gumslone/laravel-vulns@v1.20.1
 - pkg:composer/gumslone/laravel-vulns@v1.21.0
+- pkg:composer/gumslone/laravel-vulns@v1.22.0
+- pkg:composer/gumslone/laravel-vulns@v1.22.1
+- pkg:composer/gumslone/laravel-vulns@v1.22.2
+- pkg:composer/gumslone/laravel-vulns@v1.22.3
+- pkg:composer/gumslone/laravel-vulns@v1.22.4
+- pkg:composer/gumslone/laravel-vulns@v1.23.0
 - pkg:composer/gumslone/laravel-vulns@v1.3.0
 - pkg:composer/gumslone/laravel-vulns@v1.4.0
 - pkg:composer/gumslone/laravel-vulns@v1.5.0
