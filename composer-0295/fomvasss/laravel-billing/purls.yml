@@ -13,6 +13,12 @@
 - pkg:composer/fomvasss/laravel-billing@0.12.7
 - pkg:composer/fomvasss/laravel-billing@0.12.8
 - pkg:composer/fomvasss/laravel-billing@0.12.9
+- pkg:composer/fomvasss/laravel-billing@0.13.0
+- pkg:composer/fomvasss/laravel-billing@0.13.1
+- pkg:composer/fomvasss/laravel-billing@0.14.0
+- pkg:composer/fomvasss/laravel-billing@0.14.1
+- pkg:composer/fomvasss/laravel-billing@0.15.0
+- pkg:composer/fomvasss/laravel-billing@0.16.0
 - pkg:composer/fomvasss/laravel-billing@0.2.0
 - pkg:composer/fomvasss/laravel-billing@0.3.0
 - pkg:composer/fomvasss/laravel-billing@0.4.0
