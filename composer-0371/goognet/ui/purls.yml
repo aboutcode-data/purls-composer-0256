@@ -11,6 +11,7 @@
 - pkg:composer/goognet/ui@v0.9.0
 - pkg:composer/goognet/ui@v1.0.0
 - pkg:composer/goognet/ui@v1.1.0
+- pkg:composer/goognet/ui@v1.10.0
 - pkg:composer/goognet/ui@v1.2.0
 - pkg:composer/goognet/ui@v1.3.0
 - pkg:composer/goognet/ui@v1.3.1
@@ -24,3 +25,7 @@
 - pkg:composer/goognet/ui@v1.7.2
 - pkg:composer/goognet/ui@v1.7.3
 - pkg:composer/goognet/ui@v1.7.4
+- pkg:composer/goognet/ui@v1.7.5
+- pkg:composer/goognet/ui@v1.7.6
+- pkg:composer/goognet/ui@v1.8.0
+- pkg:composer/goognet/ui@v1.9.0

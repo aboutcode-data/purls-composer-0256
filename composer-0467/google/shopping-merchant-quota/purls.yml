@@ -18,3 +18,6 @@
 - pkg:composer/google/shopping-merchant-quota@v1.3.2
 - pkg:composer/google/shopping-merchant-quota@v1.3.3
 - pkg:composer/google/shopping-merchant-quota@v1.3.4
+- pkg:composer/google/shopping-merchant-quota@v1.4.0
+- pkg:composer/google/shopping-merchant-quota@v1.5.0
+- pkg:composer/google/shopping-merchant-quota@v1.6.0
