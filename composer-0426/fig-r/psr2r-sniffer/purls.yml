@@ -29,6 +29,7 @@
 - pkg:composer/fig-r/psr2r-sniffer@2.1.0
 - pkg:composer/fig-r/psr2r-sniffer@2.1.1
 - pkg:composer/fig-r/psr2r-sniffer@2.1.2
+- pkg:composer/fig-r/psr2r-sniffer@2.10.0
 - pkg:composer/fig-r/psr2r-sniffer@2.2.0
 - pkg:composer/fig-r/psr2r-sniffer@2.2.1
 - pkg:composer/fig-r/psr2r-sniffer@2.3.0
