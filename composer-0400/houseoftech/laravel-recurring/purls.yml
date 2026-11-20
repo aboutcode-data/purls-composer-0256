@@ -13,3 +13,5 @@
 - pkg:composer/houseoftech/laravel-recurring@1.5.3
 - pkg:composer/houseoftech/laravel-recurring@v2.0
 - pkg:composer/houseoftech/laravel-recurring@v2.0-beta.1
+- pkg:composer/houseoftech/laravel-recurring@v3.0
+- pkg:composer/houseoftech/laravel-recurring@v4.0
