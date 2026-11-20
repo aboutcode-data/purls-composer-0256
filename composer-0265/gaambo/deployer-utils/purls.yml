@@ -2,3 +2,5 @@
 - pkg:composer/gaambo/deployer-utils@v0.1.1
 - pkg:composer/gaambo/deployer-utils@v0.1.2
 - pkg:composer/gaambo/deployer-utils@v0.2.0
+- pkg:composer/gaambo/deployer-utils@v1.0.0
+- pkg:composer/gaambo/deployer-utils@v1.0.1
