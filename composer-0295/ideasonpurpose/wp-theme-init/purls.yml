@@ -54,6 +54,12 @@
 - pkg:composer/ideasonpurpose/wp-theme-init@v2.20.7
 - pkg:composer/ideasonpurpose/wp-theme-init@v2.20.8
 - pkg:composer/ideasonpurpose/wp-theme-init@v2.20.9
+- pkg:composer/ideasonpurpose/wp-theme-init@v2.21.0
+- pkg:composer/ideasonpurpose/wp-theme-init@v2.22.0
+- pkg:composer/ideasonpurpose/wp-theme-init@v2.23.0
+- pkg:composer/ideasonpurpose/wp-theme-init@v2.24.0
+- pkg:composer/ideasonpurpose/wp-theme-init@v2.25.0
+- pkg:composer/ideasonpurpose/wp-theme-init@v2.26.0
 - pkg:composer/ideasonpurpose/wp-theme-init@v2.4.2
 - pkg:composer/ideasonpurpose/wp-theme-init@v2.5.0
 - pkg:composer/ideasonpurpose/wp-theme-init@v2.5.1
