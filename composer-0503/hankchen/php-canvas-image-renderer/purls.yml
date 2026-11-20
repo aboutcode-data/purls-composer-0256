@@ -1,1 +1,7 @@
 - pkg:composer/hankchen/php-canvas-image-renderer@v1.0.0
+- pkg:composer/hankchen/php-canvas-image-renderer@v1.1.0
+- pkg:composer/hankchen/php-canvas-image-renderer@v1.2.0
+- pkg:composer/hankchen/php-canvas-image-renderer@v2.0.0
+- pkg:composer/hankchen/php-canvas-image-renderer@v2.0.1
+- pkg:composer/hankchen/php-canvas-image-renderer@v2.0.2
+- pkg:composer/hankchen/php-canvas-image-renderer@v2.1.0
