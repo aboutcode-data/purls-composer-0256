@@ -15,7 +15,9 @@
 - pkg:composer/fof/split@1.0.1
 - pkg:composer/fof/split@1.1.0
 - pkg:composer/fof/split@1.1.1
+- pkg:composer/fof/split@2.0.0
 - pkg:composer/fof/split@2.0.0-beta.1
 - pkg:composer/fof/split@2.0.0-beta.2
 - pkg:composer/fof/split@2.0.0-beta.3
 - pkg:composer/fof/split@2.0.0-beta.4
+- pkg:composer/fof/split@2.0.1
