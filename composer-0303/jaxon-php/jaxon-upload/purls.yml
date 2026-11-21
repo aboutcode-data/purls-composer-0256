@@ -4,3 +4,6 @@
 - pkg:composer/jaxon-php/jaxon-upload@v2.0.1
 - pkg:composer/jaxon-php/jaxon-upload@v2.1.0
 - pkg:composer/jaxon-php/jaxon-upload@v2.1.1
+- pkg:composer/jaxon-php/jaxon-upload@v2.2.0
+- pkg:composer/jaxon-php/jaxon-upload@v2.2.1
+- pkg:composer/jaxon-php/jaxon-upload@v2.2.2
