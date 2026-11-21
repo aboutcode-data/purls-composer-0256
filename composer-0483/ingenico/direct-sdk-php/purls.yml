@@ -7,6 +7,10 @@
 - pkg:composer/ingenico/direct-sdk-php@11.0.0
 - pkg:composer/ingenico/direct-sdk-php@11.1.0
 - pkg:composer/ingenico/direct-sdk-php@11.2.0
+- pkg:composer/ingenico/direct-sdk-php@11.2.1
+- pkg:composer/ingenico/direct-sdk-php@11.3.0
+- pkg:composer/ingenico/direct-sdk-php@12.0.0
+- pkg:composer/ingenico/direct-sdk-php@12.1.0
 - pkg:composer/ingenico/direct-sdk-php@2.0.0
 - pkg:composer/ingenico/direct-sdk-php@2.1.0
 - pkg:composer/ingenico/direct-sdk-php@2.10.0
