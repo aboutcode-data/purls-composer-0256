@@ -46,3 +46,4 @@
 - pkg:composer/jeremykendall/php-domain-parser@6.3.0
 - pkg:composer/jeremykendall/php-domain-parser@6.3.1
 - pkg:composer/jeremykendall/php-domain-parser@6.4.0
+- pkg:composer/jeremykendall/php-domain-parser@6.4.1
