@@ -1,2 +1,4 @@
 - pkg:composer/infrangible/m2-log@1.0.0
 - pkg:composer/infrangible/m2-log@2.0.0
+- pkg:composer/infrangible/m2-log@2.0.1
+- pkg:composer/infrangible/m2-log@3.0.0
