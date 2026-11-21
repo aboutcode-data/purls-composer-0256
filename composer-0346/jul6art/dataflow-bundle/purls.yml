@@ -14,6 +14,11 @@
 - pkg:composer/jul6art/dataflow-bundle@v1.15.2
 - pkg:composer/jul6art/dataflow-bundle@v1.15.3
 - pkg:composer/jul6art/dataflow-bundle@v1.15.4
+- pkg:composer/jul6art/dataflow-bundle@v1.16.0
+- pkg:composer/jul6art/dataflow-bundle@v1.16.1
+- pkg:composer/jul6art/dataflow-bundle@v1.16.2
+- pkg:composer/jul6art/dataflow-bundle@v1.16.3
+- pkg:composer/jul6art/dataflow-bundle@v1.16.4
 - pkg:composer/jul6art/dataflow-bundle@v1.2.0
 - pkg:composer/jul6art/dataflow-bundle@v1.3.0
 - pkg:composer/jul6art/dataflow-bundle@v1.3.1
