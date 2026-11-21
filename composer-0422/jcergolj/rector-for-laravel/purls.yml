@@ -3,6 +3,13 @@
 - pkg:composer/jcergolj/rector-for-laravel@v0.8
 - pkg:composer/jcergolj/rector-for-laravel@v0.9
 - pkg:composer/jcergolj/rector-for-laravel@v1.0
+- pkg:composer/jcergolj/rector-for-laravel@v10
+- pkg:composer/jcergolj/rector-for-laravel@v11
+- pkg:composer/jcergolj/rector-for-laravel@v12
+- pkg:composer/jcergolj/rector-for-laravel@v13
+- pkg:composer/jcergolj/rector-for-laravel@v14
+- pkg:composer/jcergolj/rector-for-laravel@v15
+- pkg:composer/jcergolj/rector-for-laravel@v16
 - pkg:composer/jcergolj/rector-for-laravel@v2
 - pkg:composer/jcergolj/rector-for-laravel@v3
 - pkg:composer/jcergolj/rector-for-laravel@v4
