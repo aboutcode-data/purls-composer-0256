@@ -9,3 +9,6 @@
 - pkg:composer/infocyph/omnibus@2.5
 - pkg:composer/infocyph/omnibus@2.6
 - pkg:composer/infocyph/omnibus@3.0
+- pkg:composer/infocyph/omnibus@3.0.1
+- pkg:composer/infocyph/omnibus@3.0.2
+- pkg:composer/infocyph/omnibus@3.0.3
