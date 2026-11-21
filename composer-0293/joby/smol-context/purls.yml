@@ -1,3 +1,4 @@
 - pkg:composer/joby/smol-context@v1.0.0
 - pkg:composer/joby/smol-context@v1.1.0
 - pkg:composer/joby/smol-context@v1.1.1
+- pkg:composer/joby/smol-context@v1.2.0
