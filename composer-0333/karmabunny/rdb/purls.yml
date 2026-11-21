@@ -64,3 +64,5 @@
 - pkg:composer/karmabunny/rdb@v3.35.24
 - pkg:composer/karmabunny/rdb@v3.35.25
 - pkg:composer/karmabunny/rdb@v3.35.26
+- pkg:composer/karmabunny/rdb@v3.36.26
+- pkg:composer/karmabunny/rdb@v3.37.26
