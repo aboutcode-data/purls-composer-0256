@@ -19,3 +19,4 @@
 - pkg:composer/jzechy/jquery-fileupload@3.0.0
 - pkg:composer/jzechy/jquery-fileupload@v2.0.2
 - pkg:composer/jzechy/jquery-fileupload@v2.0.3
+- pkg:composer/jzechy/jquery-fileupload@v4.0.0
