@@ -2,3 +2,4 @@
 - pkg:composer/iwf-web/phpstan-rules@1.1.0
 - pkg:composer/iwf-web/phpstan-rules@1.1.1
 - pkg:composer/iwf-web/phpstan-rules@1.2.0
+- pkg:composer/iwf-web/phpstan-rules@1.3.0
