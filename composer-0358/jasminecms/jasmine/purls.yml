@@ -238,3 +238,6 @@
 - pkg:composer/jasminecms/jasmine@3.4.7
 - pkg:composer/jasminecms/jasmine@3.5.0
 - pkg:composer/jasminecms/jasmine@3.5.1
+- pkg:composer/jasminecms/jasmine@3.5.2
+- pkg:composer/jasminecms/jasmine@3.5.3
+- pkg:composer/jasminecms/jasmine@3.5.4
