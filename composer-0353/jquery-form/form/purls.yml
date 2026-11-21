@@ -12,3 +12,5 @@
 - pkg:composer/jquery-form/form@v4.2.1
 - pkg:composer/jquery-form/form@v4.2.2
 - pkg:composer/jquery-form/form@v4.3.0
+- pkg:composer/jquery-form/form@v4.4.0
+- pkg:composer/jquery-form/form@v4.5.0
