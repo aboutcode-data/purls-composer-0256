@@ -4,6 +4,7 @@
 - pkg:composer/jweiland/yellowpages2@1.0.3
 - pkg:composer/jweiland/yellowpages2@1.0.4
 - pkg:composer/jweiland/yellowpages2@1.0.5
+- pkg:composer/jweiland/yellowpages2@10.0.0
 - pkg:composer/jweiland/yellowpages2@2.0.0
 - pkg:composer/jweiland/yellowpages2@2.0.1
 - pkg:composer/jweiland/yellowpages2@2.1.0
@@ -67,3 +68,5 @@
 - pkg:composer/jweiland/yellowpages2@8.1.1
 - pkg:composer/jweiland/yellowpages2@8.1.2
 - pkg:composer/jweiland/yellowpages2@9.0.0
+- pkg:composer/jweiland/yellowpages2@9.0.1
+- pkg:composer/jweiland/yellowpages2@9.0.2
