@@ -121,3 +121,5 @@
 - pkg:composer/innmind/immutable@6.1.0
 - pkg:composer/innmind/immutable@6.2.0
 - pkg:composer/innmind/immutable@6.3.0
+- pkg:composer/innmind/immutable@6.4.0
+- pkg:composer/innmind/immutable@6.5.0
