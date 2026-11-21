@@ -26,6 +26,8 @@
 - pkg:composer/johnatas-x/grumphp-drupal-check@2.24.0
 - pkg:composer/johnatas-x/grumphp-drupal-check@2.25.0
 - pkg:composer/johnatas-x/grumphp-drupal-check@2.26.0
+- pkg:composer/johnatas-x/grumphp-drupal-check@2.27.0
+- pkg:composer/johnatas-x/grumphp-drupal-check@2.27.1
 - pkg:composer/johnatas-x/grumphp-drupal-check@2.3.0
 - pkg:composer/johnatas-x/grumphp-drupal-check@2.4.0
 - pkg:composer/johnatas-x/grumphp-drupal-check@2.8.0
