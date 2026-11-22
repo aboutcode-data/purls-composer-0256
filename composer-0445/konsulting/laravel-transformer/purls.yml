@@ -17,3 +17,5 @@
 - pkg:composer/konsulting/laravel-transformer@0.5.2
 - pkg:composer/konsulting/laravel-transformer@0.6.0
 - pkg:composer/konsulting/laravel-transformer@0.7.0
+- pkg:composer/konsulting/laravel-transformer@0.8.0
+- pkg:composer/konsulting/laravel-transformer@0.8.1
