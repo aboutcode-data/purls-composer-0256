@@ -31,3 +31,10 @@
 - pkg:composer/mom/data@v5.0.9
 - pkg:composer/mom/data@v5.1.0
 - pkg:composer/mom/data@v5.1.1
+- pkg:composer/mom/data@v6.0.0
+- pkg:composer/mom/data@v6.1.0
+- pkg:composer/mom/data@v6.2.0
+- pkg:composer/mom/data@v6.2.1
+- pkg:composer/mom/data@v6.2.2
+- pkg:composer/mom/data@v6.3.0
+- pkg:composer/mom/data@v6.4.0
