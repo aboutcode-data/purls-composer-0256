@@ -2,3 +2,4 @@
 - pkg:composer/lunixi/symfony-bundle@v0.1.1
 - pkg:composer/lunixi/symfony-bundle@v0.1.2
 - pkg:composer/lunixi/symfony-bundle@v1.0.0
+- pkg:composer/lunixi/symfony-bundle@v2.0.0
