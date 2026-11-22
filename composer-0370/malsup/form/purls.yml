@@ -12,3 +12,5 @@
 - pkg:composer/malsup/form@v4.2.1
 - pkg:composer/malsup/form@v4.2.2
 - pkg:composer/malsup/form@v4.3.0
+- pkg:composer/malsup/form@v4.4.0
+- pkg:composer/malsup/form@v4.5.0
