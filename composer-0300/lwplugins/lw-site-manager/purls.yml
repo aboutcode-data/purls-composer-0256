@@ -50,3 +50,4 @@
 - pkg:composer/lwplugins/lw-site-manager@v1.5.2
 - pkg:composer/lwplugins/lw-site-manager@v1.5.3
 - pkg:composer/lwplugins/lw-site-manager@v1.6.0
+- pkg:composer/lwplugins/lw-site-manager@v1.6.1
