@@ -122,3 +122,4 @@
 - pkg:composer/mglaman/phpstan-drupal@2.2.2
 - pkg:composer/mglaman/phpstan-drupal@2.2.3
 - pkg:composer/mglaman/phpstan-drupal@2.3.0
+- pkg:composer/mglaman/phpstan-drupal@2.4.0
