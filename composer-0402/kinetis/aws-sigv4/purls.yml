@@ -7,3 +7,5 @@
 - pkg:composer/kinetis/aws-sigv4@v1.3.3
 - pkg:composer/kinetis/aws-sigv4@v1.3.4
 - pkg:composer/kinetis/aws-sigv4@v1.3.5
+- pkg:composer/kinetis/aws-sigv4@v1.3.6
+- pkg:composer/kinetis/aws-sigv4@v1.3.7
