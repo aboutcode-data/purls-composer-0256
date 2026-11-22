@@ -11,3 +11,5 @@
 - pkg:composer/kinetistack-io/php-sdk@1.0.8
 - pkg:composer/kinetistack-io/php-sdk@1.0.9
 - pkg:composer/kinetistack-io/php-sdk@v1.0.12
+- pkg:composer/kinetistack-io/php-sdk@v2.0.0
+- pkg:composer/kinetistack-io/php-sdk@v2.0.1
