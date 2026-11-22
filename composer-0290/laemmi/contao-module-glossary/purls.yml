@@ -1,2 +1,3 @@
 - pkg:composer/laemmi/contao-module-glossary@4.0.0
 - pkg:composer/laemmi/contao-module-glossary@4.0.1
+- pkg:composer/laemmi/contao-module-glossary@5.0.0
