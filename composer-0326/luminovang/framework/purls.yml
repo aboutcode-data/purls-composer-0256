@@ -117,3 +117,6 @@
 - pkg:composer/luminovang/framework@3.8.9
 - pkg:composer/luminovang/framework@3.9.0
 - pkg:composer/luminovang/framework@3.9.1
+- pkg:composer/luminovang/framework@3.9.2
+- pkg:composer/luminovang/framework@3.9.3
+- pkg:composer/luminovang/framework@3.9.4
