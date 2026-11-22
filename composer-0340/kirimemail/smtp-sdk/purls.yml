@@ -13,3 +13,4 @@
 - pkg:composer/kirimemail/smtp-sdk@1.5.5
 - pkg:composer/kirimemail/smtp-sdk@1.5.6
 - pkg:composer/kirimemail/smtp-sdk@1.5.7
+- pkg:composer/kirimemail/smtp-sdk@1.6.1
