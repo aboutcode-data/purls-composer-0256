@@ -27,3 +27,5 @@
 - pkg:composer/mainick/keycloak-client-bundle@4.0.1
 - pkg:composer/mainick/keycloak-client-bundle@4.0.2
 - pkg:composer/mainick/keycloak-client-bundle@4.0.3
+- pkg:composer/mainick/keycloak-client-bundle@4.1.0
+- pkg:composer/mainick/keycloak-client-bundle@4.2.0
