@@ -77,3 +77,4 @@
 - pkg:composer/longman/telegram-bot@0.82.0
 - pkg:composer/longman/telegram-bot@0.83.0
 - pkg:composer/longman/telegram-bot@0.83.1
+- pkg:composer/longman/telegram-bot@0.84.0
