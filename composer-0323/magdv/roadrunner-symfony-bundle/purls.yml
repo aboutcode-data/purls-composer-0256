@@ -24,3 +24,4 @@
 - pkg:composer/magdv/roadrunner-symfony-bundle@0.0.7
 - pkg:composer/magdv/roadrunner-symfony-bundle@0.0.8
 - pkg:composer/magdv/roadrunner-symfony-bundle@0.0.9
+- pkg:composer/magdv/roadrunner-symfony-bundle@0.1.0
