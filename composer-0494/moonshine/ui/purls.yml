@@ -121,3 +121,4 @@
 - pkg:composer/moonshine/ui@4.7.0
 - pkg:composer/moonshine/ui@4.8.0
 - pkg:composer/moonshine/ui@4.9.1
+- pkg:composer/moonshine/ui@5.0.0
