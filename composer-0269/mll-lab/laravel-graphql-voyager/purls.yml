@@ -7,3 +7,5 @@
 - pkg:composer/mll-lab/laravel-graphql-voyager@v2.1.1
 - pkg:composer/mll-lab/laravel-graphql-voyager@v2.2.0
 - pkg:composer/mll-lab/laravel-graphql-voyager@v2.3.0
+- pkg:composer/mll-lab/laravel-graphql-voyager@v2.4.0
+- pkg:composer/mll-lab/laravel-graphql-voyager@v2.5.0

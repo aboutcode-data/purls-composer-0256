@@ -10,8 +10,16 @@
 - pkg:composer/mll-lab/laravel-utils@v10.13.1
 - pkg:composer/mll-lab/laravel-utils@v10.14.0
 - pkg:composer/mll-lab/laravel-utils@v10.15.0
+- pkg:composer/mll-lab/laravel-utils@v10.16.0
+- pkg:composer/mll-lab/laravel-utils@v10.17.0
+- pkg:composer/mll-lab/laravel-utils@v10.18.0
+- pkg:composer/mll-lab/laravel-utils@v10.18.1
+- pkg:composer/mll-lab/laravel-utils@v10.19.0
 - pkg:composer/mll-lab/laravel-utils@v10.2.0
 - pkg:composer/mll-lab/laravel-utils@v10.2.1
+- pkg:composer/mll-lab/laravel-utils@v10.20.0
+- pkg:composer/mll-lab/laravel-utils@v10.21.0
+- pkg:composer/mll-lab/laravel-utils@v10.22.0
 - pkg:composer/mll-lab/laravel-utils@v10.3.0
 - pkg:composer/mll-lab/laravel-utils@v10.4.0
 - pkg:composer/mll-lab/laravel-utils@v10.4.1
