@@ -1,3 +1,4 @@
+- pkg:composer/laravel/pulse@1.9.0
 - pkg:composer/laravel/pulse@v1.0.0
 - pkg:composer/laravel/pulse@v1.0.0-beta1
 - pkg:composer/laravel/pulse@v1.0.0-beta10
@@ -16,6 +17,8 @@
 - pkg:composer/laravel/pulse@v1.0.0-beta8
 - pkg:composer/laravel/pulse@v1.0.0-beta9
 - pkg:composer/laravel/pulse@v1.1.0
+- pkg:composer/laravel/pulse@v1.10.0
+- pkg:composer/laravel/pulse@v1.11.0
 - pkg:composer/laravel/pulse@v1.2.0
 - pkg:composer/laravel/pulse@v1.2.1
 - pkg:composer/laravel/pulse@v1.2.2
