@@ -1,2 +1,3 @@
 - pkg:composer/llaumgui/mw-auth-flarum@0.9.0
 - pkg:composer/llaumgui/mw-auth-flarum@1.0.0
+- pkg:composer/llaumgui/mw-auth-flarum@v1.1.0
