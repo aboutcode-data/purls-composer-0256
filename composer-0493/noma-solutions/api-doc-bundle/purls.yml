@@ -40,6 +40,7 @@
 - pkg:composer/noma-solutions/api-doc-bundle@3.10.0
 - pkg:composer/noma-solutions/api-doc-bundle@3.10.1
 - pkg:composer/noma-solutions/api-doc-bundle@3.10.2
+- pkg:composer/noma-solutions/api-doc-bundle@4.2.0
 - pkg:composer/noma-solutions/api-doc-bundle@v3.0.0
 - pkg:composer/noma-solutions/api-doc-bundle@v3.0.0-BETA1
 - pkg:composer/noma-solutions/api-doc-bundle@v3.0.0-BETA2
@@ -64,7 +65,3 @@
 - pkg:composer/noma-solutions/api-doc-bundle@v3.9.1
 - pkg:composer/noma-solutions/api-doc-bundle@v3.9.2
 - pkg:composer/noma-solutions/api-doc-bundle@v4.0.0
-- pkg:composer/noma-solutions/api-doc-bundle@v4.0.0-BETA1
-- pkg:composer/noma-solutions/api-doc-bundle@v4.0.0-BETA2
-- pkg:composer/noma-solutions/api-doc-bundle@v4.0.1
-- pkg:composer/noma-solutions/api-doc-bundle@v4.1.0
