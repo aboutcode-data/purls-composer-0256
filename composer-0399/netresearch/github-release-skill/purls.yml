@@ -35,3 +35,8 @@
 - pkg:composer/netresearch/github-release-skill@v1.3.0
 - pkg:composer/netresearch/github-release-skill@v1.4.0
 - pkg:composer/netresearch/github-release-skill@v1.5.0
+- pkg:composer/netresearch/github-release-skill@v1.5.1
+- pkg:composer/netresearch/github-release-skill@v1.6.0
+- pkg:composer/netresearch/github-release-skill@v1.6.1
+- pkg:composer/netresearch/github-release-skill@v1.6.2
+- pkg:composer/netresearch/github-release-skill@v1.6.3
