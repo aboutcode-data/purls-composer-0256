@@ -26,6 +26,17 @@
 - pkg:composer/nowo-tech/audit-kit-bundle@v1.1.9
 - pkg:composer/nowo-tech/audit-kit-bundle@v1.10.0
 - pkg:composer/nowo-tech/audit-kit-bundle@v1.11.0
+- pkg:composer/nowo-tech/audit-kit-bundle@v1.12.0
+- pkg:composer/nowo-tech/audit-kit-bundle@v1.13.0
+- pkg:composer/nowo-tech/audit-kit-bundle@v1.14.0
+- pkg:composer/nowo-tech/audit-kit-bundle@v1.14.1
+- pkg:composer/nowo-tech/audit-kit-bundle@v1.15.0
+- pkg:composer/nowo-tech/audit-kit-bundle@v1.15.1
+- pkg:composer/nowo-tech/audit-kit-bundle@v1.16.0
+- pkg:composer/nowo-tech/audit-kit-bundle@v1.16.1
+- pkg:composer/nowo-tech/audit-kit-bundle@v1.17.0
+- pkg:composer/nowo-tech/audit-kit-bundle@v1.18.0
+- pkg:composer/nowo-tech/audit-kit-bundle@v1.18.1
 - pkg:composer/nowo-tech/audit-kit-bundle@v1.2.0
 - pkg:composer/nowo-tech/audit-kit-bundle@v1.3.0
 - pkg:composer/nowo-tech/audit-kit-bundle@v1.4.0
@@ -34,3 +45,5 @@
 - pkg:composer/nowo-tech/audit-kit-bundle@v1.7.0
 - pkg:composer/nowo-tech/audit-kit-bundle@v1.8.0
 - pkg:composer/nowo-tech/audit-kit-bundle@v1.9.0
+- pkg:composer/nowo-tech/audit-kit-bundle@v2.0.0
+- pkg:composer/nowo-tech/audit-kit-bundle@v2.1.0
