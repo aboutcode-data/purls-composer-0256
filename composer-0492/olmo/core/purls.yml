@@ -511,6 +511,7 @@
 - pkg:composer/olmo/core@v3.1.39
 - pkg:composer/olmo/core@v3.1.4
 - pkg:composer/olmo/core@v3.1.40
+- pkg:composer/olmo/core@v3.1.41
 - pkg:composer/olmo/core@v3.1.5
 - pkg:composer/olmo/core@v3.1.6
 - pkg:composer/olmo/core@v3.1.7
