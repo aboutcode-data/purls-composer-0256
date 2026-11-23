@@ -17,3 +17,5 @@
 - pkg:composer/onedrop/ajaxform@3.4.0
 - pkg:composer/onedrop/ajaxform@3.5.0
 - pkg:composer/onedrop/ajaxform@4.0.0
+- pkg:composer/onedrop/ajaxform@4.0.1
+- pkg:composer/onedrop/ajaxform@5.0.0
