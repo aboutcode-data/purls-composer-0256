@@ -1,1 +1,3 @@
 - pkg:composer/municipes/prospectus@0.95.0
+- pkg:composer/municipes/prospectus@1.0.0
+- pkg:composer/municipes/prospectus@2.0.0-alpha1
