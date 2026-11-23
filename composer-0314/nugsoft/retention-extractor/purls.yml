@@ -1,5 +1,6 @@
 - pkg:composer/nugsoft/retention-extractor@0.6.0
 - pkg:composer/nugsoft/retention-extractor@0.7.0
+- pkg:composer/nugsoft/retention-extractor@0.7.1
 - pkg:composer/nugsoft/retention-extractor@v0.1.0
 - pkg:composer/nugsoft/retention-extractor@v0.2.0
 - pkg:composer/nugsoft/retention-extractor@v0.2.1
