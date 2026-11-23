@@ -1,2 +1,6 @@
 - pkg:composer/nvl/auth-identity-bridge@v7.0.0
 - pkg:composer/nvl/auth-identity-bridge@v7.0.1
+- pkg:composer/nvl/auth-identity-bridge@v7.0.2
+- pkg:composer/nvl/auth-identity-bridge@v7.0.3
+- pkg:composer/nvl/auth-identity-bridge@v7.0.4
+- pkg:composer/nvl/auth-identity-bridge@v7.1.0
