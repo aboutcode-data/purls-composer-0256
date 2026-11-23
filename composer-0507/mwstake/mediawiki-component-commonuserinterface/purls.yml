@@ -59,3 +59,4 @@
 - pkg:composer/mwstake/mediawiki-component-commonuserinterface@8.0.5
 - pkg:composer/mwstake/mediawiki-component-commonuserinterface@9.0.0
 - pkg:composer/mwstake/mediawiki-component-commonuserinterface@9.0.1
+- pkg:composer/mwstake/mediawiki-component-commonuserinterface@9.0.2
