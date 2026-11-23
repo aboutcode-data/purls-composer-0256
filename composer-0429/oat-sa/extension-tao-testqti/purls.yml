@@ -691,6 +691,7 @@
 - pkg:composer/oat-sa/extension-tao-testqti@v49.0.14-patch1
 - pkg:composer/oat-sa/extension-tao-testqti@v49.0.15
 - pkg:composer/oat-sa/extension-tao-testqti@v49.0.16
+- pkg:composer/oat-sa/extension-tao-testqti@v49.0.17
 - pkg:composer/oat-sa/extension-tao-testqti@v49.0.2
 - pkg:composer/oat-sa/extension-tao-testqti@v49.0.3
 - pkg:composer/oat-sa/extension-tao-testqti@v49.0.4
@@ -758,6 +759,10 @@
 - pkg:composer/oat-sa/extension-tao-testqti@v50.1.4
 - pkg:composer/oat-sa/extension-tao-testqti@v50.1.5
 - pkg:composer/oat-sa/extension-tao-testqti@v50.1.6
+- pkg:composer/oat-sa/extension-tao-testqti@v50.10.0
+- pkg:composer/oat-sa/extension-tao-testqti@v50.10.1
+- pkg:composer/oat-sa/extension-tao-testqti@v50.10.2
+- pkg:composer/oat-sa/extension-tao-testqti@v50.10.3
 - pkg:composer/oat-sa/extension-tao-testqti@v50.2.0
 - pkg:composer/oat-sa/extension-tao-testqti@v50.2.1
 - pkg:composer/oat-sa/extension-tao-testqti@v50.2.1.1
@@ -802,8 +807,10 @@
 - pkg:composer/oat-sa/extension-tao-testqti@v50.9.3
 - pkg:composer/oat-sa/extension-tao-testqti@v50.9.4
 - pkg:composer/oat-sa/extension-tao-testqti@v50.9.5
+- pkg:composer/oat-sa/extension-tao-testqti@v50.9.5.1
 - pkg:composer/oat-sa/extension-tao-testqti@v50.9.6
 - pkg:composer/oat-sa/extension-tao-testqti@v50.9.6.1
+- pkg:composer/oat-sa/extension-tao-testqti@v50.9.6.2
 - pkg:composer/oat-sa/extension-tao-testqti@v50.9.7
 - pkg:composer/oat-sa/extension-tao-testqti@v50.9.8
 - pkg:composer/oat-sa/extension-tao-testqti@v50.9.9
