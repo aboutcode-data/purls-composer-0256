@@ -4,3 +4,5 @@
 - pkg:composer/nativella/laravel@v0.3.0
 - pkg:composer/nativella/laravel@v0.4.0
 - pkg:composer/nativella/laravel@v0.5.0
+- pkg:composer/nativella/laravel@v0.6.0
+- pkg:composer/nativella/laravel@v0.7.0
