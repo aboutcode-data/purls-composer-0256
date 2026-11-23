@@ -37,6 +37,7 @@
 - pkg:composer/netgen/admin-ui-bundle@2.9.11
 - pkg:composer/netgen/admin-ui-bundle@2.9.12
 - pkg:composer/netgen/admin-ui-bundle@2.9.13
+- pkg:composer/netgen/admin-ui-bundle@2.9.14
 - pkg:composer/netgen/admin-ui-bundle@2.9.2
 - pkg:composer/netgen/admin-ui-bundle@2.9.3
 - pkg:composer/netgen/admin-ui-bundle@2.9.4
