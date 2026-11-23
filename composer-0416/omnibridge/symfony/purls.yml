@@ -1,0 +1,11 @@
+- pkg:composer/omnibridge/symfony@v1.0.0
+- pkg:composer/omnibridge/symfony@v1.0.0-rc.1
+- pkg:composer/omnibridge/symfony@v1.1.0
+- pkg:composer/omnibridge/symfony@v1.1.1
+- pkg:composer/omnibridge/symfony@v1.1.2
+- pkg:composer/omnibridge/symfony@v2.0.0
+- pkg:composer/omnibridge/symfony@v3.0.0
+- pkg:composer/omnibridge/symfony@v3.0.1
+- pkg:composer/omnibridge/symfony@v3.1.0
+- pkg:composer/omnibridge/symfony@v3.1.1
+- pkg:composer/omnibridge/symfony@v3.2.0
