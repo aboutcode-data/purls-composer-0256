@@ -19,6 +19,8 @@
 - pkg:composer/parseapi/sdk@1.11.3
 - pkg:composer/parseapi/sdk@1.11.4
 - pkg:composer/parseapi/sdk@1.12.0
+- pkg:composer/parseapi/sdk@1.13.0
+- pkg:composer/parseapi/sdk@1.13.1
 - pkg:composer/parseapi/sdk@1.3.0
 - pkg:composer/parseapi/sdk@1.4.0
 - pkg:composer/parseapi/sdk@1.6.0
