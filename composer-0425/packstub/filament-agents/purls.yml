@@ -14,7 +14,10 @@
 - pkg:composer/packstub/filament-agents@v1.15.0
 - pkg:composer/packstub/filament-agents@v1.16.0
 - pkg:composer/packstub/filament-agents@v1.17.0
+- pkg:composer/packstub/filament-agents@v1.18.0
+- pkg:composer/packstub/filament-agents@v1.19.0
 - pkg:composer/packstub/filament-agents@v1.2.0
+- pkg:composer/packstub/filament-agents@v1.20.0
 - pkg:composer/packstub/filament-agents@v1.3.0
 - pkg:composer/packstub/filament-agents@v1.4.0
 - pkg:composer/packstub/filament-agents@v1.5.0
