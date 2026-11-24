@@ -39,3 +39,4 @@
 - pkg:composer/programster/mysql-objects@3.4.1
 - pkg:composer/programster/mysql-objects@3.4.2
 - pkg:composer/programster/mysql-objects@3.4.3
+- pkg:composer/programster/mysql-objects@3.5.0
