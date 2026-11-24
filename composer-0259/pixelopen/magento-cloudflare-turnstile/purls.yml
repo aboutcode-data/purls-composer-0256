@@ -11,3 +11,5 @@
 - pkg:composer/pixelopen/magento-cloudflare-turnstile@100.2.7
 - pkg:composer/pixelopen/magento-cloudflare-turnstile@100.2.8
 - pkg:composer/pixelopen/magento-cloudflare-turnstile@100.3.0
+- pkg:composer/pixelopen/magento-cloudflare-turnstile@100.3.1
+- pkg:composer/pixelopen/magento-cloudflare-turnstile@100.4.0
