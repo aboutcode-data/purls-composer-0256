@@ -231,6 +231,7 @@
 - pkg:composer/rapidez/core@2.25.1
 - pkg:composer/rapidez/core@2.26.0
 - pkg:composer/rapidez/core@2.27.0
+- pkg:composer/rapidez/core@2.27.1
 - pkg:composer/rapidez/core@2.3.0
 - pkg:composer/rapidez/core@2.4.0
 - pkg:composer/rapidez/core@2.4.1
@@ -249,6 +250,7 @@
 - pkg:composer/rapidez/core@3.10.2
 - pkg:composer/rapidez/core@3.11.0
 - pkg:composer/rapidez/core@3.12.0
+- pkg:composer/rapidez/core@3.12.1
 - pkg:composer/rapidez/core@3.2.0
 - pkg:composer/rapidez/core@3.3.0
 - pkg:composer/rapidez/core@3.4.0
@@ -271,6 +273,7 @@
 - pkg:composer/rapidez/core@4.14.1
 - pkg:composer/rapidez/core@4.14.2
 - pkg:composer/rapidez/core@4.14.3
+- pkg:composer/rapidez/core@4.14.4
 - pkg:composer/rapidez/core@4.2.0
 - pkg:composer/rapidez/core@4.3.0
 - pkg:composer/rapidez/core@4.4.0
@@ -306,6 +309,10 @@
 - pkg:composer/rapidez/core@5.11.0
 - pkg:composer/rapidez/core@5.12.0
 - pkg:composer/rapidez/core@5.12.1
+- pkg:composer/rapidez/core@5.13.0
+- pkg:composer/rapidez/core@5.14.0
+- pkg:composer/rapidez/core@5.15.0
+- pkg:composer/rapidez/core@5.16.0
 - pkg:composer/rapidez/core@5.2.0
 - pkg:composer/rapidez/core@5.3.0
 - pkg:composer/rapidez/core@5.4.0
