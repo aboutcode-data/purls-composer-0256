@@ -63,3 +63,4 @@
 - pkg:composer/phiki/phiki@v2.2.0
 - pkg:composer/phiki/phiki@v2.2.1
 - pkg:composer/phiki/phiki@v3.0.0-beta1
+- pkg:composer/phiki/phiki@v3.0.0-beta2
