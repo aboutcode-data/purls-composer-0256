@@ -142,6 +142,7 @@
 - pkg:composer/pop-api/api-endpoints-for-wp@20.0.0
 - pkg:composer/pop-api/api-endpoints-for-wp@20.0.1
 - pkg:composer/pop-api/api-endpoints-for-wp@20.0.2
+- pkg:composer/pop-api/api-endpoints-for-wp@21.0.0
 - pkg:composer/pop-api/api-endpoints-for-wp@3.0.0
 - pkg:composer/pop-api/api-endpoints-for-wp@4.0.0
 - pkg:composer/pop-api/api-endpoints-for-wp@4.0.1
