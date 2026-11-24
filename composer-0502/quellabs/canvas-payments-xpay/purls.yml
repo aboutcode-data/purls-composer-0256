@@ -4,3 +4,5 @@
 - pkg:composer/quellabs/canvas-payments-xpay@1.0.3
 - pkg:composer/quellabs/canvas-payments-xpay@1.1.0
 - pkg:composer/quellabs/canvas-payments-xpay@1.2.0
+- pkg:composer/quellabs/canvas-payments-xpay@1.3.0
+- pkg:composer/quellabs/canvas-payments-xpay@1.4.0
