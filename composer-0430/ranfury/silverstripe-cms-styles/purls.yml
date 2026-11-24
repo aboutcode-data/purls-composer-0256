@@ -12,3 +12,7 @@
 - pkg:composer/ranfury/silverstripe-cms-styles@1.6.0
 - pkg:composer/ranfury/silverstripe-cms-styles@1.7.0
 - pkg:composer/ranfury/silverstripe-cms-styles@1.8.0
+- pkg:composer/ranfury/silverstripe-cms-styles@1.8.1
+- pkg:composer/ranfury/silverstripe-cms-styles@1.8.2
+- pkg:composer/ranfury/silverstripe-cms-styles@1.8.3
+- pkg:composer/ranfury/silverstripe-cms-styles@1.8.4

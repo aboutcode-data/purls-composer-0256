@@ -11,3 +11,13 @@
 - pkg:composer/ranetrace/ranetrace-php@v1.0.9
 - pkg:composer/ranetrace/ranetrace-php@v1.1.0
 - pkg:composer/ranetrace/ranetrace-php@v1.1.1
+- pkg:composer/ranetrace/ranetrace-php@v1.1.2
+- pkg:composer/ranetrace/ranetrace-php@v1.2.0
+- pkg:composer/ranetrace/ranetrace-php@v1.2.1
+- pkg:composer/ranetrace/ranetrace-php@v1.3.0
+- pkg:composer/ranetrace/ranetrace-php@v1.4.0
+- pkg:composer/ranetrace/ranetrace-php@v1.5.0
+- pkg:composer/ranetrace/ranetrace-php@v1.6.0
+- pkg:composer/ranetrace/ranetrace-php@v1.7.0
+- pkg:composer/ranetrace/ranetrace-php@v1.8.0
+- pkg:composer/ranetrace/ranetrace-php@v1.8.1
