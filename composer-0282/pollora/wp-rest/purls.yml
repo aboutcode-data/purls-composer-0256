@@ -1,4 +1,7 @@
 - pkg:composer/pollora/wp-rest@2.0.0
+- pkg:composer/pollora/wp-rest@2.0.1
+- pkg:composer/pollora/wp-rest@2.0.2
+- pkg:composer/pollora/wp-rest@2.0.3
 - pkg:composer/pollora/wp-rest@v0.1.0
 - pkg:composer/pollora/wp-rest@v0.2.0
 - pkg:composer/pollora/wp-rest@v0.2.1
