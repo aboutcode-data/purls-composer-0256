@@ -24,3 +24,4 @@
 - pkg:composer/rainlab/blog-plugin@v1.7.3
 - pkg:composer/rainlab/blog-plugin@v2.0.0
 - pkg:composer/rainlab/blog-plugin@v2.0.1
+- pkg:composer/rainlab/blog-plugin@v2.0.2
