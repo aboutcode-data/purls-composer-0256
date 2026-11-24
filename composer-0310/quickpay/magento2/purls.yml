@@ -63,3 +63,4 @@
 - pkg:composer/quickpay/magento2@v2.5.1
 - pkg:composer/quickpay/magento2@v2.5.2
 - pkg:composer/quickpay/magento2@v2.5.3
+- pkg:composer/quickpay/magento2@v2.5.4
