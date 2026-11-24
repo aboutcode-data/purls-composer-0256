@@ -16,3 +16,6 @@
 - pkg:composer/plin-code/laravel-clean-architecture@v3.6.0
 - pkg:composer/plin-code/laravel-clean-architecture@v3.7.0
 - pkg:composer/plin-code/laravel-clean-architecture@v3.7.1
+- pkg:composer/plin-code/laravel-clean-architecture@v3.8.0
+- pkg:composer/plin-code/laravel-clean-architecture@v3.8.1
+- pkg:composer/plin-code/laravel-clean-architecture@v3.8.2
