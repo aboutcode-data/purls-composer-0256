@@ -28,3 +28,4 @@
 - pkg:composer/openreceive/laravel@v0.4.8
 - pkg:composer/openreceive/laravel@v0.4.9
 - pkg:composer/openreceive/laravel@v0.5.0
+- pkg:composer/openreceive/laravel@v0.6.0
