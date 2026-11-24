@@ -21,3 +21,9 @@
 - pkg:composer/phptl/parser@1.6.0
 - pkg:composer/phptl/parser@2.0.0-beta1
 - pkg:composer/phptl/parser@2.0.0-beta2
+- pkg:composer/phptl/parser@2.0.0-beta3
+- pkg:composer/phptl/parser@2.0.0-beta4
+- pkg:composer/phptl/parser@2.0.0-beta5
+- pkg:composer/phptl/parser@2.0.0-beta6
+- pkg:composer/phptl/parser@2.0.0-beta7
+- pkg:composer/phptl/parser@2.0.0-beta8
