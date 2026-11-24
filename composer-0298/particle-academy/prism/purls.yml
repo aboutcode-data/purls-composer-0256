@@ -70,7 +70,17 @@
 - pkg:composer/particle-academy/prism@v0.145.1
 - pkg:composer/particle-academy/prism@v0.146.0
 - pkg:composer/particle-academy/prism@v0.147.0
+- pkg:composer/particle-academy/prism@v0.147.1
+- pkg:composer/particle-academy/prism@v0.147.2
+- pkg:composer/particle-academy/prism@v0.148.0
+- pkg:composer/particle-academy/prism@v0.148.1
+- pkg:composer/particle-academy/prism@v0.149.0
 - pkg:composer/particle-academy/prism@v0.15.0
+- pkg:composer/particle-academy/prism@v0.150.0
+- pkg:composer/particle-academy/prism@v0.151.0
+- pkg:composer/particle-academy/prism@v0.151.1
+- pkg:composer/particle-academy/prism@v0.152.0
+- pkg:composer/particle-academy/prism@v0.153.0
 - pkg:composer/particle-academy/prism@v0.16.0
 - pkg:composer/particle-academy/prism@v0.17.0
 - pkg:composer/particle-academy/prism@v0.18.0
