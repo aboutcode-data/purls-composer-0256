@@ -119,3 +119,6 @@
 - pkg:composer/overtrue/phplint@9.8.0-rc.1
 - pkg:composer/overtrue/phplint@9.8.0-rc.2
 - pkg:composer/overtrue/phplint@9.8.0-rc.3
+- pkg:composer/overtrue/phplint@9.8.1
+- pkg:composer/overtrue/phplint@9.8.2
+- pkg:composer/overtrue/phplint@9.8.3
