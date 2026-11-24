@@ -65,3 +65,5 @@
 - pkg:composer/paharok/laravel-files@3.3.1
 - pkg:composer/paharok/laravel-files@3.3.2
 - pkg:composer/paharok/laravel-files@3.3.3
+- pkg:composer/paharok/laravel-files@3.4.0
+- pkg:composer/paharok/laravel-files@3.4.1
