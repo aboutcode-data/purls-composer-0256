@@ -42,6 +42,8 @@
 - pkg:composer/nowo-tech/form-kit-bundle@v2.22.0
 - pkg:composer/nowo-tech/form-kit-bundle@v2.23.0
 - pkg:composer/nowo-tech/form-kit-bundle@v2.24.0
+- pkg:composer/nowo-tech/form-kit-bundle@v2.25.0
+- pkg:composer/nowo-tech/form-kit-bundle@v2.25.1
 - pkg:composer/nowo-tech/form-kit-bundle@v2.3.0
 - pkg:composer/nowo-tech/form-kit-bundle@v2.4.0
 - pkg:composer/nowo-tech/form-kit-bundle@v2.4.1
