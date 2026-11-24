@@ -12,3 +12,5 @@
 - pkg:composer/osama-98/laravel-enum-translatable@2.2.1
 - pkg:composer/osama-98/laravel-enum-translatable@2.3
 - pkg:composer/osama-98/laravel-enum-translatable@2.4
+- pkg:composer/osama-98/laravel-enum-translatable@2.5.0
+- pkg:composer/osama-98/laravel-enum-translatable@2.5.1
