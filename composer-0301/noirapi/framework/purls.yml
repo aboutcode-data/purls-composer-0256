@@ -15,3 +15,6 @@
 - pkg:composer/noirapi/framework@v2.1.6
 - pkg:composer/noirapi/framework@v2.2.0
 - pkg:composer/noirapi/framework@v2.3.0
+- pkg:composer/noirapi/framework@v2.3.1
+- pkg:composer/noirapi/framework@v2.4.0
+- pkg:composer/noirapi/framework@v2.4.1
