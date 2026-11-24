@@ -21,3 +21,4 @@
 - pkg:composer/php-sage/sage@v1.5.6
 - pkg:composer/php-sage/sage@v1.6.0
 - pkg:composer/php-sage/sage@v1.7.0
+- pkg:composer/php-sage/sage@v2.0.0
