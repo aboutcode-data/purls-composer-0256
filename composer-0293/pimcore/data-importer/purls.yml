@@ -96,3 +96,5 @@
 - pkg:composer/pimcore/data-importer@v2026.3.2
 - pkg:composer/pimcore/data-importer@v2026.3.3
 - pkg:composer/pimcore/data-importer@v2026.3.4
+- pkg:composer/pimcore/data-importer@v2026.3.5
+- pkg:composer/pimcore/data-importer@v2026.3.6
