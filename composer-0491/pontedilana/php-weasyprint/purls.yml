@@ -21,3 +21,5 @@
 - pkg:composer/pontedilana/php-weasyprint@2.5.1
 - pkg:composer/pontedilana/php-weasyprint@2.6.0
 - pkg:composer/pontedilana/php-weasyprint@2.7.0
+- pkg:composer/pontedilana/php-weasyprint@2.8.0
+- pkg:composer/pontedilana/php-weasyprint@2.8.1
