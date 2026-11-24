@@ -45,3 +45,4 @@
 - pkg:composer/nexi-checkout/shopware6-checkout@2.3.0
 - pkg:composer/nexi-checkout/shopware6-checkout@2.4.0
 - pkg:composer/nexi-checkout/shopware6-checkout@2.4.1
+- pkg:composer/nexi-checkout/shopware6-checkout@2.4.2
