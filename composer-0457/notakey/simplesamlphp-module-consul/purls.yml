@@ -14,3 +14,4 @@
 - pkg:composer/notakey/simplesamlphp-module-consul@2.4.4
 - pkg:composer/notakey/simplesamlphp-module-consul@2.4.5
 - pkg:composer/notakey/simplesamlphp-module-consul@2.5.5
+- pkg:composer/notakey/simplesamlphp-module-consul@3.0.0
