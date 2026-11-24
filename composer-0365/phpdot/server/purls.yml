@@ -6,3 +6,4 @@
 - pkg:composer/phpdot/server@v0.5.1
 - pkg:composer/phpdot/server@v0.5.3
 - pkg:composer/phpdot/server@v0.6.0
+- pkg:composer/phpdot/server@v0.7.0
