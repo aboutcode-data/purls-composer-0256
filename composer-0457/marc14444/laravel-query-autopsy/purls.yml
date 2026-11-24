@@ -3,3 +3,5 @@
 - pkg:composer/marc14444/laravel-query-autopsy@v1.7.0
 - pkg:composer/marc14444/laravel-query-autopsy@v1.8.0
 - pkg:composer/marc14444/laravel-query-autopsy@v1.8.1
+- pkg:composer/marc14444/laravel-query-autopsy@v1.8.2
+- pkg:composer/marc14444/laravel-query-autopsy@v1.8.3
