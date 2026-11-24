@@ -68,3 +68,4 @@
 - pkg:composer/netseu/checkout@2.3.0
 - pkg:composer/netseu/checkout@2.4.0
 - pkg:composer/netseu/checkout@2.4.1
+- pkg:composer/netseu/checkout@2.4.2
