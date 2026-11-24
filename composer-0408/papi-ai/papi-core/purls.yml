@@ -8,6 +8,10 @@
 - pkg:composer/papi-ai/papi-core@v0.15.1
 - pkg:composer/papi-ai/papi-core@v0.15.2
 - pkg:composer/papi-ai/papi-core@v0.15.3
+- pkg:composer/papi-ai/papi-core@v0.15.4
+- pkg:composer/papi-ai/papi-core@v0.15.5
+- pkg:composer/papi-ai/papi-core@v0.15.6
+- pkg:composer/papi-ai/papi-core@v0.15.7
 - pkg:composer/papi-ai/papi-core@v0.2
 - pkg:composer/papi-ai/papi-core@v0.3
 - pkg:composer/papi-ai/papi-core@v0.4
