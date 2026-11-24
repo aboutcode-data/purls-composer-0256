@@ -10,6 +10,8 @@
 - pkg:composer/phauthentic/cognitive-code-analysis@1.11.0
 - pkg:composer/phauthentic/cognitive-code-analysis@1.11.1
 - pkg:composer/phauthentic/cognitive-code-analysis@1.11.2
+- pkg:composer/phauthentic/cognitive-code-analysis@1.12.0
+- pkg:composer/phauthentic/cognitive-code-analysis@1.12.1
 - pkg:composer/phauthentic/cognitive-code-analysis@1.2.0
 - pkg:composer/phauthentic/cognitive-code-analysis@1.2.1
 - pkg:composer/phauthentic/cognitive-code-analysis@1.2.2
