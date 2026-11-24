@@ -39,3 +39,4 @@
 - pkg:composer/paragonie/easydb@v3.0.4
 - pkg:composer/paragonie/easydb@v3.1.0
 - pkg:composer/paragonie/easydb@v3.1.1
+- pkg:composer/paragonie/easydb@v3.2.0
