@@ -7,3 +7,5 @@
 - pkg:composer/silvershop/stock@3.0.0
 - pkg:composer/silvershop/stock@3.1.0
 - pkg:composer/silvershop/stock@6.0.0
+- pkg:composer/silvershop/stock@6.1.0
+- pkg:composer/silvershop/stock@6.1.1
