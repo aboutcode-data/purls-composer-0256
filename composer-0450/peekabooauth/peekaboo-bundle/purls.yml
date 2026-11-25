@@ -25,6 +25,7 @@
 - pkg:composer/peekabooauth/peekaboo-bundle@1.11.1
 - pkg:composer/peekabooauth/peekaboo-bundle@1.11.2
 - pkg:composer/peekabooauth/peekaboo-bundle@1.12.0
+- pkg:composer/peekabooauth/peekaboo-bundle@1.12.1
 - pkg:composer/peekabooauth/peekaboo-bundle@1.2.0
 - pkg:composer/peekabooauth/peekaboo-bundle@1.2.1
 - pkg:composer/peekabooauth/peekaboo-bundle@1.2.3
@@ -46,6 +47,7 @@
 - pkg:composer/peekabooauth/peekaboo-bundle@1.7.0
 - pkg:composer/peekabooauth/peekaboo-bundle@1.8.0
 - pkg:composer/peekabooauth/peekaboo-bundle@1.8.1
+- pkg:composer/peekabooauth/peekaboo-bundle@1.8.10
 - pkg:composer/peekabooauth/peekaboo-bundle@1.8.2
 - pkg:composer/peekabooauth/peekaboo-bundle@1.8.3
 - pkg:composer/peekabooauth/peekaboo-bundle@1.8.4
