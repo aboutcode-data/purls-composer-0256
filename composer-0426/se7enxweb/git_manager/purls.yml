@@ -19,6 +19,7 @@
 - pkg:composer/se7enxweb/git_manager@v2.0.26
 - pkg:composer/se7enxweb/git_manager@v2.0.27
 - pkg:composer/se7enxweb/git_manager@v2.0.28
+- pkg:composer/se7enxweb/git_manager@v2.0.29
 - pkg:composer/se7enxweb/git_manager@v2.0.3
 - pkg:composer/se7enxweb/git_manager@v2.0.4
 - pkg:composer/se7enxweb/git_manager@v2.0.5
