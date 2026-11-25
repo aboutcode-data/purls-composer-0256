@@ -9,3 +9,9 @@
 - pkg:composer/sebastiankrupinski/jmap-client-php@v2.3.0
 - pkg:composer/sebastiankrupinski/jmap-client-php@v2.4.0
 - pkg:composer/sebastiankrupinski/jmap-client-php@v2.5.0
+- pkg:composer/sebastiankrupinski/jmap-client-php@v2.6.0
+- pkg:composer/sebastiankrupinski/jmap-client-php@v2.7.0
+- pkg:composer/sebastiankrupinski/jmap-client-php@v2.7.1
+- pkg:composer/sebastiankrupinski/jmap-client-php@v2.7.2
+- pkg:composer/sebastiankrupinski/jmap-client-php@v2.7.3
+- pkg:composer/sebastiankrupinski/jmap-client-php@v2.7.4
