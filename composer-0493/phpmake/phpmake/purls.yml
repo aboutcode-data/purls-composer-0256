@@ -1,3 +1,4 @@
 - pkg:composer/phpmake/phpmake@1.0.0
 - pkg:composer/phpmake/phpmake@2.0.0
 - pkg:composer/phpmake/phpmake@2.0.1
+- pkg:composer/phpmake/phpmake@2.1.0
