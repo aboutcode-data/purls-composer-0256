@@ -13,3 +13,6 @@
 - pkg:composer/sahilphp/installer@v1.0.9
 - pkg:composer/sahilphp/installer@v1.1.0
 - pkg:composer/sahilphp/installer@v1.2.0
+- pkg:composer/sahilphp/installer@v2.0.0
+- pkg:composer/sahilphp/installer@v2.0.1
+- pkg:composer/sahilphp/installer@v2.0.2
