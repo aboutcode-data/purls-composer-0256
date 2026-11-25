@@ -4,6 +4,7 @@
 - pkg:composer/serhii-f8/filament-studio@v1.0.3
 - pkg:composer/serhii-f8/filament-studio@v1.0.4
 - pkg:composer/serhii-f8/filament-studio@v1.1.0
+- pkg:composer/serhii-f8/filament-studio@v1.10.0
 - pkg:composer/serhii-f8/filament-studio@v1.2.0
 - pkg:composer/serhii-f8/filament-studio@v1.3.0
 - pkg:composer/serhii-f8/filament-studio@v1.3.1
@@ -18,3 +19,4 @@
 - pkg:composer/serhii-f8/filament-studio@v1.7.1
 - pkg:composer/serhii-f8/filament-studio@v1.8.0
 - pkg:composer/serhii-f8/filament-studio@v1.8.1
+- pkg:composer/serhii-f8/filament-studio@v1.9.0
