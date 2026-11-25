@@ -88,6 +88,7 @@
 - pkg:composer/posthog/posthog-php@4.26.0
 - pkg:composer/posthog/posthog-php@4.26.1
 - pkg:composer/posthog/posthog-php@4.27.0
+- pkg:composer/posthog/posthog-php@4.27.1
 - pkg:composer/posthog/posthog-php@4.3.0
 - pkg:composer/posthog/posthog-php@4.4.0
 - pkg:composer/posthog/posthog-php@4.4.1
