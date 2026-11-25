@@ -10,3 +10,4 @@
 - pkg:composer/robtrehy/laravel-application-settings@2.0.2
 - pkg:composer/robtrehy/laravel-application-settings@3.0.0
 - pkg:composer/robtrehy/laravel-application-settings@4.0.0
+- pkg:composer/robtrehy/laravel-application-settings@5.0.0
