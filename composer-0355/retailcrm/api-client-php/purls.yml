@@ -4,6 +4,7 @@
 - pkg:composer/retailcrm/api-client-php@6.12.2
 - pkg:composer/retailcrm/api-client-php@6.12.5
 - pkg:composer/retailcrm/api-client-php@6.15.17
+- pkg:composer/retailcrm/api-client-php@6.16.2
 - pkg:composer/retailcrm/api-client-php@v1.0.0
 - pkg:composer/retailcrm/api-client-php@v1.1.0
 - pkg:composer/retailcrm/api-client-php@v1.2.0
