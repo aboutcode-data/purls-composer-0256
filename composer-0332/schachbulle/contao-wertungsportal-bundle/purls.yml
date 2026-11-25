@@ -103,7 +103,13 @@
 - pkg:composer/schachbulle/contao-wertungsportal-bundle@1.55.1
 - pkg:composer/schachbulle/contao-wertungsportal-bundle@1.56.0
 - pkg:composer/schachbulle/contao-wertungsportal-bundle@1.56.1
+- pkg:composer/schachbulle/contao-wertungsportal-bundle@1.57.0
+- pkg:composer/schachbulle/contao-wertungsportal-bundle@1.58.0
+- pkg:composer/schachbulle/contao-wertungsportal-bundle@1.59.0
 - pkg:composer/schachbulle/contao-wertungsportal-bundle@1.6.0
+- pkg:composer/schachbulle/contao-wertungsportal-bundle@1.60.0
+- pkg:composer/schachbulle/contao-wertungsportal-bundle@1.60.1
+- pkg:composer/schachbulle/contao-wertungsportal-bundle@1.61.0
 - pkg:composer/schachbulle/contao-wertungsportal-bundle@1.7.0
 - pkg:composer/schachbulle/contao-wertungsportal-bundle@1.8.0
 - pkg:composer/schachbulle/contao-wertungsportal-bundle@1.8.1
