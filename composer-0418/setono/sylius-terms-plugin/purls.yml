@@ -13,3 +13,5 @@
 - pkg:composer/setono/sylius-terms-plugin@v2.0.0-alpha.2
 - pkg:composer/setono/sylius-terms-plugin@v2.0.0-alpha.3
 - pkg:composer/setono/sylius-terms-plugin@v2.0.0-beta
+- pkg:composer/setono/sylius-terms-plugin@v3.0.0-alpha
+- pkg:composer/setono/sylius-terms-plugin@v3.0.0-beta
