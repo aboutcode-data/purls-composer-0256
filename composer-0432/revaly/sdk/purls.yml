@@ -1,4 +1,5 @@
 - pkg:composer/revaly/sdk@v0.10.0
+- pkg:composer/revaly/sdk@v0.11.0
 - pkg:composer/revaly/sdk@v0.5.1
 - pkg:composer/revaly/sdk@v0.5.2
 - pkg:composer/revaly/sdk@v0.6.0
