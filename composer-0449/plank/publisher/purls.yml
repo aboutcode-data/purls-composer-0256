@@ -130,6 +130,7 @@
 - pkg:composer/plank/publisher@v12.11.4
 - pkg:composer/plank/publisher@v12.11.5
 - pkg:composer/plank/publisher@v12.12.0
+- pkg:composer/plank/publisher@v12.12.1
 - pkg:composer/plank/publisher@v12.5.0
 - pkg:composer/plank/publisher@v12.5.1
 - pkg:composer/plank/publisher@v12.6.0
@@ -154,3 +155,4 @@
 - pkg:composer/plank/publisher@v13.11.4
 - pkg:composer/plank/publisher@v13.11.5
 - pkg:composer/plank/publisher@v13.12.0
+- pkg:composer/plank/publisher@v13.12.1
