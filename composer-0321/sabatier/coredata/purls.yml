@@ -25,6 +25,8 @@
 - pkg:composer/sabatier/coredata@v1.2.18
 - pkg:composer/sabatier/coredata@v1.2.19
 - pkg:composer/sabatier/coredata@v1.2.2
+- pkg:composer/sabatier/coredata@v1.2.20
+- pkg:composer/sabatier/coredata@v1.2.21
 - pkg:composer/sabatier/coredata@v1.2.3
 - pkg:composer/sabatier/coredata@v1.2.4
 - pkg:composer/sabatier/coredata@v1.2.5
