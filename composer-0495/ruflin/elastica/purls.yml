@@ -60,6 +60,7 @@
 - pkg:composer/ruflin/elastica@8.1.0
 - pkg:composer/ruflin/elastica@8.2.0
 - pkg:composer/ruflin/elastica@9.0.0
+- pkg:composer/ruflin/elastica@9.1.0
 - pkg:composer/ruflin/elastica@v0.19.0.0
 - pkg:composer/ruflin/elastica@v0.19.3.0
 - pkg:composer/ruflin/elastica@v0.19.8.0
