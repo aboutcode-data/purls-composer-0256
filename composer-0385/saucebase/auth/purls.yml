@@ -43,6 +43,7 @@
 - pkg:composer/saucebase/auth@v2.6.0
 - pkg:composer/saucebase/auth@v3.0.0
 - pkg:composer/saucebase/auth@v3.1.0
+- pkg:composer/saucebase/auth@v3.10.0
 - pkg:composer/saucebase/auth@v3.2.0
 - pkg:composer/saucebase/auth@v3.2.1
 - pkg:composer/saucebase/auth@v3.3.0
@@ -55,3 +56,4 @@
 - pkg:composer/saucebase/auth@v3.7.0
 - pkg:composer/saucebase/auth@v3.8.0
 - pkg:composer/saucebase/auth@v3.8.1
+- pkg:composer/saucebase/auth@v3.9.0

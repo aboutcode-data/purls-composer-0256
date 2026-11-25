@@ -20,3 +20,5 @@
 - pkg:composer/saucebase/roadmap@v3.4.4
 - pkg:composer/saucebase/roadmap@v3.5.0
 - pkg:composer/saucebase/roadmap@v3.5.1
+- pkg:composer/saucebase/roadmap@v3.5.2
+- pkg:composer/saucebase/roadmap@v3.6.0

@@ -21,3 +21,5 @@
 - pkg:composer/saucebase/themes@v3.4.3
 - pkg:composer/saucebase/themes@v3.4.4
 - pkg:composer/saucebase/themes@v3.5.0
+- pkg:composer/saucebase/themes@v3.5.1
+- pkg:composer/saucebase/themes@v3.6.0
