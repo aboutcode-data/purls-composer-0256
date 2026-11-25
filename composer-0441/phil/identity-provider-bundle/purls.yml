@@ -1,3 +1,4 @@
 - pkg:composer/phil/identity-provider-bundle@0.1.0-alpha
 - pkg:composer/phil/identity-provider-bundle@0.2.0-alpha
 - pkg:composer/phil/identity-provider-bundle@0.3.0-alpha
+- pkg:composer/phil/identity-provider-bundle@0.4.0-alpha
