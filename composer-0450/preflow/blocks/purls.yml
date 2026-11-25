@@ -27,3 +27,5 @@
 - pkg:composer/preflow/blocks@v0.86.0
 - pkg:composer/preflow/blocks@v0.87.0
 - pkg:composer/preflow/blocks@v0.88.0
+- pkg:composer/preflow/blocks@v0.89.0
+- pkg:composer/preflow/blocks@v0.90.0
