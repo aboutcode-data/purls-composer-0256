@@ -8,3 +8,4 @@
 - pkg:composer/publicala/laravel-resilient-redis@v3.2.0
 - pkg:composer/publicala/laravel-resilient-redis@v3.3.0
 - pkg:composer/publicala/laravel-resilient-redis@v3.4.1
+- pkg:composer/publicala/laravel-resilient-redis@v3.5.0
