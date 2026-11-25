@@ -92,6 +92,9 @@
 - pkg:composer/sentry/sentry-symfony@5.13.0
 - pkg:composer/sentry/sentry-symfony@5.14.0
 - pkg:composer/sentry/sentry-symfony@5.15.0
+- pkg:composer/sentry/sentry-symfony@5.16.0
+- pkg:composer/sentry/sentry-symfony@5.16.1
+- pkg:composer/sentry/sentry-symfony@5.17.0
 - pkg:composer/sentry/sentry-symfony@5.2.0
 - pkg:composer/sentry/sentry-symfony@5.3.0
 - pkg:composer/sentry/sentry-symfony@5.3.1
@@ -105,3 +108,5 @@
 - pkg:composer/sentry/sentry-symfony@5.8.2
 - pkg:composer/sentry/sentry-symfony@5.8.3
 - pkg:composer/sentry/sentry-symfony@5.9.0
+- pkg:composer/sentry/sentry-symfony@6.0.0-beta1
+- pkg:composer/sentry/sentry-symfony@6.0.0-beta2
