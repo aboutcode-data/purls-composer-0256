@@ -195,3 +195,8 @@
 - pkg:composer/spryker-shop/customer-page@2.88.1
 - pkg:composer/spryker-shop/customer-page@2.89.0
 - pkg:composer/spryker-shop/customer-page@2.9.0
+- pkg:composer/spryker-shop/customer-page@2.90.0
+- pkg:composer/spryker-shop/customer-page@2.90.1
+- pkg:composer/spryker-shop/customer-page@2.91.0
+- pkg:composer/spryker-shop/customer-page@2.92.0
+- pkg:composer/spryker-shop/customer-page@2.93.0
