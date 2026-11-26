@@ -33,3 +33,5 @@
 - pkg:composer/smartfactory/oauth2@1.2.7
 - pkg:composer/smartfactory/oauth2@1.2.8
 - pkg:composer/smartfactory/oauth2@1.2.9
+- pkg:composer/smartfactory/oauth2@2.2.0
+- pkg:composer/smartfactory/oauth2@2.2.1
