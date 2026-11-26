@@ -48,6 +48,7 @@
 - pkg:composer/sparrowhawk-labs/pinion-ui@v0.26.2
 - pkg:composer/sparrowhawk-labs/pinion-ui@v0.26.3
 - pkg:composer/sparrowhawk-labs/pinion-ui@v0.26.4
+- pkg:composer/sparrowhawk-labs/pinion-ui@v0.26.5
 - pkg:composer/sparrowhawk-labs/pinion-ui@v0.4.5
 - pkg:composer/sparrowhawk-labs/pinion-ui@v0.4.6
 - pkg:composer/sparrowhawk-labs/pinion-ui@v0.5.0
