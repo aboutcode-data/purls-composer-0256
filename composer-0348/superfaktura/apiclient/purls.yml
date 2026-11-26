@@ -43,3 +43,4 @@
 - pkg:composer/superfaktura/apiclient@2.4.3
 - pkg:composer/superfaktura/apiclient@2.4.4
 - pkg:composer/superfaktura/apiclient@2.5.0
+- pkg:composer/superfaktura/apiclient@2.6.0
