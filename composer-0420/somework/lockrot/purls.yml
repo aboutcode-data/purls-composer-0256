@@ -13,6 +13,10 @@
 - pkg:composer/somework/lockrot@v0.14.0-rc.17
 - pkg:composer/somework/lockrot@v0.14.0-rc.18
 - pkg:composer/somework/lockrot@v0.14.0-rc.19
+- pkg:composer/somework/lockrot@v0.14.0-rc.20
+- pkg:composer/somework/lockrot@v0.14.0-rc.21
+- pkg:composer/somework/lockrot@v0.14.0-rc.22
+- pkg:composer/somework/lockrot@v0.14.0-rc.23
 - pkg:composer/somework/lockrot@v0.14.0-rc.6
 - pkg:composer/somework/lockrot@v0.14.0-rc.7
 - pkg:composer/somework/lockrot@v0.14.0-rc.8
