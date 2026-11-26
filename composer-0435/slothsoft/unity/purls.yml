@@ -99,6 +99,9 @@
 - pkg:composer/slothsoft/unity@2.22.2
 - pkg:composer/slothsoft/unity@2.23.3
 - pkg:composer/slothsoft/unity@2.24.0
+- pkg:composer/slothsoft/unity@2.24.1
+- pkg:composer/slothsoft/unity@2.24.2
+- pkg:composer/slothsoft/unity@2.24.3
 - pkg:composer/slothsoft/unity@2.3.0
 - pkg:composer/slothsoft/unity@2.3.1
 - pkg:composer/slothsoft/unity@2.3.2
