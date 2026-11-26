@@ -15,6 +15,7 @@
 - pkg:composer/spryker/redis@2.14.0
 - pkg:composer/spryker/redis@2.15.0
 - pkg:composer/spryker/redis@2.16.0
+- pkg:composer/spryker/redis@2.16.1
 - pkg:composer/spryker/redis@2.2.0
 - pkg:composer/spryker/redis@2.3.0
 - pkg:composer/spryker/redis@2.3.1

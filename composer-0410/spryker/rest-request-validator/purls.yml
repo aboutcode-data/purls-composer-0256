@@ -14,3 +14,4 @@
 - pkg:composer/spryker/rest-request-validator@1.6.2
 - pkg:composer/spryker/rest-request-validator@1.6.3
 - pkg:composer/spryker/rest-request-validator@1.6.4
+- pkg:composer/spryker/rest-request-validator@1.6.5
