@@ -1,3 +1,5 @@
 - pkg:composer/studioespresso/craft-varnish-purger@1.0.0
 - pkg:composer/studioespresso/craft-varnish-purger@1.1.0
 - pkg:composer/studioespresso/craft-varnish-purger@6.0.0-beta.01
+- pkg:composer/studioespresso/craft-varnish-purger@6.0.0-beta.02
+- pkg:composer/studioespresso/craft-varnish-purger@6.0.0-beta.03
