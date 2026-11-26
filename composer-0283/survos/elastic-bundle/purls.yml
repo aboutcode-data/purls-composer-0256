@@ -17,3 +17,4 @@
 - pkg:composer/survos/elastic-bundle@2.42.1
 - pkg:composer/survos/elastic-bundle@2.42.14
 - pkg:composer/survos/elastic-bundle@2.43.4
+- pkg:composer/survos/elastic-bundle@2.45.92

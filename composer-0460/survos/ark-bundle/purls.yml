@@ -127,6 +127,7 @@
 - pkg:composer/survos/ark-bundle@2.4.4
 - pkg:composer/survos/ark-bundle@2.41.9
 - pkg:composer/survos/ark-bundle@2.45.23
+- pkg:composer/survos/ark-bundle@2.45.49
 - pkg:composer/survos/ark-bundle@2.5.0
 - pkg:composer/survos/ark-bundle@2.5.1
 - pkg:composer/survos/ark-bundle@2.5.2
