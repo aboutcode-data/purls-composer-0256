@@ -81,7 +81,11 @@
 - pkg:composer/survos/search-bundle@2.45.32
 - pkg:composer/survos/search-bundle@2.45.33
 - pkg:composer/survos/search-bundle@2.45.39
+- pkg:composer/survos/search-bundle@2.45.49
+- pkg:composer/survos/search-bundle@2.45.52
 - pkg:composer/survos/search-bundle@2.45.7
+- pkg:composer/survos/search-bundle@2.45.75
+- pkg:composer/survos/search-bundle@2.45.79
 - pkg:composer/survos/search-bundle@2.5.0
 - pkg:composer/survos/search-bundle@2.5.1
 - pkg:composer/survos/search-bundle@2.5.2

@@ -1,2 +1,6 @@
 - pkg:composer/survos/geoboundaries-bundle@2.45.11
 - pkg:composer/survos/geoboundaries-bundle@2.45.18
+- pkg:composer/survos/geoboundaries-bundle@2.45.73
+- pkg:composer/survos/geoboundaries-bundle@2.45.74
+- pkg:composer/survos/geoboundaries-bundle@2.45.76
+- pkg:composer/survos/geoboundaries-bundle@2.45.81
