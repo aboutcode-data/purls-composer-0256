@@ -1,2 +1,3 @@
 - pkg:composer/symfony/ux-inspector@v3.6.0
 - pkg:composer/symfony/ux-inspector@v3.7.0
+- pkg:composer/symfony/ux-inspector@v3.8.0
