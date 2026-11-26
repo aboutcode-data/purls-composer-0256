@@ -1,4 +1,5 @@
 - pkg:composer/ronu/payment-gateways@v0.10.0-alpha.1
+- pkg:composer/ronu/payment-gateways@v0.10.0-alpha.2
 - pkg:composer/ronu/payment-gateways@v0.2.0
 - pkg:composer/ronu/payment-gateways@v0.3.0-alpha.2
 - pkg:composer/ronu/payment-gateways@v0.6.0-alpha.2
