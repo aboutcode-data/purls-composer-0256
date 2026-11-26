@@ -47,6 +47,7 @@
 - pkg:composer/symfony/ux-chartjs@v2.34.0
 - pkg:composer/symfony/ux-chartjs@v2.35.0
 - pkg:composer/symfony/ux-chartjs@v2.36.0
+- pkg:composer/symfony/ux-chartjs@v2.36.3
 - pkg:composer/symfony/ux-chartjs@v2.4.0
 - pkg:composer/symfony/ux-chartjs@v2.5.0
 - pkg:composer/symfony/ux-chartjs@v2.6.0
@@ -66,3 +67,4 @@
 - pkg:composer/symfony/ux-chartjs@v3.5.1
 - pkg:composer/symfony/ux-chartjs@v3.6.0
 - pkg:composer/symfony/ux-chartjs@v3.7.0
+- pkg:composer/symfony/ux-chartjs@v3.8.0

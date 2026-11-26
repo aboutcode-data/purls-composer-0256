@@ -39,6 +39,7 @@
 - pkg:composer/symfony/stimulus-bundle@v2.34.0
 - pkg:composer/symfony/stimulus-bundle@v2.35.0
 - pkg:composer/symfony/stimulus-bundle@v2.36.0
+- pkg:composer/symfony/stimulus-bundle@v2.36.3
 - pkg:composer/symfony/stimulus-bundle@v2.9.0
 - pkg:composer/symfony/stimulus-bundle@v2.9.1
 - pkg:composer/symfony/stimulus-bundle@v3.0.0
@@ -50,3 +51,4 @@
 - pkg:composer/symfony/stimulus-bundle@v3.5.1
 - pkg:composer/symfony/stimulus-bundle@v3.6.0
 - pkg:composer/symfony/stimulus-bundle@v3.7.0
+- pkg:composer/symfony/stimulus-bundle@v3.8.0

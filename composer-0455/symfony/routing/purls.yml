@@ -541,6 +541,7 @@
 - pkg:composer/symfony/routing@v5.4.54
 - pkg:composer/symfony/routing@v5.4.55
 - pkg:composer/symfony/routing@v5.4.56
+- pkg:composer/symfony/routing@v5.4.57
 - pkg:composer/symfony/routing@v5.4.8
 - pkg:composer/symfony/routing@v6.0.0
 - pkg:composer/symfony/routing@v6.0.0-BETA1
@@ -615,6 +616,7 @@
 - pkg:composer/symfony/routing@v6.4.49
 - pkg:composer/symfony/routing@v6.4.5
 - pkg:composer/symfony/routing@v6.4.50
+- pkg:composer/symfony/routing@v6.4.51
 - pkg:composer/symfony/routing@v6.4.6
 - pkg:composer/symfony/routing@v6.4.7
 - pkg:composer/symfony/routing@v6.4.8
@@ -668,6 +670,7 @@
 - pkg:composer/symfony/routing@v7.4.21
 - pkg:composer/symfony/routing@v7.4.22
 - pkg:composer/symfony/routing@v7.4.23
+- pkg:composer/symfony/routing@v7.4.24
 - pkg:composer/symfony/routing@v7.4.3
 - pkg:composer/symfony/routing@v7.4.4
 - pkg:composer/symfony/routing@v7.4.6
@@ -694,9 +697,12 @@
 - pkg:composer/symfony/routing@v8.1.0-RC1
 - pkg:composer/symfony/routing@v8.1.10
 - pkg:composer/symfony/routing@v8.1.11
+- pkg:composer/symfony/routing@v8.1.12
 - pkg:composer/symfony/routing@v8.1.2
 - pkg:composer/symfony/routing@v8.1.5
 - pkg:composer/symfony/routing@v8.1.6
 - pkg:composer/symfony/routing@v8.1.8
 - pkg:composer/symfony/routing@v8.1.9
 - pkg:composer/symfony/routing@v8.2.0-BETA1
+- pkg:composer/symfony/routing@v8.2.0-BETA2
+- pkg:composer/symfony/routing@v8.2.0-RC1

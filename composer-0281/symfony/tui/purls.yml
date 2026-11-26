@@ -5,6 +5,7 @@
 - pkg:composer/symfony/tui@v8.1.1
 - pkg:composer/symfony/tui@v8.1.10
 - pkg:composer/symfony/tui@v8.1.11
+- pkg:composer/symfony/tui@v8.1.12
 - pkg:composer/symfony/tui@v8.1.2
 - pkg:composer/symfony/tui@v8.1.4
 - pkg:composer/symfony/tui@v8.1.5
@@ -13,3 +14,5 @@
 - pkg:composer/symfony/tui@v8.1.8
 - pkg:composer/symfony/tui@v8.1.9
 - pkg:composer/symfony/tui@v8.2.0-BETA1
+- pkg:composer/symfony/tui@v8.2.0-BETA2
+- pkg:composer/symfony/tui@v8.2.0-RC1
