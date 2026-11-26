@@ -382,6 +382,9 @@
 - pkg:composer/swagger-api/swagger-ui@v5.33.3
 - pkg:composer/swagger-api/swagger-ui@v5.34.0
 - pkg:composer/swagger-api/swagger-ui@v5.34.1
+- pkg:composer/swagger-api/swagger-ui@v5.35.0
+- pkg:composer/swagger-api/swagger-ui@v5.35.1
+- pkg:composer/swagger-api/swagger-ui@v5.36.0
 - pkg:composer/swagger-api/swagger-ui@v5.4.0
 - pkg:composer/swagger-api/swagger-ui@v5.4.1
 - pkg:composer/swagger-api/swagger-ui@v5.4.2
