@@ -12,3 +12,5 @@
 - pkg:composer/smaily/module-connect-hyva@3.0.0-rc21
 - pkg:composer/smaily/module-connect-hyva@3.0.1
 - pkg:composer/smaily/module-connect-hyva@3.0.2
+- pkg:composer/smaily/module-connect-hyva@3.0.3
+- pkg:composer/smaily/module-connect-hyva@3.1.0
