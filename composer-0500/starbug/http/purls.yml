@@ -6,6 +6,9 @@
 - pkg:composer/starbug/http@v0.9.13
 - pkg:composer/starbug/http@v0.9.14
 - pkg:composer/starbug/http@v0.9.15
+- pkg:composer/starbug/http@v0.9.16
+- pkg:composer/starbug/http@v0.9.17
+- pkg:composer/starbug/http@v0.9.18
 - pkg:composer/starbug/http@v0.9.2
 - pkg:composer/starbug/http@v0.9.3
 - pkg:composer/starbug/http@v0.9.4
