@@ -1,5 +1,6 @@
 - pkg:composer/su-sws/drupal-dev@10.0.0
 - pkg:composer/su-sws/drupal-dev@11.0.0
+- pkg:composer/su-sws/drupal-dev@12.0.0
 - pkg:composer/su-sws/drupal-dev@8.1.0
 - pkg:composer/su-sws/drupal-dev@8.1.1
 - pkg:composer/su-sws/drupal-dev@8.1.2
