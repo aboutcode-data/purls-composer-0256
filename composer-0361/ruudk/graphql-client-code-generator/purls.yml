@@ -48,3 +48,4 @@
 - pkg:composer/ruudk/graphql-client-code-generator@0.5.1
 - pkg:composer/ruudk/graphql-client-code-generator@0.5.2
 - pkg:composer/ruudk/graphql-client-code-generator@0.5.3
+- pkg:composer/ruudk/graphql-client-code-generator@0.5.4
