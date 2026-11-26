@@ -1,4 +1,5 @@
 - pkg:composer/sat-suite/number-to-words@1.0.0
+- pkg:composer/sat-suite/number-to-words@1.0.1
 - pkg:composer/sat-suite/number-to-words@v0.1
 - pkg:composer/sat-suite/number-to-words@v0.2
 - pkg:composer/sat-suite/number-to-words@v0.2.1
