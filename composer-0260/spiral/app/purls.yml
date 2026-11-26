@@ -12,6 +12,10 @@
 - pkg:composer/spiral/app@3.8.0
 - pkg:composer/spiral/app@3.8.1
 - pkg:composer/spiral/app@3.9.0
+- pkg:composer/spiral/app@4.0.0
+- pkg:composer/spiral/app@4.0.1
+- pkg:composer/spiral/app@4.1.0
+- pkg:composer/spiral/app@4.2.0
 - pkg:composer/spiral/app@v1.0.0
 - pkg:composer/spiral/app@v1.0.1
 - pkg:composer/spiral/app@v1.0.10
