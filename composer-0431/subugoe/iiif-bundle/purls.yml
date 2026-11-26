@@ -26,6 +26,8 @@
 - pkg:composer/subugoe/iiif-bundle@0.15.2
 - pkg:composer/subugoe/iiif-bundle@0.15.3
 - pkg:composer/subugoe/iiif-bundle@0.15.4
+- pkg:composer/subugoe/iiif-bundle@0.15.5
+- pkg:composer/subugoe/iiif-bundle@0.15.6
 - pkg:composer/subugoe/iiif-bundle@0.2.0
 - pkg:composer/subugoe/iiif-bundle@0.2.1
 - pkg:composer/subugoe/iiif-bundle@0.2.2
