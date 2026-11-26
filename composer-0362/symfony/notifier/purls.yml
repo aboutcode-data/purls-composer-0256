@@ -165,3 +165,4 @@
 - pkg:composer/symfony/notifier@v8.1.2
 - pkg:composer/symfony/notifier@v8.1.5
 - pkg:composer/symfony/notifier@v8.2.0-BETA1
+- pkg:composer/symfony/notifier@v8.2.0-RC1

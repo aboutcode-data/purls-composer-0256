@@ -1,1 +1,2 @@
 - pkg:composer/symfony/mail-kite-mailer@v8.2.0-BETA1
+- pkg:composer/symfony/mail-kite-mailer@v8.2.0-BETA2
