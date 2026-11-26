@@ -13,3 +13,5 @@
 - pkg:composer/steinhaug/sqlbuddy@v1.3.4
 - pkg:composer/steinhaug/sqlbuddy@v1.3.6
 - pkg:composer/steinhaug/sqlbuddy@v1.4.1
+- pkg:composer/steinhaug/sqlbuddy@v1.4.3
+- pkg:composer/steinhaug/sqlbuddy@v1.4.4
