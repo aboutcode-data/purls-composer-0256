@@ -46,3 +46,5 @@
 - pkg:composer/tastyigniter/ti-ext-api@v4.5.0
 - pkg:composer/tastyigniter/ti-ext-api@v4.5.1
 - pkg:composer/tastyigniter/ti-ext-api@v4.5.2
+- pkg:composer/tastyigniter/ti-ext-api@v4.5.3
+- pkg:composer/tastyigniter/ti-ext-api@v4.6.0

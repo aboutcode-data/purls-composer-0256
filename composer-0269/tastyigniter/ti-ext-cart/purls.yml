@@ -51,3 +51,6 @@
 - pkg:composer/tastyigniter/ti-ext-cart@v4.5.0
 - pkg:composer/tastyigniter/ti-ext-cart@v4.5.1
 - pkg:composer/tastyigniter/ti-ext-cart@v4.5.2
+- pkg:composer/tastyigniter/ti-ext-cart@v4.6.0
+- pkg:composer/tastyigniter/ti-ext-cart@v4.7.0
+- pkg:composer/tastyigniter/ti-ext-cart@v4.7.1
