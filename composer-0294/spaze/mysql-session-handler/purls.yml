@@ -17,3 +17,4 @@
 - pkg:composer/spaze/mysql-session-handler@v3.2.0
 - pkg:composer/spaze/mysql-session-handler@v3.2.1
 - pkg:composer/spaze/mysql-session-handler@v3.2.2
+- pkg:composer/spaze/mysql-session-handler@v3.3.0
