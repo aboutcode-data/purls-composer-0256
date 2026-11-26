@@ -24,3 +24,4 @@
 - pkg:composer/splash/wordpress@2.1.0-RC2
 - pkg:composer/splash/wordpress@2.1.1
 - pkg:composer/splash/wordpress@2.1.2
+- pkg:composer/splash/wordpress@2.1.3
