@@ -34,6 +34,7 @@
 - pkg:composer/spiral/telemetry@3.18.0
 - pkg:composer/spiral/telemetry@3.18.1
 - pkg:composer/spiral/telemetry@3.18.2
+- pkg:composer/spiral/telemetry@3.18.3
 - pkg:composer/spiral/telemetry@3.3.0
 - pkg:composer/spiral/telemetry@3.4.0
 - pkg:composer/spiral/telemetry@3.5.0
