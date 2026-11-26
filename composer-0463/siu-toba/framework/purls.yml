@@ -102,6 +102,8 @@
 - pkg:composer/siu-toba/framework@v3.3.9
 - pkg:composer/siu-toba/framework@v3.4.0
 - pkg:composer/siu-toba/framework@v3.4.10
+- pkg:composer/siu-toba/framework@v3.4.11
+- pkg:composer/siu-toba/framework@v3.4.12
 - pkg:composer/siu-toba/framework@v3.4.2
 - pkg:composer/siu-toba/framework@v3.4.3
 - pkg:composer/siu-toba/framework@v3.4.4
@@ -112,3 +114,4 @@
 - pkg:composer/siu-toba/framework@v3.4.9
 - pkg:composer/siu-toba/framework@v3.5.0
 - pkg:composer/siu-toba/framework@v3.5.1
+- pkg:composer/siu-toba/framework@v3.5.2
