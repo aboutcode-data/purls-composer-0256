@@ -8,3 +8,4 @@
 - pkg:composer/sourcebroker/deployer-typo3-database@0.0.8
 - pkg:composer/sourcebroker/deployer-typo3-database@1.0.0
 - pkg:composer/sourcebroker/deployer-typo3-database@1.1.0
+- pkg:composer/sourcebroker/deployer-typo3-database@1.1.1

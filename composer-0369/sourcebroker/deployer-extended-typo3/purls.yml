@@ -59,6 +59,7 @@
 - pkg:composer/sourcebroker/deployer-extended-typo3@23.0.0
 - pkg:composer/sourcebroker/deployer-extended-typo3@24.0.0
 - pkg:composer/sourcebroker/deployer-extended-typo3@25.0.0
+- pkg:composer/sourcebroker/deployer-extended-typo3@26.0.0
 - pkg:composer/sourcebroker/deployer-extended-typo3@3.0.0
 - pkg:composer/sourcebroker/deployer-extended-typo3@3.0.1
 - pkg:composer/sourcebroker/deployer-extended-typo3@3.0.2
