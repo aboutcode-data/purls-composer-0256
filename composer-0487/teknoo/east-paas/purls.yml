@@ -243,6 +243,8 @@
 - pkg:composer/teknoo/east-paas@5.11.4
 - pkg:composer/teknoo/east-paas@5.11.5
 - pkg:composer/teknoo/east-paas@5.11.7
+- pkg:composer/teknoo/east-paas@5.11.8
+- pkg:composer/teknoo/east-paas@5.11.9
 - pkg:composer/teknoo/east-paas@5.2.0
 - pkg:composer/teknoo/east-paas@5.2.1
 - pkg:composer/teknoo/east-paas@5.2.2
