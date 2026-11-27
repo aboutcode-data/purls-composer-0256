@@ -231,6 +231,8 @@
 - pkg:composer/twig/twig@v3.3.8
 - pkg:composer/twig/twig@v3.3.9
 - pkg:composer/twig/twig@v3.30.0
+- pkg:composer/twig/twig@v3.31.0
+- pkg:composer/twig/twig@v3.31.1
 - pkg:composer/twig/twig@v3.4.0
 - pkg:composer/twig/twig@v3.4.1
 - pkg:composer/twig/twig@v3.4.2
@@ -247,3 +249,4 @@
 - pkg:composer/twig/twig@v3.9.2
 - pkg:composer/twig/twig@v3.9.3
 - pkg:composer/twig/twig@v4.0.0-alpha1
+- pkg:composer/twig/twig@v4.0.0-beta1
