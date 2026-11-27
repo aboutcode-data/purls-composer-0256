@@ -10,3 +10,4 @@
 - pkg:composer/teckfuture/laravel-p6-analyzer@v2.4.1
 - pkg:composer/teckfuture/laravel-p6-analyzer@v2.4.2
 - pkg:composer/teckfuture/laravel-p6-analyzer@v3.0.0
+- pkg:composer/teckfuture/laravel-p6-analyzer@v4.0.0
