@@ -100,3 +100,5 @@
 - pkg:composer/sy/project@6.6.1
 - pkg:composer/sy/project@7.0.0
 - pkg:composer/sy/project@7.0.1
+- pkg:composer/sy/project@7.0.2
+- pkg:composer/sy/project@7.1.0
