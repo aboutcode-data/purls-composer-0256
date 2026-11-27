@@ -34,3 +34,5 @@
 - pkg:composer/thesis/protoc-plugin@0.5.1
 - pkg:composer/thesis/protoc-plugin@0.6.0
 - pkg:composer/thesis/protoc-plugin@0.6.1
+- pkg:composer/thesis/protoc-plugin@0.6.2
+- pkg:composer/thesis/protoc-plugin@0.6.3
