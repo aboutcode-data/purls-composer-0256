@@ -355,3 +355,4 @@
 - pkg:composer/ukfast/sdk@v2.7.0
 - pkg:composer/ukfast/sdk@v2.8.0
 - pkg:composer/ukfast/sdk@v2.9.0
+- pkg:composer/ukfast/sdk@v3.0.0
