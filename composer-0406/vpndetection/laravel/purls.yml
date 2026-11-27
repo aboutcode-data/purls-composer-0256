@@ -21,7 +21,12 @@
 - pkg:composer/vpndetection/laravel@v2.2.14
 - pkg:composer/vpndetection/laravel@v2.2.15
 - pkg:composer/vpndetection/laravel@v2.2.16
+- pkg:composer/vpndetection/laravel@v2.2.17
+- pkg:composer/vpndetection/laravel@v2.2.18
+- pkg:composer/vpndetection/laravel@v2.2.19
 - pkg:composer/vpndetection/laravel@v2.2.2
+- pkg:composer/vpndetection/laravel@v2.2.20
+- pkg:composer/vpndetection/laravel@v2.2.21
 - pkg:composer/vpndetection/laravel@v2.2.3
 - pkg:composer/vpndetection/laravel@v2.2.4
 - pkg:composer/vpndetection/laravel@v2.2.5
@@ -29,3 +34,10 @@
 - pkg:composer/vpndetection/laravel@v2.2.7
 - pkg:composer/vpndetection/laravel@v2.2.8
 - pkg:composer/vpndetection/laravel@v2.2.9
+- pkg:composer/vpndetection/laravel@v2.3.0
+- pkg:composer/vpndetection/laravel@v2.3.1
+- pkg:composer/vpndetection/laravel@v2.3.2
+- pkg:composer/vpndetection/laravel@v2.3.3
+- pkg:composer/vpndetection/laravel@v2.3.4
+- pkg:composer/vpndetection/laravel@v2.3.5
+- pkg:composer/vpndetection/laravel@v2.3.6
