@@ -9,3 +9,5 @@
 - pkg:composer/teamnovu/craft-publisher@5.1.0
 - pkg:composer/teamnovu/craft-publisher@5.2.0
 - pkg:composer/teamnovu/craft-publisher@6.0.0
+- pkg:composer/teamnovu/craft-publisher@6.1.0
+- pkg:composer/teamnovu/craft-publisher@6.1.1
