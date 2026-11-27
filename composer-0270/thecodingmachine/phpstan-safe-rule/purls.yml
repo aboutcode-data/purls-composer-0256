@@ -16,3 +16,5 @@
 - pkg:composer/thecodingmachine/phpstan-safe-rule@v1.4.3
 - pkg:composer/thecodingmachine/phpstan-safe-rule@v1.4.4
 - pkg:composer/thecodingmachine/phpstan-safe-rule@v1.4.7
+- pkg:composer/thecodingmachine/phpstan-safe-rule@v1.5.0
+- pkg:composer/thecodingmachine/phpstan-safe-rule@v1.5.0-rc1
