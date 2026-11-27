@@ -1,1 +1,2 @@
 - pkg:composer/symfony/cloudflare-mailer@v8.2.0-BETA1
+- pkg:composer/symfony/cloudflare-mailer@v8.2.0-RC1

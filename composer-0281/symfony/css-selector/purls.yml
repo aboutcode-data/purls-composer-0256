@@ -602,3 +602,4 @@
 - pkg:composer/symfony/css-selector@v8.1.5
 - pkg:composer/symfony/css-selector@v8.1.6
 - pkg:composer/symfony/css-selector@v8.2.0-BETA1
+- pkg:composer/symfony/css-selector@v8.2.0-RC1

@@ -61,3 +61,4 @@
 - pkg:composer/symfony/contracts@v3.7.3
 - pkg:composer/symfony/contracts@v3.8.0
 - pkg:composer/symfony/contracts@v3.8.1
+- pkg:composer/symfony/contracts@v5.4.58
