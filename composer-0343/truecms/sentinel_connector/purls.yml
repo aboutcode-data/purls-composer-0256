@@ -12,3 +12,4 @@
 - pkg:composer/truecms/sentinel_connector@1.6.0
 - pkg:composer/truecms/sentinel_connector@1.6.1
 - pkg:composer/truecms/sentinel_connector@1.6.2
+- pkg:composer/truecms/sentinel_connector@1.7.0
