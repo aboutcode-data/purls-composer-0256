@@ -17,3 +17,4 @@
 - pkg:composer/triangle/oauth@v3.0.7
 - pkg:composer/triangle/oauth@v3.0.8
 - pkg:composer/triangle/oauth@v3.0.9
+- pkg:composer/triangle/oauth@v4.0.0
