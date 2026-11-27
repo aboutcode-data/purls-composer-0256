@@ -74,6 +74,7 @@
 - pkg:composer/verbb/gift-voucher@3.0.21
 - pkg:composer/verbb/gift-voucher@3.0.22
 - pkg:composer/verbb/gift-voucher@3.0.23
+- pkg:composer/verbb/gift-voucher@3.0.24
 - pkg:composer/verbb/gift-voucher@3.0.3
 - pkg:composer/verbb/gift-voucher@3.0.4
 - pkg:composer/verbb/gift-voucher@3.0.5
@@ -110,3 +111,4 @@
 - pkg:composer/verbb/gift-voucher@4.0.6
 - pkg:composer/verbb/gift-voucher@4.0.7
 - pkg:composer/verbb/gift-voucher@4.0.9
+- pkg:composer/verbb/gift-voucher@4.1.0
