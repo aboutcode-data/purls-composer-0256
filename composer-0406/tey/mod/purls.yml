@@ -16,6 +16,8 @@
 - pkg:composer/tey/mod@v0.12.4
 - pkg:composer/tey/mod@v0.12.5
 - pkg:composer/tey/mod@v0.12.6
+- pkg:composer/tey/mod@v0.13.0
+- pkg:composer/tey/mod@v0.14.0
 - pkg:composer/tey/mod@v0.2.0
 - pkg:composer/tey/mod@v0.3.0
 - pkg:composer/tey/mod@v0.3.1

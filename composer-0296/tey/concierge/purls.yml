@@ -2,6 +2,7 @@
 - pkg:composer/tey/concierge@v0.10.0
 - pkg:composer/tey/concierge@v0.11.0
 - pkg:composer/tey/concierge@v0.11.1
+- pkg:composer/tey/concierge@v0.11.2
 - pkg:composer/tey/concierge@v0.2.0
 - pkg:composer/tey/concierge@v0.3.0
 - pkg:composer/tey/concierge@v0.4.0
@@ -24,3 +25,4 @@
 - pkg:composer/tey/concierge@v0.9.1
 - pkg:composer/tey/concierge@v0.9.2
 - pkg:composer/tey/concierge@v0.9.3
+- pkg:composer/tey/concierge@v0.9.4
