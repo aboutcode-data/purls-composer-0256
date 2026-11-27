@@ -10,3 +10,7 @@
 - pkg:composer/touchque-authenticator/php-sdk@v5.0.0
 - pkg:composer/touchque-authenticator/php-sdk@v5.1.0
 - pkg:composer/touchque-authenticator/php-sdk@v5.2.0
+- pkg:composer/touchque-authenticator/php-sdk@v5.3.0
+- pkg:composer/touchque-authenticator/php-sdk@v5.4.0
+- pkg:composer/touchque-authenticator/php-sdk@v5.5.0
+- pkg:composer/touchque-authenticator/php-sdk@v6.0.0
