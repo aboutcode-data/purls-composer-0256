@@ -39,3 +39,4 @@
 - pkg:composer/visavi/motor-orm@v5.4.0
 - pkg:composer/visavi/motor-orm@v6.0.0
 - pkg:composer/visavi/motor-orm@v6.0.1
+- pkg:composer/visavi/motor-orm@v6.0.2
