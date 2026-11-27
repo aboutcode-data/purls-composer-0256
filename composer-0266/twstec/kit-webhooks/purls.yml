@@ -12,3 +12,5 @@
 - pkg:composer/twstec/kit-webhooks@v2.2.0
 - pkg:composer/twstec/kit-webhooks@v2.3.0
 - pkg:composer/twstec/kit-webhooks@v2.4.0
+- pkg:composer/twstec/kit-webhooks@v2.5.0
+- pkg:composer/twstec/kit-webhooks@v2.6.0
