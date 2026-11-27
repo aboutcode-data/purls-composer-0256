@@ -76,3 +76,4 @@
 - pkg:composer/symfony/spot-hit-notifier@v8.1.12
 - pkg:composer/symfony/spot-hit-notifier@v8.2.0-BETA1
 - pkg:composer/symfony/spot-hit-notifier@v8.2.0-BETA2
+- pkg:composer/symfony/spot-hit-notifier@v8.2.0-RC1
