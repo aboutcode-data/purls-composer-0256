@@ -18,3 +18,4 @@
 - pkg:composer/symfony/microsoft-graph-mailer@v8.1.1
 - pkg:composer/symfony/microsoft-graph-mailer@v8.1.9
 - pkg:composer/symfony/microsoft-graph-mailer@v8.2.0-BETA1
+- pkg:composer/symfony/microsoft-graph-mailer@v8.2.0-RC1
