@@ -59,3 +59,5 @@
 - pkg:composer/visualbuilder/filament-2fa@5.0.3
 - pkg:composer/visualbuilder/filament-2fa@5.0.4
 - pkg:composer/visualbuilder/filament-2fa@5.0.5
+- pkg:composer/visualbuilder/filament-2fa@5.0.6
+- pkg:composer/visualbuilder/filament-2fa@5.0.7
