@@ -125,6 +125,12 @@
 - pkg:composer/xberg-io/crawlberg@v1.12.3
 - pkg:composer/xberg-io/crawlberg@v1.12.4
 - pkg:composer/xberg-io/crawlberg@v1.13.0
+- pkg:composer/xberg-io/crawlberg@v1.13.1
+- pkg:composer/xberg-io/crawlberg@v1.13.2
+- pkg:composer/xberg-io/crawlberg@v1.13.3
+- pkg:composer/xberg-io/crawlberg@v1.13.4
+- pkg:composer/xberg-io/crawlberg@v1.13.5
+- pkg:composer/xberg-io/crawlberg@v1.13.6
 - pkg:composer/xberg-io/crawlberg@v1.2.0
 - pkg:composer/xberg-io/crawlberg@v1.2.1
 - pkg:composer/xberg-io/crawlberg@v1.3.1
