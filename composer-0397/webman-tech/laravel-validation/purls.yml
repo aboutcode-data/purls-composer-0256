@@ -21,3 +21,4 @@
 - pkg:composer/webman-tech/laravel-validation@v12.0.7
 - pkg:composer/webman-tech/laravel-validation@v12.0.8
 - pkg:composer/webman-tech/laravel-validation@v12.0.9
+- pkg:composer/webman-tech/laravel-validation@v13.0.0

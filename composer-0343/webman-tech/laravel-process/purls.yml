@@ -4,3 +4,4 @@
 - pkg:composer/webman-tech/laravel-process@v12.0.13
 - pkg:composer/webman-tech/laravel-process@v12.0.14
 - pkg:composer/webman-tech/laravel-process@v12.0.9
+- pkg:composer/webman-tech/laravel-process@v13.0.0
