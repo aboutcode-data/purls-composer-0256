@@ -206,6 +206,8 @@
 - pkg:composer/waaseyaa/deployer@v0.1.0-alpha.306
 - pkg:composer/waaseyaa/deployer@v0.1.0-alpha.307
 - pkg:composer/waaseyaa/deployer@v0.1.0-alpha.308
+- pkg:composer/waaseyaa/deployer@v0.1.0-alpha.309
+- pkg:composer/waaseyaa/deployer@v0.1.0-alpha.310
 - pkg:composer/waaseyaa/deployer@v0.1.0-alpha.44
 - pkg:composer/waaseyaa/deployer@v0.1.0-alpha.45
 - pkg:composer/waaseyaa/deployer@v0.1.0-alpha.46
