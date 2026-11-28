@@ -10,3 +10,7 @@
 - pkg:composer/wexample/symfony-accounting-be@6.0.3
 - pkg:composer/wexample/symfony-accounting-be@6.0.4
 - pkg:composer/wexample/symfony-accounting-be@6.0.5
+- pkg:composer/wexample/symfony-accounting-be@7.0.0
+- pkg:composer/wexample/symfony-accounting-be@7.0.1
+- pkg:composer/wexample/symfony-accounting-be@7.0.2
+- pkg:composer/wexample/symfony-accounting-be@7.0.3

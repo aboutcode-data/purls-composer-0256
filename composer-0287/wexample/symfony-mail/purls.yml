@@ -27,3 +27,8 @@
 - pkg:composer/wexample/symfony-mail@4.0.5
 - pkg:composer/wexample/symfony-mail@4.0.6
 - pkg:composer/wexample/symfony-mail@4.0.7
+- pkg:composer/wexample/symfony-mail@5.0.0
+- pkg:composer/wexample/symfony-mail@5.0.1
+- pkg:composer/wexample/symfony-mail@5.0.2
+- pkg:composer/wexample/symfony-mail@5.0.3
+- pkg:composer/wexample/symfony-mail@5.0.4

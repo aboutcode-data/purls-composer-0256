@@ -13,3 +13,10 @@
 - pkg:composer/wexample/symfony-charts@4.0.2
 - pkg:composer/wexample/symfony-charts@4.1.0
 - pkg:composer/wexample/symfony-charts@4.1.1
+- pkg:composer/wexample/symfony-charts@5.0.0
+- pkg:composer/wexample/symfony-charts@5.0.1
+- pkg:composer/wexample/symfony-charts@6.0.0
+- pkg:composer/wexample/symfony-charts@6.0.1
+- pkg:composer/wexample/symfony-charts@6.0.2
+- pkg:composer/wexample/symfony-charts@6.0.3
+- pkg:composer/wexample/symfony-charts@6.0.4

@@ -194,6 +194,8 @@
 - pkg:composer/wexample/symfony-helpers@19.1.0
 - pkg:composer/wexample/symfony-helpers@19.2.0
 - pkg:composer/wexample/symfony-helpers@19.2.1
+- pkg:composer/wexample/symfony-helpers@19.3.0
+- pkg:composer/wexample/symfony-helpers@19.3.1
 - pkg:composer/wexample/symfony-helpers@2.0.0
 - pkg:composer/wexample/symfony-helpers@2.0.1
 - pkg:composer/wexample/symfony-helpers@2.0.2

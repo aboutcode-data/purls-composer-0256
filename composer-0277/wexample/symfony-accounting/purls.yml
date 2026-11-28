@@ -132,6 +132,14 @@
 - pkg:composer/wexample/symfony-accounting@1.0.94
 - pkg:composer/wexample/symfony-accounting@1.0.95
 - pkg:composer/wexample/symfony-accounting@1.0.96
+- pkg:composer/wexample/symfony-accounting@10.0.0
+- pkg:composer/wexample/symfony-accounting@10.0.1
+- pkg:composer/wexample/symfony-accounting@10.0.2
+- pkg:composer/wexample/symfony-accounting@10.0.3
+- pkg:composer/wexample/symfony-accounting@11.0.0
+- pkg:composer/wexample/symfony-accounting@11.0.1
+- pkg:composer/wexample/symfony-accounting@11.0.2
+- pkg:composer/wexample/symfony-accounting@11.0.3
 - pkg:composer/wexample/symfony-accounting@2.0.0
 - pkg:composer/wexample/symfony-accounting@3.0.0
 - pkg:composer/wexample/symfony-accounting@3.0.1
