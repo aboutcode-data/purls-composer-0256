@@ -30,3 +30,4 @@
 - pkg:composer/webpatser/laravel-uuid@v6.2.1
 - pkg:composer/webpatser/laravel-uuid@v7.0.0
 - pkg:composer/webpatser/laravel-uuid@v7.0.1
+- pkg:composer/webpatser/laravel-uuid@v8.0.0

@@ -1,3 +1,7 @@
 - pkg:composer/webpatser/fledge-apm@v0.1.0
 - pkg:composer/webpatser/fledge-apm@v0.1.1
 - pkg:composer/webpatser/fledge-apm@v0.1.2
+- pkg:composer/webpatser/fledge-apm@v0.2.0
+- pkg:composer/webpatser/fledge-apm@v0.3.0
+- pkg:composer/webpatser/fledge-apm@v0.6.0
+- pkg:composer/webpatser/fledge-apm@v0.6.1
