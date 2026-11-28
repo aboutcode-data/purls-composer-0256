@@ -104,3 +104,4 @@
 - pkg:composer/webrium/core@5.0.6
 - pkg:composer/webrium/core@5.1.0
 - pkg:composer/webrium/core@5.2.0
+- pkg:composer/webrium/core@5.2.1
