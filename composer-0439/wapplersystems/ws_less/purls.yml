@@ -2,6 +2,8 @@
 - pkg:composer/wapplersystems/ws_less@12.0.0
 - pkg:composer/wapplersystems/ws_less@12.0.1
 - pkg:composer/wapplersystems/ws_less@13.0.0
+- pkg:composer/wapplersystems/ws_less@13.0.1
+- pkg:composer/wapplersystems/ws_less@13.0.2
 - pkg:composer/wapplersystems/ws_less@v1.4.4
 - pkg:composer/wapplersystems/ws_less@v1.5.0
 - pkg:composer/wapplersystems/ws_less@v1.5.2
