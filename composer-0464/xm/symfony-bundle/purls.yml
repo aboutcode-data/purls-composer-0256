@@ -290,3 +290,5 @@
 - pkg:composer/xm/symfony-bundle@v2.0.97
 - pkg:composer/xm/symfony-bundle@v2.0.98
 - pkg:composer/xm/symfony-bundle@v2.0.99
+- pkg:composer/xm/symfony-bundle@v2.1.0
+- pkg:composer/xm/symfony-bundle@v2.1.1
