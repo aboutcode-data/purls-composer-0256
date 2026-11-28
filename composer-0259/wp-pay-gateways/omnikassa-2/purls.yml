@@ -55,3 +55,4 @@
 - pkg:composer/wp-pay-gateways/omnikassa-2@v4.9.2
 - pkg:composer/wp-pay-gateways/omnikassa-2@v5.0.0
 - pkg:composer/wp-pay-gateways/omnikassa-2@v5.0.1
+- pkg:composer/wp-pay-gateways/omnikassa-2@v5.0.2
