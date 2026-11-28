@@ -15,6 +15,8 @@
 - pkg:composer/xiloryx/log-collector@1.5.2
 - pkg:composer/xiloryx/log-collector@1.6.0
 - pkg:composer/xiloryx/log-collector@1.7.0
+- pkg:composer/xiloryx/log-collector@1.8.0
+- pkg:composer/xiloryx/log-collector@1.9.0
 - pkg:composer/xiloryx/log-collector@v1.0.0
 - pkg:composer/xiloryx/log-collector@v1.0.1
 - pkg:composer/xiloryx/log-collector@v1.2.1
