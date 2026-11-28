@@ -1,2 +1,4 @@
 - pkg:composer/wildye/email-parser@v1.1.0
 - pkg:composer/wildye/email-parser@v1.2.0
+- pkg:composer/wildye/email-parser@v1.4.0
+- pkg:composer/wildye/email-parser@v1.4.1
